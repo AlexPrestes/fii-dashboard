@@ -49,11 +49,16 @@ df = pd.DataFrame(
     {"file_url": file_url, "datetime": datetime_url, "download": download_file}
 )
 
+inf_path_pattern = r"inf_(\w+)_fii_(.+)_\d{4}\.csv"
 
 for link in df.loc[df["download"] == True, "file_url"]:
     response = requests.get(link, stream=True)
     zip_file = zipfile.ZipFile(io.BytesIO(response.content))
-    zip_file.extractall("./data/raw/")
+    for file in zip_file.namelist():
+        string_match = re.match(inf_path_pattern, file)
+        zip_file.extract(
+            file, f"./data/raw/{string_match.group(1)}/{string_match.group(2)}/"
+        )
 
 
 df["download"] = False
