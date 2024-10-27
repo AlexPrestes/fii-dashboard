@@ -1,0 +1,532 @@
+CNPJ_Fundo;Data_Referencia;Versao;Nome_Diretor_Responsavel;Idade;CPF;Profissao;Email;Formacao_Academica;Quantidade_Cotas_FII_Detidas;Quantidade_Cotas_FII_Compradas;Quantidade_Cotas_FII_Vendidas;Data_Inicio;Condenacao_Criminal;Condenacao_Processo_CVM
+00.332.266/0001-31;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;CORRESPONDENCIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+00.613.094/0001-74;2020-12-01;1;Isacson Casiuch;64;59529326734;Diretor Executivo;icasiuch@brookfieldbr.com;Direito/Economia;0;;0;2014-02-04;;
+00.762.723/0001-28;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+00.868.235/0001-08;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+01.201.140/0001-90;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+01.235.622/0001-61;2020-12-01;1;CARLOS ALBERTO SARAIVA;60;624.698.947-00;DIRETOR EXECUTIVO/ADVOGADO;carlos.saraiva@bnymellon.com.br;Mestre em Gestão pela Universidade Federal Fluminense  - UFF/11 Pós Graduado em Comércio Exterior  pela Universidade Federal do Rio de Janeiro - UFRJ/94 Especialista em Administração Financeira - PDG/IBMEC (97) Graduado em Direito pela Universidade do;0;;0;2013-02-14;Não aplicável;Não aplicável
+01.497.954/0001-14;2020-12-01;2;EDE ANTONIO GASPERIN;66 anos;213.560.170-53;ADMINISTRADOR DE EMPRESAS;edegasperin@geralinvestimentos.com.br;ADMINISTRAÇÃO DE EMPRESAS / DIREITO;0;;0;2012-01-01;Não;Não
+01.601.918/0001-59;2020-12-01;1;PAULO ANDRE PORTO BILYK;56;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+01.633.741/0001-72;2020-12-01;1;Fernando Ferreira da Silva Telles;69;307.745.278-20;Corretor Valores;fernandostelles@coinvalores.com.br;Graduado;0;;0;1982-01-01;;
+01.636.325/0001-28;2020-12-01;1;CAROLINA ANDREA GARISTO GREGORIO;41 ANOS;21715650808;ENGENHEIRA CIVIL;carolina.gregorio@unitas.com.br;ENGENHARIA CIVIL;0;;0;2018-07-31;;
+01.657.856/0001-05;2020-12-01;1;CAROLINA ANDREA GARISTO GREGÓRIO;41 ANOS;21715650808;Engenheira Civil;carolina.gregorio@unitas.com.br;Engenharia civil;0;;0;2016-07-31;;
+01.964.775/0001-40;2020-12-01;1;Ernani Leite Vitorello;52 anos;8342298892;Diretor Responsável;ernani.vitorello@bancobmg.com.br;Administrador de Empresa;0;;0;2014-01-13;;
+02.027.437/0001-44;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+02.508.235/0001-14;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+03.251.720/0001-18;2020-12-01;1;Fernando Ferreira da Silva Telles;69;307.745.278-20;Corretor Valores;fernandostelles@coinvalores.com.br;Graduado;0;;0;1982-01-01;;
+03.507.519/0001-59;2020-12-01;1;PAULO ANDRE PORTO BILYK;56;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+03.683.056/0001-86;2020-12-01;1;PAULO ANDRE PORTO BILYK;56;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+03.855.441/0001-63;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+04.066.582/0001-60;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+04.141.645/0001-03;2020-12-01;1;CAROLINA ANDREA GARISTO GREGORIO;41 ANOS;21715650808;Engenheira Civil;carolina.gregorio@unitas.com.br;Engenharia Civil;0;;0;2016-07-31;;
+04.722.883/0001-02;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+04.782.236/0001-88;2020-12-01;1;Fernando Ferreira da Silva Telles;69;307.745.278-20;Corretor Valores;fernandostelles@coinvalores.com.br;Superior;0;;0;1982-01-01;;
+05.437.916/0001-27;2020-12-01;1;Fernando Ferreira da Silva Telles;69;307.745.278-20;Corretor Valores;fernandostelles@coinvalores.com.br;superior incompleto;0;;0;1982-01-01;;
+05.562.312/0001-02;2020-12-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em Ciências Econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+06.175.262/0001-73;2020-12-01;1;José Alexandre Costa de Freitas;49;899120717;Diretor Presidente;ger2.fundos@oliveiratrust.com.br;Direito;0;;0;2012-11-10;Não;Não
+07.000.400/0001-46;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+07.122.725/0001-00;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+07.224.019/0001-60;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+07.583.627/0001-61;2020-12-01;1;Mary Harumi Takeda;55;060.868.328-03;Bancária;fundos.imobiliarios@ourinvest.com.br;Economia;0;;0;2020-09-09;N/A;N/A
+07.789.135/0001-27;2020-12-01;2;GUILHERME CHARNAUX GRUMSER;;023.406.007-74;Diretor;Guilherme.Grumser@bancogenial.com;Economista;0;;0;2009-10-01;N/A;N/A
+08.014.513/0001-63;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+08.098.114/0001-28;2020-06-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administração de empresas;0;;0;2018-04-01;;
+08.417.532/0001-30;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;CORRESPONDENCIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+08.431.747/0001-06;2020-12-01;2;Maria Cecilia Carrazedo de Andrade;35 anos;34391377837;Administrador de Empresas;dtvm@hedgeinvest.com.br;Administração de Empresas EAESP-FGV. Certificação Profissional - CFA;0;;0;2018-10-30;;
+08.693.497/0001-82;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+08.696.175/0001-97;2020-06-01;1;José Alexandre Costa de Freitas;46;008.991.207-17;Diretor Presidente;ger2.fundos@oliveiratrust.com.br;Direito;0;;0;2014-03-05;Não;Não
+08.706.065/0001-69;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+08.924.783/0001-01;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+09.006.914/0001-34;2020-12-01;1;Alcindo Costa Canto Neto;44;4033063889;Administrador;RI-VAM@bv.com.br;Economista;0;;0;2018-10-01;Não houve condenações;Não houve condenações
+09.072.017/0001-29;2020-12-01;2;Augusto Afonso Martins;39 anos;289.816.118-74;Administrador de empresas;augusto.martins@cshg.com.br;Administração de empresas;3800;;0;2018-10-31;Nenhuma;Nenhuma
+09.276.964/0001-31;2020-12-01;1;Silvano Gersztel;45;265.298.468-32;Economista;silvano.gersztel@reag.com.br;Ciências Econômicas;0;;0;2016-10-01;;
+09.326.861/0001-39;2020-12-01;1;Maria Cecilia Carrazedo de Andrade;35 anos;34391377837;Administrador de Empresas;dtvm@hedgeinvest.com.br;Administração de Empresas EAESP-FGV. Certificação Profissional - CFA;0;;0;2019-11-19;;
+09.350.920/0001-04;2020-12-01;1;PAULO ANDRE PORTO BILYK;56;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+09.517.273/0001-82;2020-03-01;1;Marcos Wanderley Pereira;47;1425563783;Diretor;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+09.517.273/0001-82;2020-12-01;1;Marcos Wanderley Pereira;47;1425563783;Diretor;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+09.552.812/0001-14;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+10.347.505/0001-80;2020-12-01;1;Alcindo Costa Canto Neto;44;4033063889;Administrador;RI-VAM@bv.com.br;Economista;0;;0;2018-10-01;não houve condenação;não houve condenação
+10.347.985/0001-80;2020-12-01;1;Maria Cecilia Carrazedo de Andrade;35 anos;343.913.778-37;Administrador de Empresas;dtvm@hedgeinvest.com.br;Administração de Empresas EAESP-FGV. Certificação Profissional - CFA;0;;0;2020-07-20;;
+10.375.382/0001-91;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+10.410.463/0001-85;2020-12-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;;
+10.427.246/0001-06;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+10.456.799/0001-89;2020-12-01;2;EDE ANTONIO GASPERIN;66;213.560.170-53;ADMINISTRADOR DE EMPRESAS;edegasperin@geralinvestimentos.com.br;ADMINISTRAÇÃO DE EMPRESAS - DIRETO;0;;0;2009-04-30;Não;Não
+10.456.810/0001-00;2020-12-01;1;ERICK WARNER DE CARVALHO;;27764653861;Administração de Empresas;erick.carvalho@bancodaycoval.com.br;;0;;0;2020-09-25;;
+10.522.648/0001-81;2020-12-01;1;CARLOS ALBERTO SARAIVA;60;624.698.947-00;DIRETOR EXECUTIVO/ADVOGADO;carlos.saraiva@bnymellon.com.br;Mestre em Gestão pela Universidade Federal Fluminense  - UFF/11 Pós Graduado em Comércio Exterior  pela Universidade Federal do Rio de Janeiro - UFRJ/94 Especialista em Administração Financeira - PDG/IBMEC (97) Graduado em Direito pela Universidade do;0;;0;2013-02-14;Não aplicável;Não aplicável
+10.869.155/0001-12;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+10.991.914/0001-15;2020-12-01;1;Laiza Fabiola Martins de Santa Rosa;40 anos;294.953.408-29;Economista;depot@caixa.gov.br;Graduação em Ciências Econômicas - Universidade Católica deSantos (2003) Pós-Graduação - Latu Sensu - Master in Financial Economics -Fundação Getúlio Vargas, Escola de Economia de São Paulo;0;;0;2020-12-15;Nada Consta;Nada Consta
+11.026.627/0001-38;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+11.044.355/0001-07;2020-12-01;1;José Alexandre Costa de Freitas;49;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2012-11-09;N/A;N/A
+11.160.521/0001-22;2020-12-01;1;Augusto Afonso Martins;39 anos;289.816.118-74;Administrador de Empresas;augusto.martins@cshg.com.br;Administração de empresas;3994;;0;2018-10-31;Nenhuma;Nenhuma
+11.179.118/0001-45;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+11.233.841/0001-65;2020-12-01;1;JOSE ALEXANDRE COSTA DE FREITAS;49;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2013-12-19;Não;Não
+11.260.134/0001-68;2020-12-01;1;Augusto Afonso Martins;39 anos;289.816.118-74;Administrador de empresas;augusto.martins@cshg.com.br;Administração de empresas;0;;0;2018-10-31;Nenhuma;Nenhuma
+11.268.335/0001-01;2020-12-01;1;ANDRÉ BERNARDINO DA CRUZ FILHO;60;192.221.224-53;Bancário;andre.cruz@bradesco.com.br;Administração;0;;0;2009-12-07;Nada Consta;Nada Consta
+11.274.415/0001-70;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+11.281.322/0001-72;2020-12-01;1;Maria Cecilia Carrazedo de Andrade;35 anos;34391377837;Administrador de Empresas;dtvm@hedgeinvest.com.br;Administração de Empresas EAESP-FGV. Certificação Profissional - CFA;0;;0;2020-06-19;;
+11.326.746/0001-06;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+11.425.077/0001-20;2020-12-01;1;JOSÉ MARIA RIBEIRO DE MELO;62;298.565.236-72;Contabilista;jose.maria@mercantil.com.br;Contabilidade;0;;0;2017-04-26;Sem ocorrência;sem ocorrência
+11.602.654/0001-01;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+11.664.201/0001-00;2020-12-01;1;PAULO VELLANI DE LIMA;49;14733190808;ECONOMISTA;plima@fator.com.br;GRADUAÇÃO EM ECONOMIA, PUC SP;0;;0;2015-12-07;;
+11.701.400/0001-40;2020-12-01;1;JOSE ALEXANDRE COSTA DE FREITAS;49;899120717;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2012-11-09;Não;Não
+11.728.688/0001-47;2020-05-01;1;Augusto Afonso Martins;38 anos;289.816.118-74;Administrador de Empresas;augusto.martins@cshg.com.br;Administração de empresas;0;;0;2018-10-31;Nenhuma;Nenhuma
+11.728.688/0001-47;2020-12-01;1;Augusto Afonso Martins;39 anos;289.816.118-74;Administrador de Empresas;augusto.martins@cshg.com.br;Administração de empresas;0;;0;2018-10-31;Nenhuma;Nenhuma
+11.769.604/0001-13;2020-12-01;3;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;não;não
+11.839.593/0001-09;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+11.945.604/0001-27;2020-06-01;1;José Alexandre Costa de Freeitas;48;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2012-11-09;Não;Não
+12.005.956/0001-65;2020-06-01;1;Carlos Augusto Salamonde;48 anos;011.393.467-09;Diretor;carlos.salamonde@itau-unibanco.com.br;Economia;0;;0;2018-10-01;;
+12.323.955/0001-69;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;;
+12.358.507/0001-09;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancogenial.com;Administrador;0;;0;2019-01-23;N/A;N/A
+12.401.858/0001-47;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+12.516.185/0001-70;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+12.681.340/0001-04;2020-12-01;1;Alcindo Costa Canto Neto;43;245.565.968-23;Diretor Geral;vwmprodutosestruturados@bv.com.br;Economista;0;;0;2018-10-01;Não há condenações.;Não há condenações.
+12.804.013/0001-00;2020-12-01;1;CAROLINA ANDREA GARISTO GREGORIO;41 ANOS;21715650808;Engenheira Civil;carolina.gregorio@unitas.com.br;Engenheira Civil;0;;0;2018-07-31;;
+12.809.972/0001-00;2020-12-01;1;Maria Cecilia Carrazedo de Andrade;35 anos;343.913.778-37;Administrador de Empresas;dtvm@hedgeinvest.com.br;Administração de Empresas EAESP-FGV. Certificação Profissional - CFA;0;;0;2018-06-12;;
+12.811.222/0001-73;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+12.887.506/0001-43;2020-12-01;1;Laiza Fabiola Martins de Santa Rosa;40;294.953.408-29;Economista;depot@caixa.gov.br;Graduação em Ciências Econômicas - Universidade Católica deSantos (2003) Pós-Graduação - Latu Sensu - Master in Financial Economics -Fundação Getúlio Vargas, Escola de Economia de São Paulo;0;;0;2020-12-15;Nada Consta;Nada Consta
+12.927.767/0001-40;2020-12-01;2;Laiza Fabiola Martins de Santa Rosa;40;294.953.408-29;Economista;depot@caixa.gov.br;Graduação em Ciências Econômicas - Universidade Católica deSantos (2003) Pós-Graduação - Latu Sensu - Master in Financial Economics -Fundação Getúlio Vargas, Escola de Economia de São Paulo;0;;0;2020-12-15;Nada Consta;Nada Consta
+12.948.291/0001-23;2020-12-01;1;PAULO ANDRE PORTO BILYK;56;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+12.969.125/0001-03;2020-12-01;1;Laiza Fabiola Martins de Santa Rosa;40;294.953.408-29;Economista;depot@caixa.gov.br;Graduação em Ciências Econômicas - Universidade Católica deSantos (2003) Pós-Graduação - Latu Sensu - Master in Financial Economics -Fundação Getúlio Vargas, Escola de Economia de São Paulo;0;;0;2020-12-15;Nada Consta;Nada Consta
+12.978.943/0001-72;2020-06-01;1;Ricardo Augusto Meira Pedro;54;4995131850;Bancário;ricardo.pedro@finaxis.com.br;Administrador;0;;0;2015-11-30;;
+12.989.974/0001-29;2020-12-01;1;Laiza Fabiola Martins de Santa Rosa;40;294.953.408-29;Economista;depot@caixa.gov.br;Graduação em Ciências Econômicas - Universidade Católica deSantos (2003) Pós-Graduação - Latu Sensu - Master in Financial Economics -Fundação Getúlio Vargas, Escola de Economia de São Paulo;0;;0;2020-12-15;Nada Consta;Nada Consta
+13.000.836/0001-38;2020-06-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;Não;Não
+13.020.465/0001-56;2020-12-01;1;Laiza Fabiola Martins de Santa Rosa;40;294.953.408-29;Economista;depot@caixa.gov.br;Graduação em Ciências Econômicas - Universidade Católica deSantos (2003) Pós-Graduação - Latu Sensu - Master in Financial Economics -Fundação Getúlio Vargas, Escola de Economia de São Paulo;0;;0;2020-12-15;Nada Consta;Nada Consta
+13.022.994/0001-99;2020-12-01;1;PAULO ANDRE PORTO BILYK;56;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+13.125.823/0001-95;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+13.320.290/0001-00;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+13.371.132/0001-71;2020-12-01;1;Luiz Antônio Navarro Lima;58;010.674.638-36;Diretor;luiz.navarro@safra.com.br;Economista;0;;0;2018-01-09;não aplicável;não aplicável
+13.464.208/0001-03;2020-12-01;1;José Alexandre Costa de Freitas;48;008.991.207-17;Diretor Presidente;ger2.fundos@oliveiratrust.com.br;Direito;0;;0;2014-03-05;Não;Não
+13.500.306/0001-59;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+13.551.286/0001-45;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+13.555.918/0001-49;2020-12-01;1;ALEXANDRE FOGLIANO DA CUNHA;65;600.080.167-04;administrador fiduciario;alexandre.fogliano@indigodtvm.com.br;Economista;0;;0;2020-06-22;;
+13.584.584/0001-31;2020-12-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;não;não
+13.598.226/0001-88;2020-12-01;2;Daniel Doll Lemos;41;275.605.768-18;Diretor de Administração de Fundos;daniel@singulare.com.br;Administrador de Empresas;0;;0;2008-03-13;;
+13.652.006/0001-95;2020-12-01;1;José Alexandre Costa de Freitas;48;008.991.207-17;Diretor Presidente;ger2.fundos@oliveiratrust.com.br;Direito;0;;0;2015-06-11;Não;Não
+13.703.596/0001-38;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+13.726.079/0001-84;2020-12-01;2;Daniel Doll Lemos;41;275.605.768-18;Diretor de Administração de Fundos;daniel@singulare.com.br;Administrador de Empresas;0;;0;2008-03-13;;
+13.842.683/0001-76;2020-12-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;Não;Não
+13.873.457/0001-52;2020-12-01;1;PAULO ANDRE PORTO BILYK;56;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+13.920.018/0001-53;2020-12-01;1;Silvano Gersztel;45;265.298.468-32;Economista;silvano.gersztel@reag.com.br;Ciências Econômicas;0;;0;2016-10-01;;
+13.966.653/0001-71;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+13.974.819/0001-00;2020-12-01;1;Mary Harumi Takeda;55;060.868.328-03;Bancária;fundos.imobiliarios@ourinvest.com.br;Economia;600;;0;2020-09-09;N/A;N/A
+14.056.001/0001-62;2020-06-01;1;José Alexandre Costa de Freitas;48;008.991.207-17;Diretor Presidente;ger2.fundos@oliveiratrust.com.br;Direito;0;;0;2014-03-05;Não;Não
+14.069.202/0001-02;2020-12-01;1;ALEXANDRE FOGLIANO DA CUNHA;65;600.080.167-04;administrador fiduciario;alexandre.fogliano@indigodtvm.com.br;Economista;0;;0;2020-06-22;;
+14.074.706/0001-02;2020-12-01;1;ALEXANDRE FOGLIANO DA CUINHA;65;600.080.167-04;administrador fiduciario;alexandre.fogliano@indigodtvm.com.br;Economista;0;;0;2020-06-22;;
+14.074.721/0001-50;2020-12-01;2;ALEXANDRE FOGLIANO DA CUNHA;65;600.080.167-04;administrador fiduciario;alexandre.fogliano@indigodtvm.com.br;Economista;0;;0;2020-06-22;;
+14.080.689/0001-16;2020-06-01;1;JOSE ALEXANDRE COSTA DE FREITAS;47;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2013-12-19;Não;Não
+14.088.246/0001-71;2020-12-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;Não;Não
+14.149.745/0001-21;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+14.217.108/0001-45;2020-12-01;1;Fernando Ferreira da Silva Telles;69;307.745.278-20;Corretor Valores;fernandostelles@coinvalores.com.br;Superior;0;;0;1982-01-01;;
+14.365.190/0001-55;2020-12-01;1;José Alexandre Costa de Freitas;49;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2012-11-09;Não;Não
+14.376.247/0001-11;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+14.410.722/0001-29;2020-06-01;1;Alcindo Costa Canto Neto;43;24556596823;Diretor geral;vwmprodutosestruturados@bv.com.br;Economista;0;;0;2018-10-01;Não há condenações;Não há condenações
+14.413.342/0001-48;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+14.423.780/0001-97;2020-06-01;1;Carlos Augusto Salamonde;48 anos;011.393.467-09;Diretor;carlos,salamonde@itau-unibanco.com.br;Economia;0;;0;2018-10-01;;
+14.465.810/0001-28;2020-06-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;Não;Não
+14.609.653/0001-87;2020-12-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;Não;Não
+14.631.148/0001-39;2020-06-01;1;ENIO CARVALHO RODRIGUES;78;027.265.487-68;DIRETOR;ENIO.RODRIGUES@RJICV.COM.BR;CONTABILIDADE E CIENCIAS ATUARIAL;0;;0;2018-04-10;;
+14.721.889/0001-00;2020-12-01;1;Alcindo Costa Canto Neto;43;245.565.968-23;Diretor Geral;vwmprodutosestruturados@bv.com.br;Economista;0;;0;2018-10-01;Não houve condenações;Não houve condenações
+14.733.211/0001-48;2020-12-01;1;Maria Cecilia Carrazedo de Andrade;35 anos;34391377837;Administrador de Empresas;dtvm@hedgeinvest.com.br;Administração de Empresas EAESP-FGV. Certificação Profissional - CFA;0;;0;2018-10-22;;
+14.788.458/0001-61;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+14.788.492/0001-36;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+14.793.782/0001-78;2020-12-01;1;RODRIGO DE GODOY;47;006.651.417/77;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;;
+14.879.856/0001-93;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+15.006.267/0001-63;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+15.006.286/0001-90;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;CORRESPONDENCIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+15.098.422/0001-19;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+15.254.249/0001-09;2020-12-01;1;Laiza Fabiola Martins de Santa Rosa;40;294.953.408-29;Economista;depot@caixa.gov.br;Graduação em Ciências Econômicas - Universidade Católica deSantos (2003) Pós-Graduação - Latu Sensu - Master in Financial Economics -Fundação Getúlio Vargas, Escola de Economia de São Paulo;0;;0;2020-12-15;Nada Consta;Nada Consta
+15.296.696/0001-12;2020-12-01;1;José Alexandre Costa de Freitas;48;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2015-06-11;Não;Não
+15.333.306/0001-37;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+15.348.117/0001-38;2020-12-01;1;Silvano Gersztel;45;265.298.468-32;Economista;silvano.gersztel@reag.com.br;;0;;0;2016-10-01;;
+15.394.563/0001-89;2020-12-01;1;Alcindo Costa Canto Neto;44;4033063889;Administrador;RI-VAM@bv.com.br;Economista;0;;0;2018-10-01;não houve condenação;não houve condenação
+15.447.108/0001-02;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+15.447.110/0001-73;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+15.461.076/0001-91;2020-12-01;1;Nelson Medaber;77;129.247.927-20;Economista;nelson@eliteinvestimentos.com.br;Economia;0;;0;2016-07-01;;
+15.538.445/0001-05;2020-12-01;1;GUILHERME CHARNAUX GRUMSER;;2340600774;Diretor;;Economista;0;;0;2014-11-04;N/A;N/A
+15.570.431/0001-60;2020-12-01;1;José Alexandre Costa de Freitas;49;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2012-11-09;Não;Não
+15.576.907/0001-70;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;CORRESPONDENCIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+15.769.670/0001-44;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;correspondencia@riobravo.com.br;Adminstrador de Empresas;0;;0;1994-07-01;;
+15.799.397/0001-09;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+16.543.270/0001-89;2020-12-01;1;ENIO CARVALHO RODRIGUES;78;027.265.487-68;DIRETOR;ENIO.RODRIGUES@RJICV.COM.BR;CONTABILIDADE E CIENCIAS ATUARIAL;0;;0;2018-04-10;;
+16.671.412/0001-93;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+16.706.958/0001-32;2020-01-01;1;EDUARDO ESTEFAN VENTURA;39 anos;21827149876;Engenheiro;eduardo.estefan@itau-unibanco.com.br;Engenharia Mecênica de Aeronáutica (ITA);0;;0;2018-10-01;;
+16.706.958/0001-32;2020-06-01;1;Carlos Augusto Salamonde;48 anos;011.393.467-09;Diretor;carlos.salamonde@itau-unibanco.com.br;Economia;0;;0;2018-10-01;;
+16.802.320/0001-03;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+16.841.067/0001-99;2020-12-01;1;Daniel Doll Lemos;41;275.605.768-18;Diretor de Administração de Fundos;daniel@singulare.com.br;Administrador de Empresas;0;;0;2008-03-13;;
+16.915.868/0001-51;2020-12-01;1;Laiza Fabiola Martins de Santa Rosa;40;294.953.408-29;Economista;depot@caixa.gov.br;Graduação em Ciências Econômicas - Universidade Católica deSantos (2003) Pós-Graduação - Latu Sensu - Master in Financial Economics -Fundação Getúlio Vargas, Escola de Economia de São Paulo;0;;0;2020-12-15;Nada Consta;Nada Consta
+16.915.968/0001-88;2020-12-01;1;Artur Martins de Figueiredo;55;7381333880;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;Não;Não
+16.924.913/0001-34;2020-06-01;1;RODRIGO DE GODOY;47;006.651.417/77;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;;
+16.929.519/0001-99;2020-12-01;1;Maria Cecilia Carrazedo de Andrade;35 anos;34391377837;Administrador de Empresas;dtvm@hedgeinvest.com.br;Administração de Empresas EAESP-FGV. Certificação Profissional - CFA;0;;0;2018-11-14;;
+17.007.443/0001-07;2020-06-01;1;Ricardo Augusto Meira Pedro;53;4995131850;Bancário;ricardo.pedro@finaxis.com.br;Administrador;0;;0;2013-08-05;;
+17.007.528/0001-95;2020-06-01;1;José Alexandre Costa de Freitas;48;899120717;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2014-07-01;Não;Não
+17.025.970/0001-44;2020-12-01;1;RODRIGO DE GODOY;47;006.651.417/77;Diretor;atendimentocvm@bancoplural.com;Economista;0;;0;2019-01-23;N/A;N/A
+17.035.124/0001-05;2020-06-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administração de empresas;0;;0;2018-04-01;;
+17.098.794/0001-70;2020-12-01;2;Laiza Fabiola Martins de Santa Rosa;40 anos;294.953.408-29;Economista;depot@caixa.gov.br;Graduação em Ciências Econômicas - Universidade Católica deSantos (2003) Pós-Graduação - Latu Sensu - Master in Financial Economics -Fundação Getúlio Vargas, Escola de Economia de São Paulo;0;;0;2020-12-15;Nada Consta;Nada Consta
+17.144.039/0001-85;2020-12-01;1;Augusto Afonso Martins;39 anos;289.816.118-74;Administrador de empresas;augusto.martins@cshg.com.br;Administração de empresas;0;;0;2018-10-31;Nenhuma;Nenhuma
+17.156.502/0001-09;2020-12-01;1;José Alexandre Costa de Freitas;48;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2012-12-12;Não;Não
+17.161.979/0001-82;2020-12-01;1;CAROLINA ANDREA GARISTO GREGORIO;41 ANOS;21715650808;Engenheira Civil;carolina.gregorio@unitas.com.br;Engenharia Civil;0;;0;2018-07-31;;
+17.198.404/0001-34;2020-12-01;1;BRUNO JOSÉ ALBUQUERQUE DE CASTRO;36;085.188.247-10;Bancário;bcastro@modal.com.br;Engenheiro;0;;0;2017-04-03;;
+17.198.500/0001-82;2020-12-01;1;CARLOS ALBERTO SARAIVA;60;624.698.947-00;DIRETOR EXECUTIVO/ADVOGADO;carlos.saraiva@bnymellon.com.br;Mestre em Gestão pela Universidade Federal Fluminense  - UFF/11 Pós Graduado em Comércio Exterior  pela Universidade Federal do Rio de Janeiro - UFRJ/94 Especialista em Administração Financeira - PDG/IBMEC (97) Graduado em Direito pela Universidade do;0;;0;2013-02-14;Não aplicável;Não aplicável
+17.209.378/0001-00;2020-06-01;1;José Alexandre Costa de Freitas;47;899120717;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2014-07-01;Não;Não
+17.211.882/0001-37;2020-12-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;Não;Não
+17.216.625/0001-98;2020-06-01;1;Ricardo Augusto Meira Pedro;53;4995131850;Bancário;ricardo.pedro@finaxis.com.br;Administrador;0;;0;2013-05-03;;
+17.282.011/0001-04;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+17.308.805/0001-08;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+17.311.079/0001-74;2020-12-01;1;EMERSON VASCONCELOS RIZZA;;701.712.891-53;DIRETOR DE ADMINISTRAÇÃO DE RECURSOS DE TERCEIROS;ddiart@dtvm.com.br;Adm de Empresas com Esp. Control. Financ.;1429740;;0;2020-09-16;;
+17.324.357/0001-28;2020-12-01;1;GUILHERME CHARNAUX GRUMSER;;023.406.007-74;Diretor;Guilherme.Grumser@bancogenial.com;Economista;0;;0;2014-11-04;N/A;N/A
+17.329.029/0001-14;2020-01-01;2;Danilo Christófaro Barbieri;38;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administração de empresas;0;;0;2018-04-01;;
+17.329.029/0001-14;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+17.365.105/0001-47;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+17.374.696/0001-19;2020-12-01;3;Silvano Gersztel;45;265.298.468-32;Economista;silvano.gersztel@reag.com.br;Ciências Econômicas;0;;0;2016-10-01;;
+17.554.274/0001-25;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+17.568.605/0001-86;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+17.590.518/0001-25;2020-12-01;1;Maria Cecilia Carrazedo de Andrade;35 anos;343.913.778-37;Administrador de Empresas;dtvm@hedgeinvest.com.br;Administração de Empresas EAESP-FGV. Certificação Profissional - CFA;0;;0;2019-08-26;;
+17.655.102/0001-48;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+17.655.115/0001-17;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+17.655.122/0001-19;2020-12-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;Não;Não
+17.786.606/0001-05;2020-12-01;1;Ricardo Augusto Meira Pedro;55;049.951.318-50;Bancário;ricardo.pedro@finaxis.com.br;Administrador;0;;0;2015-11-30;;
+17.854.016/0001-64;2020-12-01;1;José Alexandre Costa de Freitas;49;008.991.207-17;Diretor Presidente;ger2.fundos@oliveiratrust.com.br;Direito;0;;0;2014-07-01;Não;Não
+17.870.926/0001-30;2020-12-01;1;Alcindo Costa Canto Neto;43;4033063889;Administrador;vwmprodutosestruturados@bv.com.br;Economista;0;;0;2018-10-01;não houve condenação;não houve condenação
+18.085.673/0001-57;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+18.259.637/0001-62;2020-06-01;1;Marcos Wanderley Pereira;46;1425563783;Diretor;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+18.265.829/0001-81;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+18.289.950/0001-43;2020-12-01;1;Gustavo Silva Brunetto;;92402518049;Administrador;gustavo.brunetto@simpaul.com.br;Administrador de Empresas;0;;0;2013-05-27;;
+18.307.582/0001-19;2020-12-01;1;Maria Cecilia Carrazedo de Andrade;35 anos;34391377837;Administrador de Empresas;dtvm@hedgeinvest.com.br;Administração de Empresas EAESP-FGV. Certificação Profissional - CFA;8266;;0;2018-10-26;;
+18.308.516/0001-63;2020-12-01;1;GUILHERME CHARNAUX GRUMSER;;023.406.007-74;Diretor;;Economista;0;;0;2014-11-04;N/A;N/A
+18.311.024/0001-27;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;N/A;N/A
+18.330.535/0001-96;2020-12-01;1;ANDRÉ BERNARDINO DA CRUZ FILHO;60;192.221.224-53;Bancário;andre.cruz@bradesco.com.br;Administração;0;;0;2009-12-07;Nada Consta;Nada Consta
+18.369.510/0001-04;2020-06-01;2;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;Não;Não
+18.497.672/0001-10;2020-12-01;1;José Alexandre Costa de Freitas;48;899120717;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2014-05-08;Não;Não
+18.730.914/0001-73;2020-06-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;Não;Não
+18.874.954/0001-99;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+18.874.965/0001-79;2020-12-01;1;Maria Clara Guimarães Gusmão;33 anos;8954133614;Economista;maria.gusmao@interdtvm.com.br;Ciências Econômicas;0;;0;2019-11-01;;
+18.929.353/0001-36;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+18.950.957/0001-64;2020-12-01;1;Alcindo Costa Canto Neto;44;245.565.968-23;Economista;VAM-IAC@bv.com.br;Economia - FEA USP;0;;0;2018-10-01;Não houve condenações;Não houve condenações
+18.979.895/0001-13;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+19.026.454/0001-60;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+19.107.604/0001-60;2020-12-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@trusteedtvm.com.br;PUC;0;;0;1999-06-07;Não;Não
+19.131.224/0001-60;2020-12-01;1;José Alexandre Costa de Freitas;49;008.991.207-17;Diretor Presidente;ger2.fundos@oliveiratrust.com.br;Direito;0;;0;2014-11-14;Não;Não
+19.213.231/0001-01;2020-12-01;1;Silvano Gersztel;45;265.298.468-32;Economista;silvano.gersztel@reag.com.br;Ciências Econômicas;0;;0;2016-10-01;;
+19.239.245/0001-02;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;N/A;N/A
+19.249.956/0001-50;2020-06-01;1;JOSE ALEXANDRE COSTA DE FREITAS;48;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2013-12-19;Não;Não
+19.249.989/0001-08;2020-06-01;1;José Alexandre Costa de Freitas;48;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2012-11-09;Não;Não
+19.267.845/0001-76;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+19.419.994/0001-03;2020-12-01;1;José Alexandre Costa de Freitas;48;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2012-12-12;Não;Não
+19.442.626/0001-86;2020-12-01;1;JOSE ALEXANDRE COSTA DE FREITAS;48;899120717;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2013-12-19;Não;Não
+19.628.741/0001-40;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+19.722.048/0001-31;2020-12-01;1;BRUNO JOSÉ ALBUQUERQUE DE CASTRO;37;085.188.247-10;ENGENHEIRO;bcastro@modal.com.br;ENGENHEIRO;0;;0;2017-04-03;;
+19.872.887/0001-36;2020-06-01;1;RODRIGO DE GODOY;47;006.651.417/77;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;N/A;N/A
+19.872.996/0001-53;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;N/A;N/A
+19.878.616/0001-98;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancogenial.com;Administrador;0;;0;2019-01-23;N/A;N/A
+19.959.754/0001-00;2020-12-01;1;Silvano Gersztel;45;265.298.468-32;Economista;silvano.gersztel@reag.com.br;Ciências Econômicas;0;;0;2016-10-01;;
+20.003.001/0001-05;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+20.019.120/0001-48;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+20.040.197/0001-08;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;N/A;N/A
+20.118.470/0001-61;2020-12-01;1;Silvano Gersztel;45;265.298.468-32;Economista;silvano.gersztel@reag.com.br;Ciências Econômicas;0;;0;2016-10-01;;
+20.118.492/0001-21;2020-12-01;1;ALEXANDRE FOGLIANO DA CUNHA;65;Gestor Financeiro;600.080.167-04;alexandre.fogliano@indigodtvm.com.br;Economista;0;;0;2020-06-22;;
+20.118.507/0001-51;2020-12-01;1;Eduardo Pereira Rocha;54;299.429.933-04;Diretor de Recursos de Terceiros;eduardo@liminedtvm.com.br;Administrador de Empresas;0;;0;2020-11-23;Não há.;Não há.
+20.132.453/0001-89;2020-06-01;1;Danilo Christófaro Barbieri;40;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administração de empresas;0;;0;2018-04-01;;
+20.216.935/0001-17;2020-12-01;1;ANDRÉ BERNARDINO DA CRUZ FILHO;60;192.221.224-53;Bancário;andre.cruz@bradesco.com.br;Administração;0;;0;2009-12-07;Nada Consta;Nada Consta
+20.265.467/0001-70;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+20.680.775/0001-62;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+20.716.161/0001-93;2020-12-01;1;Aguinaldo Barbieri;53 anos;9016372890;Bancário;aguinaldo@bb.com.br;Direito;0;;0;2020-07-01;;
+20.717.355/0001-03;2020-12-01;1;LUIZ ALVARO DE PAIVA FERREIRA;59;049.035.538-25;ECONOMISTA;lferreira@terrainvestimentos.com.br;ECONOMIA;66857.63317;;0;2020-03-14;;
+20.748.515/0001-81;2020-12-01;1;José Alexandre Costa de Freitas;49;899120717;Diretor Presidente;ger2.fundos@oliveiratrust.com.br;Direito;0;;0;2016-08-05;Não;Não
+20.787.427/0001-99;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+20.990.694/0001-69;2020-06-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;Não;Não
+21.044.600/0001-21;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancogenial.com;Administrador;0;;0;2019-01-23;N/A;N/A
+21.067.825/0001-01;2020-12-01;1;RODRIGO DE GODOY;47;006.651.417-77;Diretor;atendimentocvm@bancogenial.com;Administrador;0;;0;2019-01-23;N/A;N/A
+21.085.472/0001-64;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;N/A;N/A
+21.085.863/0001-89;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;N/A;N/A
+21.085.888/0001-82;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;N/A;N/A
+21.126.204/0001-43;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1899-12-31;;
+21.156.164/0001-82;2020-12-01;1;José Alexandre Costa de Freitas;49;008.991.207-17;Diretor Presidente;ger2.fundos@oliveiratrust.com.br;Direito;0;;0;2014-11-14;Não;Não
+21.398.200/0001-14;2020-12-01;1;LUIZ ALVARO DE PAIVA FERREIRA;59;049.035.538-25;ECONOMISTA;lferreira@terrainvestimentos.com.br;ECONOMIA;585218.680725;;0;2020-03-14;;
+21.408.063/0001-51;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+21.500.481/0001-74;2020-12-01;1;Alcindo Costa Canto Neto;43;245.565.968-23;Diretor Geral;vwmprodutosestruturados@bv.com.br;Economista;0;;0;2018-10-01;Não houve condenações;Não houve condenações
+21.500.514/0001-86;2020-06-01;1;Alcindo Costa Canto Neto;43;24556596823;Economista;vwmprodutosestruturados@bv.com.br;Economista;0;;0;2018-10-01;Não há.;Não há.
+21.826.249/0001-20;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancogenial.com;Administrador;0;;0;2019-01-23;N/A;N/A
+21.917.235/0001-12;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+22.003.469/0001-17;2020-12-01;1;PEDRO MARCELO LUZARDO AGUIAR;53;002.218.937-84;Bancário;pluzardo@modal.com.br;Advogado;0;;0;2015-08-01;;
+22.044.621/0001-00;2020-06-01;1;Marcos Wanderley Pereira;46;1425563783;Diretor;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+22.081.808/0001-83;2020-12-01;1;Edson Hydalgo Junior;45;16735461886;Administrador;administracao.fundos@intrader.com.br;Administrador;0;;0;2017-06-20;;
+22.103.617/0001-75;2020-06-01;1;Danilo Christófaro Barbieri;40;16913257830;Administrador de empresas;dbarbieri@brltrust.com.br;Administração de empresas;0;;0;2018-04-01;;
+22.104.821/0001-00;2020-06-01;1;FERNANDO LUIZ DE SENNA FIGUEIREDO;41 anos;;;fernando.senna@intrader.com,br;Administração deEmpresas;30054803.03;;0;2020-05-28;;
+22.169.671/0001-13;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+22.169.716/0001-50;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+22.211.522/0001-75;2020-12-01;2;Laiza Fabiola Martins de Santa Rosa;40;294.953.408-29;Economista;depot@caixa.gov.br;Graduação em Ciências Econômicas - Universidade Católica deSantos (2003) Pós-Graduação - Latu Sensu - Master in Financial Economics -Fundação Getúlio Vargas, Escola de Economia de São Paulo;0;;0;2020-12-15;Nada Consta;Nada Consta
+22.219.335/0001-38;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+22.340.978/0001-35;2020-12-01;2;Daniel Doll Lemos;41;275.605.768-18;Diretor de Administração de Fundos;daniel@singulare.com.br;Administrador de Empresas;0;;0;2008-03-13;;
+22.459.737/0001-00;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+22.646.161/0001-90;2020-12-01;1;José Alexandre Costa de Freitas;48;008.991.207-17;Diretor Presidente;ger2.fundos@oliveiratrust.com.br;Direito;0;;0;2014-03-05;Não;Não
+22.862.226/0001-34;2020-12-01;1;José Alexandre Costa de Freitas;48;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2015-06-11;Não;Não
+22.957.521/0001-74;2020-12-01;1;BRUNO JOSÉ ALBUQUERQUE DE CASTRO;53;085.188.247-10;ENGENHEIRO;bcastro@modal.com.br;Advogado;0;;0;2015-08-01;;
+23.120.006/0001-06;2020-12-01;2;Alcindo Costa Canto Neto;43;245.565.968-23;Diretor Geral;vwmprodutosestruturados@bv.com.br;Economista;0;;0;2018-10-01;Não houve condenações;Não houve condenações
+23.120.027/0001-13;2020-12-01;1;Alcindo Costa Canto Neto;44;4033063889;Administrador;RI-VAM@bv.com.br;Economista;0;;0;2018-10-01;não houve condenação;não houve condenação
+23.120.098/0001-16;2020-12-01;1;Alcindo Costa Canto Neto;43;245.565.968-23;Diretor Executivo;vwmprodutosestruturados@votorantimwm.com.br;Economista;0;;0;2018-10-01;Não houve condenações;Não houve condenações
+23.179.381/0001-13;2020-12-01;1;José Alexandre Costa de Freitas;49;008.991.207-17;Diretor Presidente;ger2.fundos@oliveiratrust.com.br;Direito;0;;0;2016-03-21;Não;Não
+23.426.470/0001-17;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+23.532.837/0001-87;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@brasilplural.com;Administrador;0;;0;2019-01-23;N/A;N/A
+23.533.796/0001-43;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;N/A;N/A
+23.537.203/0001-17;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+23.538.112/0001-04;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;N/A;N/A
+23.570.871/0001-46;2020-12-01;1;Marcelo Vieira Francisco;45;170.776.768-89;Economista;mfrancisco@santander.com.br;Ciências Econômicas;0;;0;2016-03-01;N/A;N/A
+23.582.914/0001-03;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+23.648.935/0001-84;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+23.740.527/0001-58;2020-12-01;1;Alcindo Costa Canto Neto;43;245.565.968-23;Diretor Geral;vwmprodutosestruturados@bv.com.br;Economista;0;;0;2018-10-01;Não houve condenações;Não houve condenações
+23.740.552/0001-31;2020-12-01;1;Alcindo Costa Canto Neto;44;4033063889;Administrador;RI-VAM@bv.com.br;Economista;0;;0;2018-10-01;não houve condenação;não houve condenação
+23.740.595/0001-17;2020-06-01;1;Alcindo Costa Canto Neto;43;24556596823;Diretor geral;vwmprodutosestruturados@bv.com.br;Economista;0;;0;2018-10-01;Não há condenações;Não há condenações
+23.768.027/0001-24;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+23.781.211/0001-04;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+23.876.086/0001-16;2020-06-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;Não;Não
+23.964.843/0001-03;2020-06-01;1;Danilo Christófaro Barbieri;40;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administração de empresas;0;;0;2018-04-01;;
+23.964.908/0001-10;2020-12-01;1;Marcelo Vieira Francisco;45;170.776.768-89;Economista;mfrancisco@santander.com.br;Ciências Econômicas;0;;0;2016-03-01;N/A;N/A
+24.070.076/0001-51;2020-06-01;1;Carlos Augusto Salamonde;48 anos;011.393.467-09;Diretor;carlos,salamonde@itau-unibanco.com.br;Economia;0;;0;2018-10-01;;
+24.703.709/0001-11;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+24.774.904/0001-32;2020-12-01;1;Ricardo Augusto Meira Pedro;55;049.951.318-50;Bancário;ricardo.pedro@finaxis.com.br;Administrador;0;;0;2015-11-30;;
+24.796.967/0001-90;2020-12-01;1;PEDRO MARCELO LUZARDO AGUIAR;53;221893784;Bancario;pluzardo@modal.com.br;Advogado;0;;0;2015-08-01;;
+24.814.916/0001-43;2020-12-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;Não;Não
+24.853.044/0001-22;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+24.853.060/0001-15;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+24.960.430/0001-13;2020-06-01;1;Carlos Augusto Salamonde;48 anos;011.393.467-09;Diretor;carlos.salamonde@itau-unibanco.com.br;Economia;0;;0;2018-10-01;;
+24.976.492/0001-13;2020-12-01;1;ALEXANDRE FOGLIANO DA CUNHA;65;600.080.167-04;admistrador fiduciario;alexandre.fogliano@indigodtvm.com.br;Economista;0;;0;2020-06-22;;
+25.032.881/0001-53;2020-06-01;2;Marcos Wanderley Pereira;46;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+25.032.881/0001-53;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+26.091.656/0001-50;2020-06-01;1;Ricardo Augusto Meira Pedro;53;049.951.318-50;Bancário;ricardo.pedro@finaxis.com.br;Administrador;0;;0;2016-11-30;;
+26.191.053/0001-20;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+26.195.121/0001-20;2020-12-01;1;CAROLINA ANDREA GARISTO GREGÓRIO;41 ANOS;21715650808;Engenheira Civil;carolina.gregorio@unitas.com.br;Engenharia Civil;40;;0;2018-07-31;;
+26.269.251/0001-60;2020-06-01;1;ALEXANDRE FOGLIANO DA CUNHA;65;600.080.167-04;administrador fiduciario;alexandre.fogliano@indigodtvm.com.br;economista;0;;0;2020-06-22;;
+26.314.437/0001-93;2020-06-01;3;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+26.395.660/0001-02;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+26.452.053/0001-37;2020-12-01;1;ALEXANDRE FOGLIANO DA CUNHA;65;600.080.167-04;administrador fiduciario;alexandre.fogliano@indigodtvm.com.br;economista;0;;0;2020-06-22;;
+26.499.833/0001-32;2020-12-01;1;GUILHERME CHARNAUX GRUMSER;;2340600774;Diretor;;Economista;0;;0;2014-11-04;N/A;N/A
+26.502.761/0001-35;2020-12-01;1;Marcos Wanderley Pereira;47;1425563783;administrador;mw@vortx.com.br;superior completo;0;;0;2018-04-13;;
+26.502.794/0001-85;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+26.502.810/0001-30;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+26.511.274/0001-39;2020-12-01;1;José Alexandre Costa de Freitas;49;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2012-11-09;Não;Não
+26.545.627/0001-11;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+26.614.291/0001-00;2020-06-01;1;Pedro Carlos Batista Jourdan;35;4293856765;Advogado;fundos@cmcapitalmarkets.com.br;Superior;0;;0;2019-10-31;Não há;Não há
+26.642.727/0001-66;2020-12-01;1;Eduardo Centola;53;151.840.668-88;Administrador de empresas;eduardo.centola@modal.com.br;Administração;0;;0;2020-10-27;;
+26.642.834/0001-94;2020-12-01;1;BRUNO JOSÉ ALBUQUERQUE DE CASTRO;37;085.188.247-10;ENGENHEIRO;bcastro@modal.com.br;Engenheiro;0;;0;2017-04-03;;
+26.681.370/0001-25;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+26.846.134/0001-11;2020-06-01;1;Marcos Wanderley Pereira;46;014.255.637-83;Diretor;mw@vortx.com.br;Direito;0;;0;2018-04-13;;
+26.846.202/0001-42;2020-06-01;1;Marcos Wanderley Pereira;46;014.255.637-83;Diretor;mw@vortx.com.br;Direito;0;;0;2018-04-13;;
+26.846.280/0001-47;2020-06-01;1;FERNANDO LUIZ DE SENNA FIGUEIREDO;34 anos;115075447.82;Economista;fernando.senna@intrader.com.br;Economista;2413.89;;0;2020-05-28;;
+26.990.011/0001-50;2020-12-01;1;CAROLINA ANDREA GARISTO GREGÓRIO;41 ANOS;21715650808;ENGENHEIRA CIVIL;carolina.gregorio@unitas.com.br;ENGENHARIA CIVIL;483;;0;2018-07-31;;
+27.293.689/0001-46;2020-12-01;1;ALBERTO GARCIA ROCHE;63;154.184.438-60;Administrador de Empresas;finanças@framcapital.com;Economista;0;;0;2017-05-16;;
+27.368.600/0001-63;2020-12-01;1;Alcindo Costa Canto Neto;43;245.565.968-23;Economista;vwmprodutosestruturados@bv.com.br;Economia - FEA USP;0;;0;2018-10-01;Não houve condenações;Não houve condenações
+27.368.617/0001-10;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+27.368.863/0001-72;2020-12-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;;
+27.486.542/0001-72;2020-12-01;1;Maria Cecilia Carrazedo de Andrade;35 anos;343.913.778-37;Administrador de Empresas;dtvm@hedgeinvest.com.br;Administração de Empresas EAESP-FGV. Certificação Profissional - CFA;1000;;0;2019-09-26;;
+27.529.279/0001-51;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+27.538.422/0001-71;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+27.538.477/0001-81;2020-12-01;1;Benjamim Lemos dos Santos;64;78712637734;matemático;benjamim.lemos@intrader.com.br;Matemática;0;;0;2021-02-03;;
+27.539.729/0001-97;2020-12-01;1;LUIZ ALVARO DE PAIVA FERREIRA;59;049.035.538-25;ECONOMISTA;lferreira@terrainvestimentos.com.br;ECONOMIA;30345.08981351;;0;2020-03-14;;
+27.580.051/0001-96;2020-12-01;2;ALBERTO GARCIA ROCHE;63;154.184.438-60;Administrador de Empresas;finanças@framcapital.com;Economista;0;;0;2017-05-16;;
+27.602.955/0001-75;2020-12-01;1;PAULO ANDRE PORTO BILYK;56;8930378854;Adminstrador de Empresas;correspondencia@riobravo.com.br;Adminstração de Empresas;0;;0;1994-07-01;;
+27.771.547/0001-47;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+27.771.586/0001-44;2020-12-01;1;LUIZ ALVARO DE PAIVA FERREIRA;59;049.035.538-25;ECONOMISTA;lferreira@terrainvestimentos.com.br;ECONOMIA;11683268.19;;0;2020-03-14;;
+27.773.327/0001-52;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+28.090.655/0001-17;2020-12-01;1;José Alexandre Costa de Freitas;47;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2012-12-12;Não;Não
+28.108.193/0001-18;2020-12-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;;
+28.152.272/0001-26;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+28.216.384/0001-01;2020-12-01;1;Ricardo de Almeida Horta Barbosa;44 anos;87956764653;Diretor de Administração Fiduciária;ricardo.horta@sicoob.com.br;Administração de Empresas;0;;0;2011-02-09;;
+28.267.530/0001-10;2020-12-01;1;ALBERTO GARCIA ROCHE;63;154.184.438-60;Administrador de Empresas;finanças@framcapital.com;Economista;0;;0;2017-05-16;;
+28.267.555/0001-13;2020-12-01;1;ALBERTO GARCIA ROCHE;64;154.184.438-60;Administrador de Empresas;finanças@framcapital.com;Economista;0;;0;2017-05-16;;
+28.267.696/0001-36;2020-06-01;1;Marcos Wanderley Pereira;46;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+28.516.301/0001-91;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+28.516.325/0001-40;2020-06-01;1;Marcos Wanderley Pereira;46;1425563783;Diretor;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+28.516.650/0001-03;2020-12-01;1;Mary Harumi Takeda;55;060.868.328-03;Bancária;fundos.imobiliarios@ourinvest.com.br;Economia;723;;0;2020-09-09;N/A;N/A
+28.548.288/0001-52;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+28.693.595/0001-27;2020-12-01;1;Mary Harumi Takeda;55;060.868.328-03;Bancária;fundos.imobiliarios@ourinvest.com.br;Economia;2000;;0;2020-09-09;N/A;N/A
+28.729.197/0001-13;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+28.737.771/0001-85;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+28.757.546/0001-00;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+28.830.325/0001-10;2020-06-01;3;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+28.851.767/0001-43;2020-12-01;3;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+28.893.734/0001-66;2020-12-01;1;ANDRÉ BERNARDINO DA CRUZ FILHO;60;192.221.224-53;Bancário;andre.cruz@bradesco.com.br;Administração;0;;0;2009-12-07;Nada Consta;Nada Consta
+28.899.178/0001-35;2020-06-01;1;Danilo Christófaro Barbieri;40;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administração de empresas;0;;0;2018-04-01;;
+29.018.899/0001-51;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+29.216.463/0001-77;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+29.242.809/0001-01;2020-12-01;1;Daniel Doll Lemos;41;275.605.768-18;Diretor de Administração de Fundos;daniel@singulare.com.br;Administrador de Empresas;0;;0;2008-03-13;;
+29.242.844/0001-20;2020-12-01;1;Daniel Doll Lemos;41;275.605.768-18;Diretor de Administração de Fundos;daniel@singulare.com.br;Administrador de Empresas;0;;0;2008-03-13;;
+29.267.567/0001-00;2020-12-01;1;José Alexandre Costa de Freitas;47;008.991.207-17;Diretor Presidente;ger2.fundos@oliveiratrust.com.br;Direito;0;;0;2015-06-11;Não;Não
+29.299.737/0001-39;2020-12-01;1;José Alexandre Costa de Freitas;47;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2012-11-09;Não;Não
+29.467.977/0001-03;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+29.641.226/0001-53;2020-12-01;1;Augusto Afonso Martins;39 anos;28981611874;Administrador de empresas;augusto.martins@cshg.com.br;Administração de empresas;4171;;0;2018-10-31;Nenhuma;Nenhuma
+29.787.928/0001-40;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+29.800.650/0001-01;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+29.852.732/0001-91;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+30.017.492/0001-99;2020-12-01;1;ARTUR MARTINS DE FIGUEIREDO;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;não;não
+30.048.651/0001-12;2020-12-01;2;BRUNO JOSÉ ALBUQUERQUE DE CASTRO;36;085.188.247-10;Bancário;bcastro@modal.com.br;Engenheiro;0;;0;2017-04-03;;
+30.091.444/0001-40;2020-01-01;1;Eduardo Estefan Ventura;39 anos;21827149876;Engenheiro;eduardo.estefan@itau-unibanco.com.br;Engenharia Mecanica de Aeronáutica (ITA);0;;0;2018-10-01;N/A;N/A
+30.091.444/0001-40;2020-06-01;1;Carlos Augusto Salamonde;48 anos;011.393.467-09;Diretor;carlos.salamonde@itau-unibanco.com.br;Economia;0;;0;2018-10-01;;
+30.091.506/0001-14;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Adminstrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Adminstrador de Empresas;0;;0;1994-07-01;;
+30.130.708/0001-28;2020-06-01;1;Carlos Augusto Salamonde;48 anos;011.393.467-09;Diretor;carlos.salamonde@itau-unibanco.com.br;Economia;0;;0;2018-10-01;;
+30.166.700/0001-11;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+30.178.506/0001-56;2020-12-01;1;Benjamim Lemos dos Santos;64;78712637734;matemático;benjamim.lemos@intrader.com.br;Matemática;0;;0;2021-02-03;;
+30.230.870/0001-18;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+30.248.129/0001-84;2020-12-01;1;Silvano Gersztel;45;265.298.468-32;Economista;silvano.gersztel@reag.com.br;Ciências Econômicas;0;;0;2016-10-01;;
+30.248.158/0001-46;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+30.248.180/0001-96;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+30.258.790/0001-70;2020-12-01;1;Daniel Doll Lemos;41;275.605.768-18;Diretor de Administração de Fundos;daniel@singulare.com.br;Administrador de Empresas;0;;0;2008-03-13;;
+30.492.505/0001-81;2020-12-01;1;CAROLINA ANDREA GARISTO GREGORIO;41 ANOS;21715650808;ENGENHEIRA CIVIL;carolina.gregorio@unitas.com.br;ENGENHARIA CIVIL;0;;0;2016-07-31;;
+30.495.165/0001-42;2020-12-01;1;José Alexandre Costa de Freitas;48;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2015-06-11;Não;Não
+30.567.216/0001-02;2020-12-01;1;CAROLINA ANDREA GARISTO GREGÓRIO;41 ANOS;21715650808;Engenheira Civil;caroli.gregorio@unitas.com.br;Engenheira Civil.;1000;;0;2018-07-31;;
+30.578.239/0001-04;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+30.578.275/0001-78;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+30.578.316/0001-26;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+30.578.351/0001-45;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+30.578.417/0001-05;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+30.579.348/0001-46;2020-06-01;1;José Alexandre Costa de Freitas;47;899120717;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2018-05-17;Não;Não
+30.629.603/0001-18;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+30.642.032/0001-51;2020-12-01;1;Daniel Doll Lemos;41;275.605.768-18;Diretor de Administração de Fundos;daniel@singulare.com.br;Administrador de Empresas;0;;0;2008-03-13;;
+30.647.758/0001-87;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+30.654.849/0001-40;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+30.791.386/0001-68;2020-12-01;1;Mary Harumi Takeda;55;060.868.328-03;Bancária;fundos.imobiliarios@ourinvest.com.br;Economia;1826;;0;2020-09-09;N/A;N/A
+30.816.679/0001-52;2020-06-01;1;Carlos Augusto Salamonde;48 anos;011.393.467-09;Diretor;carlos,salamonde@itau-unibanco.com.br;Economia;0;;0;2018-10-01;;
+30.846.692/0001-54;2020-06-01;1;JOSE ALEXANDRE COSTA DE FREITAS;48;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2014-03-05;Não;Não
+30.871.660/0001-09;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+30.871.698/0001-81;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+30.871.716/0001-25;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+30.982.880/0001-00;2020-06-01;1;Marcos Wanderley Pereira;46;014.255.637-83;Diretor;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+30.982.923/0001-57;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+30.982.974/0001-89;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+30.983.020/0001-90;2020-12-01;2;Fausto Assis da Silva;41;081.462.317-48;Diretor responsável pela administração fiduciária;juridico.regulatorio@xpi.com.br;Administração;0;;0;2020-11-16;não há;não há
+31.145.875/0001-05;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;N/A;N/A
+31.145.908/0001-17;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;N/A;N/A
+31.152.015/0001-07;2020-12-01;2;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+31.161.410/0001-48;2020-06-01;1;José Alexandre Costa de Freitas;48;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2012-11-09;Não;Não
+31.373.514/0001-16;2020-06-01;1;ALEXANDRE FOGLIANO DA CUNHA;65;600.080.167-04;Gestor Financeiro;alexandre.fogliano@indigodtvm.com.br;Economista;0;;0;2020-06-22;;
+31.469.385/0001-64;2020-12-01;1;José Alexandre Costa de Freitas;48;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2015-06-11;Não;Não
+31.508.219/0001-20;2020-12-01;1;José Alexandre Costa de Freitas;48;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2015-06-11;Não;Não
+31.524.769/0001-32;2020-12-01;2;ALEXANDRE FOGLIANO DA CUNHA;65;600.080.167-04;administrador fiduciario;alexandre.fogliano@indigodtvm.com.br;economista;0;;0;2020-06-22;;
+31.524.789/0001-03;2020-12-01;1;ALEXANDRE FOGLIANO DA CUNHA;65;Gestor Financeiro;600.080.167-04;alexandre.fogliano@indigodtvm.com.br;Economista;0;;0;2020-06-22;;
+31.544.514/0001-31;2020-06-01;1;ALEXANDRE FOGLIANO DA CUNHA;65;600.080.167-04;administrador fiduciario;alexandre.fogliano@indigodtvm.com.br;economista;0;;0;2020-06-22;;
+31.547.782/0001-07;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+31.547.855/0001-60;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+31.713.934/0001-02;2020-06-01;2;ALEXANDRE FOGLIANO DA CUNHA;65;600.080.167-04;administrador fiduciario;alexandre.fogliano@indigodtvm.com.br;economista;0;;0;2020-06-22;;
+31.713.990/0001-39;2020-06-01;1;Peter Thomas Grunbaum Weiss;71;52714128815;Economista;clubesefundos@slw.com.br;Economista;0;;0;1978-01-11;;
+31.772.231/0001-47;2020-12-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@trusteedtvm.com.br;PUC;0;;0;1999-06-07;não;não
+31.887.401/0001-39;2020-12-01;1;Laiza Fabiola Martins de Santa Rosa;40 anos;294.953.408-29;Economista;depot@caixa.gov.br;Graduação em Ciências Econômicas - Universidade Católica deSantos (2003) Pós-Graduação - Latu Sensu - Master in Financial Economics -Fundação Getúlio Vargas, Escola de Economia de São Paulo;0;;0;2020-12-15;Nada Consta;Nada Consta
+31.894.369/0001-19;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+31.907.591/0001-09;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+31.962.875/0001-06;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+32.000.013/0001-57;2020-12-01;1;José Alexandre Costa de Freitas;49;008.991.207-17;Diretor Presidente;ger2.fundos@oliveiratrust.com.br;Direito;0;;0;2016-08-05;Não;Não
+32.006.821/0001-21;2020-12-01;1;José Alexandre Costa de Freitas;47;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2012-12-12;Não;Não
+32.065.364/0001-46;2020-12-01;1;Pedro Carlos Batista Jourdan Filho;35;4293856765;Bacharel em Direito;reguladores@cmcapital.com.br;Superior Completo;0;;0;2019-10-31;Não há;Não há
+32.065.718/0001-52;2020-12-01;1;Pedro Carlos Batista Jourdan Filho;35;4293856765;Bacharel em Direito;reguladores@cmcapital.com.br;Superior Completo;0;;0;2020-10-31;NÃO HÁ;NÃO HÁ
+32.177.294/0001-18;2020-12-01;1;José Maria Ribeiro de Melo;62;29856523672;Bancário;jose.maria@mercantil.com.br;Técnico em Contabilidade;0;;0;2017-04-26;Sem ocorrência;Sem ocorrência
+32.274.163/0001-59;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+32.274.197/0001-43;2020-12-01;1;Eduardo Centola;53;151.840.668-88;Administrador de empresas;eduardo.centola@modal.com.br;;0;;0;2020-10-27;;
+32.274.553/0001-29;2020-12-01;1;Eduardo Centola;53;151.840.668-88;Administrador de empresas;eduardo.centola@modal.com.br;;0;;0;2020-10-27;;
+32.275.252/0001-10;2020-12-01;1;Silvano Gersztel;45;265.298.468-32;Economista;silvano.gersztel@reag.com.br;Ciências Econômicas;0;;0;2016-10-01;;
+32.317.313/0001-64;2020-06-01;1;Carlos Augusto Salamonde;48;011.393.467-09;Diretor;carlos,salamonde@itau-unibanco.com.br;Economia;0;;0;2018-10-01;;
+32.397.369/0001-76;2020-12-01;1;Artur Martins de Figueiredo;55;7381333880;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;Não;Não
+32.400.250/0001-05;2020-06-01;1;Carlos Augusto Salamonde;48 anos;1139346709;Diretor;carlos.salamonde@itau-unibanco.com.br;Economia;0;;0;2018-10-01;;
+32.441.656/0001-36;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+32.527.552/0001-49;2020-06-01;1;RODRIGO DE GODOY;47;006.651.417/77;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;;
+32.527.626/0001-47;2020-06-01;1;RODRIGO DE GODOY;47;006.651.417/77;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;N/A;N/A
+32.527.683/0001-26;2020-06-01;1;RODRIGO DE GODOY;47;006.651.417/77;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;N/A;N/A
+32.655.589/0001-52;2020-12-01;1;ANDRÉ BERNARDINO DA CRUZ FILHO;60;192.221.224-53;Bancário;andre.cruz@bradesco.com.br;Administração;0;;0;2009-12-07;Nada Consta;Nada Consta
+32.667.306/0001-92;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+32.754.734/0001-52;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+32.784.898/0001-22;2020-12-01;1;Augusto Afonso Martins;39 anos;289.816.118-74;Administrador de empresas;augusto.martins@cshg.com.br;Administração de empresas;9500;;0;2018-10-31;Nenhuma;Nenhuma
+32.892.018/0001-31;2020-06-01;2;Marcelo Vieira Francisco;46;170.776.768-89;Economista;mfrancisco@santandercaceis.com.br;Ciências Econômicas;0;;0;2016-03-01;N/A;N/A
+32.903.521/0001-45;2020-12-01;2;Marcelo Vieira Francisco;45;170.776.768-89;Economista;mfrancisco@santander.com.br;Ciências Econômicas;0;;0;2016-03-01;N/A;N/A
+32.903.621/0001-71;2020-06-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administração de empresas;0;;0;2018-04-01;;
+32.903.661/0001-13;2020-06-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administração de empresas;0;;0;2018-04-01;;
+32.903.702/0001-71;2020-12-01;1;Marcelo Vieira Francisco;45;170.776.768-89;Economista;mfrancisco@santander.com.br;Ciências Econômicas;0;;0;2016-03-01;N/A;N/A
+33.045.581/0001-37;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+33.046.142/0001-49;2020-06-01;3;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+33.354.650/0001-94;2020-12-01;1;Maria Clara Guimarães Gusmão;33;8954133614;Administradora;maria.gusmao@interdtvm.com.br;Ciências Econômicas;0;;0;2019-09-23;;
+33.554.611/0001-30;2020-12-01;1;LUIZ ALVARO DE PAIVA FERREIRA;59;049.035.538-25;ECONOMISTA;lferreira@terrainvestimentos.com.br;ECONOMIA;3397.25766339;;0;2020-03-14;;
+33.701.455/0001-93;2020-12-01;1;ALBERTO GARCIA ROCHE;64;154.184.438-60;Administrador de Empresas;finanças@framcapital.com;Economista;0;;0;2017-05-16;;
+33.701.485/0001-08;2020-12-01;1;ALBERTO GARCIA ROCHE;64;154.184.438-60;Administrador de Empresas;finanças@framcapital.com;Economista;0;;0;2017-05-16;;
+33.701.501/0001-54;2020-12-01;1;ALBERTO GARCIA ROCHE;64;154.184.438-60;Administrador de Empresas;finanças@framcapital.com;Economista;0;;0;2017-05-16;;
+33.701.887/0001-02;2020-12-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;não;não
+33.721.517/0001-29;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+33.842.871/0001-01;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+33.884.145/0001-51;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+33.884.197/0001-28;2020-12-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;não;não
+34.007.109/0001-72;2020-12-01;1;Maria Clara Guimarães Gusmão;33;8954133614;Administradora;maria.gusmao@interdtvm.com.br;Ciências Econômicas;0;;0;2019-09-23;;
+34.027.774/0001-28;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+34.081.611/0001-23;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+34.081.631/0001-02;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+34.081.637/0001-71;2020-12-01;2;Marcos Wanderley Pereira;46;1425563783;Diretor;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+34.197.700/0001-30;2020-12-01;3;Daniel Doll Lemos;41;275.605.768-18;Diretor de Administração de Fundos;daniel@singulare.com.br;Administrador de Empresas;0;;0;2008-03-13;;
+34.197.727/0001-22;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+34.197.776/0001-65;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+34.197.811/0001-46;2020-05-01;1;Allan Hadid;43 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+34.197.811/0001-46;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+34.471.719/0001-22;2020-12-01;1;ALBERTO GARCIA ROCHE;64;154.184.438-60;Administrador de Empresas;finanças@framcapital.com;Economista;0;;0;2017-05-16;;
+34.508.872/0001-87;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+34.508.923/0001-70;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+34.509.007/0001-55;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+34.547.078/0001-42;2020-12-01;1;Silvano Gersztel;45;265.298.468-32;Economista;silvano.gersztel@reag.com.br;Ciências Econômicas;0;;0;2016-10-01;;
+34.598.181/0001-11;2020-12-01;1;Maria Clara Guimarães Gusmão;33 anos;8954133614;Economista;maria.gusmao@interdtvm.com.br;Ciências Econômicas;150;;10;2019-11-01;;
+34.691.925/0001-48;2020-12-01;1;ANDRÉ BERNARDINO DA CRUZ FILHO;60;192.221.224-53;Bancário;andre.cruz@bradesco.com.br;Administração;0;;0;2009-12-07;Nada Consta;Nada Consta
+34.693.040/0001-88;2020-12-01;1;ANDRÉ BERNARDINO DA CRUZ FILHO;60;192.221.224-53;Bancário;andre.cruz@bradesco.com.br;Administração;0;;0;2009-12-07;Nada Consta;Nada Consta
+34.736.432/0001-87;2020-12-01;3;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+34.736.474/0001-18;2020-06-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administração de empresas;0;;0;2018-04-01;;
+34.736.510/0001-43;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+34.835.191/0001-23;2020-06-01;1;Maria Clara Guimarães Gusmão;32 anos;8954133614;Economista;maria.gusmao@interdtvm.com.br;Ciências Econômicas;50;;0;2019-11-23;;
+34.847.063/0001-08;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+34.895.711/0001-93;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+34.895.894/0001-47;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+35.360.651/0001-77;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+35.434.880/0001-99;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+35.449.574/0001-26;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+35.507.457/0001-71;2020-06-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administração de empresas;0;;0;2018-04-01;;
+35.507.610/0001-60;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Diretor;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+35.586.415/0001-73;2020-06-01;1;Maria Cecilia Carrazedo de Andrade;35 anos;343.913.778-37;Administrador de Empresas;dtvm@hedgeinvest.com.br;Administração de Empresas EAESP-FGV. Certificação Profissional - CFA.;0;;0;2019-12-17;;
+35.652.060/0001-73;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+35.652.081/0001-99;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+35.652.154/0001-42;2020-06-01;2;Allan Hadid;44 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
+35.689.670/0001-41;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+35.689.733/0001-60;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+35.704.849/0001-20;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+35.705.463/0001-33;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+35.705.542/0001-44;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+35.725.659/0001-90;2020-12-01;1;Daniel Doll Lemos;41;275.605.768-18;Diretor de Administração de Fundos;daniel@singulare.com.br;Administrador de Empresas;0;;0;2008-03-13;;
+35.725.666/0001-91;2020-12-01;1;Daniel Doll Lemos;41;275.605.768-18;Diretor de Administração de Fundos;daniel@singulare.com.br;Administrador de Empresas;0;;0;2008-03-13;;
+35.741.868/0001-27;2020-12-01;1;LUIZ ALVARO DE PAIVA FERREIRA;59;049.035.538-25;ECONOMISTA;lferreira@terrainvestimentos.com.br;ECONOMIA;81532.59662062;;0;2020-03-14;;
+35.754.164/0001-99;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+35.755.044/0001-06;2020-12-01;1;José Alexandre Costa de Freitas;49;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2019-10-22;Não;Não
+35.765.826/0001-26;2020-12-01;1;Eduardo Centola;53;151.840.668-88;Administrador de empresas;eduardo.centola@modal.com.br;;0;;0;2020-10-27;;
+35.765.889/0001-82;2020-12-01;1;Eduardo Centola;53 anos;151.840.668-88;Administrador de Empresas;eduardo.centola@modal.com.br;Administração;0;;0;2020-10-27;Não há;Não há
+35.765.907/0001-26;2020-12-01;1;Eduardo Centola;53;151.840.668-88;Administrador de empresas;eduardo.centola@modal.com.br;;0;;0;2020-10-27;;
+35.819.314/0001-03;2020-12-01;1;BRUNO JOSÉ ALBUQUERQUE DE CASTRO;36;085.188.247-10;Bancário;bcastro@modal.com.br;Engenheiro;0;;0;2017-04-03;;
+35.820.768/0001-96;2020-12-01;1;Artur Martins de Figueiredo;53;073.813.338-80;Administrador de Empresas;afigueiredo@planner.com.br;PUC;0;;0;1999-06-07;não;não
+35.880.201/0001-05;2020-12-01;1;BRUNO JOSÉ ALBUQUERQUE DE CASTRO;36;085.188.247-10;Bancário;bcastro@modal.com.br;Engenheiro;0;;0;2017-04-03;;
+36.098.375/0001-83;2020-12-01;1;Maria Clara Guimarães Gusmão;33 anos;8954133614;Economista;maria.gusmao@interdtvm.com.br;Ciências Econômicas;0;;0;2019-11-01;;
+36.368.869/0001-30;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+36.368.925/0001-37;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+36.445.498/0001-43;2020-12-01;1;Danilo Christófaro Barbieri;40;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+36.445.551/0001-06;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+36.501.249/0001-28;2020-12-01;1;RODRIGO DE GODOY;47;665141777;Diretor;atendimentocvm@bancoplural.com;Administrador;0;;0;2019-01-23;;
+36.517.660/0001-91;2020-12-01;1;PAULO ANDRE PORTO BILYK;55;8930378854;Administrador de Empresas;CORRESPONDECIA@RIOBRAVO.COM.BR;Administrador de Empresas;0;;0;1994-07-01;não ocorreram eventos;não ocorreram eventos
+36.615.915/0001-59;2020-12-01;1;ANDRÉ BERNARDINO DA CRUZ FILHO;60;192.221.224-53;Bancário;andre.cruz@bradesco.com.br;Administração;0;;0;2009-12-07;Nada Consta;Nada Consta
+36.669.660/0001-07;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+36.731.458/0001-68;2020-12-01;1;LUIZ ALVARO DE PAIVA FERREIRA;59;049.035.538-25;ECONOMISTA;lferreira@terrainvestimentos.com.br;ECONOMIA;16970.29177176;;0;2020-03-14;;
+36.741.215/0001-00;2020-12-01;1;Silvano Gersztel;45;265.298.468-32;Economista;silvano.gersztel@reag.com.br;Ciências Econômicas;0;;0;2016-10-01;;
+36.885.948/0001-19;2020-12-01;1;Silvano Gersztel;45;265.298.468-32;Economista;silvano.gersztel@reag.com.br;Ciências Econômicas;0;;0;2016-10-01;;
+36.885.989/0001-05;2020-12-01;1;Silvano Gersztel;45;265.298.468-32;Economista;silvano.gersztel@reag.com.br;Ciências Econômicas;0;;0;2016-10-01;;
+36.969.658/0001-53;2020-12-01;1;Silvano Gersztel;45;265.298.468-32;Economista;silvano.gersztel@reag.com.br;Ciências Econômicas;0;;0;2016-10-01;;
+37.087.810/0001-37;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+37.112.770/0001-36;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+37.180.091/0001-02;2020-12-01;1;Aguinaldo Barbieri;53 anos;9016372890;Bancário;aguinaldo@bb.com.br;Direito;100;;0;2020-07-01;;
+37.262.531/0001-62;2020-12-01;1;José Alexandre Costa de Freitas;49;008.991.207-17;Diretor Presidente;alexandre.freitas@oliveiratrust.com.br;Direito;0;;0;2019-10-22;Não;Não
+37.266.902/0001-84;2020-12-01;1;José Alexandre Costa de Freitas;48;899120717;Diretor Presidente;ger2.fundos@oliveiratrust.com.br;Direito;0;;0;2012-11-09;Não;Não
+37.295.919/0001-60;2020-12-01;3;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+37.295.952/0001-90;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+37.899.400/0001-90;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+37.899.479/0001-50;2020-12-01;1;Danilo Christófaro Barbieri;41;28729710847;Administrador de empresas;dbarbieri@brltrust.com.br;Administrador de empresas;0;;0;2018-04-01;;
+37.931.298/0001-63;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+38.376.805/0001-07;2020-12-01;1;ANDRÉ BERNARDINO DA CRUZ FILHO;60;192.221.224-53;Bancário;andre.cruz@bradesco.com.br;Administração;0;;0;2009-12-07;Nada Consta;Nada Consta
+38.456.598/0001-09;2020-12-01;1;Marcos Wanderley Pereira;47;014.255.637-83;Administrador;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+38.658.984/0001-75;2020-12-01;1;Marcos Wanderley Pereira;46;1425563783;Diretor;mw@vortx.com.br;Superior Completo;0;;0;2018-04-13;;
+39.347.413/0001-82;2020-12-01;1;Fernando Ferreira da Silva Telles;69;307.745.278-20;Corretor Valores;fernandostelles@coinvalores.com.br;Superior;0;;0;1982-01-01;;
+39.714.024/0001-48;2020-12-01;1;CAROLINA ANDREA GARISTO GREGÓRIO;41 ANOS;21715650808;ENGENHEIRA CIVIL;carolina.greorio@unitas.com.br;ENGENHARIA CIVIL;0;;0;2018-07-31;;
+97.521.194/0001-02;2020-12-01;1;ORONZO CHIARELLA;58 ANOS;92231578891;BANCÁRIO;oronzo.chiarella@br.bnpparibas.com;Cursou Economia;0;;0;2016-06-14;NÃO HÁ;NÃO HÁ
+97.521.225/0001-25;2020-12-01;1;Allan Hadid;45 anos;071.913.047-66;Economista;ol-reguladores@btgpactual.com;Graduado em ciências econômicas pela Pontifícia Universidade Católica do Rio de Janeiro em dezembro de 1997.;0;;0;2016-09-29;Não há;Não há
