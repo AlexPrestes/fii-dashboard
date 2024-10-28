@@ -60,6 +60,5 @@ for link in df.loc[df["download"] == True, "file_url"]:
             file, f"./data/raw/{string_match.group(1)}/{string_match.group(2)}/"
         )
 
-
 df["download"] = False
 df.to_parquet("sync.pq")
