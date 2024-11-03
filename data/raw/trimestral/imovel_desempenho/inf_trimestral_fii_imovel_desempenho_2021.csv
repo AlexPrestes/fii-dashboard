@@ -11,9 +11,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 01.235.622/0001-61;2021-06-30;1;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Replanejamento de Fluxo de obra.;N.A.
 01.235.622/0001-61;2021-06-30;1;Imóveis para venda em construção;The Gallery;Paralisação de Transporte público por um período da obra, além do atraso na entrega de alguns materiais.;N.A.
 01.235.622/0001-61;2021-09-30;1;Imóveis para venda em construção;The Gallery;N.A.;N.A.
+01.235.622/0001-61;2021-09-30;1;Imóveis para venda em construção;Aretê - Alto Ybirá;N.A.;N.A.
 01.235.622/0001-61;2021-09-30;1;Imóveis para venda em construção;Aretê - Peninsula Norte;N.A.;N.A.
 01.235.622/0001-61;2021-09-30;1;Imóveis para venda em construção;Iluminato;Atraso no desmonte da rocha, devido à redução de horário de trabalho. Zona altamente residencial.;N.A.
-01.235.622/0001-61;2021-09-30;1;Imóveis para venda em construção;Aretê - Alto Ybirá;N.A.;N.A.
 01.235.622/0001-61;2021-09-30;1;Imóveis para venda em construção;Costa Mare;Prazo de obra replanejado, devido estratégias comerciais.;N.A.
 01.235.622/0001-61;2021-09-30;1;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
 01.235.622/0001-61;2021-09-30;1;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Atraso na contratação de serviços.;N.A.
@@ -22,11 +22,11 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Iluminato;Atraso no desmonte da rocha, devido à redução de horário de trabalho. Zona altamente residencial.;N.A.
 01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Aretê - Alto Ybirá;N.A.;N.A.
 01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Blanc 260;N.A.;N.A.
-01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
 01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;The Gallery;N.A.;N.A.
-01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Atraso na contratação de serviços.;N.A.
 01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Maison Laranjeiras;N.A.;N.A.
 01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Aretê - Peninsula Norte;N.A.;N.A.
+01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
+01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Atraso na contratação de serviços.;N.A.
 01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Costa Mare;Prazo de obra replanejado, devido estratégias comerciais.;N.A.
 03.683.056/0001-86;2021-03-31;1;Imóveis para renda em construção;Edifício Alameda Santos;Evolução está de acordo com o previsto;Cronograma de obras está sendo seguindo dentro do baseline e ajustado ao calendário reprogramado de obra
 03.683.056/0001-86;2021-06-30;1;Imóveis para renda em construção;Edifício Alameda Santos;Evolução está de acordo com o previsto;Cronograma de obras está sendo seguindo dentro do baseline e ajustado ao calendário reprogramado de obra
@@ -43,23 +43,23 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 11.044.355/0001-07;2021-09-30;2;Imóveis para renda em construção;Power Shopping Centerminas;O andamento das atividades é planejado de acordo com as premissas de receitas, cujos valores estimados não foram consolidados conforme previsto, fato que acarretou o atraso no andamento físico da obra.;Aumento do custo indireto, devido ao aumento no prazo de execução.
 12.681.340/0001-04;2021-03-31;1;Imóveis para renda em construção;Ag. Raposo;Obras em finalização.;não há
 12.989.974/0001-29;2021-03-31;2;Imóveis para venda em construção;Porto Vida Residencial;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
-12.989.974/0001-29;2021-03-31;2;Imóveis para renda em construção;Porto Vista;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
 12.989.974/0001-29;2021-03-31;2;Imóveis para renda em construção;Pátio da Marítima Torre II;O início da construção pelo incorporador depende de condições mercadológicas ;O FII PM não arca com custo de construção.
+12.989.974/0001-29;2021-03-31;2;Imóveis para renda em construção;Porto Vista;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
+12.989.974/0001-29;2021-06-30;1;Imóveis para venda em construção;Porto Vida Residencial;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
 12.989.974/0001-29;2021-06-30;1;Imóveis para renda em construção;Pátio da Marítima Torre II;O início da construção pelo incorporador depende de condições mercadológicas ;O FII PM não arca com custo de construção.
 12.989.974/0001-29;2021-06-30;1;Imóveis para renda em construção;Porto Vista;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
-12.989.974/0001-29;2021-06-30;1;Imóveis para venda em construção;Porto Vida Residencial;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
-12.989.974/0001-29;2021-09-30;1;Imóveis para renda em construção;Pátio da Marítima Torre II;O início da construção pelo incorporador depende de condições mercadológicas ;O FII PM não arca com custo de construção.
 12.989.974/0001-29;2021-09-30;1;Imóveis para renda em construção;Porto Vista;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
 12.989.974/0001-29;2021-09-30;1;Imóveis para venda em construção;Porto Vida Residencial;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
+12.989.974/0001-29;2021-09-30;1;Imóveis para renda em construção;Pátio da Marítima Torre II;O início da construção pelo incorporador depende de condições mercadológicas ;O FII PM não arca com custo de construção.
+12.989.974/0001-29;2021-12-31;2;Imóveis para renda em construção;Porto Vista;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
 12.989.974/0001-29;2021-12-31;2;Imóveis para renda em construção;Pátio da Marítima Torre II;O início da construção pelo incorporador depende de condições mercadológicas ;O FII PM não arca com custo de construção.
 12.989.974/0001-29;2021-12-31;2;Imóveis para venda em construção;Porto Vida Residencial;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
-12.989.974/0001-29;2021-12-31;2;Imóveis para renda em construção;Porto Vista;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
 13.320.290/0001-00;2021-03-31;1;Imóveis para renda em construção;R. Leopoldo C AP 311, Sao Paulo-SP;;
 13.320.290/0001-00;2021-03-31;1;Imóveis para renda em construção;R. Leopoldo C AP 321, Sao Paulo-SP;;
 13.320.290/0001-00;2021-06-30;1;Imóveis para renda em construção;R. Leopoldo C AP 311, Sao Paulo-SP;;
 13.320.290/0001-00;2021-06-30;1;Imóveis para renda em construção;R. Leopoldo C AP 321, Sao Paulo-SP;;
-13.320.290/0001-00;2021-09-30;1;Imóveis para renda em construção;R. Leopoldo C AP 311, Sao Paulo-SP;;
 13.320.290/0001-00;2021-09-30;1;Imóveis para renda em construção;R. Leopoldo C AP 321, Sao Paulo-SP;;
+13.320.290/0001-00;2021-09-30;1;Imóveis para renda em construção;R. Leopoldo C AP 311, Sao Paulo-SP;;
 13.320.290/0001-00;2021-12-31;1;Imóveis para renda em construção;R. Leopoldo C AP 311, Sao Paulo-SP;;
 13.320.290/0001-00;2021-12-31;1;Imóveis para renda em construção;R. Leopoldo C AP 321, Sao Paulo-SP;;
 13.584.584/0001-31;2021-03-31;1;Imóveis para renda em construção;Não se aplica;Não se aplica;Não se aplica
@@ -82,8 +82,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 15.461.076/0001-91;2021-03-31;1;Imóveis para renda em construção;51 Unidades  Master no Hotel;;
 15.461.076/0001-91;2021-03-31;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
 15.461.076/0001-91;2021-03-31;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
-15.461.076/0001-91;2021-03-31;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2021-03-31;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
+15.461.076/0001-91;2021-03-31;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2021-06-30;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
 15.461.076/0001-91;2021-06-30;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
 15.461.076/0001-91;2021-06-30;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
@@ -92,12 +92,12 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 15.461.076/0001-91;2021-06-30;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2021-09-30;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
 15.461.076/0001-91;2021-09-30;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
-15.461.076/0001-91;2021-09-30;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
-15.461.076/0001-91;2021-09-30;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
-15.461.076/0001-91;2021-09-30;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
 15.461.076/0001-91;2021-09-30;1;Imóveis para renda em construção;51 Unidades  Master no Hotel;;
-15.461.076/0001-91;2021-12-31;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
+15.461.076/0001-91;2021-09-30;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
+15.461.076/0001-91;2021-09-30;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
+15.461.076/0001-91;2021-09-30;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
 15.461.076/0001-91;2021-12-31;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
+15.461.076/0001-91;2021-12-31;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
 15.461.076/0001-91;2021-12-31;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2021-12-31;1;Imóveis para renda em construção;51 Unidades  Master no Hotel;;
 15.461.076/0001-91;2021-12-31;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
@@ -130,8 +130,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 26.502.794/0001-85;2021-06-30;1;Imóveis para renda em construção;Especulativo Cajamar;Não aplicável;Não aplicável
 26.502.794/0001-85;2021-06-30;1;Imóveis para renda em construção;Syslog SP;Não aplicável;Não aplicável
 26.502.794/0001-85;2021-09-30;1;Imóveis para renda em construção;Syslog SP;Não aplicável;Não aplicável
-26.502.794/0001-85;2021-09-30;1;Imóveis para renda em construção;Especulativo Extrema;Não aplicável;Não aplicável
 26.502.794/0001-85;2021-09-30;1;Imóveis para renda em construção;Especulativo Cajamar;Não aplicável;Não aplicável
+26.502.794/0001-85;2021-09-30;1;Imóveis para renda em construção;Especulativo Extrema;Não aplicável;Não aplicável
 26.502.794/0001-85;2021-12-31;1;Imóveis para renda em construção;Especulativo Extrema;Não aplicável;Não aplicável
 26.502.794/0001-85;2021-12-31;1;Imóveis para renda em construção;CD Leroy Expansão;Não aplicável;Não aplicável
 26.614.291/0001-00;2021-09-30;1;Imóveis para renda em construção;Projeto BTS Eagleburgmann do Brasil;Chuvas acima da média historica em junho 21 e substituição da construtora.;
@@ -179,8 +179,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 34.895.711/0001-93;2021-09-30;1;Imóveis para venda em construção;ALPHAVILLE BAURU;não aplicavel;não aplicavel
 34.895.711/0001-93;2021-09-30;1;Imóveis para venda em construção;ALPHAVILLE NOVAESPLANADA;não aplicavel;não aplicavel
 34.895.711/0001-93;2021-09-30;1;Imóveis para venda em construção;ALPHACASTELLO;não aplicavel;não aplicavel
-34.895.711/0001-93;2021-12-31;1;Imóveis para venda em construção;ALPHAVILLE DOM PEDRO;n/a;n/a
 34.895.711/0001-93;2021-12-31;1;Imóveis para venda em construção;ALPHACASTELLO;n/a;n/a
+34.895.711/0001-93;2021-12-31;1;Imóveis para venda em construção;ALPHAVILLE DOM PEDRO;n/a;n/a
 34.895.711/0001-93;2021-12-31;1;Imóveis para venda em construção;ALPHAVILLE NOVAESPLANADA;n/a;n/a
 34.895.711/0001-93;2021-12-31;1;Imóveis para venda em construção;ALPHAVILLE JUNDIAÍ;n/a;n/a
 35.652.102/0001-76;2021-06-30;1;Imóveis para renda em construção;Union Faria Lima;Não aplicável;Não aplicável
@@ -195,8 +195,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 35.725.659/0001-90;2021-06-30;2;Imóveis para renda em construção;COND COM QUINTINO BOCAIUVA;Aguardando aprovação dos orgão reguladores para iniviar as obras;
 35.725.659/0001-90;2021-09-30;1;Imóveis para renda em construção;COND COM QUINTINO BOCAIUVA;Devido a escavação em rocha em volume superior ao previsto. Estamos na fase inicial da obra e temos itens futuros a recuperar.;Devido a escavação em rocha em volume superior ao previsto. Estamos na fase inicial da obra e temos itens futuros a recuperar.
 35.725.659/0001-90;2021-09-30;1;Imóveis para renda em construção;COND RES TEENA;Os desvios aconteceram devido às paralizações do COVID-19,  em 2020 e 2021, em conjunto com a escassez de materias;Não se aplica.
-35.725.659/0001-90;2021-12-31;1;Imóveis para renda em construção;COND RES TEENA;Os desvios aconteceram devido às paralizações do COVID-19,  em 2020 e 2021, em conjunto com a escassez de materias;Não se aplica.
 35.725.659/0001-90;2021-12-31;1;Imóveis para renda em construção;COND COM QUINTINO BOCAIUVA;A obra não iniciou, está em fase de aprovação de projeto na prefeitura protocolado em fev/2021.;Não se aplica.
+35.725.659/0001-90;2021-12-31;1;Imóveis para renda em construção;COND RES TEENA;Os desvios aconteceram devido às paralizações do COVID-19,  em 2020 e 2021, em conjunto com a escassez de materias;Não se aplica.
 35.765.889/0001-82;2021-12-31;1;Imóveis para renda em construção;Hospital Bandeirantes;Obra finalizada;O imóvel esta finalizando as melhorias as custas do locatário, conforme acordado.
 35.765.907/0001-26;2021-09-30;1;Imóveis para renda em construção;GOLGI JUNDIAI - PHASE 2;OBRA DENTRO DO CRONOGRAMA;ORÇAMENTO DENTRO DO ORÇAMENTO
 35.765.907/0001-26;2021-12-31;2;Imóveis para renda em construção;GOLGI JUNDIAI - PHASE 2;OBRA DENTRO DO CRONOGRAMA;ORÇAMENTO DENTRO DO ORÇAMENTO

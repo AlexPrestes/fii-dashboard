@@ -164,6 +164,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevantes;Are
 13.726.079/0001-84;2024-06-30;1;Estrada Nova de Caucaia;Matricula 218.967 - Grande Moravia;677.97;1;0
 14.074.706/0001-02;2024-03-28;1;Moutain View Residencial;Próximo a Rua dos Industriários, Cidade Nova Lima - MG;500000;0.686;0.686
 14.074.706/0001-02;2024-06-28;1;Moutain View Residencial;Próximo a Rua dos Industriários, Cidade Nova Lima - MG;500000;0.686;0.686
+14.074.706/0001-02;2024-09-30;1;Moutain View Residencial;Próximo a Rua dos Industriários, Cidade Nova Lima - MG;500000;0.686;0.686
 14.217.108/0001-45;2024-03-31;1;R. D. Francisca, 8300 - Dist. Indl - Joinville -SC;Matricula;277714.5;0.194537;0
 14.217.108/0001-45;2024-03-31;1;R. Alemanha, nº 0 - Bairro Gloria Joinville - SC;Matricula;10635.13;0.058188;0
 14.217.108/0001-45;2024-03-31;1;R. Silva Jardim, nº 0 - Bairro Gloria-Joinville-SC;Matricula;33650;0.18411;0
@@ -239,6 +240,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevantes;Are
 26.269.251/0001-60;2024-09-30;2;Av. José Biscio n° 53, Guariba - SP;Loteamento Industrial denominado "Parque Industrial Gov. Mario Covas", Formato irregular, Lotes n° 86,87,88,89,90 e 91.;8742.37;1;1
 26.452.053/0001-37;2024-03-28;1;Avenida Inocêncio Seráfico, 3444, Vila Dirce, Município de Carapicuíba, Estado de São Paulo.;Terreno;2220;0;0
 26.452.053/0001-37;2024-06-28;1;Avenida Inocêncio Seráfico, 3444, Vila Dirce, Município de Carapicuíba, Estado de São Paulo.;Terreno;2220;0;0
+26.452.053/0001-37;2024-09-30;1;Avenida Inocêncio Seráfico, 3444, Vila Dirce, Município de Carapicuíba, Estado de São Paulo.;Terreno;2220;0;0
 27.368.617/0001-10;2024-03-31;2;Coordenadas UTM N=7.803.827,02 - E=598.794,65, localizado junto à margem esquerda da Av. das Comtendas, CEP 32184-010 - Contagem-MG;Matrícula nº 155.707. Fazendo Boa Vista. Fundo é proprietário de 100% do terreno, sem ônus.;210442.43;0.995217;0
 27.368.617/0001-10;2024-03-31;2;Parque Nacional da Serra do Gandarela - Reserva Ambiental. N/A, CEP 35450-000 - Itabirito - MG.;Matrícula nº 30.803;31059;0.004783;0
 27.368.617/0001-10;2024-06-30;1;Coordenadas UTM N=7.803.827,02 - E=598.794,65, localizado junto à margem esquerda da Av. das Comtendas, CEP 32184-010 - Contagem-MG;Matrícula nº 155.707. Fazendo Boa Vista. Fundo é proprietário de 100% do terreno, sem ônus.;210442.43;0.995217;0
@@ -265,6 +267,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevantes;Are
 28.267.696/0001-36;2024-06-30;1;Setor 17, Quadra 0416, S/n, Distrito, Dois Corregos, Dois Corregos/SP, Brasil, 17300-000;Direito de propriedade;5016.3;0.53818416662182;0
 28.899.178/0001-35;2024-03-31;1;Av. Rebouças, 2.492, 2.516 e 2.538  e Rua taçainha, 61 - Pinheiros São Paulo-SP;Lote 3, 4, 5 e 64;2157;1;0
 28.899.178/0001-35;2024-06-30;1;Av. Rebouças, 2.492, 2.516 e 2.538  e Rua taçainha, 61 - Pinheiros São Paulo-SP;Lote 3, 4, 5 e 64;2157;1;0
+28.899.178/0001-35;2024-09-30;1;Av. Rebouças, 2.492, 2.516 e 2.538  e Rua taçainha, 61 - Pinheiros São Paulo-SP;Lote 3, 4, 5 e 64;2157;1;0
 29.010.599/0001-26;2024-03-31;1;R. Comendador Elias Zarzur, 54, 62 e 70- Santo Amaro, São Paulo - SP.;O imóvel está localizado na quadra complementada pela Rua Padre José de Anchieta, Rua Isabel Schmidt e R. Min. Roberto Cardoso Alves,Conforme informações da municipalidade, o imóvel em estudo está localizado em zoneamento definido como ZEMP;1740;0.9721;0.9721
 29.010.599/0001-26;2024-03-31;1;R. 23 de maio, número 139, edifício residencial medeiros, na vila california;Terro: possui 7,90 metros de frente, porm 4,65 metros da frente aos fundos, de ambos os lados, tendo nos fundos a mesma medida  da frente.;154.8567;0.0282;0.0282
 29.010.599/0001-26;2024-06-30;1;R. Comendador Elias Zarzur, 54, 62 e 70- Santo Amaro, São Paulo - SP.;O imóvel está localizado na quadra complementada pela Rua Padre José de Anchieta, Rua Isabel Schmidt e R. Min. Roberto Cardoso Alves,Conforme informações da municipalidade, o imóvel em estudo está localizado em zoneamento definido como ZEMP (matriculas 61.008 / 61.009 / 89.906);1740;1;1
@@ -303,8 +306,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevantes;Are
 31.524.769/0001-32;2024-09-30;1;Rua Conselheiro Dantas n° 350, esquina com Rua Tiers, Bairro Pari - SP;ELEVSHOP KODY - Terreno com edificio comercial que será voltado para um shopping center;8406.23;1;1
 31.544.493/0001-54;2024-03-28;1;Rua Francisco Muñoz Madrid, 625, consjunto 100 Bairro Roseira Município São José dos Pinhais, Estado do Paraná;Portal do Porto;89738.66;0.943919;0.988429
 31.544.493/0001-54;2024-06-28;1;Rua Francisco Muñoz Madrid, 625, consjunto 100 Bairro Roseira Município São José dos Pinhais, Estado do Paraná;Portal do Porto;89738.66;0.943919;0.988429
+31.544.493/0001-54;2024-09-30;1;Rua Francisco Muñoz Madrid, 625, consjunto 100 Bairro Roseira Município São José dos Pinhais, Estado do Paraná;Portal do Porto;89738.66;0.943919;0.988429
 31.547.989/0001-81;2024-03-28;1;Rua João Zarpelon nº 800, na Cidade de São José dos Pinhais - PR, matrícula nº 63.392 do Registro de Imóveis 1ª Circunscrição - S. J. dos Pinhais.;A área compreendida do terreno é de 114.286 m2 e com área construída de 45.618,36 m2.;114286;0;0
 31.547.989/0001-81;2024-06-28;1;Rua João Zarpelon nº 800, na Cidade de São José dos Pinhais - PR, matrícula nº 63.392 do Registro de Imóveis 1ª Circunscrição - S. J. dos Pinhais.;A área compreendida do terreno é de 114.286 m2 e com área construída de 45.618,36 m2.;114286;0;0
+31.547.989/0001-81;2024-09-30;1;Rua João Zarpelon nº 800, na Cidade de São José dos Pinhais - PR, matrícula nº 63.392 do Registro de Imóveis 1ª Circunscrição - S. J. dos Pinhais.;A área compreendida do terreno é de 114.286 m2 e com área construída de 45.618,36 m2.;114286;0;0
 31.713.934/0001-02;2024-03-28;1;Alameda Oscar Niemeyer, 119 sala 1004, Vila da Serra, CEP:34006-056;LAJES CP - CONCÓRDIA;2520;0.478589;0.91868
 31.713.934/0001-02;2024-06-28;1;Alameda Oscar Niemeyer, 119 sala 1004, Vila da Serra, CEP:34006-056;LAJES CP - CONCÓRDIA;2520;0.478589;0.91868
 31.713.934/0001-02;2024-09-30;1;Alameda Oscar Niemeyer, 119 sala 1004, Vila da Serra, CEP:34006-056;LAJES CP - CONCÓRDIA;2520;0.478589;0.91868
@@ -325,6 +330,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevantes;Are
 32.388.168/0001-02;2024-06-30;1;Fazenda Sta Clara B;MAT 11359;29448.95;1;0
 32.388.168/0001-02;2024-06-30;1;Fazenda Sta Clara C;MAT 11360;29448.95;1;0
 32.388.168/0001-02;2024-06-30;1;Sitio Santa Clara;MAT 17028;108900;1;0
+32.903.621/0001-71;2024-09-30;1;Bairro Fazenda Velha, município de Araucária - PR;N/A;92744;0.0148;0
 33.842.871/0001-01;2024-03-31;1;Av. Lomanto Junior, 1575 - Cidade Nova - BA;Jequié matricula nº 38.486.;10000;0;0
 33.842.871/0001-01;2024-03-31;1;Rua Silveira Martins, 119/3500 Cabula- Salvador / BA;Matrícula 70.582 e 71.262 - 2º Ofício do Registro de Imóveis - Salvador/BA;39676.14;0;0
 33.842.871/0001-01;2024-06-30;1;Av. Lomanto Junior, 1575 - Cidade Nova - BA;Jequié matricula nº 38.486.;10000;0;0

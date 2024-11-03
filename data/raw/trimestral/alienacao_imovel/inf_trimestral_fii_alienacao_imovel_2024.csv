@@ -2,6 +2,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numer
 07.000.400/0001-46;2024-06-30;1;Sede I - Brasilia;Sbs Quadra 1 Bloco E Lote 24, S/n, Sem Complemento, Asa Sul, Brasilia/DF, Brasil, 70072-900;2024-06-05;46175.4;1;Nenhuma caracterítica que destoe das demais;0.76270251077733;0.76270251077733
 07.000.400/0001-46;2024-06-30;1;Sede I - Antenas;Sbs Quadra 1, S/n, Sem Complemento, Asa Sul, Brasilia/DF, Brasil, 70072-900;2024-06-05;40.4;1;Nenhuma caracterítica que destoe das demais;0.00279908398906;0.00279908398906
 08.098.114/0001-28;2024-06-28;1;Loja - Nova Iguaçu;Cidade de Nova Iguaçu, Rio de Janeiro, na Avenida Nilo Peçanha, 176 e 186;2024-04-15;4457.25;1;Direito de propriedade;0.0312;0.0306
+08.098.114/0001-28;2024-09-30;1;Loja - Shopping Goiânia;Cidade de Goiânia, Goiás, na Avenida T-10, 1.300;2024-07-29;2400;1;Não há;0.0233;0.0219
 08.417.532/0001-30;2024-09-30;1;Posto Salvador;Avenida Mário Leal Ferreira, n° 509, Brotas - Salvador/Bahia;2024-07-15;7000;1;N/A;0.011896;0.03829
 08.431.747/0001-06;2024-03-31;1;I Fashion Outlet;BR-116, 236 - Rio Branco, Novo Hamburgo - RS;2024-02-08;;;Fração ideal de 10,625% do imóvel.;0.00807;0.008612
 08.431.747/0001-06;2024-03-31;1;I Fashion Outlet;BR-116, 236 - Rio Branco, Novo Hamburgo - RS;2024-03-07;;;Fração ideal de 10% do imóvel.;0.007595;0.008106
@@ -144,6 +145,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numer
 32.774.914/0001-04;2024-06-30;1;HESA 157;RESIDENCIAL HELBOR PRAÇAS IPOEMA - FII UNIDADES AUTÔNOMAS;2024-04-01;185.32;1;MATRICULA 85178;0.017873430018494;0.0185675391496027
 32.774.914/0001-04;2024-06-30;1;HESA 157;RESIDENCIAL HELBOR PRAÇAS IPOEMA - FII UNIDADES AUTÔNOMAS;2024-06-01;162.08;1;MATRICULA 85315;0.0184952865827907;0.0180189820789377
 32.892.018/0001-31;2024-03-31;1;Shopping Pátio Maceió;Av. Menino Marcelo, 3800 - Cidade Universitária, Maceió - AL, 57073-900;2024-02-16;41539.94;145;-;0.0504;0.0608
+32.903.661/0001-13;2024-09-30;1;Galpão Logístico Betim - MG;Avenida Contagem, 25, Betim Industrial, no Município de Betim, Estado de Minas Gerais;2024-07-18;25546.45;1;Não aplicável;0.1686;0.1732
 34.691.520/0001-00;2024-03-31;1;GPA ATIBAIA;Alameda Professor Lucas Nogueira Garcez, 2401, Sem Complemento, Jardim Paulista, Atibaia/SP, Brasil, 12947-000;2024-01-19;5894;1;Não possui caracteristicas que destoem dos demais;0.13560647496702;17.2105024058994
 34.691.925/0001-48;2024-03-28;1;NP_1016;Rua Dr. Nilo Peçanha, 100 - Sala 1016 - Centro, Guarulhos/SP;2024-02-08;38.85;1;Nenhuma característica relevante;0.000292;0.000432
 34.691.925/0001-48;2024-03-28;1;P519_3;Rua Equador, 43 - Sala 519, Bloco 3, Santo Cristo - Rio de Janeiro-RJ;2024-01-24;27.78;1;Nenhuma característica relevante;0.000411;0.000606
