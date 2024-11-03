@@ -52,6 +52,7 @@ df = pd.DataFrame(
 inf_path_pattern = r"inf_(\w+)_fii_(.+)_\d{4}\.csv"
 
 for link in df.loc[df["download"] == True, "file_url"]:
+    print(f"Download link {link}")
     response = requests.get(link, stream=True)
     zip_file = zipfile.ZipFile(io.BytesIO(response.content))
     for file in zip_file.namelist():
