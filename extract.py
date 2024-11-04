@@ -9,6 +9,8 @@ import logging
 from datetime import datetime
 
 
+logging.basicConfig(level=logging.INFO)
+
 informes_urls = [
     "https://dados.cvm.gov.br/dados/FII/DOC/INF_MENSAL/DADOS/",
     "https://dados.cvm.gov.br/dados/FII/DOC/INF_TRIMESTRAL/DADOS/",
