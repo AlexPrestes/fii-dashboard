@@ -4,6 +4,7 @@ import requests
 import re
 import os
 import io
+import logging
 
 from datetime import datetime
 
@@ -52,14 +53,15 @@ df = pd.DataFrame(
 inf_path_pattern = r"inf_(\w+)_fii_(.+)_\d{4}\.csv"
 
 for link in df.loc[df["download"] == True, "file_url"]:
-    print(f"Download link {link}")
+    logging.info(f"Download link {link}")
     response = requests.get(link, stream=True)
     zip_file = zipfile.ZipFile(io.BytesIO(response.content))
     for file in zip_file.namelist():
         string_match = re.match(inf_path_pattern, file)
-        zip_file.extract(
-            file, f"./data/raw/{string_match.group(1)}/{string_match.group(2)}/"
-        )
+        if string_match:
+            zip_file.extract(
+                file, f"./data/raw/{string_match.group(1)}/{string_match.group(2)}/"
+            )
 
 df["download"] = False
 df.to_parquet("sync.pq")
