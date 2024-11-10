@@ -11,6 +11,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Endereco;Area;Outras_Caracteristicas_Relevante
 19.722.048/0001-31;2024-06-30;2;Não possui informação apresentada.;;;;
 24.514.406/0001-50;2024-03-31;1;Área da Fazenda Praia do Forte, Distrito de Açu da Torre, Município de Mata de São João, Bahia, em 21/12/2021;55449.4;Área de terra contemplada com o termo de reserva legal da Fazenda Praia do Forte, Distrito de Açu da Torre, Município de Mata de São João, Bahia, identificada com AS-04, desmembrada da Matrícula nº 15.221, conf medidas e confrontações constantes na Matrícula nº 15.347.;;
 24.514.406/0001-50;2024-06-30;1;Área da Fazenda Praia do Forte, Distrito de Açu da Torre, Município de Mata de São João, Bahia, em 21/12/2021;55449.4;Área de terra contemplada com o termo de reserva legal da Fazenda Praia do Forte, Distrito de Açu da Torre, Município de Mata de São João, Bahia, identificada com AS-04, desmembrada da Matrícula nº 15.221, conf medidas e confrontações constantes na Matrícula nº 15.347.;;
+24.514.406/0001-50;2024-09-30;1;Área da Fazenda Praia do Forte, Distrito de Açu da Torre, Município de Mata de São João, Bahia, em 21/12/2021;55449.4;Área de terra contemplada com o termo de reserva legal da Fazenda Praia do Forte, Distrito de Açu da Torre, Município de Mata de São João, Bahia, identificada com AS-04, desmembrada da Matrícula nº 15.221, conf medidas e confrontações constantes na Matrícula nº 15.347.;;
 24.796.967/0001-90;2024-03-31;1;Não possui informação apresentada.;;;;
 24.796.967/0001-90;2024-06-30;2;Não possui informação apresentada.;;;;
 30.492.505/0001-81;2024-06-30;1;R. Vitorino Fernandes, s/n - Barra da Tijuca - Rio de Janeiro;1916;Área situada à Rua Vitorino Fernandes, lado ímpar, na freguesia de Jacarepaguá, esquina com a Av. Alfredo Baltazar da Silveira. Objeto da matrícula 428076 do 9° Ofício de Registro de Imóveis da Comarca do Rio de Janeiro - RJ;0.102341;0.037263
@@ -45,6 +46,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Endereco;Area;Outras_Caracteristicas_Relevante
 44.584.965/0001-44;2024-03-31;1;Rua Pe. Bernardino Pessoa nº 595 - Boa Viagem;12313.5;NUMEROS 16,32, 46,;0.4277;1.3983
 44.584.965/0001-44;2024-03-31;1;R. Cônego Amaral Mello, 116 - apartamento 62, Bloco D - Casa Verde, São Paulo/SP, CEP: 02513-030;452.7;MATRICULA RGI 173.743;0.2129;0.6959
 44.584.965/0001-44;2024-03-31;1;Rua Jose Nobre s/n Vila Maria;215.75;MATRICULO 54799;0.3577;1.1693
+44.584.965/0001-44;2024-09-30;1;Av. Miramar n840 Jardim Brasil, Caraguatatuba, São Pauloo-SP;500;Caranguatatu;0.0407631613853507;0.0394
 44.585.121/0001-18;2024-03-31;1;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;954.07;matrícula de n.º 70.592 - predio;1;4.0201
 44.585.121/0001-18;2024-03-31;1;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;1871.58;matrícula de n.º 70.592 - terreno;1;4.3836
 44.669.674/0001-59;2024-06-30;1;118984_237 - Avenida Henrique Gonçalves Batista, 237 - Jardim Belval;2444.75;Matrícula: 118.984 . Oficial de Registro de Imóveis de Barueri/SP;0.0414904879509462;1.46
@@ -62,6 +64,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Endereco;Area;Outras_Caracteristicas_Relevante
 51.889.479/0001-08;2024-03-31;1;AV. PRES. JOÃO GOULART;95.75;MATRICULA 30094;0.2201;0.2203
 51.889.479/0001-08;2024-06-30;1;VOLTA DA FIGUEIRA KM 19 - VIA MÃO - RS;13788.6;MATRICULA 40176;0.3506;0.2919
 51.889.479/0001-08;2024-06-30;1;VOLTA DA FIGUEIRA KM 19 - VIA MÃO - RS;6740.13;MATRICULA 81.006;0.1109;0.1173
+51.889.479/0001-08;2024-09-30;1;CRUZ A 51078;0;CRUZ A 51078;0.240251710122555;0.259235109413475
+51.889.479/0001-08;2024-09-30;1;LAGES 36632;0;LAGES 36632;0.247317936890865;0.266859671455048
 52.551.605/0001-74;2024-06-30;1;EDIF.A MESSI-Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. A - Messier Unid. 01 a 04;28703.8;Matrícula 133478;0.13994004376385;0.1098
 52.551.605/0001-74;2024-06-30;1;EDIF.A RUBI-Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. A - Rubi Déa Unid. 01 a 06;16780.7;Matrícula 110128;0.081811071829961;0.0642
 52.551.605/0001-74;2024-06-30;1;EDIF.B ESTRE-Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. B - Estrela de Magalhães Unid. 07 e 08;47633.1;Matrícula 110128;0.232226011645747;0.1823
@@ -78,3 +82,4 @@ CNPJ_Fundo;Data_Referencia;Versao;Endereco;Area;Outras_Caracteristicas_Relevante
 53.087.126/0001-01;2024-06-28;1;Estr. Palmeira - Três Barras, Garuva - SC, 89248-000;17705.5;Há o contrato de compra e venda do loteamento com a transferência da escritura para o fundo;0.566208920450727;0.415656343893032
 53.313.475/0001-02;2024-06-30;1;FAZENDA RIO BONITO1;354.051;MATRICULA 14830;1;0.233
 53.313.475/0001-02;2024-06-30;1;FAZENDA COLISEU;445.962;MATRICULA 14831;1;0.2934
+55.435.378/0001-00;2024-09-30;1;Rua Aurora 1011 - São Paulo/SP;1120;Matricula 92955;1;0.9449

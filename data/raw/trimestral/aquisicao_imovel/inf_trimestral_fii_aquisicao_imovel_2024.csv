@@ -71,6 +71,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidades;Outr
 41.820.693/0001-46;2024-06-30;1;SHOPPING VILAMARIANA;Rua Pelotas, 83 - São Paulo - SP;;;-;;
 42.517.145/0001-04;2024-03-31;1;AUTO POSTO ML;Rua Francisco Palheta, Freguesia de São Cristóvão - Rio de Janeiro - RJ;6500;1;-;1;Renda
 42.517.145/0001-04;2024-06-30;1;AUTO POSTO ML;Rua Francisco Palheta, Freguesia de São Cristóvão - Rio de Janeiro - RJ;6500;1;-;1;Renda
+42.517.145/0001-04;2024-09-30;1;AUTO POSTO ML;Rua Francisco Palheta, Freguesia de São Cristóvão - Rio de Janeiro - RJ;6500;1;-;1;Renda
 42.754.342/0001-47;2024-03-28;1;São Luiz;Avenida Presidente Juscelino Kubitschek, 1.830, São Paulo - SP;13187.02;14;Proprietário de 14 conjuntos distribuídos entre as Torres I, II e III;0.11;Renda
 42.754.342/0001-47;2024-06-28;1;Edifício HL Faria Lima;Avenida Horácio Lafer, 160, São Paulo - SP;3162.918;14;Proprietário de 14 conjuntos;0.0718;Renda
 43.617.702/0001-21;2024-06-30;1;REGENTSPARK  - CONJUNTO 82;Av. Brigadeiro Faria Lima, 1544 - Conjunto 82;153;1;Matricula 1.520 - 13º Registro de Imoveis de São Paulo;1;Renda
@@ -185,3 +186,4 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidades;Outr
 54.419.040/0001-00;2024-06-30;1;DAMHA 6J;Rua Irere 251  lote 6 Quadra J - Parque Residencial Damha - Araraquada SP;436.5;1;MATRICULA 101.863;1;Renda
 54.557.596/0001-54;2024-06-30;1;BM 336;Avenida Bartolomeu Mitre, 336, Sem Complemento, Leblon, Rio De Janeiro/RJ, Brasil, 22431-002;6830.66;1;Não possui caracteristicas que destoem dos demais;0.96120286673386;Renda
 55.314.271/0001-03;2024-06-30;1;Imovel Santo Andre - Hospital Next;Avenida Dom Pedro Ii, 665, Sem Complemento, Jardim, Santo Andre/SP, Brasil, 09080-110;10000;1;Não possui caracteristicas que destoem dos demais;0.51730675281991;Renda
+56.524.816/0001-79;2024-09-30;1;GALPÃO;GUARULHOS;58000;0;0;1;Renda

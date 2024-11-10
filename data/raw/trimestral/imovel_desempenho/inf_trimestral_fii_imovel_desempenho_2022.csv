@@ -65,10 +65,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 13.320.290/0001-00;2022-03-31;1;Imóveis para renda em construção;R. Leopoldo C AP 311, Sao Paulo-SP;;
 13.320.290/0001-00;2022-06-30;1;Imóveis para renda em construção;R. Leopoldo C AP 311, Sao Paulo-SP;;
 13.320.290/0001-00;2022-06-30;1;Imóveis para renda em construção;R. Leopoldo C AP 321, Sao Paulo-SP;;
-13.320.290/0001-00;2022-09-30;1;Imóveis para renda em construção;R. Leopoldo C AP 311, Sao Paulo-SP;;
 13.320.290/0001-00;2022-09-30;1;Imóveis para renda em construção;R. Leopoldo C AP 321, Sao Paulo-SP;;
-13.320.290/0001-00;2022-12-31;1;Imóveis para renda em construção;R. Leopoldo C AP 321, Sao Paulo-SP;;
+13.320.290/0001-00;2022-09-30;1;Imóveis para renda em construção;R. Leopoldo C AP 311, Sao Paulo-SP;;
 13.320.290/0001-00;2022-12-31;1;Imóveis para renda em construção;R. Leopoldo C AP 311, Sao Paulo-SP;;
+13.320.290/0001-00;2022-12-31;1;Imóveis para renda em construção;R. Leopoldo C AP 321, Sao Paulo-SP;;
 13.584.584/0001-31;2022-03-31;1;Imóveis para renda em construção;Não se aplica;Não se aplica;Não se aplica
 13.584.584/0001-31;2022-06-30;2;Imóveis para renda em construção;Não se aplica;Não se aplica;Não se aplica
 13.584.584/0001-31;2022-09-30;2;Imóveis para renda em construção;Não se aplica;Não se aplica;Não se aplica
@@ -105,18 +105,18 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 14.721.889/0001-00;2022-09-30;1;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Atraso na contratação de serviços.;N.A.
 14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Atraso na contratação de serviços.;N.A.
 14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Costa Mare;N.A.;N.A.
-14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
-14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Maison Laranjeiras;Tarefas replanejadas;N.A.
-14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;The Gallery;N.A.;N.A.
 14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Blanc 260;Replanejamento de cronograma;Antecipação de compra de mateiral.
+14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;The Gallery;N.A.;N.A.
+14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Maison Laranjeiras;Tarefas replanejadas;N.A.
+14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
 14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Aretê - Alto Ybirá;N.A.;N.A.
-14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Aretê - Peninsula Norte;N.A.;N.A.
 14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Iluminato;Prazo de obra replanejado, após atraso no desmonte de rocha.;N.A.
+14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Aretê - Peninsula Norte;N.A.;N.A.
 15.461.076/0001-91;2022-03-31;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
 15.461.076/0001-91;2022-03-31;1;Imóveis para renda em construção;51 Unidades  Master no Hotel;;
+15.461.076/0001-91;2022-03-31;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
 15.461.076/0001-91;2022-03-31;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
 15.461.076/0001-91;2022-03-31;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
-15.461.076/0001-91;2022-03-31;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
 15.461.076/0001-91;2022-03-31;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2022-06-30;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2022-06-30;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
@@ -127,15 +127,15 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 15.461.076/0001-91;2022-09-30;1;Imóveis para renda em construção;51 Unidades  Master no Hotel;;
 15.461.076/0001-91;2022-09-30;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
 15.461.076/0001-91;2022-09-30;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
-15.461.076/0001-91;2022-09-30;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
 15.461.076/0001-91;2022-09-30;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
+15.461.076/0001-91;2022-09-30;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
 15.461.076/0001-91;2022-09-30;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
 15.461.076/0001-91;2022-12-31;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
 15.461.076/0001-91;2022-12-31;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
 15.461.076/0001-91;2022-12-31;1;Imóveis para renda em construção;51 Unidades  Master no Hotel;;
 15.461.076/0001-91;2022-12-31;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
-15.461.076/0001-91;2022-12-31;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2022-12-31;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
+15.461.076/0001-91;2022-12-31;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 16.915.968/0001-88;2022-12-31;2;Imóveis para renda em construção;Corifeu;de acordo com o previsto;de acordo com o previsto
 17.211.882/0001-37;2022-03-31;1;Imóveis para renda em construção;.;.;.
 17.211.882/0001-37;2022-06-30;1;Imóveis para renda em construção;.;.;.
@@ -212,8 +212,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 31.907.591/0001-09;2022-03-31;1;Imóveis para renda em construção;Imóvel A, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
 31.907.591/0001-09;2022-06-30;1;Imóveis para renda em construção;Imóvel A, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
 31.907.591/0001-09;2022-06-30;1;Imóveis para renda em construção;Imóvel B, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
-31.907.591/0001-09;2022-09-30;1;Imóveis para renda em construção;Imóvel B, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
 31.907.591/0001-09;2022-09-30;1;Imóveis para renda em construção;Imóvel A, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
+31.907.591/0001-09;2022-09-30;1;Imóveis para renda em construção;Imóvel B, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
 31.907.591/0001-09;2022-12-31;1;Imóveis para renda em construção;Imóvel B, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
 31.907.591/0001-09;2022-12-31;1;Imóveis para renda em construção;Imóvel A, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
 34.471.719/0001-22;2022-03-31;1;Imóveis para venda em construção;25% Imóvel - FABRICA DA FORD MOTORS DO BRASIL;NA;NA
@@ -268,8 +268,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 35.652.278/0001-28;2022-06-30;1;Imóveis para renda em construção;Imovel ItajaiSC;NÃO SE APLICA;NÃO SE APLICA
 35.652.278/0001-28;2022-06-30;1;Imóveis para renda em construção;Imovel Conde - Paraiba;NÃO SE APLICA;NÃO SE APLICA
 35.652.278/0001-28;2022-09-30;1;Imóveis para renda em construção;Imovel ItajaiSC;Não aplicável;Não aplicável
-35.652.278/0001-28;2022-09-30;1;Imóveis para renda em construção;Imovel Viana;Não aplicável;Não aplicável
 35.652.278/0001-28;2022-09-30;1;Imóveis para renda em construção;Imovel Conde - Paraiba;Não aplicável;Não aplicável
+35.652.278/0001-28;2022-09-30;1;Imóveis para renda em construção;Imovel Viana;Não aplicável;Não aplicável
 35.652.278/0001-28;2022-12-31;2;Imóveis para renda em construção;Imovel Viana;Não Aplicavel;Não Aplicavel
 35.652.278/0001-28;2022-12-31;2;Imóveis para renda em construção;Imovel Conde - Paraiba;Não Aplicavel;Não Aplicavel
 35.705.463/0001-33;2022-03-31;1;Imóveis para renda em construção;GALPÃO WTLOG RBR;n/a;n/a
