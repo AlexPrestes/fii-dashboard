@@ -51,17 +51,17 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 12.681.340/0001-04;2020-06-30;1;Imóveis para renda em construção;Ag. Raposo;Obras em finalização.;não há
 12.681.340/0001-04;2020-09-30;1;Imóveis para renda em construção;Ag. Raposo;Obras em finalização.;não há
 12.681.340/0001-04;2020-12-31;1;Imóveis para renda em construção;Ag. Raposo;Obras em finalização.;não há
+12.989.974/0001-29;2020-03-31;2;Imóveis para renda em construção;Porto Vista;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
 12.989.974/0001-29;2020-03-31;2;Imóveis para renda em construção;Pátio da Marítima Torre II;O início da construção pelo incorporador depende de condições mercadológicas ;O FII PM não arca com custo de construção.
 12.989.974/0001-29;2020-03-31;2;Imóveis para venda em construção;Porto Vida Residencial;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
-12.989.974/0001-29;2020-03-31;2;Imóveis para renda em construção;Porto Vista;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
-12.989.974/0001-29;2020-06-30;1;Imóveis para renda em construção;Porto Vista;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
 12.989.974/0001-29;2020-06-30;1;Imóveis para renda em construção;Pátio da Marítima Torre II;O início da construção pelo incorporador depende de condições mercadológicas ;O FII PM não arca com custo de construção.
+12.989.974/0001-29;2020-06-30;1;Imóveis para renda em construção;Porto Vista;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
 12.989.974/0001-29;2020-06-30;1;Imóveis para venda em construção;Porto Vida Residencial;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
 12.989.974/0001-29;2020-09-30;1;Imóveis para venda em construção;Porto Vida Residencial;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
-12.989.974/0001-29;2020-09-30;1;Imóveis para renda em construção;Porto Vista;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
 12.989.974/0001-29;2020-09-30;1;Imóveis para renda em construção;Pátio da Marítima Torre II;O início da construção pelo incorporador depende de condições mercadológicas ;O FII PM não arca com custo de construção.
-12.989.974/0001-29;2020-12-31;2;Imóveis para venda em construção;Porto Vida Residencial;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
+12.989.974/0001-29;2020-09-30;1;Imóveis para renda em construção;Porto Vista;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
 12.989.974/0001-29;2020-12-31;2;Imóveis para renda em construção;Porto Vista;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
+12.989.974/0001-29;2020-12-31;2;Imóveis para venda em construção;Porto Vida Residencial;A obra encontra-se paralisada e o cronograma sob revisão.;O FII PM não arca com custo de construção.
 12.989.974/0001-29;2020-12-31;2;Imóveis para renda em construção;Pátio da Marítima Torre II;O início da construção pelo incorporador depende de condições mercadológicas ;O FII PM não arca com custo de construção.
 13.320.290/0001-00;2020-06-30;1;Imóveis para renda em construção;R. Leopoldo C AP 311, Sao Paulo-SP;15474748;15474748
 13.320.290/0001-00;2020-06-30;1;Imóveis para renda em construção;R. Leopoldo C AP 321, Sao Paulo-SP;32506000;32506000
@@ -90,19 +90,19 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 15.461.076/0001-91;2020-03-31;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
 15.461.076/0001-91;2020-06-30;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
 15.461.076/0001-91;2020-06-30;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
-15.461.076/0001-91;2020-06-30;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
 15.461.076/0001-91;2020-06-30;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
 15.461.076/0001-91;2020-06-30;1;Imóveis para renda em construção;51 Unidades  Master no Hotel;;
+15.461.076/0001-91;2020-06-30;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
 15.461.076/0001-91;2020-06-30;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2020-09-30;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
 15.461.076/0001-91;2020-09-30;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
-15.461.076/0001-91;2020-09-30;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
 15.461.076/0001-91;2020-09-30;1;Imóveis para renda em construção;51 Unidades  Master no Hotel;;
+15.461.076/0001-91;2020-09-30;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
 15.461.076/0001-91;2020-09-30;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
 15.461.076/0001-91;2020-09-30;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
+15.461.076/0001-91;2020-12-31;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
 15.461.076/0001-91;2020-12-31;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
 15.461.076/0001-91;2020-12-31;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
-15.461.076/0001-91;2020-12-31;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
 15.461.076/0001-91;2020-12-31;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2020-12-31;1;Imóveis para renda em construção;51 Unidades  Master no Hotel;;
 15.461.076/0001-91;2020-12-31;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;

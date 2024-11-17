@@ -30,11 +30,26 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numer
 08.706.065/0001-69;2024-06-30;1;Park Inn by Radisson Berrini;Rua Quintana, 963, Cidade Moncoes, Sao Paulo/SP, Brasil, 04569-011;2024-05-09;28.4;1;Direito de Propriedade;0.00190409661486;0.00193987703998
 08.706.065/0001-69;2024-06-30;1;Staybridge Suites Sao Paulo;Rua Bandeira Paulista, 555, Itaim Bibi, Sao Paulo/SP, Brasil, 04532-011;2024-05-23;37.08;1;Direito de Propriedade;0.00318936182988;0.00324929404196
 08.706.065/0001-69;2024-06-30;1;Staybridge Suites Sao Paulo;Rua Bandeira Paulista, 555, Itaim Bibi, Sao Paulo/SP, Brasil, 04532-011;2024-06-26;37.08;1;Direito de Propriedade;0.00320793790802;0.00326332417636
+08.706.065/0001-69;2024-09-30;1;Intercity Nacoes Unidas;Rua Fernandes Moreira, 1371, Sem Complemento, Chacara Santo Antonio Zona Sul, Sao Paulo/SP, Brasil, 04716-003;2024-07-02;25.4;1;Direito de Propriedade;0.00197393481425;0.00200026252021
+08.706.065/0001-69;2024-09-30;1;Blue Tree Faria Lima;Avenida Brigadeiro Faria Lima, 3989, Sem Complemento, Itaim Bibi, São Paulo/SP, Brasil, 00004-538;2024-07-22;26.86;1;Direito de Propriedade;0.00353863924018;0.00358583646916
+08.706.065/0001-69;2024-09-30;1;Staybridge Suites Sao Paulo;Rua Bandeira Paulista, 555, Sem Complemento, Itaim Bibi, Sao Paulo/SP, Brasil, 04532-011;2024-07-28;37.08;1;Direito de Propriedade;0.003225698355;0.00326872167937
+08.706.065/0001-69;2024-09-30;1;Staybridge Suites Sao Paulo;Rua Bandeira Paulista, 555, Sem Complemento, Itaim Bibi, Sao Paulo/SP, Brasil, 04532-011;2024-07-23;37.08;1;Direito de Propriedade;0.003225698355;0.00326872167937
+08.706.065/0001-69;2024-09-30;1;Melia Jardim Europa;Rua Joao Cachoeira, 111, Sem Complemento, Vila Nova Conceicao, Sao Paulo/SP, Brasil, 04535-010;2024-07-24;33.6;1;Direito de Propriedade;0.00361085636753;0.00365901680526
+08.706.065/0001-69;2024-09-30;1;Estanplaza International;Rua Fernandes Moreira, 1293, Sem Complemento, Chacara Santo Antonio Zona Sul, Sao Paulo/SP, Brasil, 04716-003;2024-08-14;26.6;1;Direito de Propriedade;0.00199551014113;0.00203745017299
+08.706.065/0001-69;2024-09-30;1;Park Inn by Radisson Berrini;Rua Quintana, 963, Sem Complemento, Cidade Moncoes, Sao Paulo/SP, Brasil, 04569-011;2024-08-14;28.4;1;Direito de Propriedade;0.00199551014113;0.00203745017299
+08.706.065/0001-69;2024-09-30;1;Intercity Premium Ibirapuera;Avenida Ibirapuera, 2577, Sem Complemento, Indianopolis, Sao Paulo/SP, Brasil, 04029-200;2024-08-25;26.6;1;Direito de Propriedade;0.00269273657598;0.00274933035392
+08.706.065/0001-69;2024-09-30;1;Park Inn by Radisson Berrini;Rua Quintana, 963, Sem Complemento, Cidade Moncoes, Sao Paulo/SP, Brasil, 04569-011;2024-08-28;28.4;1;Direito de Propriedade;0.00199551014113;0.00203745017299
+08.706.065/0001-69;2024-09-30;1;Park Inn by Radisson Berrini;Rua Quintana, 963, Sem Complemento, Cidade Moncoes, Sao Paulo/SP, Brasil, 04569-011;2024-09-12;28.4;1;Direito de Propriedade;0.00201099019672;0.0020494434909
+08.706.065/0001-69;2024-09-30;1;Staybridge Suites Sao Paulo;Rua Bandeira Paulista, 555, Sem Complemento, Itaim Bibi, Sao Paulo/SP, Brasil, 04532-011;2024-09-18;37.08;1;Direito de Propriedade;0.00324665887181;0.00330874009375
+08.706.065/0001-69;2024-09-30;1;Staybridge Suites Sao Paulo;Rua Bandeira Paulista, 555, Sem Complemento, Itaim Bibi, Sao Paulo/SP, Brasil, 04532-011;2024-09-23;37.08;1;Direito de Propriedade;0.00329511646691;0.00335812427425
+08.706.065/0001-69;2024-09-30;1;Park Inn by Radisson Berrini;Rua Quintana, 963, Sem Complemento, Cidade Moncoes, Sao Paulo/SP, Brasil, 04569-011;2024-09-18;28.4;1;Direito de Propriedade;0.00208367658937;0.00212351976166
+08.706.065/0001-69;2024-09-30;1;Staybridge Suites Sao Paulo;Rua Bandeira Paulista, 555, Sem Complemento, Itaim Bibi, Sao Paulo/SP, Brasil, 04532-011;2024-09-25;37.08;1;Direito de Propriedade;0.00329511646691;0.00335812427425
 08.924.783/0001-01;2024-03-31;2;Edifício Volkswagen;Rua Volkswagen, 291, Jabaquara, São Paulo/SP, Brasil, 04344-901;2024-03-15;12560;1;Direito de propriedade;0.04263325077281;0.05363645874973
 08.924.783/0001-01;2024-03-31;2;Edifício Burity;Avenida Indianopolis, 3096, Indianópolis, São Paulo/SP, Brasil, 04062-904;2024-03-15;10550;17;Direito de propriedade;0.02777747053632;0.03494655288035
 08.924.783/0001-01;2024-03-31;2;Edifício Transatlântico;Rua Verbo Divino, 1488, Chácara Santo Antônio (zona Sul), São Paulo/SP, Brasil, 04719-002;2024-03-15;4208;2;Direito de propriedade;0.00711015532068;0.00894521402072
 09.072.017/0001-29;2024-03-28;1;Alienação Edifício Faria Lima;Avenida Brigadeiro Faria Lima, 1.355 - São Paulo - SP;2024-03-14;4757.4;10;-;0.051734;0.050232
 10.427.246/0001-06;2024-03-31;1;Brazilian Financial Center;Avenida Paulista, 1374, Sem Complemento, Bela Vista, São Paulo/SP, Brasil, 01310-100;2024-03-15;9984;21;Direito de propriedade;0.25533748483231;0.40124998775547
+11.274.415/0001-70;2024-09-30;1;Imovel de Nilópolis;Avenida Duque De Caxias, 318, Praça 14 De Janeiro, Manaus/AM, Brasil, 69020-141;2024-09-25;3394.32;1;15% em comodato;1;11.3505705639528
 11.728.688/0001-47;2024-06-30;1;Alienação HGLG Washington Luiz - 49%;Avenida SN 1, 280, Parque Duque, Duque de Caxias - RJ;2024-05-31;23540.7;1;-;0.01063;0.011757
 11.827.568/0001-05;2024-06-28;1;HELBOR DUAL PATTEO MOGILAR;AV PREFEITO CARLOS PERREORA LOPES N 703, MOGILAR;2024-05-23;1;1;HELBOR DUAL;0.026;0.0063
 11.827.568/0001-05;2024-06-28;1;Edifício Universe Life Square;Rua Comendador Araujo n 252;2024-06-03;1;6;EDIFICIO LIFE SQUARE;0.0255;0.0062
@@ -45,6 +60,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numer
 11.839.593/0001-09;2024-06-30;1;BTLG - Feira de Santana;Estrada De Sao Goncalo, S/ Nº, Altura Aproximada Do Km 530, Humildes , Feira De Santana/BA, Brasil, 44135-000;2024-04-15;11185.6;1;Direito de Propriedade;0.01060577564798;0.01184923416649
 11.839.593/0001-09;2024-06-30;1;BTLG - Guarulhos;Rua Dona Catharina Maria De Jesus, 400,  Bonsucesso, Guarulhos/SP, Brasil, 07175-500;2024-04-15;20247.6;1;Direito de Propriedade;0.01703841355939;0.01903605721936
 12.989.974/0001-29;2024-06-28;1;Porto Vida Residencial;Avenida General Luis Mendes de Morais, nº 65, Bairro Santo Cristo, Município do Rio de Janeiro, Estado do Rio de Janeiro;2024-04-01;19607.38;1366;-;0.0122;0.0023
+12.989.974/0001-29;2024-09-30;1;Porto Vida Residencial;Avenida General Luis Mendes de Morais, nº 65, Bairro Santo Cristo, Município do Rio de Janeiro, Estado do Rio de Janeiro;2024-05-29;19607.38;1366;O Caixa Fundo de Investimento Imobiliário Porto Maravilha - FII PM deterá uma fração ideal do empreendimento residencial a ser edificado no imóvel, em permuta pela vinculação de 68.631 Certificados de Potencial Adicional de Construção - CEPAC. A Porto 2016 Empreendimentos Imobiliários S.A., cujas cotas estão alienadas fiduciariamente ao FII PM é detentora da fração ideal remanescente do imóvel e responsável por promover a implantação, desenvolvimento e construção do empreendimento imobiliário de destinação residencial, incluindo a concepção, elaboração de projetos, desenvolvimento, custeio, financiamento, execução e incorporação.;0.2616;0.011933
 13.012.312/0001-67;2024-03-31;1;Pirelli;Rodovia Castelo Branco, km 93 - Sorocaba- SP;2021-11-11;14095;1;Baixa do imóvel pela amortização total do direito de uso de solo;0.3507;0.3507
 13.012.312/0001-67;2024-06-30;1;Pirelli;Rodovia Castelo Branco, km 93 - Sorocaba- SP;2021-11-11;14095;1;Baixa do imóvel pela amortização total do direito de uso de solo;0.3507;0.3507
 14.410.722/0001-29;2024-03-28;1;AG. JUIZ DE FORA;Rua Halfeld;2024-01-17;6587.2;1;O fundo detém 100% do imóvel sem ônus ou garantias;0.02294;0.02183
@@ -64,6 +80,12 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numer
 19.239.245/0001-02;2024-03-31;1;FL 3500;Avenida Brigadeiro Faria Lima, 3.500, Itaim Bibi, São Paulo - SP;2023-12-22;25686.09;1;N/A;2.1608;0.1625
 19.722.048/0001-31;2024-03-31;1;Não possui informação apresentada.;;;;;;;
 19.722.048/0001-31;2024-06-30;2;138681;Rua José Maria Lisboa, 852;2024-05-16;207;1;;;0.113263
+19.722.048/0001-31;2024-09-30;2;244099;Rua Maria Figueiredo, 471 - 12;2024-09-04;153;1;;;0.0480195201808663
+19.722.048/0001-31;2024-09-30;2;153275;Rua José Maria Lisboa 1055 - 4;2024-07-30;207;1;;;0.117168
+19.722.048/0001-31;2024-09-30;2;251880;Rua Jaques Félix - 162 - 31;2024-08-30;156;1;;;0.113309440201247
+19.722.048/0001-31;2024-09-30;2;154243;Rua Peixoto Gomide 1769 - 63;2024-07-10;169;1;;;0.0690527634200677
+19.722.048/0001-31;2024-09-30;2;222465;Rua Bandeira Paulista, nº 49;2024-07-30;116;1;;;0.066620709403044
+19.872.887/0001-36;2024-09-30;1;Imovel Vila Mascote - Escola;Rua Gustavo Da Silveira - Ate 946 - Lado Par, 164, Vila Santa Catarina, São Paulo/SP, Brasil, 04376-004;2024-09-09;1000;1;Direito de Propriedade;0.13355932397523;0.265494
 21.126.204/0001-43;2024-06-30;1;12;Rua Desembargador Westphalen, 130 - Centro;2024-04-30;4215;1;N/A;0.04037;0.05252
 22.862.226/0001-34;2024-03-31;1;São Pedro;Rua Verbo Divino, 1.227, Chácara Santo Antonio, São Paulo;2024-01-22;5789.19;1;não se aplica;0.10356;0.191278
 23.740.552/0001-31;2024-03-28;1;Helbor 214;Av. Nossa Senhora do Ó, 865 - Bairro do Limão - São Paulo / SP;2024-03-08;68.98;1;O fundo é proprietário de 100% do imóvel;0.496;
@@ -72,6 +94,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numer
 23.964.908/0001-10;2024-03-31;1;RJ-RJ-344069;Rua Cândido Benício, 200 -  Campinho;2024-01-31;3075;1;;0.0737889499362974;0.0843539820839541
 23.964.908/0001-10;2024-06-30;1;MCR-SP-44617;Rua Tenente Onofre Rodrigues de Aguiar, 1301 - Vila Industrial;2024-04-30;15706;1;;0.564047250147029;0.817868512713193
 23.964.908/0001-10;2024-06-30;1;SOR-SP-46699;Estrada Municipal Engenho Velho - Rod. Pres. Castelo Branco - Engenho Velho;2024-06-30;11483.05;1;;0.253821262566163;0.397653311353656
+23.964.908/0001-10;2024-09-30;1;SALVADOR PRIME 2904;Av. Tancredo Neves, 2227 Unidade n° 2904 da Torre Residencial 3 - Condomínio Salvador Prime;2024-07-30;52.25;1;;0.0107518505971009;0.00824308545777738
 24.796.967/0001-90;2024-03-31;1;2459909;Rua Pensilvânia, 57 - 111 - Torre II;2024-03-08;54;1;;;
 24.796.967/0001-90;2024-03-31;1;2137837;Rua das Laranjeiras 527 - 301;2024-03-22;78;1;;;
 24.796.967/0001-90;2024-03-31;1;2289589;Rua Mário Portela, 161 - 603;2024-03-06;80;1;;;
@@ -105,6 +128,38 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numer
 24.796.967/0001-90;2024-06-30;2;2937208;Rua Timóteo da Costa, 1033 - 103 Bloco 3;2024-05-07;173;1;;;0.018998
 24.796.967/0001-90;2024-06-30;2;301757;Avenida Padre Antônio José dos Santos, 78 - 27;2024-04-11;52;1;;;0.004761
 24.796.967/0001-90;2024-06-30;2;3404405;Rua Doutor Melo Alves, 268 - 908;2024-05-06;31;1;;;0.004857
+24.796.967/0001-90;2024-09-30;1;1567950;Praia Botafogo, 406 - 207;2024-09-25;34;1;;;
+24.796.967/0001-90;2024-09-30;1;1567950;Praia Botafogo, 406 - 207;2024-09-25;34;1;;;
+24.796.967/0001-90;2024-09-30;1;5851493;Rua Caramuru, 1164 - 116 - Morini;2024-07-01;35;1;;;
+24.796.967/0001-90;2024-09-30;1;269125;Rua Monte Aprazível, 109 - 18;2024-08-07;30;1;;;
+24.796.967/0001-90;2024-09-30;1;527941;Rua Cajaíba, 31 - 52;2024-07-01;42;1;;;
+24.796.967/0001-90;2024-09-30;1;969537;Avenida Imperatriz Leopoldina 1845 - 62;2024-07-25;101;1;;;
+24.796.967/0001-90;2024-09-30;1;592985;Rua João Anes, 99 - 61;2024-07-01;93;1;;;
+24.796.967/0001-90;2024-09-30;1;950669;Rua Ribeiroles 274;2024-07-31;90;1;;;
+24.796.967/0001-90;2024-09-30;1;305821;Avenida Padre Antônio José dos Santos, 475 - 14;2024-08-28;65;1;;;
+24.796.967/0001-90;2024-09-30;1;733652;Rua Quinze de Setembro, 138 - 11;2024-08-13;73;1;;;
+24.796.967/0001-90;2024-09-30;1;198449;Rua Sergipe, 634 - 12;2024-08-28;286;1;;;
+24.796.967/0001-90;2024-09-30;1;574416;Rua Minerva 336 - 121;2024-09-02;76;1;;;
+24.796.967/0001-90;2024-09-30;1;223349;Rua Itacema, 330 - 22;2024-07-23;155;1;;;
+24.796.967/0001-90;2024-09-30;1;267920;Rua Jacques Félix, 709 - 74;2024-09-02;47;1;;;
+24.796.967/0001-90;2024-09-30;1;303469;Rua Guararapes, 228 - 22 - Claudia;2024-07-31;62;1;;;
+24.796.967/0001-90;2024-09-30;1;319201;Rua Pascal 778 - 12;2024-07-11;172;1;;;
+24.796.967/0001-90;2024-09-30;1;1602227;Rua Barata Ribeiro, 723 - 201;2024-08-23;105;1;;;
+24.796.967/0001-90;2024-09-30;1;210328;Rua Artur de Azevedo, 776 - 71;2024-07-29;105;1;;;
+24.796.967/0001-90;2024-09-30;1;1456648;Rua Alvorada, 859 - 113;2024-07-01;104;1;;;
+24.796.967/0001-90;2024-09-30;1;167571;Rua Peixoto Gomide, 1442 - 62;2024-09-16;131;1;;;
+24.796.967/0001-90;2024-09-30;1;2213457;Rua Soares Cabral 42 - 201;2024-07-16;123;1;;;
+24.796.967/0001-90;2024-09-30;1;2188315;Rua Hans Staden 10;2024-07-23;68;1;;;
+24.796.967/0001-90;2024-09-30;1;1687560;Rua Soares Cabral, 41 - 101;2024-07-25;101;1;;;
+24.796.967/0001-90;2024-09-30;1;337443;Rua Alvorada, 1244 - 84;2024-07-18;86;1;;;
+24.796.967/0001-90;2024-09-30;1;134837;Alameda Jaú, 585 - 52;2024-09-27;159;1;;;
+24.796.967/0001-90;2024-09-30;1;290253;Alameda dos Jurupis, 1369 - 81;2024-07-10;112;1;;;
+24.796.967/0001-90;2024-09-30;1;223231;Rua Itacema, 380 - 83;2024-08-23;99;1;;;
+24.796.967/0001-90;2024-09-30;1;272526;Rua Inhambu, 553 - 23;2024-07-18;72;1;;;
+24.796.967/0001-90;2024-09-30;1;278084;Avenida Sabiá, 667 - 14;2024-08-01;101;1;;;
+24.796.967/0001-90;2024-09-30;1;923692;Rua João Álvares Soares, 1330 - 101;2024-09-12;217;1;;;
+24.796.967/0001-90;2024-09-30;1;2109179;Rua Miguel Lemos 90 - 701;2024-07-02;140;1;;;
+24.796.967/0001-90;2024-09-30;1;140193;Alameda Sarutaiá, 96 - 90;2024-09-16;126;1;;;
 27.486.542/0001-72;2024-06-30;1;Centro Logístico e Industrial Salto;Rodovia Engenheiro Ermínio de Oliveira Penteado, SP-073, Salto - SP;2024-04-05;31400;21;Centro Logístico Industrial Salto com 31.400,00m2 de área construída.;0.075986;0.104963
 28.893.734/0001-66;2024-03-28;1;GV2_506;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 506 2;2024-03-28;119.95;1;Nenhuma característica relevante;0.001236;0.017408
 28.893.734/0001-66;2024-03-28;1;SV_205B;Rua Coronel Veiga,  585 - Coronel Veiga Residencial San Vicenzo Unidade 205 B;2024-01-15;71.68;1;Nenhuma característica relevante;0.000997;0.014639
@@ -131,11 +186,18 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numer
 28.893.734/0001-66;2024-06-28;1;SV_106D;Rua Coronel Veiga,  585;2024-05-07;83.31;1;Nenhuma característica relevante;0.0272623770453672;0.0240438932669417
 28.893.734/0001-66;2024-06-28;1;GV2_406;Rua Ituverava, 562;2024-06-05;77.67;1;Nenhuma característica relevante;0.0243621241682004;0.0214860322810968
 28.893.734/0001-66;2024-06-28;1;SV_405A;Rua Coronel Veiga,  585;2024-06-14;71.68;1;Nenhuma característica relevante;0.0226219724419004;0.0199513156895899
+28.893.734/0001-66;2024-09-30;1;SV_106C;Rua Coronel Veiga,  585 - Coronel Veiga Residencial San Vicenzo Unidade 106 C;2024-07-10;83.31;1;Nenhuma característica relevante;0.030934;0.027473
+28.893.734/0001-66;2024-09-30;1;GV2_101;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 101 2;2024-09-19;119.95;1;Nenhuma característica relevante;0.02501;0.022212
+28.893.734/0001-66;2024-09-30;1;GV2_605;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 605 2;2024-08-07;119.95;1;Nenhuma característica relevante;0.028959;0.02572
+28.893.734/0001-66;2024-09-30;1;MLD_2406;Apartamento Residencial Carmo e Calçada Melodia Condomínio e Lazer Unidade 406 2 - Rua Candido Benicio, 446;2024-07-16;72.3;1;Nenhuma característica relevante;0.014479;0.01286
 29.641.226/0001-53;2024-03-28;1;Loja Campo Largo;Praça Attilio De Almeida Barbosa, 1156, Campo Largo, PR;2024-01-10;1213.75;1;-;0.00227;0.002311
+30.492.505/0001-81;2024-09-30;1;Edifício "A noite";Praça Mauá, 7 - Centro - Rio de Janeiro - RJ;2024-07-25;28900.8;23;Prédio 7, da Praça Mauá, edifício "A Noite", na freguesia de Santa Rita, e respectivo terreno com área de 1.183,0m². Área de construção conforme matrícula: 28.900,80. Objeto da matrícula 64.215 do 7º ofício do Registro de Imóveis do Rio de Janeiro. Registos anteriores na matrícula 4.111 do 4º ofício do Registro de Imóveis do Rio de Janeiro - RJ. Imóvel destinado à venda para Retrofit.Indicado o número de pavimentos incluindo térreo e cobertura, que somam 23 pavimentos;0.528582;0.145749
 30.567.216/0001-02;2024-03-31;1;Edifício JF 100;Rua Joaquim Floriano, 100 - Cjs. 121 e 122;2024-02-05;489.06;2;conjunto comercial;0.023654;0.028584
 30.567.216/0001-02;2024-03-31;1;Edifício Parque Paulista;Alameda Santos, 1940 - Cjs 101 e 102;2024-02-28;575.6;2;conjunto comercial;0.033204;0.040124
 30.567.216/0001-02;2024-03-31;1;Edifício Spazio JK;Avenida Presidente Juscelino Kubitschek, 1726 - cj. 113;2024-03-13;141.73;1;conjunto comercial;0.007265;0.008259
 30.567.216/0001-02;2024-03-31;1;Edifício Result Corporate Plaza;Rua  Joaquim Floriano, 413 - Cj. 111;2024-03-05;241.06;1;conjunto comercial;0.013828;0.015721
+30.567.216/0001-02;2024-09-30;1;Edifício Mykonos  - Cjs. 51 e 52;Rua Gomes de Carvalho, 1356;2024-09-02;572.07;2;Conjuntos 51 e 52 do Edifício Mykonos. Objeto das matrículas 113.538 e 113.539 respectivamente;0.029096;0.033168
+32.667.306/0001-92;2024-09-30;1;IMOVEL MORUMBI;Rua Professor Hilario Veiga De Carvalho, 60, Vila Suzana, Sao Paulo/SP, Brasil, 05641-070;2024-07-15;969.66;1;Direito de Propriedade;0.23123971942701;23.204388560245
 32.774.914/0001-04;2024-03-31;1;HESA 134;Landscape Ecoville;2024-03-14;260.06;1;Matricula 176643;0.09;0.07
 32.774.914/0001-04;2024-03-31;1;HESA 134;Landscape Ecoville;2024-03-15;260.06;1;Matricula 176643;0.09;0.06
 32.774.914/0001-04;2024-03-31;1;HESA 134;Landscape Ecoville;2024-03-18;260.06;1;Matricula 176643;0.09;0.06
@@ -232,10 +294,51 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numer
 34.691.925/0001-48;2024-06-28;1;U_1503_T;Rua Franciso Candido Magalhães, 40;2024-06-20;49.4091;1;Nenhuma característica relevante;0.000577;0.000676
 34.691.925/0001-48;2024-06-28;1;U_1708_T;Rua Franciso Candido Magalhães, 40;2024-04-29;49.4091;1;Nenhuma característica relevante;0.000577;0.000676
 34.691.925/0001-48;2024-06-28;1;U_1709_T;Rua Franciso Candido Magalhães, 40;2024-04-29;49.4091;1;Nenhuma característica relevante;0.000577;0.000676
+34.691.925/0001-48;2024-09-30;1;NP_1203;Rua Dr. Nilo Peçanha, 100 - Sala 1203 - Centro, Guarulhos/SP;2024-09-09;37.72;1;Nenhuma característica relevante;0.000318;0.000368
+34.691.925/0001-48;2024-09-30;1;NP_1208;Rua Dr. Nilo Peçanha, 100 - Sala 1208 - Centro, Guarulhos/SP;2024-08-19;40.14;1;Nenhuma característica relevante;0.000326;0.000377
+34.691.925/0001-48;2024-09-30;1;NM_413_2;Av. A - Quadra F1, 4165 - Sala 413, Torre - 2, Praia do Paiva - Cabo de Santo Agostinho-PE;2024-08-30;38.09;1;Nenhuma característica relevante;0.000593;0.000686
+34.691.925/0001-48;2024-09-30;1;P1110_3;Rua Equador, N° 43 - "Porto Atlântico Leste";2024-08-26;36.05;1;Nenhuma característica relevante;0.000596;0.00069
+34.691.925/0001-48;2024-09-30;1;VO_109;Loja Calçada Vogue Square Life Experience Unidade 109  - Av. das Américas, 8585;2024-08-13;57;1;Nenhuma característica relevante;0.003738;0.004325
+34.691.925/0001-48;2024-09-30;1;VO_SS131;Loja Calçada Vogue Square Life Experience Unidade  SS 131  - Av. das Américas, 8585;2024-08-22;65;1;Nenhuma característica relevante;0.004159;0.004813
+34.691.925/0001-48;2024-09-30;1;VER_B305;Sala Comercial Calçada Condomínio Vertice Unidade 305 B - Av. Miguel Antonio Frnandes, 1333;2024-07-15;33.44;1;Nenhuma característica relevante;0.000377;0.000437
+34.691.925/0001-48;2024-09-30;1;VER_B429;Sala Comercial Calçada Condomínio Vertice Unidade 429 B - Av. Miguel Antonio Frnandes, 1333;2024-08-08;39.07;1;Nenhuma característica relevante;0.000357;0.000414
+34.691.925/0001-48;2024-09-30;1;VER_B513;Sala Comercial Calçada Condomínio Vertice Unidade 513 B - Av. Miguel Antonio Frnandes, 1333;2024-09-23;39.07;1;Nenhuma característica relevante;0.000357;0.000414
+34.691.925/0001-48;2024-09-30;1;VER_A523;Sala Comercial Calçada Condomínio Vertice Unidade 523 A - Av. Miguel Antonio Frnandes, 1333;2024-08-23;56.05;1;Nenhuma característica relevante;0.000489;0.000566
+34.691.925/0001-48;2024-09-30;1;VER_B526;Sala Comercial Calçada Condomínio Vertice Unidade 526 B - Av. Miguel Antonio Frnandes, 1333;2024-08-13;33.21;1;Nenhuma característica relevante;0.000298;0.000345
+34.691.925/0001-48;2024-09-30;1;VER_B626;Sala Comercial Calçada Condomínio Vertice Unidade 626 B - Av. Miguel Antonio Frnandes, 1333;2024-08-13;33.21;1;Nenhuma característica relevante;0.000314;0.000363
+34.691.925/0001-48;2024-09-30;1;U_208_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 208 Business - Rua Franciso Candido Magalhães, 40;2024-09-16;43.4502;1;Nenhuma característica relevante;0.000596;0.00069
+34.691.925/0001-48;2024-09-30;1;U_502_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 502 Business - Rua Franciso Candido Magalhães, 40;2024-08-05;43.4502;1;Nenhuma característica relevante;0.000556;0.000644
+34.691.925/0001-48;2024-09-30;1;U_1306_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 1306 Business - Rua Franciso Candido Magalhães, 40;2024-07-05;43.4502;1;Nenhuma característica relevante;0.000556;0.000644
+34.691.925/0001-48;2024-09-30;1;U_205_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 205 Trade - Rua Franciso Candido Magalhães, 40;2024-08-14;49.4091;1;Nenhuma característica relevante;0.000596;0.00069
+34.691.925/0001-48;2024-09-30;1;U_1106_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 1106 Trade - Rua Franciso Candido Magalhães, 40;2024-09-11;49.4091;1;Nenhuma característica relevante;0.000596;0.00069
+34.691.925/0001-48;2024-09-30;1;U_1701_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 1701 Trade - Rua Franciso Candido Magalhães, 40;2024-07-01;49.2073;1;Nenhuma característica relevante;0.000596;0.00069
+34.691.925/0001-48;2024-09-30;1;U_1706_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 1706 Trade - Rua Franciso Candido Magalhães, 40;2024-07-19;49.4091;1;Nenhuma característica relevante;0.000596;0.00069
+34.691.925/0001-48;2024-09-30;1;U_1901_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 1901 Trade - Rua Franciso Candido Magalhães, 40;2024-08-14;49.2073;1;Nenhuma característica relevante;0.000636;0.000736
+34.691.925/0001-48;2024-09-30;1;U_1903_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 1903 Trade - Rua Franciso Candido Magalhães, 40;2024-09-24;49.4091;1;Nenhuma característica relevante;0.000676;0.000782
+34.691.925/0001-48;2024-09-30;1;U_1905_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 1905 Trade - Rua Franciso Candido Magalhães, 40;2024-07-09;49.4091;1;Nenhuma característica relevante;0.000676;0.000782
+34.691.925/0001-48;2024-09-30;1;U_2101_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 2101 Trade - Rua Franciso Candido Magalhães, 40;2024-08-08;49.2073;1;Nenhuma característica relevante;0.000596;0.00069
+34.691.925/0001-48;2024-09-30;1;U_6_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 6 Business - Rua Franciso Candido Magalhães, 40;2024-07-03;122.8914;1;Nenhuma característica relevante;0.001939;0.002243
+34.691.925/0001-48;2024-09-30;1;U_7_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 7 Business - Rua Franciso Candido Magalhães, 40;2024-07-02;122.8914;1;Nenhuma característica relevante;0.001939;0.002243
+34.691.925/0001-48;2024-09-30;1;U_8_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 8 Business - Rua Franciso Candido Magalhães, 40;2024-07-02;121.5744;1;Nenhuma característica relevante;0.001918;0.002219
+34.691.925/0001-48;2024-09-30;1;U_10_T;Rua Franciso Candido Magalhães, 40;2024-07-19;139.62;1;Nenhuma característica relevante;0.002012;0.002329
+34.691.925/0001-48;2024-09-30;1;U_11_T;Rua Franciso Candido Magalhães, 40;2024-07-19;138.28;1;Nenhuma característica relevante;0.001993;0.002306
+34.691.925/0001-48;2024-09-30;1;U_308_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 308 Business - Rua Franciso Candido Magalhães, 40;2024-07-19;43.4502;1;Nenhuma característica relevante;0.000556;0.000644
+34.691.925/0001-48;2024-09-30;1;U_408_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 408 Business - Rua Franciso Candido Magalhães, 40;2024-08-13;43.4502;1;Nenhuma característica relevante;0.000556;0.000644
+34.691.925/0001-48;2024-09-30;1;U_503_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 503 Business - Rua Franciso Candido Magalhães, 40;2024-08-05;43.4502;1;Nenhuma característica relevante;0.000556;0.000644
+34.691.925/0001-48;2024-09-30;1;U_1809_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 1809 Business - Rua Franciso Candido Magalhães, 40;2024-09-16;43.4502;1;Nenhuma característica relevante;0.000556;0.000644
+34.691.925/0001-48;2024-09-30;1;U_1906_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 1906 Trade - Rua Franciso Candido Magalhães, 40;2024-07-17;49.4091;1;Nenhuma característica relevante;0.000676;0.000782
+34.691.925/0001-48;2024-09-30;1;U_1911_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 1911 Trade - Rua Franciso Candido Magalhães, 40;2024-07-09;214.643;1;Nenhuma característica relevante;0.002664;0.003083
+36.501.159/0001-37;2024-09-30;1;PREDIO COMERCIAL DECATHLON GOIANIA, GOIAS;Avenida I, número 208, Quadra B-37, Lote 02, bairro Jardim Goiás, CEP 74810-075, da cidade de Goiânia, Estado de Goiás;2024-08-20;8241;1;Loja em dois pavimentos, com estacionamento descoberto e coberto com  240 vagas;1;0.1984
+36.501.159/0001-37;2024-09-30;1;PREDIO COMERCIAL DECATHLON JOINVILLE, SANTA CATARINA;Rua XV de novembro, número 2.805, bairro Glória, CEP 89216-201, da cidade de Joinville, Estado de Santa Catarina;2024-08-20;2345.11;1;Loja Terrea, com estacionamento descoberto com 180 vagas;1;0.089
+36.501.159/0001-37;2024-09-30;1;PREDIO COMERCIAL DECATHLON CAMPINAS, SÃO PAULO;Avenida Adhemar Ferreira da Silva, s/n, Trevo da Rodovia Dom Pedro I (SP-065), Km 129, Vila Brandina, na Cidade de Campinas, Estado de São Paulo;2024-08-20;5582.44;1;Loja terrea com estacionamento descoberto  com 450 vagas;1;0.284
+38.456.508/0001-71;2024-09-30;1;EDIFICIO BELLA;Avenida Jk, S/n, Quadra 38, Lote S/l, Jardim America, Itumbiara/GO, Brasil, 75523-425;2024-09-29;4785.6;6;Não possui caracteristicas que destoem dos demais;0.05359182208376;5.37727840688782
 40.054.838/0001-82;2024-06-30;2;285172;Alameda Jauaperi 975 - 22;2024-05-22;161;1;;;
 40.054.838/0001-82;2024-06-30;2;196479;Rua Aracaju 137 - 51;2024-05-06;200;1;;;
+40.054.838/0001-82;2024-09-30;1;341505;Rua Professor Vahia de Abreu, 172 Ap. 143;2024-08-23;71;1;;;0.021101205214728
+40.054.838/0001-82;2024-09-30;1;297015;Avenida Aratãs 550 - 102;2024-07-19;86;1;;;0.0246239560471764
 41.199.975/0001-78;2024-03-31;1;Casa - Parque Taquaral - Campinas;Rua Latino Coelho, 421, Casa 04, Parque Taquaral, Campinas/SP, Brasil, 13087-010;2024-03-11;154.65;1;Direito de Propriedade;0.02812125382333;0.02936384698292
 41.218.404/0001-33;2024-03-31;1;CASA RIVIERA;Rua Passeio das Araucárias, 564 - São Lourenço, Bertioga - SP;2024-03-05;911.6;1;Matrícula 40766;0.1734;0.1666
+41.218.404/0001-33;2024-09-30;1;AV.REBOUÇAS;Av Rebouças, 1.164 apto 12 - Pinheiros SP;2024-07-18;148.66;1;Matrícula 90430;0.0439;0.0361
 41.325.993/0001-59;2024-06-30;1;IVC Greenwich Park;Rua Martinho Lutero, 99, na Cidade de Londrina/PR;2024-05-10;375.99;3;matrícula 80.137 do 2º Ofício de Registro de Imóveis - unidades 1203, 1301, 2503;0.0366;0.0165
 41.325.993/0001-59;2024-06-30;1;IVC Jh Palhano;Rua João Huss,520, Cidade de Londrina, no Estado do Paraná;2024-05-10;523.77;11;matrícula 60.110 do 1º Ofício de Registro de Imóveis - unidades 301, 408, 507, 607, 804, 807, 1603, 1402, 1002, 1904, 2004;0.0423;0.019
 41.325.993/0001-59;2024-06-30;1;IVC Greenwich Park;Rua Martinho Lutero, 99, na Cidade de Londrina/PR;2024-06-25;124.43;1;matrícula 80.137 do 2º Ofício de Registro de Imóvel - unidade 2502;0.0132;0.0053
@@ -250,6 +353,12 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numer
 44.428.541/0001-90;2024-06-30;1;210_ARACAJÚ;Av Ivo do Prado, 904;2024-01-23;719;1;Imóveis acabados para venda;0.0074;0.0072
 44.428.541/0001-90;2024-06-30;1;314 - CAMP;R José de Campos Sales, 89;2024-03-08;100;1;Imóveis acabados para venda;0.0025;0.0025
 44.428.541/0001-90;2024-06-30;1;67 - SBC;R Atlântica, 585;2024-03-28;2653.82;1;Imóveis acabados para venda;0.0289;0.0284
+45.123.558/0001-00;2024-06-30;2;FAZENDA PIRAPITINGA;Canápolis/MG;2024-05-03;131871809;1;N/A;1;0.94
+45.123.558/0001-00;2024-06-30;2;FAZENDA PIRAPITINGA;Monte Alegre/MG;2024-05-03;34253311;1;N/A;1;0.94
+45.123.558/0001-00;2024-09-30;1;Fazenda San Francisco - Costa Norte;Canarana - MT;2024-08-20;37820000;1;N/A;1;0
+45.123.558/0001-00;2024-09-30;1;Fazenda San Francisco - Gleba São Pedro;Canarana - MT;2024-08-20;22690000;1;N/A;1;0
+45.123.558/0001-00;2024-09-30;1;Fazenda San Francisco - Recreio do Norte;Canarana - MT;2024-08-20;53460000;1;N/A;1;0
+45.123.558/0001-00;2024-09-30;1;Fazenda San Francisco - Gleba Boazuda;Canarana - MT;2024-08-20;15430000;1;N/A;1;0
 47.154.849/0001-83;2024-03-28;1;SKY_105;R. da Paz, 1601;2024-03-20;74.4;1;Nenhuma característica relevante;0.000861;0.001874
 47.154.849/0001-83;2024-03-28;1;SKY_205;R. da Paz, 1601;2024-02-16;74.4;1;Nenhuma característica relevante;0.000861;0.001874
 47.154.849/0001-83;2024-03-28;1;SKY_507;R. da Paz, 1601;2024-02-21;82.7;1;Nenhuma característica relevante;0.0011;0.002395
@@ -343,6 +452,79 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numer
 47.154.849/0001-83;2024-06-28;1;NR2_95;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;2024-06-04;179.5;1;Nenhuma característica relevante;0.003481;0.002889
 47.154.849/0001-83;2024-06-28;1;NR2_103;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;2024-06-03;106.6;1;Nenhuma característica relevante;0.002106;0.001748
 47.154.849/0001-83;2024-06-28;1;50;;;;1;Nenhuma característica relevante;;
+47.154.849/0001-83;2024-09-30;1;SKY_701;R. da Paz, 1601;2024-07-01;76.9;1;Nenhuma característica relevante;0.002229;0.002371
+47.154.849/0001-83;2024-09-30;1;SKY_1807;R. da Paz, 1601;2024-09-12;82.7;1;Nenhuma característica relevante;0.002601;0.002766
+47.154.849/0001-83;2024-09-30;1;SKY_1808;R. da Paz, 1601;2024-09-12;75.5;1;Nenhuma característica relevante;0.002254;0.002397
+47.154.849/0001-83;2024-09-30;1;SKY_1905;R. da Paz, 1601;2024-07-17;74.4;1;Nenhuma característica relevante;0.002477;0.002634
+47.154.849/0001-83;2024-09-30;1;SKY_1906;R. da Paz, 1601;2024-07-17;71.8;1;Nenhuma característica relevante;0.002312;0.002459
+47.154.849/0001-83;2024-09-30;1;SKY_2009;R. da Paz, 1601;2024-08-26;76.9;1;Nenhuma característica relevante;0.002461;0.002618
+47.154.849/0001-83;2024-09-30;1;SKY_2010;R. da Paz, 1601;2024-08-26;76.9;1;Nenhuma característica relevante;0.002461;0.002618
+47.154.849/0001-83;2024-09-30;1;SKY_2011;R. da Paz, 1601;2024-08-26;75.5;1;Nenhuma característica relevante;0.002487;0.002645
+47.154.849/0001-83;2024-09-30;1;SKY_2012;R. da Paz, 1601;2024-08-26;82.7;1;Nenhuma característica relevante;0.002948;0.003136
+47.154.849/0001-83;2024-09-30;1;SKY_2013;R. da Paz, 1601;2024-08-26;71.8;1;Nenhuma característica relevante;0.002365;0.002515
+47.154.849/0001-83;2024-09-30;1;SKY_2014;R. da Paz, 1601;2024-08-26;74.4;1;Nenhuma característica relevante;0.002512;0.002672
+47.154.849/0001-83;2024-09-30;1;SKY_2015;R. da Paz, 1601;2024-08-26;71.8;1;Nenhuma característica relevante;0.002365;0.002515
+47.154.849/0001-83;2024-09-30;1;SKY_2016;R. da Paz, 1601;2024-08-26;82.7;1;Nenhuma característica relevante;0.002948;0.003135
+47.154.849/0001-83;2024-09-30;1;SKY_2017;R. da Paz, 1601;2024-08-26;75.5;1;Nenhuma característica relevante;0.002571;0.002734
+47.154.849/0001-83;2024-09-30;1;SKY_2203;R. da Paz, 1601;2024-09-26;82.7;1;Nenhuma característica relevante;0.002789;0.002967
+47.154.849/0001-83;2024-09-30;1;SKY_2204;R. da Paz, 1601;2024-09-26;71.8;1;Nenhuma característica relevante;0.002294;0.00244
+47.154.849/0001-83;2024-09-30;1;SKY_2205;R. da Paz, 1601;2024-09-26;74.4;1;Nenhuma característica relevante;0.002294;0.00244
+47.154.849/0001-83;2024-09-30;1;SKY_2206;R. da Paz, 1601;2024-09-26;71.8;1;Nenhuma característica relevante;0.002294;0.00244
+47.154.849/0001-83;2024-09-30;1;GA_501A;Av. Farroupilha, 5508;2024-08-19;97.8;1;Nenhuma característica relevante;0.002411;0.002564
+47.154.849/0001-83;2024-09-30;1;GA_1105B;Av. Farroupilha, 5508;2024-07-09;97.8;1;Nenhuma característica relevante;0.002394;0.002546
+47.154.849/0001-83;2024-09-30;1;GA_809D;Av. Farroupilha, 5508;2024-07-18;97.8;1;Nenhuma característica relevante;0.00226;0.002403
+47.154.849/0001-83;2024-09-30;1;GA_213BV;Av. Farroupilha, 5508;2024-08-19;29.6;1;Nenhuma característica relevante;0.000289;0.000307
+47.154.849/0001-83;2024-09-30;1;GA_239BV;Av. Farroupilha, 5508;2024-07-09;29.6;1;Nenhuma característica relevante;0.000289;0.000307
+47.154.849/0001-83;2024-09-30;1;GA_512BV;Av. Farroupilha, 5508;2024-07-18;29.6;1;Nenhuma característica relevante;0.000289;0.000307
+47.154.849/0001-83;2024-09-30;1;GR_204A;R. Aurora, 1250;2024-07-04;96.7;1;Nenhuma característica relevante;0.002229;0.002371
+47.154.849/0001-83;2024-09-30;1;GR_804A;R. Aurora, 1250;2024-08-01;96.7;1;Nenhuma característica relevante;0.002369;0.00252
+47.154.849/0001-83;2024-09-30;1;GR_504B;R. Aurora, 1250;2024-08-23;96.7;1;Nenhuma característica relevante;0.00227;0.002415
+47.154.849/0001-83;2024-09-30;1;GR_1005B;R. Aurora, 1250;2024-07-09;96.7;1;Nenhuma característica relevante;0.002477;0.002634
+47.154.849/0001-83;2024-09-30;1;GR_1205B;R. Aurora, 1250;2024-08-19;96.7;1;Nenhuma característica relevante;0.002477;0.002634
+47.154.849/0001-83;2024-09-30;1;GR_311C;R. Aurora, 1250;2024-09-20;121.8;1;Nenhuma característica relevante;0.003055;0.003249
+47.154.849/0001-83;2024-09-30;1;GR_305C;R. Aurora, 1250;2024-09-09;96.7;1;Nenhuma característica relevante;0.002353;0.002503
+47.154.849/0001-83;2024-09-30;1;GR_806C;R. Aurora, 1250;2024-07-16;121.8;1;Nenhuma característica relevante;0.002972;0.003161
+47.154.849/0001-83;2024-09-30;1;GR_312D;R. Aurora, 1250;2024-09-20;96.7;1;Nenhuma característica relevante;0.002312;0.002459
+47.154.849/0001-83;2024-09-30;1;GR_903D;R. Aurora, 1250;2024-07-26;121.8;1;Nenhuma característica relevante;0.002989;0.003179
+47.154.849/0001-83;2024-09-30;1;GR_205D;R. Aurora, 1250;2024-09-25;96.7;1;Nenhuma característica relevante;0.002312;0.002459
+47.154.849/0001-83;2024-09-30;1;GR_707D;R. Aurora, 1250;2024-08-19;121.8;1;Nenhuma característica relevante;0.00308;0.003275
+47.154.849/0001-83;2024-09-30;1;GR_1009D;R. Aurora, 1250;2024-07-25;96.7;1;Nenhuma característica relevante;0.002625;0.002792
+47.154.849/0001-83;2024-09-30;1;GR_42AV;R. Aurora, 1250;2024-07-04;18.2;1;Nenhuma característica relevante;0.000289;0.000307
+47.154.849/0001-83;2024-09-30;1;GR_559AV;R. Aurora, 1250;2024-08-19;27.5;1;Nenhuma característica relevante;0.000289;0.000307
+47.154.849/0001-83;2024-09-30;1;GR_617AV;R. Aurora, 1250;2024-07-25;27.5;1;Nenhuma característica relevante;0.000289;0.000307
+47.154.849/0001-83;2024-09-30;1;GR_99AV;R. Aurora, 1250;2024-09-09;17.2;1;Nenhuma característica relevante;0.000289;0.000307
+47.154.849/0001-83;2024-09-30;1;GR_409AV;R. Aurora, 1250;2024-08-19;27.5;1;Nenhuma característica relevante;0.000289;0.000307
+47.154.849/0001-83;2024-09-30;1;GR_392AV;R. Aurora, 1250;2024-07-26;27.5;1;Nenhuma característica relevante;0.000289;0.000307
+47.154.849/0001-83;2024-09-30;1;GR_310AV;R. Aurora, 1250;2024-08-23;27.5;1;Nenhuma característica relevante;0.000289;0.000307
+47.154.849/0001-83;2024-09-30;1;GR_271AV;R. Aurora, 1250;2024-07-09;27.5;1;Nenhuma característica relevante;0.000289;0.000307
+47.154.849/0001-83;2024-09-30;1;GR_231AV;R. Aurora, 1250;2024-09-25;27.5;1;Nenhuma característica relevante;0.000289;0.000307
+47.154.849/0001-83;2024-09-30;1;GR_144AV;R. Aurora, 1250;2024-08-01;27.5;1;Nenhuma característica relevante;0.000289;0.000307
+47.154.849/0001-83;2024-09-30;1;GR_105AV;R. Aurora, 1250;2024-09-20;17.2;1;Nenhuma característica relevante;0.000289;0.000307
+47.154.849/0001-83;2024-09-30;1;NR1_34;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;2024-07-01;192.7;1;Nenhuma característica relevante;0.004128;0.004391
+47.154.849/0001-83;2024-09-30;1;NR1_51;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;2024-07-25;154.3;1;Nenhuma característica relevante;0.004086;0.004345
+47.154.849/0001-83;2024-09-30;1;NR1_106;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;2024-07-17;178;1;Nenhuma característica relevante;0.003943;0.004194
+47.154.849/0001-83;2024-09-30;1;NR1_139;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;2024-09-05;147.3;1;Nenhuma característica relevante;0.003592;0.00382
+47.154.849/0001-83;2024-09-30;1;NO1_817;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;2024-08-26;106.1;1;Nenhuma característica relevante;0.00322;0.003425
+47.154.849/0001-83;2024-09-30;1;GR_707B;R. Aurora, 1250 Canoas RS;2024-07-09;121.8;1;Nenhuma característica relevante;0.003303;0.003513
+47.154.849/0001-83;2024-09-30;1;GR_337A;R. Aurora, 1250 Canoas RS;2024-07-16;55;1;Nenhuma característica relevante;0.000289;0.000307
+47.154.849/0001-83;2024-09-30;1;GR_486A;R. Aurora, 1250 Canoas RS;2024-09-20;17.2;1;Nenhuma característica relevante;0.000289;0.000307
+47.154.849/0001-83;2024-09-30;1;RI_14B;R. Amália Bernardino de Souza, 532 - Recife, PE;2024-09-26;109.7;1;Nenhuma característica relevante;0.00336;0.003574
+47.154.849/0001-83;2024-09-30;1;RI_43B;R. Amália Bernardino de Souza, 532 - Recife, PE;2024-09-11;109.7;1;Nenhuma característica relevante;0.003468;0.003688
+47.154.849/0001-83;2024-09-30;1;NR2_11;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;2024-07-18;149.6;1;Nenhuma característica relevante;0.003773;0.004013
+47.154.849/0001-83;2024-09-30;1;NR1_21;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;2024-09-16;149.6;1;Nenhuma característica relevante;0.003938;0.004189
+47.154.849/0001-83;2024-09-30;1;NR1_69;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;2024-07-12;149.6;1;Nenhuma característica relevante;0.003798;0.004039
+47.154.849/0001-83;2024-09-30;1;NR1_121;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;2024-08-29;148.2;1;Nenhuma característica relevante;0.003963;0.004215
+47.154.849/0001-83;2024-09-30;1;NO1_607;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;2024-09-09;84.6;1;Nenhuma característica relevante;0.002312;0.002459
+47.154.849/0001-83;2024-09-30;1;NO1_820;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;2024-07-03;84.6;1;Nenhuma característica relevante;0.002217;0.002358
+47.154.849/0001-83;2024-09-30;1;NO1_1018;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;2024-08-01;102;1;Nenhuma característica relevante;0.002807;0.002986
+47.154.849/0001-83;2024-09-30;1;NO1_1101;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;2024-07-22;84.6;1;Nenhuma característica relevante;0.002251;0.002394
+47.154.849/0001-83;2024-09-30;1;NO1_1503;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;2024-07-25;84.6;1;Nenhuma característica relevante;0.002188;0.002327
+47.154.849/0001-83;2024-09-30;1;Nex2_30;Av Chácara das Nascentes, s/n;2024-08-19;220.4;2;Nenhuma característica relevante;0.002353;0.002503
+47.154.849/0001-83;2024-09-30;1;Nex8_36;Av Chácara das Nascentes, s/n;2024-08-21;200;3;Nenhuma característica relevante;0.002535;0.002696
+47.154.849/0001-83;2024-09-30;1;Nex11_39;Av Chácara das Nascentes, s/n;2024-09-20;200;4;Nenhuma característica relevante;0.002535;0.002696
+47.154.849/0001-83;2024-09-30;1;Nex26_54;Av Chácara das Nascentes, s/n;2024-08-14;200;12;Nenhuma característica relevante;0.002535;0.002696
+47.154.849/0001-83;2024-09-30;1;Nex4_01;Av Chácara das Nascentes, s/n;2024-07-24;183.3;19;Nenhuma característica relevante;0.003385;0.0036
+47.154.849/0001-83;2024-09-30;1;Nex6_03;Av Chácara das Nascentes, s/n;2024-08-05;212.7;20;Nenhuma característica relevante;0.003385;0.0036
 49.553.783/0001-20;2024-06-30;1;Vista Madalena, By You, Inc;Rua Senador Cesar Lacerda Vergueiro, n.º 534, Vila Madalena - São Paulo - SP;2024-05-06;70.36;1;N/a;0.14;0.0073
 50.399.189/0001-05;2024-09-30;1;RESIDENCIAL HELBOR B LIV - FIII UNIDADES AUTÔNOMAS;N/A;2024-08-05;50.024;1;N/A;0.00304772816292596;0.0025829864618323
 50.399.189/0001-05;2024-09-30;1;RESIDENCIAL HELBOR B LIV - FIII UNIDADES AUTÔNOMAS;N/A;2024-07-10;50.024;1;N/A;0.00326027522871368;0.0030756854170529
@@ -362,6 +544,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numer
 50.399.189/0001-05;2024-09-30;1;OPEN MIND - FIII UNIDADES AUTÔNOMAS;N/A;2024-07-04;57.622;1;N/A;0.00414126655588322;0.00419584418867406
 50.399.189/0001-05;2024-09-30;1;OPEN MIND - FIII UNIDADES AUTÔNOMAS;N/A;2024-07-31;57.622;1;N/A;0.00425355607283006;0.00430961356593404
 51.870.412/0001-13;2024-06-30;1;Vista Madalena By You, Inc;Rua Paulistânia, n.ºs 72 e 80 e Rua Senador César Lacerda Vergueiro, n.ºs 522 e 534, São Paulo/SP;2024-05-07;104.94;1;Unidade 1.401;0.106;0.005
+51.870.412/0001-13;2024-09-30;1;Alpha House;Estrada Lula Chaves, 386 - Santana do Parnaíba;2024-08-05;257.22;1;Unidade 8;0.17;0.0014
+52.227.760/0001-30;2024-09-30;1;EDIFICIO BELLA;Avenida Jk, S/n, Quadra 38, Lote S/l, Jardim America, Itumbiara/GO, Brasil, 75523-425;2024-09-29;4785.6;6;Não possui caracteristicas que destoem dos demais;0.03914400194953;3.94471780819986
 52.324.762/0001-47;2024-06-30;1;HESA 150;CONDOMÍNIO HELBOR VILA OLÍMPIA HOME & STAY;2024-05-01;0;1;N/A;0.22;0.0794
 52.324.762/0001-47;2024-06-30;1;HESA 156;CONDOMÍNIO HELBOR SIGNATURE;2024-04-01;0;1;N/A;0.1233;0.031
 53.309.565/0001-11;2024-06-30;1;Imovel Santo Andre - Hospital Next;Avenida Dom Pedro Ii, 665, Jardim, Santo Andre/SP, Brasil, 09080-110;2024-06-12;10000;3;Direito de Propriedade;0.05942990120865;5.95299218145536

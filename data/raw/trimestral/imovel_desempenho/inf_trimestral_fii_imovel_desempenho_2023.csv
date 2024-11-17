@@ -27,8 +27,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 01.235.622/0001-61;2023-09-30;1;Imóveis para venda em construção;Glória Residencial;N.A.;N.A.
 01.235.622/0001-61;2023-09-30;1;Imóveis para venda em construção;All - Jardim Oceânico;N.A.;N.A.
 01.235.622/0001-61;2023-09-30;1;Imóveis para venda em construção;Arete Toriba - Toriba Norte A/B;N.A.;N.A.
-01.235.622/0001-61;2023-09-30;1;Imóveis para venda em construção;Nurban;N.A.;N.A.
 01.235.622/0001-61;2023-09-30;1;Imóveis para venda em construção;Arete Toriba - Toriba Sudoeste;N.A.;N.A.
+01.235.622/0001-61;2023-09-30;1;Imóveis para venda em construção;Nurban;N.A.;N.A.
 01.235.622/0001-61;2023-09-30;1;Imóveis para venda em construção;Lineu 708;N.A.;N.A.
 01.235.622/0001-61;2023-09-30;1;Imóveis para venda em construção;Crystal Blue;N.A.;N.A.
 01.235.622/0001-61;2023-09-30;1;Imóveis para venda em construção;Blanc 260;N.A.;N.A.
@@ -40,8 +40,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 01.235.622/0001-61;2023-12-29;1;Imóveis para venda em construção;S Design;N.A.;N.A.
 01.235.622/0001-61;2023-12-29;1;Imóveis para venda em construção;All - Jardim Oceânico;N.A.;N.A.
 01.235.622/0001-61;2023-12-29;1;Imóveis para venda em construção;Arete Toriba - Toriba Sudoeste;N.A.;N.A.
-01.235.622/0001-61;2023-12-29;1;Imóveis para venda em construção;Lineu 708;N.A.;N.A.
 01.235.622/0001-61;2023-12-29;1;Imóveis para venda em construção;Glória Residencial;N.A.;N.A.
+01.235.622/0001-61;2023-12-29;1;Imóveis para venda em construção;Lineu 708;N.A.;N.A.
 01.235.622/0001-61;2023-12-29;1;Imóveis para venda em construção;Nurban;N.A.;N.A.
 08.417.532/0001-30;2023-03-31;1;Imóveis para renda em construção;Expansão Lubrax;NA;NA
 08.417.532/0001-30;2023-06-30;1;Imóveis para renda em construção;Expansão Lubrax;NA;NA
@@ -89,13 +89,13 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 14.721.889/0001-00;2023-03-31;1;Imóveis para venda em construção;Aretê - Peninsula Norte;N.A.;N.A.
 14.721.889/0001-00;2023-03-31;1;Imóveis para venda em construção;Blanc 260;Replanejamento de cronograma;Antecipação de compra de mateiral.
 14.721.889/0001-00;2023-03-31;1;Imóveis para venda em construção;Costa Mare;N.A.;N.A.
-14.721.889/0001-00;2023-03-31;1;Imóveis para venda em construção;Aretê - Alto Ybirá;N.A.;N.A.
 14.721.889/0001-00;2023-03-31;1;Imóveis para venda em construção;Iluminato;Prazo de obra replanejado, após atraso no desmonte de rocha.;N.A.
+14.721.889/0001-00;2023-03-31;1;Imóveis para venda em construção;Aretê - Alto Ybirá;N.A.;N.A.
 14.721.889/0001-00;2023-03-31;1;Imóveis para venda em construção;The Gallery;N.A.;N.A.
 14.721.889/0001-00;2023-03-31;1;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Atraso na contratação de serviços.;N.A.
 14.721.889/0001-00;2023-06-30;1;Imóveis para venda em construção;Aretê - Alto Ybirá;N.A.;N.A.
-14.721.889/0001-00;2023-06-30;1;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
 14.721.889/0001-00;2023-06-30;1;Imóveis para venda em construção;The Gallery;N.A.;N.A.
+14.721.889/0001-00;2023-06-30;1;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
 14.721.889/0001-00;2023-06-30;1;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Atraso na contratação de serviços.;N.A.
 14.721.889/0001-00;2023-06-30;1;Imóveis para venda em construção;Maison Laranjeiras;Tarefas replanejadas;N.A.
 14.721.889/0001-00;2023-06-30;1;Imóveis para venda em construção;Blanc 260;Replanejamento de cronograma;Antecipação de compra de mateiral.
@@ -176,42 +176,42 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 21.408.063/0001-51;2023-06-30;1;Imóveis para renda em construção;JC 586;n/a;n/a
 21.408.063/0001-51;2023-09-29;1;Imóveis para renda em construção;JC 586;n/a;n/a
 21.408.063/0001-51;2023-12-29;1;Imóveis para renda em construção;JC 586;n/a;n/a
+22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 5 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 301 - Bl 4 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 5 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 1 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 4 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 3 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 5 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 301 - Bl 4 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 1 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 5 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 1 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 3 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 1 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 4 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 3 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 5 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 1 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 4 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 1 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 3 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 4 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 301 - Bl 4 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 5 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 4 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 4 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2023-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 1 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2023-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 4 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2023-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 3 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2023-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 4 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 1 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 301 - Bl 4 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2023-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 4 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2023-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 3 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2023-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 4 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 5 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2023-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 1 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2023-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 5 - Village Acqua;n/a;n/a
 24.853.044/0001-22;2023-03-31;1;Imóveis para renda em construção;Castelo 57 Business Park;n/a;n/a
 24.853.044/0001-22;2023-06-30;1;Imóveis para renda em construção;Castelo 57 Business Park;n/a;n/a
 24.853.044/0001-22;2023-09-30;1;Imóveis para renda em construção;Castelo 57 Business Park;n/a;n/a
@@ -234,15 +234,15 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 28.516.650/0001-03;2023-03-31;2;Imóveis para venda em construção;Edifício Gibran;A construtora vem tentando recuperar o atraso apresentado, porém, não tem conseguido realizar a concretagem das últimas lajes conforme o previsto;N/A
 28.516.650/0001-03;2023-03-31;2;Imóveis para venda em construção;Tribeca 190 - Montrecon;Atraso é reflexo da alta incidência de chuvas no mês anterior, visto que a obra está em estágio inicial de serviços que são diretamente impactados pelo índice elevado de chuvas.;N/A
 28.516.650/0001-03;2023-03-31;2;Imóveis para venda em construção;MGB;O pequeno atraso acumulado é considerado aceitável, visto que é reflexo do volume de chuvas no período anterior.;N/A
-28.516.650/0001-03;2023-06-30;1;Imóveis para venda em construção;Edifício Gibran;A construtora vem tentando recuperar o atraso apresentado, porém, não tem conseguido realizar a concretagem das últimas lajes conforme o previsto;N/A
 28.516.650/0001-03;2023-06-30;1;Imóveis para venda em construção;Haia Boa Vista - GRM;A obra encontra-se atrasada devido o atraso no início dos serviços, consequentemente atrasando a execução da fundação.;N/A
+28.516.650/0001-03;2023-06-30;1;Imóveis para venda em construção;Edifício Gibran;A construtora vem tentando recuperar o atraso apresentado, porém, não tem conseguido realizar a concretagem das últimas lajes conforme o previsto;N/A
 28.516.650/0001-03;2023-06-30;1;Imóveis para venda em construção;MGB;O pequeno atraso acumulado é considerado aceitável, visto que é reflexo do volume de chuvas no período anterior.;N/A
 28.516.650/0001-03;2023-06-30;1;Imóveis para venda em construção;Stillo Barra - AGER;O atraso é em função de problemas (dificuldade) par execução das fundações das torres - rochas;N/A
 28.516.650/0001-03;2023-09-30;1;Imóveis para venda em construção;MGB;O atraso é reflexo das dificuldades da equipe em desmobilizar e mobilizar andaimes e formas entre os blocos em execução, impactando no avanço de outras atividades previstas.;N/A
-28.516.650/0001-03;2023-09-30;1;Imóveis para venda em construção;Edifício Gibran;A construtora vem tentando recuperar o atraso apresentado, porém, não tem conseguido realizar a concretagem das últimas lajes conforme o previsto;N/A
 28.516.650/0001-03;2023-09-30;1;Imóveis para venda em construção;YOU Unlimited;N/A;O Cronograma incial foi reajustado pela YouInc em 19/07/23, tornando a curva mais conservadora e aderente ao planejamento daconstrutora, sem dilatação do prazo final de obra. Sendo assim, a obra está adiantada 2,92% em relação ao previsto no cronograma.
 28.516.650/0001-03;2023-09-30;1;Imóveis para venda em construção;Stillo Barra - AGER;O atraso é em função de problemas (dificuldade) par execução das fundações das torres - rochas;N/A
 28.516.650/0001-03;2023-09-30;1;Imóveis para venda em construção;Haia Boa Vista - GRM;A obra encontra-se atrasada devido o atraso no início dos serviços, consequentemente atrasando a execução da fundação.;N/A
+28.516.650/0001-03;2023-09-30;1;Imóveis para venda em construção;Edifício Gibran;A construtora vem tentando recuperar o atraso apresentado, porém, não tem conseguido realizar a concretagem das últimas lajes conforme o previsto;N/A
 28.516.650/0001-03;2023-12-31;1;Imóveis para venda em construção;Edifício Gibran;A construtora vem tentando recuperar o atraso apresentado, porém, não tem conseguido realizar a concretagem das últimas lajes conforme o previsto;N/A
 28.516.650/0001-03;2023-12-31;1;Imóveis para venda em construção;Haia Boa Vista - GRM;A obra encontra-se atrasada devido o atraso no início dos serviços, consequentemente atrasando a execução da fundação.;N/A
 28.516.650/0001-03;2023-12-31;1;Imóveis para venda em construção;MGB;O atraso é reflexo das dificuldades da equipe em desmobilizar e mobilizar andaimes e formas entre os blocos em execução, impactando no avanço de outras atividades previstas.;N/A
@@ -273,8 +273,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 31.907.591/0001-09;2023-06-30;1;Imóveis para renda em construção;Imóvel A, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
 31.907.591/0001-09;2023-09-29;1;Imóveis para renda em construção;Imóvel A, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
 31.907.591/0001-09;2023-09-29;1;Imóveis para renda em construção;Imóvel B, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
-31.907.591/0001-09;2023-12-29;1;Imóveis para renda em construção;Imóvel A, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
 31.907.591/0001-09;2023-12-29;1;Imóveis para renda em construção;Imóvel B, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
+31.907.591/0001-09;2023-12-29;1;Imóveis para renda em construção;Imóvel A, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
 32.274.553/0001-29;2023-03-31;1;Imóveis para renda em construção;n/a;n/a;n/a
 32.274.553/0001-29;2023-06-30;1;Imóveis para renda em construção;N/A;N/A;N/A
 32.274.553/0001-29;2023-09-29;1;Imóveis para renda em construção;N/A;N/A;N/A
@@ -299,14 +299,14 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 34.895.711/0001-93;2023-09-29;1;Imóveis para renda em construção;ALPHACASTELLO;n/a;n/a
 34.895.711/0001-93;2023-09-29;1;Imóveis para renda em construção;ALPHAVILLE NOVAESPLANADA;n/a;n/a
 34.895.711/0001-93;2023-09-29;1;Imóveis para renda em construção;ALPHAVILLE DOM PEDRO;n/a;n/a
-34.895.711/0001-93;2023-12-29;1;Imóveis para venda em construção;ALPHACASTELLO;n/a;n/a
 34.895.711/0001-93;2023-12-29;1;Imóveis para renda em construção;ALPHACASTELLO;N/A;N/A
+34.895.711/0001-93;2023-12-29;1;Imóveis para venda em construção;ALPHACASTELLO;n/a;n/a
 34.895.752/0001-80;2023-03-31;1;Imóveis para venda em construção;PROJETO JAMARIS 98% - BRIO III;N/A;N/A
 34.895.752/0001-80;2023-03-31;1;Imóveis para venda em construção;GUARARA (BRIO III) - 50%;N/A;N/A
-34.895.752/0001-80;2023-03-31;1;Imóveis para venda em construção;PROJETO DOM MANUEL;N/A;N/A
+34.895.752/0001-80;2023-03-31;1;Imóveis para venda em construção;PROJETO MAGNOLIAS;N/A;N/A
 34.895.752/0001-80;2023-03-31;1;Imóveis para venda em construção;PROJETO MIN FERREIRA ALVES;N/A;N/A
 34.895.752/0001-80;2023-03-31;1;Imóveis para venda em construção;PROJETO PADRE CHICO;N/A;N/A
-34.895.752/0001-80;2023-03-31;1;Imóveis para venda em construção;PROJETO MAGNOLIAS;N/A;N/A
+34.895.752/0001-80;2023-03-31;1;Imóveis para venda em construção;PROJETO DOM MANUEL;N/A;N/A
 34.895.752/0001-80;2023-03-31;1;Imóveis para venda em construção;SEBASTIAO PAES (BRIO III) 50%;N/A;N/A
 34.895.752/0001-80;2023-06-30;1;Imóveis para venda em construção;SEBASTIAO PAES (BRIO III) 50%;N/A;N/A
 34.895.752/0001-80;2023-09-29;1;Imóveis para venda em construção;SEBASTIAO PAES (BRIO III) 50%;N/A;N/A
@@ -384,9 +384,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 40.041.723/0001-53;2023-03-31;1;Imóveis para renda em construção;Iconyc;Não se aplica;Não se aplica
 40.041.723/0001-53;2023-03-31;1;Imóveis para renda em construção;Atmosfera Vila Mariana;Não se aplica;Não se aplica
 40.041.723/0001-53;2023-06-30;1;Imóveis para renda em construção;Cyrela For You;Não se aplica;Não se aplica
-40.041.723/0001-53;2023-06-30;1;Imóveis para renda em construção;Atmosfera Vila Mariana;Não se aplica;Não se aplica
 40.041.723/0001-53;2023-06-30;1;Imóveis para renda em construção;Iconyc;Não se aplica;Não se aplica
 40.041.723/0001-53;2023-06-30;1;Imóveis para renda em construção;Cyrela On The Parc By Yoo;Não se aplica;Não se aplica
+40.041.723/0001-53;2023-06-30;1;Imóveis para renda em construção;Atmosfera Vila Mariana;Não se aplica;Não se aplica
 40.041.723/0001-53;2023-09-30;1;Imóveis para renda em construção;Cyrela For You;Não se aplica;Não se aplica
 40.041.723/0001-53;2023-09-30;1;Imóveis para renda em construção;Atmosfera Vila Mariana;Não se aplica;Não se aplica
 40.041.723/0001-53;2023-09-30;1;Imóveis para renda em construção;Cyrela On The Parc By Yoo;Não se aplica;Não se aplica
@@ -426,16 +426,16 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 42.273.290/0001-97;2023-06-30;1;Imóveis para venda em construção;Vista Ipanema;n/a;n/a
 42.273.290/0001-97;2023-06-30;1;Imóveis para venda em construção;Dona Delfina;n/a;n/a
 42.273.290/0001-97;2023-06-30;1;Imóveis para venda em construção;Alma Ipanema;n/a;n/a
-42.273.290/0001-97;2023-09-30;1;Imóveis para venda em construção;Vista Ipanema;n/a;n/a
 42.273.290/0001-97;2023-09-30;1;Imóveis para venda em construção;Dona Delfina;n/a;n/a
+42.273.290/0001-97;2023-09-30;1;Imóveis para venda em construção;Vista Ipanema;n/a;n/a
 42.273.290/0001-97;2023-09-30;1;Imóveis para venda em construção;Alma Ipanema;n/a;n/a
 42.273.290/0001-97;2023-12-29;1;Imóveis para venda em construção;Alma Ipanema;n/a;n/a
 42.273.290/0001-97;2023-12-29;1;Imóveis para venda em construção;Dona Delfina;n/a;n/a
 42.273.290/0001-97;2023-12-29;1;Imóveis para venda em construção;Vista Ipanema;n/a;n/a
 42.869.892/0001-01;2023-03-31;1;Imóveis para renda em construção;GUARARA (BRIO IV) - 50%;N/A;N/A
 42.869.892/0001-01;2023-03-31;1;Imóveis para renda em construção;SEBASTIAO PAES (BRIO IV) 50%;N/A;N/A
-42.869.892/0001-01;2023-06-30;1;Imóveis para renda em construção;GUARARA (BRIO IV) - 50%;N/A;N/A
 42.869.892/0001-01;2023-06-30;1;Imóveis para renda em construção;SEBASTIAO PAES (BRIO IV) 50%;N/A;N/A
+42.869.892/0001-01;2023-06-30;1;Imóveis para renda em construção;GUARARA (BRIO IV) - 50%;N/A;N/A
 42.869.892/0001-01;2023-09-29;1;Imóveis para renda em construção;GUARARA (BRIO IV) - 50%;N/A;N/A
 42.869.892/0001-01;2023-09-29;1;Imóveis para renda em construção;SEBASTIAO PAES (BRIO IV) 50%;N/A;N/A
 42.869.892/0001-01;2023-12-29;1;Imóveis para venda em construção;SEBASTIAO PAES (BRIO IV) 50%;N/A;N/A

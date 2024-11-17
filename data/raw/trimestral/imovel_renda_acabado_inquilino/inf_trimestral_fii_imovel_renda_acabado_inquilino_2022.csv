@@ -237,14 +237,13 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 01.497.954/0001-14;2022-09-30;1;Edifício Piratini;Serviços;0;0
 01.497.954/0001-14;2022-09-30;1;Centro Empresarial Rio Guahyba;Serviços;0;0
 01.497.954/0001-14;2022-09-30;1;Prédio Comercial;Serviços;0;0
-01.497.954/0001-14;2022-12-31;1;Centro Comercial e Empresarial Mostardeiro;Serviços;0;0
-01.497.954/0001-14;2022-12-31;1;Centro Empresarial Presidente Kennedy;Serviços;0;0
-01.497.954/0001-14;2022-12-31;1;Edifício Maipú;Serviços;0;0
-01.497.954/0001-14;2022-12-31;1;EdifícioMartim Fierro;Serviços;0;0
-01.497.954/0001-14;2022-12-31;1;Edifício Piratini;Serviços;0;0
-01.497.954/0001-14;2022-12-31;1;Centro Empresarial Rio Guahyba;Serviços;0;0
-01.497.954/0001-14;2022-12-31;1;Prédio Comercial;Serviços;0;0
-01.497.954/0001-14;2022-12-31;1;Edifício Lafayette;Serviços Financeiros;0;0
+01.497.954/0001-14;2022-12-31;2;Centro Comercial e Empresarial Mostardeiro;Serviços;0;0
+01.497.954/0001-14;2022-12-31;2;Centro Empresarial Presidente Kennedy;Serviços;0;0
+01.497.954/0001-14;2022-12-31;2;Edifício Maipú;Serviços;0;0
+01.497.954/0001-14;2022-12-31;2;EdifícioMartim Fierro;Serviços;0;0
+01.497.954/0001-14;2022-12-31;2;Edifício Piratini;Serviços;0;0
+01.497.954/0001-14;2022-12-31;2;Centro Empresarial Rio Guahyba;Serviços;0;0
+01.497.954/0001-14;2022-12-31;2;Prédio Comercial;Serviços;0;0
 01.601.918/0001-59;2022-03-31;1;Eusébio Matoso;Serviço;0;0
 01.601.918/0001-59;2022-03-31;1;Dantas Barreto;Serviço;1;0.302078
 01.601.918/0001-59;2022-03-31;1;Joaquim Floriano;Serviço;0;0
@@ -1559,27 +1558,26 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 10.456.799/0001-89;2022-09-30;1;Imóvel;Serviços;0;0
 10.456.799/0001-89;2022-09-30;1;Imóvel;Serviços;0;0
 10.456.799/0001-89;2022-09-30;1;Imóvel;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Condomínio Residencial Xico Stockinger;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Condomínio Residencial Vila Gardena;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Condomínio FK Convenience Offices;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Trend Nova Carlos Gomes - Torre Corporate;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Nilo Home Square;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Trend Nova Carlos Gomes;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Trend Nova Carlos Gomes - Safe Park;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Shopping Viva;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Av. Severo Dullius, 1995;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Shopping Pelotas;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Imóvel;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Imóvel;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Imóvel;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Imóvel;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Imóvel;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Imóvel;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Imóvel;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Imóvel;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Imóvel;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Imóvel;Serviços;0;0
-10.456.799/0001-89;2022-12-31;1;Edifício Lafayette;Serviços Financeiros;0;0
+10.456.799/0001-89;2022-12-31;2;Condomínio Residencial Xico Stockinger;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Condomínio Residencial Vila Gardena;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Condomínio FK Convenience Offices;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Trend Nova Carlos Gomes - Torre Corporate;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Nilo Home Square;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Trend Nova Carlos Gomes;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Trend Nova Carlos Gomes - Safe Park;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Shopping Viva;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Av. Severo Dullius, 1995;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Shopping Pelotas;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Imóvel;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Imóvel;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Imóvel;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Imóvel;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Imóvel;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Imóvel;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Imóvel;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Imóvel;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Imóvel;Serviços;0;0
+10.456.799/0001-89;2022-12-31;2;Imóvel;Serviços;0;0
 10.456.810/0001-00;2022-03-31;2;ED. TORRE SUL;Financeiro;0.006;0
 10.456.810/0001-00;2022-03-31;2;ED. PEDRA GRANDE;Financeiro;0;0.005
 10.456.810/0001-00;2022-03-31;2;ED. NAÇÕES UNIDAS;Veículos;0;0.001
