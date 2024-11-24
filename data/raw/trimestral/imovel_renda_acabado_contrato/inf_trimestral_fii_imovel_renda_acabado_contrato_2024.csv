@@ -1,6 +1,7 @@
 CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratuais
 00.332.266/0001-31;2024-03-31;1;Via Parque Shopping;Contratos típicos de 5 anos, ajustados anualmente principalmente pelo indíce IGP-DI com garantia de Fiadores.
 00.332.266/0001-31;2024-06-30;1;Via Parque Shopping;Contratos típicos de 5 anos, ajustados anualmente principalmente pelo indíce IGP-DI com garantia de Fiadores.
+00.332.266/0001-31;2024-09-30;1;Via Parque Shopping;Contratos típicos de 5 anos, ajustados anualmente principalmente pelo indíce IGP-DI com garantia de Fiadores.
 00.613.094/0001-74;2024-03-31;1;N/A;N/A
 00.613.094/0001-74;2024-06-30;1;N/A;N/A
 00.613.094/0001-74;2024-09-30;1;N/A;N/A
@@ -11,6 +12,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 00.868.235/0001-08;2024-03-31;1;ABS;Contratos majoritariamente corrigidos pelo IGP-M e com prazo de 5 anos
 00.868.235/0001-08;2024-06-30;1;Hotel;Contrato de arrendamento com a Accor
 00.868.235/0001-08;2024-06-30;1;ABS;Contratos majoritariamente corrigidos pelo IGP-M e com prazo de 5 anos
+00.868.235/0001-08;2024-09-30;1;Hotel;Contrato de arrendamento com a Accor
+00.868.235/0001-08;2024-09-30;1;ABS;Contratos majoritariamente corrigidos pelo IGP-M e com prazo de 5 anos
 01.201.140/0001-90;2024-03-31;1;Grand Plaza Shopping;Contratos típicos de 5 anos, ajustados anualmente pelo indíce IGP-DI com garantia de Fiadores.
 01.201.140/0001-90;2024-06-30;2;Grand Plaza Shopping;Contratos típicos de 5 anos, ajustados anualmente pelo indíce IGP-DI com garantia de Fiadores.
 01.201.140/0001-90;2024-09-30;1;Grand Plaza Shopping;Contratos típicos de 5 anos, ajustados anualmente pelo indíce IGP-DI com garantia de Fiadores.
@@ -94,8 +97,11 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 03.251.720/0001-18;2024-03-31;1;Centro Empresarial Agua Branca - Torre Los Angeles;Não possui caracteristicas que destoem dos demais
 03.251.720/0001-18;2024-06-30;1;Centro Empresarial Agua Branca - Torre New York;Não possui caracteristicas que destoem dos demais
 03.251.720/0001-18;2024-06-30;1;Centro Empresarial Agua Branca - Torre Los Angeles;Não possui caracteristicas que destoem dos demais
+03.251.720/0001-18;2024-09-30;1;Centro Empresarial Agua Branca - Torre New York;Não possui caracteristicas que destoem dos demais
+03.251.720/0001-18;2024-09-30;1;Centro Empresarial Agua Branca - Torre Los Angeles;Não possui caracteristicas que destoem dos demais
 03.507.519/0001-59;2024-03-31;1;Shopping Higienópolis;Contratos típicos de 5 anos, ajustados anualmente pelo indíce IGP-M ou IGP-DI com garantia de Fiadores. Além de contratos temporários e locações temporárias de quiosques e semelhantes.
 03.507.519/0001-59;2024-06-30;1;Shopping Higienópolis;Contratos típicos de 5 anos, ajustados anualmente pelo indíce IGP-M ou IGP-DI com garantia de Fiadores. Além de contratos temporários e locações temporárias de quiosques e semelhantes.
+03.507.519/0001-59;2024-09-30;1;Shopping Higienópolis;Contratos típicos de 5 anos, ajustados anualmente pelo indíce IGP-M ou IGP-DI com garantia de Fiadores. Além de contratos temporários e locações temporárias de quiosques e semelhantes.
 03.683.056/0001-86;2024-03-31;1;JK FINANCIAL CENTER;Os contratos são majoritaramente reajustados anualmente pelo IGP-M e pelo prazo de 5 anos.
 03.683.056/0001-86;2024-03-31;1;JATOBÁ;Os contratos são majoritaramente reajustados anualmente pelo IGP-M e pelo prazo de 5 anos.
 03.683.056/0001-86;2024-03-31;1;INTERNACIONAL RIO;Os contratos são majoritaramente reajustados anualmente pelo IPCA e pelo prazo de 5 anos.
@@ -156,12 +162,17 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 06.175.262/0001-73;2024-06-30;1;Avenida Paulista, 1728, São Paulo/SP (11º ANDAR);Reajuste anual por indexador vinculado à inflação (IGP-M ou IPCA). Todos contratos típicos de locação, multa em caso de rescisão antecipada equivalente a 3 meses do valor do aluguel à época, calculados de maneira proporcional ao decurso do prazo do contrato.
 06.175.262/0001-73;2024-06-30;1;Avenida Paulista, 1728, São Paulo/SP (13º ANDAR);Reajuste anual por indexador vinculado à inflação (IGP-M ou IPCA). Todos contratos típicos de locação, multa em caso de rescisão antecipada equivalente a 3 meses do valor do aluguel à época, calculados de maneira proporcional ao decurso do prazo do contrato.
 06.175.262/0001-73;2024-06-30;1;Avenida Paulista, 1728, São Paulo/SP (14º ANDAR);Reajuste anual por indexador vinculado à inflação (IGP-M ou IPCA). Todos contratos típicos de locação, multa em caso de rescisão antecipada equivalente a 3 meses do valor do aluguel à época, calculados de maneira proporcional ao decurso do prazo do contrato.
+06.175.262/0001-73;2024-09-30;1;Avenida Paulista, 1728, São Paulo/SP (1ª ANDAR);Reajuste anual por indexador vinculado à inflação (IGP-M ou IPCA). Todos contratos típicos de locação, multa em caso de rescisão antecipada equivalente a 3 meses do valor do aluguel à época, calculados de maneira proporcional ao decurso do prazo do contrato.
+06.175.262/0001-73;2024-09-30;1;Avenida Paulista, 1728, São Paulo/SP (SL E 2ª ANDAR);Reajuste anual por indexador vinculado à inflação (IGP-M ou IPCA). Todos contratos típicos de locação, multa em caso de rescisão antecipada equivalente a 3 meses do valor do aluguel à época, calculados de maneira proporcional ao decurso do prazo do contrato.
+06.175.262/0001-73;2024-09-30;1;Avenida Paulista, 1728, São Paulo/SP (3º ANDAR);Reajuste anual por indexador vinculado à inflação (IGP-M ou IPCA). Todos contratos típicos de locação, multa em caso de rescisão antecipada equivalente a 3 meses do valor do aluguel à época, calculados de maneira proporcional ao decurso do prazo do contrato.
+06.175.262/0001-73;2024-09-30;1;Avenida Paulista, 1728, São Paulo/SP (11º ANDAR);Reajuste anual por indexador vinculado à inflação (IGP-M ou IPCA). Todos contratos típicos de locação, multa em caso de rescisão antecipada equivalente a 3 meses do valor do aluguel à época, calculados de maneira proporcional ao decurso do prazo do contrato.
 07.000.400/0001-46;2024-03-31;1;CARJ - Rio de Janeiro;Não possui caracteristicas que destoem dos demais
 07.000.400/0001-46;2024-03-31;1;Sede I - Brasilia;Não possui caracteristicas que destoem dos demais
 07.000.400/0001-46;2024-03-31;1;Sede I - Antenas;Não possui caracteristicas que destoem dos demais
 07.000.400/0001-46;2024-06-30;1;CARJ - Rio de Janeiro;Imóvel em Due Dilligence para venda do ativo.
 07.000.400/0001-46;2024-06-30;1;Sede I - Brasilia;Imóvel foi vendido meados de Junho de 2024.
 07.000.400/0001-46;2024-06-30;1;Sede I - Antenas;Imóvel foi vendido meados de Junho de 2024.
+07.000.400/0001-46;2024-09-30;1;CARJ - Rio de Janeiro;Está em processo de Due Dilligence para venda, que possui estimativa de ocorrer até 01 de agosto de 2025.
 07.122.725/0001-00;2024-03-31;1;Edificio Torre Almirante;Não possui caracteristicas que destoem dos demais
 07.122.725/0001-00;2024-06-30;1;Edificio Torre Almirante;Não possui caracteristicas que destoem dos demais
 07.122.725/0001-00;2024-09-30;1;Edificio Torre Almirante;Não possui caracteristicas que destoem dos demais
@@ -310,6 +321,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 08.417.532/0001-30;2024-09-30;1;Posto de Combustível;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
 08.431.747/0001-06;2024-03-31;1;-;-
 08.431.747/0001-06;2024-06-30;1;-;-
+08.431.747/0001-06;2024-09-30;1;-;-
 08.693.497/0001-82;2024-03-31;2;Informação não apresentada;
 08.693.497/0001-82;2024-06-30;1;Informação não apresentada;
 08.693.497/0001-82;2024-09-30;1;Informação não apresentada;
@@ -402,8 +414,15 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 08.924.783/0001-01;2024-06-30;1;Condomínio Parque da Cidade - Torre Sucupira;Não possui caracteristicas que destoem dos demais
 08.924.783/0001-01;2024-06-30;1;Centro Empresarial Senado;Não possui caracteristicas que destoem dos demais
 08.924.783/0001-01;2024-06-30;1;Morumbi Corporate - Diamond Tower;Não possui caracteristicas que destoem dos demais
+08.924.783/0001-01;2024-09-30;1;Edificio Eldorado;Não possui caracteristicas que destoem dos demais
+08.924.783/0001-01;2024-09-30;1;Edifício Montreal;Não possui caracteristicas que destoem dos demais
+08.924.783/0001-01;2024-09-30;1;CEO Corporate Executive Offices;Não possui caracteristicas que destoem dos demais
+08.924.783/0001-01;2024-09-30;1;Condomínio Parque da Cidade - Torre Sucupira;Não possui caracteristicas que destoem dos demais
+08.924.783/0001-01;2024-09-30;1;Centro Empresarial Senado;Não possui caracteristicas que destoem dos demais
+08.924.783/0001-01;2024-09-30;1;Morumbi Corporate - Diamond Tower;Não possui caracteristicas que destoem dos demais
 09.006.914/0001-34;2024-03-28;1;Não se aplica.;Não se aplica.
 09.006.914/0001-34;2024-06-28;1;Não se aplica.;Não se aplica.
+09.006.914/0001-34;2024-09-30;1;Não se aplica;Não se aplica
 09.072.017/0001-29;2024-03-28;1;-;
 09.072.017/0001-29;2024-06-30;1;-;
 09.072.017/0001-29;2024-09-30;1;-;
@@ -412,8 +431,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 09.150.967/0001-24;2024-09-30;1;Anhanguera Educacional;contrato corrigido pelo IPCA.
 09.276.964/0001-31;2024-03-28;1;Imóvel 1;Edifício Commercial Brascan Century Plaza
 09.276.964/0001-31;2024-06-28;1;Imóvel 1;Edifício Commercial Brascan Century Plaza
+09.276.964/0001-31;2024-09-30;1;Imóvel 1;Edifício Commercial Brascan Century Plaza
 09.326.861/0001-39;2024-03-31;1;-;-
 09.326.861/0001-39;2024-06-30;1;-;-
+09.326.861/0001-39;2024-09-30;1;-;-
 09.517.273/0001-82;2024-03-31;1;Magna SAP;Contrato Atípico
 09.517.273/0001-82;2024-03-31;1;Loja Habitarte Verde;Contrato Atípico
 09.517.273/0001-82;2024-06-30;1;LOJA HABITAR;Contrato Típico
@@ -426,8 +447,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 09.517.273/0001-82;2024-09-30;1;SANT ANTONIO;Contrato Atípico
 10.347.985/0001-80;2024-03-31;1;-;-
 10.347.985/0001-80;2024-06-30;1;-;-
+10.347.985/0001-80;2024-09-30;1;-;-
 10.375.382/0001-91;2024-03-31;1;-;-
 10.375.382/0001-91;2024-06-30;1;-;-
+10.375.382/0001-91;2024-09-30;1;-;-
 10.427.246/0001-06;2024-03-31;1;Brazilian Financial Center;Não possui caracteristicas que destoem dos demais
 10.427.246/0001-06;2024-03-31;1;Edificio Torre Almirante;Não possui caracteristicas que destoem dos demais
 10.427.246/0001-06;2024-06-30;1;Edificio Torre Almirante;Não possui caracteristicas que destoem dos demais
@@ -443,6 +466,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 10.456.810/0001-00;2024-06-30;1;ED PEDRA GRANDE;Contratos de locação típicos, com prazo de 5 (cinco) anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IGP-M.
 10.456.810/0001-00;2024-06-30;1;ED NAÇÕES UNIDAS;Contratos de locação típicos, com prazo de 5 (cinco) anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IGP-M.
 10.456.810/0001-00;2024-06-30;1;ED PLATINUM;Contratos de locação típicos, com prazo de 5 (cinco) anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IGP-M.
+10.456.810/0001-00;2024-09-30;1;ED TORRE SUL;Contratos de locação típicos, com prazo de 5 (cinco) anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IGP-M.
+10.456.810/0001-00;2024-09-30;1;ED PEDRA GRANDE;Contratos de locação típicos, com prazo de 5 (cinco) anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IGP-M.
+10.456.810/0001-00;2024-09-30;1;ED NAÇÕES UNIDAS;Contratos de locação típicos, com prazo de 5 (cinco) anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IGP-M.
+10.456.810/0001-00;2024-09-30;1;ED PLATINUM;Contratos de locação típicos, com prazo de 5 (cinco) anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IGP-M.
 10.522.648/0001-81;2024-03-28;1;Bay View;Aviso prédio de 90 dias e devolução dos descontos e carência em caso de rescisão antecipada.
 10.522.648/0001-81;2024-03-28;1;ANM Retrofit;Prazo inferior. Devolução de carência em caso de rescisão antecipada, sem isentar a multa por rescisão. Após determinado prazo e desde que cumprido aviso prévio, a devolução da carência é isentada.
 10.522.648/0001-81;2024-06-30;1;Bay View;Aviso prédio de 90 dias e devolução dos descontos e carência em caso de rescisão antecipada.
@@ -534,6 +561,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 11.274.415/0001-70;2024-09-30;1;Imóvel de João Pessoa;Imóvel vago
 11.281.322/0001-72;2024-03-31;1;-;-
 11.281.322/0001-72;2024-06-30;1;-;-
+11.281.322/0001-72;2024-09-30;1;-;-
 11.326.746/0001-06;2024-03-31;1;Imóvel Sumaré  -  Rod. Anhanguera, Km 106, sentido Campinas / Interior - Sumaré - SP;Contrato de locação para fins não residenciais - correção anual por IGPM
 11.326.746/0001-06;2024-03-31;1;Imóvel Aricanduva - Rua Comendador Gil Pinheiro, 463 - Tatuapé - São Paulo - SP;Contrato de locação para fins não residenciais - correção anual por IGPM
 11.326.746/0001-06;2024-03-31;1;Imóvel SJC - Rod. Presidente Dutra, esquina com a Avenida Cassiano Ricardo - Sâo Jose dos Campos - SP;Contrato de locação para fins não residenciais - correção anual por IGPM
@@ -654,6 +682,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 12.358.507/0001-09;2024-09-30;1;N/A;N/A
 12.401.858/0001-47;2024-03-31;1;CONDOMINIO WT MORUMBI;Não possui caracteristicas que destoem dos demais
 12.401.858/0001-47;2024-06-30;1;CONDOMINIO WT MORUMBI;Contrato de Locação formato "built to suit".
+12.401.858/0001-47;2024-09-30;1;CONDOMINIO WT MORUMBI;Contrato de Locação formato "built to suit".
 12.516.185/0001-70;2024-03-28;1;BM336;Conforme item 1.1.2.1.4 deste informe.
 12.516.185/0001-70;2024-03-28;1;Brooklyn Business Square;Conforme item 1.1.2.1.4 deste informe.
 12.516.185/0001-70;2024-03-28;1;Oscar Freire 585;Conforme item 1.1.2.1.4 deste informe.
@@ -692,11 +721,13 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 12.804.013/0001-00;2024-09-30;1;nda;nda
 12.809.972/0001-00;2024-03-31;1;-;-
 12.809.972/0001-00;2024-06-30;1;-;-
+12.809.972/0001-00;2024-09-30;1;-;-
 12.887.506/0001-43;2024-03-28;1;Atmosfera;O contrato é reajustado anualmente em função da variação positiva do Índice Nacional de Preços ao Consumidor Amplo - IPCA/IBGE .Dentre as obrigações contratuais existe a previsão de garantia por seguro locatício de instituição de primeira linha, com cobertura equivalente a seis meses de locação. 
 12.887.506/0001-43;2024-06-28;1;Atmosfera;O contrato é reajustado anualmente em função da variação positiva do Índice Nacional de Preços ao Consumidor Amplo - IPCA/IBGE .Dentre as obrigações contratuais existe a previsão de garantia por seguro locatício de instituição de primeira linha, com cobertura equivalente a seis meses de locação.
 12.887.506/0001-43;2024-09-30;1;Atmosfera;O contrato é reajustado anualmente em função da variação positiva do Índice Nacional de Preços ao Consumidor Amplo - IPCA/IBGE .Dentre as obrigações contratuais existe a previsão de garantia por seguro locatício de instituição de primeira linha, com cobertura equivalente a seis meses de locação.
 12.978.943/0001-72;2024-03-31;1;-;-
 12.978.943/0001-72;2024-06-30;1;-;-
+12.978.943/0001-72;2024-09-30;1;-;-
 12.989.974/0001-29;2024-03-28;2;-;-
 12.989.974/0001-29;2024-06-28;1;Não se aplica.;Não se aplica.
 12.989.974/0001-29;2024-09-30;1;Sem informações.;Sem informações.
@@ -792,8 +823,11 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 13.500.306/0001-59;2024-03-31;1;Loja - Edifício Manhattan Tower;Os contratos de locação dos imóveis do Fundo preveem multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário e correção anual do valor da locação pelo IGP-M.
 13.500.306/0001-59;2024-06-30;1;Edifício Vicente de Araújo;Os contratos de locação dos imóveis do Fundo preveem multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário e correção anual do valor da locação pelo IGP-M.
 13.500.306/0001-59;2024-06-30;1;Loja - Edifício Manhattan Tower;Os contratos de locação dos imóveis do Fundo preveem multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário e correção anual do valor da locação pelo IGP-M.
+13.500.306/0001-59;2024-09-30;1;Edifício Vicente de Araújo;Os contratos de locação dos imóveis do Fundo preveem multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário e correção anual do valor da locação pelo IGP-M.
+13.500.306/0001-59;2024-09-30;1;Loja - Edifício Manhattan Tower;Os contratos de locação dos imóveis do Fundo preveem multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário e correção anual do valor da locação pelo IGP-M.
 13.551.286/0001-45;2024-03-31;1;Edificio Cenesp;Não possui caracteristicas que destoem dos demais
 13.551.286/0001-45;2024-06-30;1;Edificio Cenesp;Não possui caracteristicas que destoem dos demais
+13.551.286/0001-45;2024-09-30;1;Edificio Cenesp;Não possui caracteristicas que destoem dos demais
 13.555.918/0001-49;2024-03-28;1;NA;NA
 13.555.918/0001-49;2024-06-28;1;NA;NA
 13.555.918/0001-49;2024-09-30;1;NA;NA
@@ -879,6 +913,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 13.873.457/0001-52;2024-09-30;1;São Bernardo do Campo;Imóvel locado para a Cogna, com contrato do tipo "sale and leaseback".
 13.920.018/0001-53;2024-03-28;1;Imóvel 1;Referente à matrícula nº 83.672  Área do Terreno : 96.482,55 m2
 13.920.018/0001-53;2024-06-28;2;Imóvel 1;Referente à matrícula nº 83.672  Área do Terreno : 96.482,55 m2
+13.920.018/0001-53;2024-09-30;1;Imóvel 1;Referente à matrícula nº 83.672  Área do Terreno : 96.482,55 m2
 13.974.819/0001-00;2024-03-31;1;N/A;N/A
 13.974.819/0001-00;2024-06-30;1;N/A;N/A
 13.974.819/0001-00;2024-09-30;1;N/A;N/A
@@ -887,6 +922,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 14.088.246/0001-71;2024-09-30;1;-;-
 14.149.745/0001-21;2024-03-28;1;Estadio;Estadio Arena
 14.149.745/0001-21;2024-06-28;2;Estadio;Av. Miguel Ignácio Curi, 111
+14.149.745/0001-21;2024-09-30;1;Estadio;Av. Miguel Ignácio Curi, 111
 14.217.108/0001-45;2024-03-31;1;Rua Dona Francisca, 8.300 - Distrito Industrial Joinville - SC;Garantia contratual - Seguro fiança
 14.217.108/0001-45;2024-06-30;1;Rua Dona Francisca, 8.300 - Distrito Industrial Joinville - SC;Garantia contratual - Seguro fiança
 14.217.108/0001-45;2024-09-30;1;Rua Dona Francisca, 8.300 - Distrito Industrial Joinville - SC;Garantia contratual - Seguro fiança
@@ -953,6 +989,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 15.006.286/0001-90;2024-09-30;1;Edificio Rio Negro;Os contratos são típicos, majoritariamente reajustados pelo IGPM e IPCA e com prazo médio de 5 anos.
 15.098.422/0001-19;2024-03-31;1;Votorantim Plus -  Bloco A;Não possui caracteristicas que destoem dos demais
 15.098.422/0001-19;2024-06-30;1;Votorantim Plus -  Bloco A;Não possui caracteristicas que destoem dos demais
+15.098.422/0001-19;2024-09-30;1;Votorantim Plus -  Bloco A;Não possui caracteristicas que destoem dos demais
 15.333.306/0001-37;2024-03-31;1;Edificio Galeria;Não possui caracteristicas que destoem dos demais
 15.333.306/0001-37;2024-06-30;1;Edificio Galeria;Não possui caracteristicas que destoem dos demais
 15.333.306/0001-37;2024-09-30;1;Edificio Galeria;Não possui caracteristicas que destoem dos demais
@@ -972,6 +1009,14 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 15.348.117/0001-38;2024-06-28;1;Imóvel 6;Área do Terreno:  600 m2  Área Construída : 134,75 m2
 15.348.117/0001-38;2024-06-28;1;Imóvel 7;Área do Terreno : 6.048,30 m2  Área Construída : 748,35
 15.348.117/0001-38;2024-06-28;1;Imóvel 8;Área do Terreno : 68.448,04 m2 Área Construída : 15.924,26 m2
+15.348.117/0001-38;2024-09-30;1;Imóvel 1;Área Construida 1.842,00 m2  Área do Terreno : 145.200,00 m2
+15.348.117/0001-38;2024-09-30;1;Imóvel 2;Área do Terreno 97.166,858 m2,  Área Construida : 1.304,00 m2
+15.348.117/0001-38;2024-09-30;1;Imóvel 3;Área do Terreno 7.338 m2 Área Construida : 869,53 m2
+15.348.117/0001-38;2024-09-30;1;Imóvel 4;Área do Terreno : 1.659,00 m2 Área Construida : 539,48 m2
+15.348.117/0001-38;2024-09-30;1;Imóvel 5;Condomínio Centro Empresarial Washington Luiz  Área Privativa : 75,32 m2
+15.348.117/0001-38;2024-09-30;1;Imóvel 6;Área do Terreno:  600 m2  Área Construída : 134,75 m2
+15.348.117/0001-38;2024-09-30;1;Imóvel 7;Área do Terreno : 6.048,30 m2  Área Construída : 748,35
+15.348.117/0001-38;2024-09-30;1;Imóvel 8;Área do Terreno : 68.448,04 m2 Área Construída : 15.924,26 m2
 15.447.108/0001-02;2024-03-31;1;Internacional Shopping;Não possui caracteristicas que destoem dos demais
 15.447.108/0001-02;2024-03-31;1;Shopping Light;Não possui caracteristicas que destoem dos demais
 15.447.108/0001-02;2024-03-31;1;Shopping Morumbi Town;Não possui caracteristicas que destoem dos demais
@@ -985,8 +1030,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 15.447.108/0001-02;2024-06-30;1;Shopping Prado Boulervard;Não possui caracteristicas que destoem dos demais
 15.447.108/0001-02;2024-06-30;1;Mais Shopping;Não possui caracteristicas que destoem dos demais
 15.447.108/0001-02;2024-06-30;1;Empreendimento Guarulhos II;Não possui caracteristicas que destoem dos demais
+15.447.108/0001-02;2024-09-30;1;Shopping Prado Boulevard;Não possui caracteristicas que destoem dos demais
 15.447.110/0001-73;2024-03-31;1;Shopping Cidade Jardim;Não possui caracteristicas que destoem dos demais
 15.447.110/0001-73;2024-06-30;2;Shopping Cidade Jardim;Não possui caracteristicas que destoem dos demais
+15.447.110/0001-73;2024-09-30;1;Shopping Cidade Jardim;Direito de Propriedade
 15.463.207/0001-70;2024-03-28;1;IMÓVEL 1;Estaleiro
 15.463.207/0001-70;2024-06-30;1;IMÓVEL 1;ESTALEIRO
 15.463.207/0001-70;2024-09-30;1;Estaleiro;Estaleiro
@@ -1002,8 +1049,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 15.576.907/0001-70;2024-03-31;1;Os imóveis são locados para diversos locatários, incluindo a Caixa Econômica Federal, Banco Santander, Centauro etc, por meio de contratos de locação tipicos e atípicos.;Contratos tipicos e atipicos com prazos variáveis e multa rescisória equivalente ao decorrer do contrato. Demais cláusulas são confidenciais.
 15.576.907/0001-70;2024-03-31;1;Loja 70;Contratos típicos de 5 anos, ajustados anualmente com garantia de Fiadores.
 15.576.907/0001-70;2024-06-30;2;Os imóveis são locados para diversos locatários, incluindo a Caixa Econômica Federal, Banco Santander, Centauro etc, por meio de contratos de locação tipicos e atípicos.;Contratos tipicos e atipicos com prazos variáveis e multa rescisória equivalente ao decorrer do contrato. Demais cláusulas são confidenciais.
+15.576.907/0001-70;2024-09-30;1;Os imóveis são locados para diversos locatários, incluindo a Caixa Econômica Federal, Banco Santander, Centauro etc, por meio de contratos de locação tipicos e atípicos.;Contratos tipicos e atipicos com prazos variáveis e multa rescisória equivalente ao decorrer do contrato. Demais cláusulas são confidenciais.
 15.798.220/0001-80;2024-03-28;1;Imóvel 1;Planta Frigorífica - Matrícula 1345
 15.798.220/0001-80;2024-06-28;2;Imóvel 1;Planta Frigorífica - Matrícula 1345
+15.798.220/0001-80;2024-09-30;1;Imóvel 1;Planta Frigorífica - Matrícula 1345
 15.799.397/0001-09;2024-03-31;1;CEO Corporate Executive Offices;Não possui caracteristicas que destoem dos demais
 15.799.397/0001-09;2024-06-30;1;CEO Corporate Executive Offices;Não possui caracteristicas que destoem dos demais
 15.799.397/0001-09;2024-09-30;1;CEO Corporate Executive Offices;Não possui caracteristicas que destoem dos demais
@@ -1036,9 +1085,11 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 16.802.320/0001-03;2024-09-30;1;Ed. The Corporate Macaé - 3.041,75 m²;Reajuste por IPCA, vencimento 11/09/2034, contrato típico.
 16.929.519/0001-99;2024-03-31;1;-;-
 16.929.519/0001-99;2024-06-30;1;-;-
+16.929.519/0001-99;2024-09-30;1;-;-
 17.007.443/0001-07;2024-03-31;1;Sede Administrativa Fleury - Jabaquara;Não possui caracteristicas que destoem dos demais
 17.007.443/0001-07;2024-03-31;1;Centro Diagnostico Fleury II - Pinheiros;Não possui caracteristicas que destoem dos demais
 17.007.443/0001-07;2024-06-30;1;Sede Administrativa Fleury - Jabaquara;Não possui caracteristicas que destoem dos demais
+17.007.443/0001-07;2024-09-30;1;Sede Administrativa Fleury - Jabaquara;Não possui caracteristicas que destoem dos demais
 17.025.970/0001-44;2024-03-31;1;Hospital São Luiz - BLOCO A;N/A
 17.025.970/0001-44;2024-03-31;1;Hospital São Luiz - BLOCO B;N/A
 17.025.970/0001-44;2024-03-31;1;Hospital São Luiz - BLOCO C e E;N/A
@@ -1094,6 +1145,12 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 17.282.011/0001-04;2024-06-30;1;Edificio Maria Cecilia Lara Campos;Não possui caracteristicas que destoem dos demais
 17.282.011/0001-04;2024-06-30;1;Edificio JK 1455;Não possui caracteristicas que destoem dos demais
 17.282.011/0001-04;2024-06-30;1;Galpao Americana - Predio Industrial;Não possui caracteristicas que destoem dos demais
+17.282.011/0001-04;2024-09-30;1;Condominio Continental Square Faria Lima - Torre Comercial;Não possui caracteristicas que destoem dos demais
+17.282.011/0001-04;2024-09-30;1;Edificio Corporate Park;Não possui caracteristicas que destoem dos demais
+17.282.011/0001-04;2024-09-30;1;Condominio E-Tower;Não possui caracteristicas que destoem dos demais
+17.282.011/0001-04;2024-09-30;1;Condominio Edificio Isabella Plazza;Não possui caracteristicas que destoem dos demais
+17.282.011/0001-04;2024-09-30;1;Edificio Maria Cecilia Lara Campos;Não possui caracteristicas que destoem dos demais
+17.308.805/0001-08;2024-09-30;1;Ed. Telles;Não possui caracteristicas que destoam dos demais.
 17.311.079/0001-74;2024-03-31;1;não se aplica;não se aplica
 17.311.079/0001-74;2024-06-30;2;não se aplica;não se aplica
 17.311.079/0001-74;2024-09-30;1;não se aplica;não se aplica
@@ -1101,6 +1158,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 17.374.696/0001-19;2024-03-28;1;Galpão  Industrial;3 módulos: A, B, C
 17.374.696/0001-19;2024-06-28;3;Edifício Domo Corporate;Salas Comerciais designadas como ESCRITÓRIO (TORRE B).
 17.374.696/0001-19;2024-06-28;3;Galpão  Industrial;3 módulos: A, B, C
+17.374.696/0001-19;2024-09-30;1;Edifício Domo Corporate;Salas Comerciais designadas como ESCRITÓRIO (TORRE B).
+17.374.696/0001-19;2024-09-30;1;Galpão  Industrial;3 módulos: A, B, C
 17.554.274/0001-25;2024-03-28;1;West Shopping;Conforme item 1.1.2.1.4 deste informe.
 17.554.274/0001-25;2024-03-28;1;Shopping Crystal;Conforme item 1.1.2.1.4 deste informe.
 17.554.274/0001-25;2024-03-28;1;Center Shopping Rio;Conforme item 1.1.2.1.4 deste informe.
@@ -1133,8 +1192,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 17.554.274/0001-25;2024-09-30;1;Minas Shopping;Conforme item 1.1.2.1.4 deste informe.
 17.568.605/0001-86;2024-03-31;1;Shopping Mais Largo 13;Não possui caracteristicas que destoem dos demais
 17.568.605/0001-86;2024-06-30;1;Shopping Mais Largo 13;Não possui caracteristicas que destoem dos demais contratos.
+17.568.605/0001-86;2024-09-30;1;Shopping Mais Largo 13;Não possui caracteristicas que destoem dos demais
 17.590.518/0001-25;2024-03-31;1;-;-
 17.590.518/0001-25;2024-06-30;1;-;-
+17.590.518/0001-25;2024-09-30;1;-;-
 17.655.115/0001-17;2024-03-31;1;Galpão Industrial Jaraguá do Sul;Contrato de locação comercial Atípico
 17.655.115/0001-17;2024-03-31;1;WT Morumbi - Setor Automotivo;Contrato de locação comercial
 17.655.115/0001-17;2024-06-30;1;Galpão Industrial Jaraguá do Sul;Contrato de locação comercial Atípico
@@ -1162,6 +1223,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 18.289.950/0001-43;2024-09-30;1;MR SHAN;Nenhuma característica contratual individualizada adicional
 18.307.582/0001-19;2024-03-31;1;-;-
 18.307.582/0001-19;2024-06-30;1;-;-
+18.307.582/0001-19;2024-09-30;1;-;-
 18.308.516/0001-63;2024-03-31;1;Ibis São Paulo Barra Funda;Não possui caracteristicas que destoem dos demais
 18.308.516/0001-63;2024-03-31;1;Ibis Styles Porto Alegre Centro;Não possui caracteristicas que destoem dos demais
 18.308.516/0001-63;2024-03-31;1;Novotel Porto Alegre Airport;Não possui caracteristicas que destoem dos demais
@@ -1376,11 +1438,28 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 20.118.470/0001-61;2024-06-28;2;Imovel 6;Correios
 20.118.470/0001-61;2024-06-28;2;Imovel 7;prédio com estrutura administrativa e  galpões industriais (leilão)
 20.118.470/0001-61;2024-06-28;2;Imovel 8;matrícula 105192
+20.118.470/0001-61;2024-09-30;1;Imovel 1;Imóvel urbano, Lote nº 4B, Quadra nº 26 - Matrícula 155.663
+20.118.470/0001-61;2024-09-30;1;Imovel 1;Imóvel urbano, Lote nº 6A, Quadra nº 26 - Matrícula 136.991
+20.118.470/0001-61;2024-09-30;1;Imovel 1;Imóvel urbano, lote nº 7A, Quadra nº 26 - Matrícula 136.992
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Lotes 12 a 17, Quadra B46 - Matrícula 56219
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Lote 24, Quadra B46 - Matrícula 26878
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Lote 26, Quadra B46 - Matrícula 46276
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Lote 9, Quadra B46 - Matrícula 19652
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Lote 10, Quadra B46 - Matrícula 19653
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Lote 11, Quadra B46 - Matrícula 19654
+20.118.470/0001-61;2024-09-30;1;Imovel 3;Lote de terreno nº 01, quadra nº 29 - Matrícula 56046
+20.118.470/0001-61;2024-09-30;1;Imovel 3;Lote nº 08 e 09, quadra 29 - Matrícula 78.493
+20.118.470/0001-61;2024-09-30;1;Imovel 4;Matrículas: 73.217, 73.219, 73.220, 73.221, 73.222, 73.223, 73.224 e 73.226
+20.118.470/0001-61;2024-09-30;1;Imovel 5;Matrícula: 55.147
+20.118.470/0001-61;2024-09-30;1;Imovel 6;Correios
+20.118.470/0001-61;2024-09-30;1;Imovel 7;prédio com estrutura administrativa e  galpões industriais (leilão)
+20.118.470/0001-61;2024-09-30;1;Imovel 8;matrícula 105192
 20.118.492/0001-21;2024-03-28;1;Shopping Vautier Premium;*
 20.118.492/0001-21;2024-06-28;1;Shopping Vautier Premium;*
 20.118.492/0001-21;2024-09-30;1;Shopping Vautier Premium;
 20.118.507/0001-51;2024-03-28;1;SAA/Norte, Quadra 03, Lotes nº 145, 185, 225 e 265, Brasilia - DF .;N/A
 20.118.507/0001-51;2024-06-28;1;SAA/Norte, Quadra 03, Lotes nº 145, 185, 225 e 265, Brasilia - DF .;N/A
+20.118.507/0001-51;2024-09-30;1;SAA/Norte, Quadra 03, Lotes nº 145, 185, 225 e 265, Brasilia - DF .;N/A
 20.132.453/0001-89;2024-03-31;1;Informação não apresentada.;
 20.132.453/0001-89;2024-06-30;1;Informação não apresentada.;
 20.132.453/0001-89;2024-09-30;1;Não se aplica.;
@@ -1433,6 +1512,29 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 20.680.775/0001-62;2024-06-30;1;WTorre Nacoes Unidas - Torre III;Não possui caracteristicas que destoem dos demais
 20.680.775/0001-62;2024-06-30;1;Subcondominio Parque Jockey Corporate;Não possui caracteristicas que destoem dos demais
 20.680.775/0001-62;2024-06-30;1;Condomínio P-11 Pinheiros;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Edificio Praca Faria Lima;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Edificio JK1600;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Capital Building;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Edificio Capital Plaza;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Subcondominio FL Office;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Condominio Edificio Vera Cruz II;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Edificio Riverside;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Edificio Paddock I;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Edificio Plaza I;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Edificio Aspen;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Subcondominio FL Residence;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Av das Nacoes Unidas nº 19847;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Av das Nacoes Unidas nº 19667;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Condominio Edificio JK 180;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Edificio FL Corporate;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Condominio Grande Ufficiale Evaristo Comolatti;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Condominio PJM 109;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Condominio Seculum II;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Girassol 555;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;WTorre Nacoes Unidas - Torre III;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Ed Moncoes da Gastao;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Subcondominio Parque Jockey Corporate;Não possui caracteristicas que destoem dos demais
+20.680.775/0001-62;2024-09-30;1;Condominio P-11 Pinheiros;Não possui caracteristicas que destoem dos demais
 20.717.355/0001-03;2024-03-28;1;Praça Rio Grande Shopping;O imóvel foi adquirido pelo Fundo em 20 de outubro de 2014 mediante conferência 35% (trinta e cinco por cento) de bem imóvel denominado ("Praça Rio Grande Shopping Center") para integralização de cotas do Fundo, pelo valor certo e ajustado de R$ 9.513 (2014 de R$ 66.419) transmitindo-lhe, assim, desde já, todos os direitos e ações sobre a participação do Imóvel.
 20.717.355/0001-03;2024-06-28;1;Praça Rio Grande Shopping;O imóvel foi adquirido pelo Fundo em 20 de outubro de 2014 mediante conferência 35% (trinta e cinco por cento) de bem imóvel denominado ("Praça Rio Grande Shopping Center") para integralização de cotas do Fundo, pelo valor certo e ajustado de R$ 9.513 (2014 de R$ 66.419) transmitindo-lhe, assim, desde já, todos os direitos e ações sobre a participação do Imóvel.
 20.717.355/0001-03;2024-09-30;1;Praça Rio Grande Shopping;O imóvel foi adquirido pelo Fundo em 20 de outubro de 2014 mediante conferência 35% (trinta e cinco por cento) de bem imóvel denominado ("Praça Rio Grande Shopping Center") para integralização de cotas do Fundo, pelo valor certo e ajustado de R$ 9.513 (2014 de R$ 66.419) transmitindo-lhe, assim, desde já, todos os direitos e ações sobre a participação do Imóvel.
@@ -1447,6 +1549,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 21.067.825/0001-01;2024-09-30;1;GUARULHOS;N/A
 21.085.863/0001-89;2024-03-31;1;Eldorado;N/A
 21.085.863/0001-89;2024-06-30;1;Eldorado;N/A
+21.085.863/0001-89;2024-09-30;1;Eldorado;N/A
 21.126.204/0001-43;2024-03-31;1;Loja 1;Contratos típicos de 5 anos, ajustados anualmente com garantia de Fiadores.
 21.126.204/0001-43;2024-03-31;1;Loja 2;Contratos típicos de 5 anos, ajustados anualmente com garantia de Fiadores.
 21.126.204/0001-43;2024-03-31;1;Loja 4;Contratos típicos de 5 anos, ajustados anualmente com garantia de Fiadores.
@@ -1601,6 +1704,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 21.500.481/0001-74;2024-09-30;1;Edificio Botafogo;Não se aplica
 21.500.500/0001-62;2024-03-31;1;Internacional Guarulhos;Direito de Propriedade
 21.500.500/0001-62;2024-06-30;1;Internacional Shopping;Não possui características que destoem dos demais
+21.500.500/0001-62;2024-09-30;1;Shopping Internacional Guarulhos;Não possui caracteristicas que destoem dos demais.
 21.500.514/0001-86;2024-03-28;1;Shopping;Aluguel de lojas
 21.500.514/0001-86;2024-06-28;1;Shopping;Aluguel de lojas
 21.500.514/0001-86;2024-09-30;2;Shopping;Aluguel de lojas
@@ -1716,6 +1820,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 22.459.737/0001-00;2024-09-30;1;Gravatai Shopping Center;Não possui caracteristicas que destoem dos demais
 22.503.991/0001-68;2024-03-28;1;Imóvel Brás;Possui 20% do imóvel
 22.503.991/0001-68;2024-06-28;2;Imóvel Brás;Possui 20% do imóvel
+22.503.991/0001-68;2024-09-30;1;Imóvel Brás;Possui 20% do imóvel
 22.862.226/0001-34;2024-03-31;1;Não se aplica;Não se aplica
 22.862.226/0001-34;2024-06-30;1;Não se aplica;Não se aplica
 22.862.226/0001-34;2024-09-30;1;Não se aplica;Não se aplica
@@ -1748,6 +1853,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 23.740.595/0001-17;2024-09-30;1;não há;não há
 23.768.027/0001-24;2024-03-31;1;Top Center;Não possui caracteristicas que destoem dos demais.
 23.768.027/0001-24;2024-06-30;1;Shopping Top Center;Não possui caracteristicas que destoem dos demais contratos.
+23.768.027/0001-24;2024-09-30;1;Shopping Top Center;Não possui caracteristicas que destoem dos demais
 24.853.044/0001-22;2024-03-31;1;Fernão Dias Busines;Conforme item acima
 24.853.044/0001-22;2024-03-31;1;CD Privalia;Conforme item acima
 24.853.044/0001-22;2024-03-31;1;Galpôes em Guarulhos - Airport Town;Conforme item acima
@@ -2104,6 +2210,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 26.614.291/0001-00;2024-09-30;1;COPOBRÁS II;Contrato atipico de locação Sale Leaseback
 26.642.727/0001-66;2024-03-31;1;Estacionamento Ventura Shopping Ltda.;Contrato com cláusula de sigilo.
 26.642.727/0001-66;2024-06-30;2;Estacionamento Ventura Shopping Ltda.;Contrato com cláusula de sigilo.
+26.642.727/0001-66;2024-09-30;1;Estacionamento Ventura Shopping Ltda.;Contrato com cláusula de sigilo.
 26.642.834/0001-94;2024-03-28;1;Itau Agências;Nenhuma característica contratual que destoe sensivelmente dos demais
 26.642.834/0001-94;2024-03-28;1;Itau Agências;Nenhuma característica contratual que destoe sensivelmente dos demais
 26.642.834/0001-94;2024-06-30;1;Itau Agências;Nenhuma característica contratual que destoe sensivelmente dos demais
@@ -2131,15 +2238,19 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 27.368.600/0001-63;2024-09-30;1;Galpão Logístico Quatro Barras;Único imóvel
 27.445.482/0001-40;2024-03-31;1;-;-
 27.445.482/0001-40;2024-06-30;1;-;-
+27.445.482/0001-40;2024-09-30;1;-;-
 27.486.542/0001-72;2024-03-31;2;-;-
 27.486.542/0001-72;2024-06-30;1;-;-
+27.486.542/0001-72;2024-09-30;1;-;-
 27.538.422/0001-71;2024-03-28;1;Não possui informação apresentada;Não possui informação apresentada
 27.538.422/0001-71;2024-06-28;1;Não possui informação apresentada;Não possui informação apresentada
 27.538.422/0001-71;2024-09-30;1;Não possui informação apresentada;Não possui informação apresentada
 27.538.477/0001-81;2024-03-31;1;Não há informação apresentada;Não há informação apresentada
 27.538.477/0001-81;2024-06-30;1;Não há informação apresentada;Não há informação apresentada
+27.538.477/0001-81;2024-09-30;1;Não há informação apresentada;Não há informação apresentada
 27.539.651/0001-00;2024-03-28;1;GALPÃO LOGÍSTICO;GALPÃO LOGÍSTICO
 27.539.651/0001-00;2024-06-28;1;IMÓVEL  1;Matrículas:73.833,64.687,45.347,45.348,64.688,64.689,45.349,45.350,45.498,45.499,31.569,45.500,45.501,45.351,2.439,8.993,8.994,8.995,8.996,8.997,8.998,8.999,9.000,9.001,9.002.
+27.539.651/0001-00;2024-09-30;1;IMÓVEL  1;Matrículas:73.833,64.687,45.347,45.348,64.688,64.689,45.349,45.350,45.498,45.499,31.569,45.500,45.501,45.351,2.439,8.993,8.994,8.995,8.996,8.997,8.998,8.999,9.000,9.001,9.002.
 27.580.051/0001-96;2024-03-31;1;Empreendimento não residencial na cidade de Bonito - PE;Imóvel construido sob modelo Built to Suit.
 27.580.051/0001-96;2024-06-30;1;Empreendimento não residencial na cidade de Bonito - PE;Imóvel construido sob modelo Built to Suit.
 27.590.950/0001-70;2024-03-31;1;.;.
@@ -2147,6 +2258,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 27.590.950/0001-70;2024-09-30;1;.;.
 27.773.327/0001-52;2024-03-28;1;IMOVEL BDS;Imóvel Urbano, Logístico, Galpão, Multiusuário
 27.773.327/0001-52;2024-06-28;1;IMOVEL BDS;Imóvel Urbano, Logístico, Galpão, Multiusuário
+27.773.327/0001-52;2024-09-30;1;IMOVEL BDS;Avenida Monteiro Lobato, 4.250, Cumbica, Guarulhos/SP.
+27.773.327/0001-52;2024-09-30;1;IMOVEL BONSUCESSO;IMOVEL BONSUCESSO
+27.773.327/0001-52;2024-09-30;1;IMOVEL SÃO PAULO;IMOVEL SÃO PAULO
 27.882.134/0001-30;2024-03-31;1;.;.
 27.882.134/0001-30;2024-06-30;1;.;.
 27.882.134/0001-30;2024-09-30;1;.;.
@@ -2166,8 +2280,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 28.216.384/0001-01;2024-09-30;1;Imóvel Urbano Belo Horizonte MG;Não se aplica.
 28.267.530/0001-10;2024-03-28;1;BROOKLIN;Apartamento 81
 28.267.530/0001-10;2024-06-28;2;BROOKLIN;Apartamento 81
+28.267.530/0001-10;2024-09-30;1;BROOKLIN;Apartamento 81
 28.267.555/0001-13;2024-03-31;1;CONDOMINIO LED CORPORATE (70,81% da área de 56.085,85m2);Correção IPCA
 28.267.555/0001-13;2024-06-30;1;CONDOMINIO LED CORPORATE (70,81% da área de 56.085,85m2);Correção IPCA
+28.267.555/0001-13;2024-09-30;1;CONDOMINIO LED CORPORATE (70,81% da área de 56.085,85m2);Correção IPCA
 28.267.696/0001-36;2024-03-31;1;Galpao Industrial - Nova Odessa;Não possui caracteristicas que destoem dos demais
 28.267.696/0001-36;2024-03-31;1;Fabrica - Goiania;Não possui caracteristicas que destoem dos demais
 28.267.696/0001-36;2024-03-31;1;Imovel Mirassol - Posto Monte Carlo;Não possui caracteristicas que destoem dos demais
@@ -2189,6 +2305,15 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 28.267.696/0001-36;2024-06-30;1;Galpao Industrial - Imperio;Não possui caracteristicas que destoem dos demais
 28.267.696/0001-36;2024-06-30;1;Empreendimento Votorantim - Splice;Não possui caracteristicas que destoem dos demais
 28.267.696/0001-36;2024-06-30;1;Total Ville Planaltina;Não possui caracteristicas que destoem dos demais
+28.267.696/0001-36;2024-09-30;1;Fabrica - Goiania;Não possui caracteristicas que destoem dos demais
+28.267.696/0001-36;2024-09-30;1;Imovel Mirassol - Posto Monte Carlo;Não possui caracteristicas que destoem dos demais
+28.267.696/0001-36;2024-09-30;1;Galpao Caucaia - Stock Teck;Não possui caracteristicas que destoem dos demais
+28.267.696/0001-36;2024-09-30;1;Imovel Andorinha - Sao Paulo;Não possui caracteristicas que destoem dos demais
+28.267.696/0001-36;2024-09-30;1;Imovel Andorinha - Campo Grande;Não possui caracteristicas que destoem dos demais
+28.267.696/0001-36;2024-09-30;1;Galpao Voar - Gleba A;Não possui caracteristicas que destoem dos demais
+28.267.696/0001-36;2024-09-30;1;Galpao Industrial - Imperio;Não possui caracteristicas que destoem dos demais
+28.267.696/0001-36;2024-09-30;1;Empreendimento Votorantim - Splice;Não possui caracteristicas que destoem dos demais
+28.267.696/0001-36;2024-09-30;1;Total Ville Planaltina;Não possui caracteristicas que destoem dos demais
 28.516.325/0001-40;2024-03-31;1;Não há informação apresentada;Não há informação apresentada
 28.516.325/0001-40;2024-06-28;1;Não há informação apresentada;Não há informação apresentada
 28.516.325/0001-40;2024-09-30;1;Não há informação apresentada;Não há informação apresentada
@@ -2376,26 +2501,26 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 28.757.546/0001-00;2024-06-30;2;Shopping Metropolitano Barra;Não possui caracteristicas que destoem dos demais
 28.757.546/0001-00;2024-06-30;2;Uberlândia Shopping A;Não possui caracteristicas que destoem dos demais
 28.757.546/0001-00;2024-06-30;2;Tietê Plaza Shopping;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Caxias Shopping;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Downtown Shopping;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Natal Shopping;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Plaza Sul Shopping;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Catarina Fashion Outlet;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Shopping Cidade Jardim;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Santana Parque Shopping;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Shopping Ponta Negra;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Shopping Cidade São Paulo;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Shopping da Bahia;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Campinas Shopping;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Praia de Belas;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Shopping Estação Curitiba;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Shopping Bela Vista;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Grand Plaza Shopping;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Shopping Cerrado;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Shopping D;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Shopping Metropolitano Barra;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Uberlândia Shopping A;Não possui caracteristicas que destoem dos demais
-28.757.546/0001-00;2024-09-30;1;Tietê Plaza Shopping;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Caxias Shopping;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Downtown Shopping;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Natal Shopping;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Plaza Sul Shopping;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Catarina Fashion Outlet;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Shopping Cidade Jardim;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Santana Parque Shopping;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Shopping Ponta Negra;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Shopping Cidade São Paulo;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Shopping da Bahia;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Campinas Shopping;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Praia de Belas;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Shopping Estação Curitiba;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Shopping Bela Vista;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Grand Plaza Shopping;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Shopping Cerrado;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Shopping D;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Shopping Metropolitano Barra;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Uberlândia Shopping A;Não possui caracteristicas que destoem dos demais
+28.757.546/0001-00;2024-09-30;2;Tietê Plaza Shopping;Não possui caracteristicas que destoem dos demais
 28.851.767/0001-43;2024-03-31;1;Hospital Unimed Sul Capixaba;Imóvel locado para a Unimed, com contrato do tipo BTS
 28.851.767/0001-43;2024-06-30;1;Hospital Unimed Sul Capixaba;Imóvel locado para a Unimed, com contrato do tipo BTS
 28.851.767/0001-43;2024-09-30;1;Hospital Unimed Sul Capixaba;Imóvel locado para a Unimed, com contrato do tipo BTS
@@ -2469,6 +2594,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 30.178.506/0001-56;2024-09-30;1;Informação não apresentada.;
 30.248.129/0001-84;2024-03-28;1;Sumauma Park Shopping;.
 30.248.129/0001-84;2024-06-28;3;Sumauma Park Shopping;.
+30.248.129/0001-84;2024-09-30;1;Sumauma Park Shopping;.
 30.248.158/0001-46;2024-03-31;1;Boulevard Shopping Campos;Não possui caracteristicas que destoem dos demais
 30.248.158/0001-46;2024-03-31;1;Consorcio Parque Shopping Belem;Não possui caracteristicas que destoem dos demais
 30.248.158/0001-46;2024-06-30;1;Boulevard Shopping Campos;Não possui caracteristicas que destoem dos demais
@@ -2515,6 +2641,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 30.642.032/0001-51;2024-03-28;1;Bom Jardim;não há Contrato
 30.642.032/0001-51;2024-06-28;2;CTR Empresarial - Galpão;Possui 6 locatários
 30.642.032/0001-51;2024-06-28;2;Bom Jardim;não há Contrato
+30.642.032/0001-51;2024-09-30;1;CTR Empresarial - Galpão;Possui 6 locatários
+30.642.032/0001-51;2024-09-30;1;Bom Jardim;não há Contrato
 30.654.849/0001-40;2024-03-31;1;Ed. Evolution;Cielo - Vencimento do contrato em Jan/29
 30.654.849/0001-40;2024-03-31;1;Ed. Evolution;Elopar - Vencimento do contrato em Nov/24
 30.654.849/0001-40;2024-03-31;1;Ed. Evolution;SGS - Vencimento do contrato em Jan/26
@@ -2604,6 +2732,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 30.982.974/0001-89;2024-09-30;1;.;.
 31.145.875/0001-05;2024-03-31;2;Paulista;N/A
 31.145.875/0001-05;2024-06-30;1;Paulista;N/A
+31.145.875/0001-05;2024-09-30;1;Paulista;N/A
 31.469.385/0001-64;2024-03-31;1;Unidade 102;não há
 31.469.385/0001-64;2024-03-31;1;Unidade 103;não há
 31.469.385/0001-64;2024-03-31;1;Unidade 104;não há
@@ -2642,6 +2771,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 31.547.782/0001-07;2024-09-30;1;Fazenda Cachoeira;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis.
 31.894.369/0001-19;2024-03-31;1;-;-
 31.894.369/0001-19;2024-06-30;1;-;-
+31.894.369/0001-19;2024-09-30;1;-;-
 31.907.591/0001-09;2024-03-28;1;GALPÃO SCANIA;n/a
 31.907.591/0001-09;2024-06-30;1;GALPÃO SCANIA;n/a
 31.907.591/0001-09;2024-09-30;1;GALPÃO SCANIA;n/a
@@ -2729,6 +2859,18 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 32.754.734/0001-52;2024-06-30;1;Silo Jatai;Não possui caracteristicas que destoem dos demais
 32.754.734/0001-52;2024-06-30;1;Silo Nova Ponte;Não possui caracteristicas que destoem dos demais
 32.754.734/0001-52;2024-06-30;1;Silo Paranagua - PR;Não possui caracteristicas que destoem dos demais
+32.754.734/0001-52;2024-09-30;2;Silo Bela Vista do Paraiso;Não possui caracteristicas que destoem dos demais
+32.754.734/0001-52;2024-09-30;2;Silo Assai - Seccao Balsamo;Não possui caracteristicas que destoem dos demais
+32.754.734/0001-52;2024-09-30;2;Silo Sabaudia;Não possui caracteristicas que destoem dos demais
+32.754.734/0001-52;2024-09-30;2;Silo Cambe;Não possui caracteristicas que destoem dos demais
+32.754.734/0001-52;2024-09-30;2;Silo Campo Ere;Não possui caracteristicas que destoem dos demais
+32.754.734/0001-52;2024-09-30;2;Filial Pato Branco;Não possui caracteristicas que destoem dos demais
+32.754.734/0001-52;2024-09-30;2;Filial Medianeira;Não possui caracteristicas que destoem dos demais
+32.754.734/0001-52;2024-09-30;2;Filial Francisco Beltrao;Não possui caracteristicas que destoem dos demais
+32.754.734/0001-52;2024-09-30;2;Silo Uberlandia;Não possui caracteristicas que destoem dos demais
+32.754.734/0001-52;2024-09-30;2;Silo Jatai;Não possui caracteristicas que destoem dos demais
+32.754.734/0001-52;2024-09-30;2;Silo Nova Ponte;Não possui caracteristicas que destoem dos demais
+32.754.734/0001-52;2024-09-30;2;Silo Paranagua - PR;Não possui caracteristicas que destoem dos demais
 32.892.018/0001-31;2024-03-31;1;Shopping Pátio Maceió;Conforme item 1.1.2.1.4 deste informe
 32.892.018/0001-31;2024-03-31;1;Super Shopping Osasco;Conforme item 1.1.2.1.4 deste informe
 32.892.018/0001-31;2024-03-31;1;Shopping Granja Vianna;Conforme item 1.1.2.1.4 deste informe
@@ -2787,6 +2929,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 33.046.142/0001-49;2024-06-30;1;Capim Dourado Shopping;Não possui caracteristicas que destoem dos demais
 33.046.142/0001-49;2024-06-30;1;Shopping Contagem;Não possui caracteristicas que destoem dos demais
 33.046.142/0001-49;2024-06-30;1;Ilha Plaza Shopping;Não possui caracteristicas que destoem dos demais
+33.046.142/0001-49;2024-09-30;1;Londrina Norte Shopping;Não possui caracteristicas que destoem dos demais
+33.046.142/0001-49;2024-09-30;1;Shopping Contagem;Não possui caracteristicas que destoem dos demais
+33.046.142/0001-49;2024-09-30;1;Ilha Plaza Shopping;Não possui caracteristicas que destoem dos demais
+33.046.142/0001-49;2024-09-30;1;Capim Dourado Shopping;Não possui caracteristicas que destoem dos demais
 33.554.611/0001-30;2024-03-28;1;Apartamento Parques das Águas 902;Sem informações complementares
 33.554.611/0001-30;2024-03-28;1;Apartamento Parques das Águas 2106;Sem informações complementares
 33.554.611/0001-30;2024-06-28;1;Apartamento Parques das Águas 902;Sem informações complementares
@@ -2811,10 +2957,13 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 33.842.871/0001-01;2024-09-30;1;SERRINHA 01 E 02;Item acima
 34.081.637/0001-71;2024-03-31;1;N/A;N/A
 34.081.637/0001-71;2024-06-30;1;Informação não apresentada;Informação não apresentada
+34.081.637/0001-71;2024-09-30;1;informação não apresentada;informação não apresentada
 34.197.776/0001-65;2024-03-31;1;Hotel Viila Madalena;Não possui caracteristicas que destoem dos demais
 34.197.776/0001-65;2024-06-30;1;Hotel Viila Madalena;Não possui caracteristicas que destoem dos demais
+34.197.776/0001-65;2024-09-30;1;Hotel Viila Madalena;Não possui caracteristicas que destoem dos demais
 34.509.007/0001-55;2024-03-28;1;Bela cintra;Registro das Matrículas: Cartório - 27º Tabelionato de Notas da Capital - SP Matrículas: 9.017, 9.018, 9.019, 9.020, 39.460, 39.461, 39.462, 39.463, 39.464, 39.465, 39.467, 39.468, 39.469, 39.470, 39.471, 39.472, 39.473, 39.474, 39.475, 39.476, 39.477, 39.478, 39.479, 39.480, 39.481, 39.482, 39.483, 39.484, 39.485, 39.486, 39.487, 39.488, 39.489, 39.490, 39.491, 39.492, 39.493, 39.494, 39.495, 39.496, 39.497, 39.498, 39.499, 39.500, 39.501, 39.502, 39.503, 39.504, 39.505, 39.506, 39.507, 39.508, 39.509, 39.510, 39.511, 39.512, 39.513, 39.514, 39.515, 39.516, 39.517, 39.518, 39.519, 39.520, 39.521, 39.522, 39.523, 39.524, 39.525, 39.526, 39.527 e 39.528
 34.509.007/0001-55;2024-06-28;1;Bela cintra;Registro das Matrículas: Cartório - 27º Tabelionato de Notas da Capital - SP Matrículas: 9.017, 9.018, 9.019, 9.020, 39.460, 39.461, 39.462, 39.463, 39.464, 39.465, 39.467, 39.468, 39.469, 39.470, 39.471, 39.472, 39.473, 39.474, 39.475, 39.476, 39.477, 39.478, 39.479, 39.480, 39.481, 39.482, 39.483, 39.484, 39.485, 39.486, 39.487, 39.488, 39.489, 39.490, 39.491, 39.492, 39.493, 39.494, 39.495, 39.496, 39.497, 39.498, 39.499, 39.500, 39.501, 39.502, 39.503, 39.504, 39.505, 39.506, 39.507, 39.508, 39.509, 39.510, 39.511, 39.512, 39.513, 39.514, 39.515, 39.516, 39.517, 39.518, 39.519, 39.520, 39.521, 39.522, 39.523, 39.524, 39.525, 39.526, 39.527 e 39.528
+34.509.007/0001-55;2024-09-30;1;Bela cintra;Registro das Matrículas: Cartório - 27º Tabelionato de Notas da Capital - SP Matrículas: 9.017, 9.018, 9.019, 9.020, 39.460, 39.461, 39.462, 39.463, 39.464, 39.465, 39.467, 39.468, 39.469, 39.470, 39.471, 39.472, 39.473, 39.474, 39.475, 39.476, 39.477, 39.478, 39.479, 39.480, 39.481, 39.482, 39.483, 39.484, 39.485, 39.486, 39.487, 39.488, 39.489, 39.490, 39.491, 39.492, 39.493, 39.494, 39.495, 39.496, 39.497, 39.498, 39.499, 39.500, 39.501, 39.502, 39.503, 39.504, 39.505, 39.506, 39.507, 39.508, 39.509, 39.510, 39.511, 39.512, 39.513, 39.514, 39.515, 39.516, 39.517, 39.518, 39.519, 39.520, 39.521, 39.522, 39.523, 39.524, 39.525, 39.526, 39.527 e 39.528
 34.547.078/0001-42;2024-03-28;1;CHANÉS;MATRÍCULA nº 74.339
 34.547.078/0001-42;2024-03-28;1;MARACATINS;MATRÍCULA 38.842
 34.547.078/0001-42;2024-03-28;1;BUTANTA;matricula 256485, 256486, 256487
@@ -2827,6 +2976,12 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 34.547.078/0001-42;2024-06-28;2;SANTO AMARO;.
 34.547.078/0001-42;2024-06-28;2;SANTO AMARO;MATRÍCULA 55.259, 162.095, 55260,162.248)
 34.547.078/0001-42;2024-06-28;2;MARACATINS;MATRÍCULAS (74.339, 205.704, 206.497, 206.334, 126.593, 50.179, 38.842)
+34.547.078/0001-42;2024-09-30;1;CHANÉS;MATRÍCULA nº 74.339
+34.547.078/0001-42;2024-09-30;1;MARACATINS;MATRÍCULA 38.842
+34.547.078/0001-42;2024-09-30;1;BUTANTA;matricula 256485, 256486, 256487
+34.547.078/0001-42;2024-09-30;1;SANTO AMARO;.
+34.547.078/0001-42;2024-09-30;1;SANTO AMARO;MATRÍCULA 55.259, 162.095, 55260,162.248)
+34.547.078/0001-42;2024-09-30;1;MARACATINS;MATRÍCULAS (74.339, 205.704, 206.497, 206.334, 126.593, 50.179, 38.842)
 34.598.181/0001-11;2024-03-28;1;LOG I;Um contrato que corresponde a 5,66% da receita do FII não possui garantia nem multa rescisória e um contrato que representa 1,60% não tem garantia
 34.598.181/0001-11;2024-03-28;1;LOG Goiânia;Um contrato que corresponde a 0,41% da receita do FII não possui garantia um contrato que corresponde a 0,73% da receita do FII não possui garantia nem multa rescisória.
 34.598.181/0001-11;2024-06-30;1;LOG I;Um contrato que corresponde a 5,87% da receita do FII não possui garantia nem multa rescisória e um contrato que representa 1,59% não tem garantia
@@ -2847,6 +3002,18 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 34.691.520/0001-00;2024-06-30;1;GPA TITO;Não possui caracteristicas que destoem dos demais
 34.691.520/0001-00;2024-06-30;1;GPA COTIA;Não possui caracteristicas que destoem dos demais
 34.691.520/0001-00;2024-06-30;1;Barra Medical Center;Não possui caracteristicas que destoem dos demais
+34.691.520/0001-00;2024-09-30;1;GPA ATIBAIA;Não possui caracteristicas que destoem dos demais
+34.691.520/0001-00;2024-09-30;1;GPA SANTANA;Não possui caracteristicas que destoem dos demais
+34.691.520/0001-00;2024-09-30;1;SODIMAC Ribeiro Preto;Não possui caracteristicas que destoem dos demais
+34.691.520/0001-00;2024-09-30;1;GPA TITO;Não possui caracteristicas que destoem dos demais
+34.691.520/0001-00;2024-09-30;1;GPA COTIA;Não possui caracteristicas que destoem dos demais
+34.691.520/0001-00;2024-09-30;1;Barra Medical Center;Não possui caracteristicas que destoem dos demais
+34.691.520/0001-00;2024-09-30;1;Assai Bauru-SP;Não possui caracteristicas que destoem dos demais
+34.691.520/0001-00;2024-09-30;1;Assai Macae - RJ;Não possui caracteristicas que destoem dos demais
+34.691.520/0001-00;2024-09-30;1;ASSAI DOURADOS-MS;Não possui caracteristicas que destoem dos demais
+34.691.520/0001-00;2024-09-30;1;Assai Aracatuba-SP;Não possui caracteristicas que destoem dos demais
+34.691.520/0001-00;2024-09-30;1;ASSAI PORTO VELHO-RO;Não possui caracteristicas que destoem dos demais
+34.691.520/0001-00;2024-09-30;1;PAO DE ACUCAR AGUAS CLARAS-DF;Não possui caracteristicas que destoem dos demais
 34.691.925/0001-48;2024-03-28;1;GRADIENT;Nenhuma característica relevante
 34.691.925/0001-48;2024-03-28;1;PANTHE;Nenhuma característica relevante
 34.691.925/0001-48;2024-06-28;1;IMMOB 3;Nenhuma característica relevante
@@ -2890,8 +3057,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 34.895.894/0001-47;2024-06-30;1;Conjuntos 801, 802, 901, 902,1201 e 1202.;item acima
 34.895.894/0001-47;2024-09-30;1;Conjuntos 801, 802, 901, 902,1201 e 1202.;item acima
 35.507.262/0001-21;2024-06-30;1;-;-
+35.507.262/0001-21;2024-09-30;1;-;-
 35.586.415/0001-73;2024-03-31;1;-;-
 35.586.415/0001-73;2024-06-30;1;-;-
+35.586.415/0001-73;2024-09-30;1;-;-
 35.652.102/0001-76;2024-03-31;2;Edificio Faria Lima 4440  (VBI FL 4440);Não possui caracteristicas que destoem dos demais
 35.652.102/0001-76;2024-03-31;2;Edificio Park Tower;Não possui caracteristicas que destoem dos demais
 35.652.102/0001-76;2024-03-31;2;Vila Olimpia Corporate;Não possui caracteristicas que destoem dos demais
@@ -2944,8 +3113,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 35.652.278/0001-28;2024-09-30;1;Galpao - Quatro Barras;Não possui caracteristicas que destoem dos demais
 35.652.278/0001-28;2024-09-30;1;Galpao Aurora;Não possui caracteristicas que destoem dos demais
 35.688.460/0001-39;2024-03-31;1;-;-
+35.688.460/0001-39;2024-09-30;1;-;-
 35.689.497/0001-81;2024-03-31;2;-;-
 35.689.497/0001-81;2024-06-30;1;-;-
+35.689.497/0001-81;2024-09-30;1;-;-
 35.704.849/0001-20;2024-03-31;1;Edíficio Corporativo OI;Conforme descrito anteriormente.
 35.704.849/0001-20;2024-06-30;1;Edíficio Corporativo OI;Conforme descrito anteriormente.
 35.704.849/0001-20;2024-09-30;1;Edíficio Corporativo OI;Conforme descrito anteriormente.
@@ -2995,6 +3166,13 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 35.765.889/0001-82;2024-03-28;1;Hospital BDW SP Ltda.;Direito de propriedade
 35.765.889/0001-82;2024-06-28;1;Eldorado-Praca Joaquim Roberto;Direito de propriedade
 35.765.889/0001-82;2024-06-28;1;Hospital BDW SP Ltda.;Direito de propriedade
+35.765.889/0001-82;2024-09-30;1;Eldorado-Praca Joaquim Roberto;Praca Joaquim Roberto, 30,  Pinheiros, Sao Paulo/SP, Brasil, 05423-160
+35.765.889/0001-82;2024-09-30;1;Hospital BDW SP Ltda.;Av. dos Bandeirantes, 633/ 679 e 685, Vila Olimpia, São Paulo/SP, Brasil,  04071-011
+35.765.889/0001-82;2024-09-30;1;APTO 342;COND DIOGO MOREIRA 250
+35.765.889/0001-82;2024-09-30;1;APTO 381;COND DIOGO MOREIRA 250
+35.765.889/0001-82;2024-09-30;1;AV DOS BANDEIRANTES;MATRICULA 93755
+35.765.889/0001-82;2024-09-30;1;CASA LOURENCO MARQUE;R LOURENCO MARQUES, 304
+35.765.889/0001-82;2024-09-30;1;RUA BELGICA 236;RUA BELGICA 236
 36.098.375/0001-83;2024-03-28;1;Fábrica Pouso Alegre;Imóvel locado na modalidade Buitl-to-Suit, sujeito ao Art. 54-A da Lei Federal nº 8.245/91.
 36.098.375/0001-83;2024-06-30;1;Fábrica Pouso Alegre;Imóvel locado na modalidade Buitl-to-Suit, sujeito ao Art. 54-A da Lei Federal nº 8.245/91.
 36.098.375/0001-83;2024-09-30;1;Fábrica Pouso Alegre;Imóvel locado na modalidade Buitl-to-Suit, sujeito ao Art. 54-A da Lei Federal nº 8.245/91.
@@ -3237,6 +3415,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 36.517.660/0001-91;2024-06-30;1;Urbic Tomas Alves;duração máxima de 1 ano, sem correção, operação de short stay e long stay
 36.517.660/0001-91;2024-06-30;1;Urbic Sabiá;duração máxima de 1 ano, sem correção, operação de short stay e long stay
 36.517.660/0001-91;2024-06-30;1;Cyrela for you;duração máxima de 1 ano, sem correção, operação de short stay e long stay
+36.517.660/0001-91;2024-09-30;1;Urbic Tomas Alves;duração máxima de 1 ano, sem correção, operação de short stay e long stay
+36.517.660/0001-91;2024-09-30;1;Urbic Sabiá;duração máxima de 1 ano, sem correção, operação de short stay e long stay
+36.517.660/0001-91;2024-09-30;1;Cyrela for you;duração máxima de 1 ano, sem correção, operação de short stay e long stay
 36.642.244/0001-15;2024-03-31;1;Imovel Ibema - IRIEDI;Não possui caracteristicas que destoem dos demais
 36.642.244/0001-15;2024-03-31;1;Imovel Toledo - IRIEDI;Não possui caracteristicas que destoem dos demais
 36.642.244/0001-15;2024-03-31;1;Terminal Portuário do Espírito Santo - TPES;Não possui caracteristicas que destoem dos demais
@@ -3282,6 +3463,25 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 36.885.948/0001-19;2024-06-28;1;FAZENDA Gervásio;Matricula 13862
 36.885.948/0001-19;2024-06-28;1;JD FRANÇA;Matricula 107380
 36.885.948/0001-19;2024-06-28;1;Reserva Aysú;Sítio Buzos, matricula 3514
+36.885.948/0001-19;2024-09-30;1;Fazenda Serviplan;Cidade Cocalinho, Mato Grosso do Sul
+36.885.948/0001-19;2024-09-30;1;FAZENDA Gervásio;Pirenópolis, Goiás
+36.885.948/0001-19;2024-09-30;1;JD FRANÇA;Rua Ana Jungmann, JD França Goiania
+36.885.948/0001-19;2024-09-30;1;Reserva Aysú;Centro, São Miguel dos Milagres, Alagoas
+36.885.948/0001-19;2024-09-30;1;Imovel 1;Sítio Boa Vista/na cidade de Piraúba - Zona Rural
+36.885.948/0001-19;2024-09-30;1;Imovel 2;Galpão -Praça Atílio Bonfante, nº 117Bairro Centro - Cidade Astolfo Dutra
+36.885.948/0001-19;2024-09-30;1;Imovel 3;Av Prefeito Telesforo Candido de Rezende, 142 - Edificio Avenida Toweer Center
+36.885.948/0001-19;2024-09-30;1;Imovel 4;Av Prefeito Telesforo Candido de Rezende, 142 - Edificio Avenida Toweer Center
+36.885.948/0001-19;2024-09-30;1;Imovel 5;Av. Comendador Jacinto Soares de Souza Lima- Sl 2/3/4/5 e copa de apoio
+36.885.948/0001-19;2024-09-30;1;Imovel 6;Rua Antonio Cimini, 84 - Unidade Piscina e Acessario situada no terro do Ed. Bristol Easy Hotel
+36.885.948/0001-19;2024-09-30;1;Imovel 7;Esmeraldas/MG
+36.885.948/0001-19;2024-09-30;1;Imovel 8;AV. OLYNTHO ALMADA Nº: SN Comp.: Bairro: NOSSA SRA. DE FÁTIMA
+36.885.948/0001-19;2024-09-30;1;Imóvel 9;Vespasiano/MG
+36.885.948/0001-19;2024-09-30;1;Imóvel 10;Vespasiano/MG
+36.885.948/0001-19;2024-09-30;1;Imóvel 11;Vespasiano/MG
+36.885.948/0001-19;2024-09-30;1;Imóvel 12;Vespasiano/MG
+36.885.948/0001-19;2024-09-30;1;FLAMB ALPHA F5 LT 5;LT 05 Alphaville Flamboyant GO
+36.885.948/0001-19;2024-09-30;1;FLAMBOYANT LOTE 13B5;ALPHAVILLE FLAMBOYANT
+36.885.948/0001-19;2024-09-30;1;IMÓVEL IGUATEMI;Rua Viradouro nº 120, Jd Paulista
 36.885.989/0001-05;2024-03-28;2;Fazenda Serviplan;matricula 3309 e 3310
 36.885.989/0001-05;2024-03-28;2;VILA SERRA GRANDE 5;matrícula nº 1009
 36.885.989/0001-05;2024-03-28;2;RECANTO DOS BURITIS;Lote de terras nº 8, da quadra 1 (ZM-BD)
@@ -3292,6 +3492,18 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 36.885.989/0001-05;2024-06-28;2;RECANTO DOS BURITIS;Lote de terras nº 8, da quadra 1 (ZM-BD)
 36.885.989/0001-05;2024-06-28;2;RECANTO DOS BURITIS;Lote de terras nº 9, da quadra 1 (ZM-BD)
 36.885.989/0001-05;2024-06-28;2;RECANTO DOS BURITIS;Lote de terras nº 10, da quadra 1 (ZM-BD)
+36.885.989/0001-05;2024-09-30;1;Fazenda Serviplan;matricula 3309 e 3310
+36.885.989/0001-05;2024-09-30;1;VILA SERRA GRANDE 5;matrícula nº 1009
+36.885.989/0001-05;2024-09-30;1;RECANTO DOS BURITIS;Lote de terras nº 8, da quadra 1 (ZM-BD)
+36.885.989/0001-05;2024-09-30;1;RECANTO DOS BURITIS;Lote de terras nº 9, da quadra 1 (ZM-BD)
+36.885.989/0001-05;2024-09-30;1;RECANTO DOS BURITIS;Lote de terras nº 10, da quadra 1 (ZM-BD)
+36.885.989/0001-05;2024-09-30;1;AVENIDA DAS ACACIAS;MATRÍCULA 1.349
+36.885.989/0001-05;2024-09-30;1;SITIO PIRACANGA I - GLEBA 01;R-13 matrícula 1784
+36.885.989/0001-05;2024-09-30;1;SÍTIO PIRACANGA II;GLEBA 02 - matrícula 3781
+36.885.989/0001-05;2024-09-30;1;JARDINS GENEBRA;Lotes 11,12,33 e 34
+36.885.989/0001-05;2024-09-30;1;LT 5 QD B4 ALPHA FLA;LT 5 QD B4 ALPHA FLA
+36.885.989/0001-05;2024-09-30;1;Nº1 - QUADRA A4;Alpha Mall - Alphaville
+36.885.989/0001-05;2024-09-30;1;50% POLO EMPR GO ET7;POLO EMPRESARIAL GOIAS ETAPA 7 - Matrícula 267.200
 36.930.464/0001-44;2024-03-28;1;Condomínio Logístico Itapeva 01;Não se aplica
 36.930.464/0001-44;2024-03-28;1;Condomínio Logístico Cariacica 01;Não se aplica
 36.930.464/0001-44;2024-03-28;1;Condomínio Logístico Cravinhos 01;Não se aplica
@@ -3311,6 +3523,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 37.295.919/0001-60;2024-06-30;1;Cachoerinha;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
 37.295.919/0001-60;2024-06-30;1;Canoas/ RS;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
 37.295.919/0001-60;2024-06-30;1;São José dos Campos;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+37.295.919/0001-60;2024-09-30;1;não há;não há
 37.433.832/0001-01;2024-03-31;1;.;.
 37.433.832/0001-01;2024-06-30;1;.;.
 37.433.832/0001-01;2024-09-30;1;.;.
@@ -3339,6 +3552,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 38.293.921/0001-62;2024-06-30;1;Edificio Souza Aranha I;Não possui caracteristicas que destoem dos demais
 38.293.921/0001-62;2024-06-30;1;Edificio Souza Aranha II;Não possui caracteristicas que destoem dos demais
 38.293.921/0001-62;2024-06-30;1;Imovel Porto Alegre;Não possui caracteristicas que destoem dos demais
+38.293.921/0001-62;2024-09-30;1;Edificio Souza Aranha I;Não possui caracteristicas que destoem dos demais
+38.293.921/0001-62;2024-09-30;1;Edificio Souza Aranha II;Não possui caracteristicas que destoem dos demais
+38.293.921/0001-62;2024-09-30;1;Imovel Porto Alegre;Não possui caracteristicas que destoem dos demais
 38.294.086/0001-85;2024-03-31;1;Rochavera - Torre A;Não possui caracteristicas que destoem dos demais
 38.294.086/0001-85;2024-03-31;1;Rochavera - Torre B;Não possui caracteristicas que destoem dos demais
 38.294.086/0001-85;2024-06-30;1;Rochavera - Torre A;Não possui caracteristicas que destoem dos demais
@@ -3347,6 +3563,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 38.294.086/0001-85;2024-09-30;1;Rochavera - Torre B;Não possui caracteristicas que destoem dos demais
 38.456.598/0001-09;2024-03-28;1;Sem informação apresentada.;Sem informação apresentada.
 38.456.598/0001-09;2024-06-28;1;Sem informação apresentada.;Sem informação apresentada.
+38.456.598/0001-09;2024-09-30;1;Sem informação apresentada.;Sem informação apresentada.
 38.658.984/0001-75;2024-03-28;1;ED BLUMENAU;Locatário possui opção de compra dos imóveis ao final da vigência contratual.
 38.658.984/0001-75;2024-03-28;1;ED CAIXA;Locatário possui opção de compra dos imóveis ao final da vigência contratual.
 38.658.984/0001-75;2024-03-28;1;ED CARLOS GO;Locatário possui opção de compra dos imóveis ao final da vigência contratual.
@@ -3414,8 +3631,13 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 40.067.483/0001-66;2024-06-28;1;IMÓVEL BRASILANDIA;Matrícula nº 196.973
 40.067.483/0001-66;2024-06-28;1;IMÓVEL TABATINGA;matrícula nº 33.002
 40.067.483/0001-66;2024-06-28;1;IMÓVEL SÃO VICENTE;matrícula 160.366
+40.067.483/0001-66;2024-09-30;1;Mogi Guaçu SP;matrícula 70.305
+40.067.483/0001-66;2024-09-30;1;Salto SP;Matrícula 47.336 e Matrícula 47.344
+40.067.483/0001-66;2024-09-30;1;IMÓVEL BRASILANDIA;Matrícula nº 196.973
+40.067.483/0001-66;2024-09-30;1;IMÓVEL SÃO VICENTE;matrícula 160.366
 40.102.445/0001-05;2024-03-31;1;SKY Galleria - Oitavo Andar;Não possui caracteristicas que destoem dos demais
 40.102.445/0001-05;2024-06-30;1;SKY Galleria - Oitavo Andar;Não possui caracteristicas que destoem dos demais
+40.102.445/0001-05;2024-09-30;1;SKY Galleria - Oitavo Andar;Não possui caracteristicas que destoem dos demais
 40.189.596/0001-34;2024-03-31;1;Não se aplica;Não se aplica
 40.189.596/0001-34;2024-06-30;1;Não se aplica;Não se aplica
 40.189.596/0001-34;2024-09-30;1;Não se aplica;Não se aplica
@@ -3437,6 +3659,12 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 40.575.940/0001-23;2024-06-28;1;Nissei;Contrato de locação foi cedido fiduciariamente como lastro de operação de alvancagem.
 40.575.940/0001-23;2024-06-28;1;Souza Cruz;Contrato de locação foi cedido fiduciariamente como garantia de operação de alvancagem.
 40.575.940/0001-23;2024-06-28;1;Alvoar;Contrato de locação foi cedido fiduciariamente como garantia de operação de alvancagem.
+40.575.940/0001-23;2024-09-30;1;Nova Bassano;Contrato de locação foi cedido fiduciariamente como garantia de operação de alvancagem.
+40.575.940/0001-23;2024-09-30;1;Copobras;Contrato de locação foi cedido fiduciariamente como lastro de operação de alvancagem.
+40.575.940/0001-23;2024-09-30;1;Nissei;Contrato de locação foi cedido fiduciariamente como lastro de operação de alvancagem.
+40.575.940/0001-23;2024-09-30;1;Souza Cruz;Contrato de locação foi cedido fiduciariamente como garantia de operação de alvancagem.
+40.575.940/0001-23;2024-09-30;1;Alvoar;Contrato de locação foi cedido fiduciariamente como garantia de operação de alvancagem.
+40.575.940/0001-23;2024-09-30;1;Serra;Contrato de locação foi cedido fiduciariamente como garantia de operação de alvancagem.
 40.886.241/0001-02;2024-03-31;1;Caxangá;Não possui caracteristicas que destoem dos demais
 40.886.241/0001-02;2024-03-31;1;Loja de Rua - Bernardo Manuel nº 207;Não possui caracteristicas que destoem dos demais
 40.886.241/0001-02;2024-03-31;1;Loja de Rua - Bezerra de Menezes nº 1409;Não possui caracteristicas que destoem dos demais
@@ -3468,6 +3696,22 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 40.886.241/0001-02;2024-06-30;1;Sao Joao;Não possui caracteristicas que destoem dos demais
 40.886.241/0001-02;2024-06-30;1;Maraponga;Não possui caracteristicas que destoem dos demais
 40.886.241/0001-02;2024-06-30;1;Washington Soares;Não possui caracteristicas que destoem dos demais
+40.886.241/0001-02;2024-09-30;1;Caxanga;Não possui caracteristicas que destoem dos demais
+40.886.241/0001-02;2024-09-30;1;Loja de Rua - Bernardo Manuel nº 207;Não possui caracteristicas que destoem dos demais
+40.886.241/0001-02;2024-09-30;1;Loja de Rua - Bezerra de Menezes nº 1409;Não possui caracteristicas que destoem dos demais
+40.886.241/0001-02;2024-09-30;1;Loja de Rua - Santos Dumont nº 3030;Não possui caracteristicas que destoem dos demais
+40.886.241/0001-02;2024-09-30;1;Eusebio;Não possui caracteristicas que destoem dos demais
+40.886.241/0001-02;2024-09-30;1;Francisco Sa;Não possui caracteristicas que destoem dos demais
+40.886.241/0001-02;2024-09-30;1;Lago Jacarey;Não possui caracteristicas que destoem dos demais
+40.886.241/0001-02;2024-09-30;1;Maraponga;Não possui caracteristicas que destoem dos demais
+40.886.241/0001-02;2024-09-30;1;Maraponga 2;Não possui caracteristicas que destoem dos demais
+40.886.241/0001-02;2024-09-30;1;Paulista;Não possui caracteristicas que destoem dos demais
+40.886.241/0001-02;2024-09-30;1;Lagoa;Não possui caracteristicas que destoem dos demais
+40.886.241/0001-02;2024-09-30;1;Sargento Herminio;Não possui caracteristicas que destoem dos demais
+40.886.241/0001-02;2024-09-30;1;Sargento Herminio 2;Não possui caracteristicas que destoem dos demais
+40.886.241/0001-02;2024-09-30;1;Loja de Rua - Treze de Maio;Não possui caracteristicas que destoem dos demais
+40.886.241/0001-02;2024-09-30;1;Sao Joao;Não possui caracteristicas que destoem dos demais
+40.886.241/0001-02;2024-09-30;1;Loja de Rua - Washington Soares;Não possui caracteristicas que destoem dos demais
 40.886.521/0001-02;2024-03-28;1;Condominio Parque Jockey;Conforme contrato.
 40.886.521/0001-02;2024-06-30;1;Condominio Parque Jockey;Conforme contrato.
 40.886.521/0001-02;2024-09-30;1;Condominio Parque Jockey;Conforme contrato.
@@ -3504,6 +3748,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 41.076.823/0001-88;2024-03-31;1;UrbanHub Maua;Não possui caracteristicas que destoem dos demais
 41.076.823/0001-88;2024-06-30;1;UrbanHub Guarulhos;Não possui caracteristicas que destoem dos demais
 41.076.823/0001-88;2024-06-30;1;UrbanHub Maua;Não possui caracteristicas que destoem dos demais
+41.076.823/0001-88;2024-09-30;1;UrbanHub Guarulhos;Não possui caracteristicas que destoem dos demais
+41.076.823/0001-88;2024-09-30;1;UrbanHub Maua;Não possui caracteristicas que destoem dos demais
 41.081.336/0001-03;2024-03-28;1;Galpão Santo Amaro  (GRUPO SINAL);Conforme contrato.
 41.081.336/0001-03;2024-03-28;1;Galpão Diadema (GRUPO SINAL);Conforme contrato.
 41.081.336/0001-03;2024-03-28;1;Galpão Mooca (GRUPO SINAL);Conforme contrato.
@@ -3567,6 +3813,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 41.199.975/0001-78;2024-09-30;1;Apto 163 - Torre Bem-Te-Vi - Condominio Bosque Jequitiba;Não possui caracteristicas que destoem dos demais
 41.219.028/0001-00;2024-03-31;1;Edifício Serasa;Reajuste anual pela variação dos índices positivos do IPCA Garantia: carta de fiança bancária Cláusula de término antecipado de contrato e Seguros.
 41.219.028/0001-00;2024-06-30;1;Edifício Serasa;Reajuste anual pela variação dos índices positivos do IPCA Garantia: carta de fiança bancária Cláusula de término antecipado de contrato e Seguros.
+41.219.028/0001-00;2024-09-30;1;Edifício Serasa;Reajuste anual pela variação dos índices positivos do IPCA Garantia: carta de fiança bancária Cláusula de término antecipado de contrato e Seguros.
 41.219.454/0001-35;2024-03-28;1;GALPÃO LOGÍSTICO;GALPÃO LOGÍSTICO
 41.219.454/0001-35;2024-06-28;1;Imóvel 1;matricula 248662
 41.219.454/0001-35;2024-06-28;1;Imóvel 2;matricula 256777
@@ -3594,6 +3841,33 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 41.219.454/0001-35;2024-06-28;1;Imóvel 23;Matrícula 249415
 41.219.454/0001-35;2024-06-28;1;Imóvel 24;Matrícula 194586
 41.219.454/0001-35;2024-06-28;1;Imóvel 25;Matrícula 193977
+41.219.454/0001-35;2024-09-30;1;Imóvel 1;Avenida Alexandre Herculano, 1400 - Jardim Veraneio - Campo Grande/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 2;Rua 15 de Novembro, 1218 - Apartamento 2703 - Campo Grande/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 3;Rua 15 de Novembro, 1218 - Apartamento 2704 - Campo Grande/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 4;Rua Sete de Setembro, 2111 - Apartamento 503 - Campo Grande/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 5;Rua Sete de Setembro, 2111 - Apartamento 1201 - Campo Grande/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 6;Avenida Fernando Correa da Costa, Lote 03-J - Campo grande/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 7;Rua Theotônio Rosa Pires, 197 -Quadra 01 - Lote 11 - Campo Grande/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 8;Rua José Maia, Quadra 00 - Lote 27 -Campo Grande/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 9;Rua José Maia, Quadra 00 - Lote 28 -Campo Grande/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 10;Rua José Maia, Quadra 00 - Lote 29 -Campo Grande/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 10;Rua Santa Tereza, Quadra 01 - Lote 1 - Campo grande/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 11;Rua Santa Tereza, Quadra 00 - Lote 25
+41.219.454/0001-35;2024-09-30;1;Imóvel 12;Rua Santa Tereza, Quadra 00 - Lote 26
+41.219.454/0001-35;2024-09-30;1;Imóvel 13;Rua Santa Tereza, 215 - Quadra 01 - Lote 29-A
+41.219.454/0001-35;2024-09-30;1;Imóvel 14;Parte da Rua Santa Tereza Campo Grande/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 15;Rua Ceará, 333 - Bairro Miguel Couto Lote 0KMA1 Campo Grande/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 16;Rua Ceará, 333 - Bairro Miguel Couto Lote A1 Campo Grande/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 17;Rua Ceará, 455 - Bairro Miguel Couto Loce C-2 Campo Grande/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 18;Rua Ceará, 119 - Lote C1B
+41.219.454/0001-35;2024-09-30;1;Imóvel 19;Avenida Ricardo Brandão, 900 - Lote 1-A
+41.219.454/0001-35;2024-09-30;1;Imóvel 20;Rua Manoel Santiago, 1160Lote 45-Y Dourados/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 21;Rua Manoel Santiago, 1155 - Lote 45 X1 - Dourado/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 22;Rua Albino Torraca, 2290 Lote 45-X2 Dourados/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 23;Avanida Ricardo Brandão, 481 - Apartamento 1203 - Campo Grande/MS
+41.219.454/0001-35;2024-09-30;1;Imóvel 24;Rua Antônio Ferreira Lima, 50 Lote 13 da Quadra 04 do Jardim Autonomista III
+41.219.454/0001-35;2024-09-30;1;Imóvel 25;Rua Antônio Ferreira Lima - Terreno Lote 14 da Quadra 04 do Jardim Autonomista III
+41.219.454/0001-35;2024-09-30;1;Imóvel 25;Rua Antônio Ferreira Lima - Terreno Lote 14 da Quadra 04 do Jardim Autonomista III
 41.320.997/0001-44;2024-03-31;1;EDIFICIO METROPOLITAN;Contrato Atípico.
 41.320.997/0001-44;2024-06-30;1;EDIFICIO METROPOLITAN;Contrato Atípico.
 41.320.997/0001-44;2024-09-30;1;EDIFICIO METROPOLITAN;Contrato Atípico.
@@ -3627,8 +3901,26 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 41.650.310/0001-39;2024-06-28;1;IMÓVEL 15;matrícula 52563
 41.650.310/0001-39;2024-06-28;1;IMÓVEL 16;matrícula 94352
 41.650.310/0001-39;2024-06-28;1;IMÓVEL 17;matrícula 96568
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 1;matricula 1025
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 2;matrícula 2319
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 3;matrícula 2396
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 4;matrícula 3533
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 5;matrícula 3574
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 6;matrícula 5384
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 7;matrícula6232
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 8;matrícula 10834
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 9;matrícula 12360
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 10;matrícula 12843
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 11;matrícula 15240
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 12;matrícula 16261
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 13;matrícula 16408
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 14;matrícula 45793
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 15;matrícula 52563
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 16;matrícula 94352
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 17;matrícula 96568
 41.650.319/0001-40;2024-03-28;1;IMÓVEL 52.563;MATRICULA 52562
 41.650.319/0001-40;2024-06-28;2;IMÓVEL 52.563;MATRICULA 52562
+41.650.319/0001-40;2024-09-30;1;IMÓVEL 52.563;MATRICULA 52562
 41.776.296/0001-14;2024-03-28;1;Imóvel 1;matrícula 84383
 41.776.296/0001-14;2024-03-28;1;Imóvel 2;matrícula 182367
 41.776.296/0001-14;2024-03-28;1;Imóvel 3;matrícula 182363
@@ -3713,6 +4005,11 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 42.031.201/0001-04;2024-06-28;2;Imóvel Barueri;MATRICULA 51.564
 42.031.201/0001-04;2024-06-28;2;móvel Barueri  (POWER);MATRÍCULA 17.477
 42.031.201/0001-04;2024-06-28;2;Imóvel Barra da Tijuca;MATRÍCULA 195.530
+42.031.201/0001-04;2024-09-30;1;Terreno Butantã;MATRICULA 177.900 ( lotes 14, 15 e 16 da quadra 14)
+42.031.201/0001-04;2024-09-30;1;Imóvel Vila leopoldina;MATRICULA 38.035
+42.031.201/0001-04;2024-09-30;1;Imóvel Barueri;MATRICULA 51.564
+42.031.201/0001-04;2024-09-30;1;móvel Barueri  (POWER);MATRÍCULA 17.477
+42.031.201/0001-04;2024-09-30;1;Imóvel Barra da Tijuca;MATRÍCULA 195.530
 42.273.290/0001-97;2024-03-28;1;DONA DELFINA;Avenida Macaranã, nº 1273, Freguesia do Engenho Velho - Rio de Janeiro - RJ
 42.273.290/0001-97;2024-06-30;2;DONA DELFINA;Avenida Macaranã, nº 1273, Freguesia do Engenho Velho - Rio de Janeiro - RJ
 42.273.290/0001-97;2024-09-30;1;DONA DELFINA;Avenida Macaranã, nº 1273, Freguesia do Engenho Velho - Rio de Janeiro - RJ
@@ -3750,6 +4047,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 42.592.868/0001-78;2024-03-31;1;N/A;N/A
 42.592.868/0001-78;2024-06-30;1;N/A;N/A
 42.592.868/0001-78;2024-09-30;1;N/A;N/A
+42.592.916/0001-28;2024-09-30;1;informação não apresentada;informação não apresentada
 42.754.342/0001-47;2024-03-28;1;-;-
 42.754.342/0001-47;2024-06-28;1;-;-
 42.754.342/0001-47;2024-09-30;1;-;-
@@ -3758,6 +4056,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 42.869.892/0001-01;2024-09-30;1;FONSECA RODRIGUES- 50.218 - 10º RI;N/A
 42.922.127/0001-08;2024-03-31;1;GALPÃO ITAPEVI/ SP;Contrato de locação típico, com prazo de 7 (sete) anos, necessodadede aviso prévio de 12  para rescisão contratual pelo locatário, multa rescisória de 13 (treze) alugueis proporcionais, índice de reajuste pelo IPCA.
 42.922.127/0001-08;2024-06-30;1;GALPÃO ITAPEVI/ SP;Contrato de locação típico, com prazo de 7 (sete) anos, necessodadede aviso prévio de 12  para rescisão contratual pelo locatário, multa rescisória de 13 (treze) alugueis proporcionais, índice de reajuste pelo IPCA.
+42.922.127/0001-08;2024-09-30;2;GALPÃO ITAPEVI/ SP;Contrato de locação típico, com prazo de 7 (sete) anos, necessodadede aviso prévio de 12 para rescisão contratual pelo locatário, multa rescisória de 13 (treze) alugueis proporcionais, índice de reajuste pelo IPCA.
 43.009.610/0001-69;2024-03-31;1;Shopping Plaza Sul;Não possui caracteristicas que destoem dos demais.
 43.009.610/0001-69;2024-06-30;1;Shopping Plaza Sul;Não possui caracteristicas que destoem dos demais.
 43.009.610/0001-69;2024-09-30;1;Shopping Plaza Sul;Não possui caracteristicas que destoem dos demais
@@ -3772,6 +4071,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 43.010.844/0001-26;2024-09-30;1;Edifico Aurora;Não possui caracteristicas que destoem dos demais
 43.101.312/0001-02;2024-03-28;1;EDÍFICIO MANSÃO RONCALLI;APT 201, APT 202, APT 204, APT 101, APT 102, APT 103, APT 12
 43.101.312/0001-02;2024-06-28;1;EDÍFICIO MANSÃO RONCALLI;APT 201, APT 202, APT 204, APT 101, APT 102, APT 103, APT 12
+43.101.312/0001-02;2024-09-30;1;EDÍFICIO MANSÃO RONCALLI;APT 201, APT 202, APT 204, APT 101, APT 102, APT 103, APT 12
 43.164.799/0001-64;2024-03-28;1;NA;NA
 43.164.799/0001-64;2024-06-30;1;NA;NA
 43.164.799/0001-64;2024-09-30;1;NA;NA
@@ -3819,6 +4119,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 43.740.825/0001-55;2024-06-28;1;IMÓVEL FRANCO ROCHA;0
 43.740.825/0001-55;2024-06-28;1;IMÓVEL MAUÁ SP;matrículas de nº 65.405, 65.406 e 65.407
 43.740.825/0001-55;2024-06-28;1;IMÓVEL VALINHOS SP;transcrição nº 19.439 e matrículas de nº 2.694 e 2.693
+43.740.825/0001-55;2024-09-30;1;IMÓVEL FRANCO ROCHA;0
+43.740.825/0001-55;2024-09-30;1;IMÓVEL MAUÁ SP;matrículas de nº 65.405, 65.406 e 65.407
+43.740.825/0001-55;2024-09-30;1;IMÓVEL VALINHOS SP;transcrição nº 19.439 e matrículas de nº 2.694 e 2.693
 43.790.197/0001-12;2024-03-31;1;.;.
 43.790.197/0001-12;2024-06-30;1;.;.
 43.790.197/0001-12;2024-09-30;1;.;.
@@ -3848,10 +4151,12 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 43.951.970/0001-85;2024-09-30;1;N/A;N/A
 44.002.561/0001-03;2024-03-31;1;Não se aplica;
 44.002.561/0001-03;2024-06-30;1;Não se aplica;
-44.002.561/0001-03;2024-09-30;1;Não se aplica;
+44.002.561/0001-03;2024-09-30;2;Não se aplica;
 44.514.162/0001-13;2024-03-31;1;-;-
 44.514.162/0001-13;2024-06-30;1;-;-
+44.514.162/0001-13;2024-09-30;1;-;-
 44.527.494/0001-32;2024-06-30;1;-;-
+44.527.494/0001-32;2024-09-30;1;-;-
 44.625.694/0001-28;2024-03-31;1;Fazenda Xingu (Matrícula 22.874);Não possui características que destoem dos demais
 44.625.694/0001-28;2024-03-31;1;Fazenda Xingu I (Matrícula 22.875);Não possui características que destoem dos demais
 44.625.694/0001-28;2024-03-31;1;Fazenda Xingu II (Matrícula 14.782);Não possui características que destoem dos demais
@@ -3874,6 +4179,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 44.669.674/0001-59;2024-06-30;1;Informação não apresentada;
 44.669.674/0001-59;2024-09-30;1;Informação não apresentada.;
 44.674.528/0001-11;2024-06-30;1;Não há informação apresentada;Não há informação apresentada
+44.674.528/0001-11;2024-09-30;1;Não há informação apresentada;Não há informação apresentada
 44.683.052/0001-85;2024-03-31;1;N/A;N/A
 44.683.052/0001-85;2024-03-31;1;N/A;N/A
 44.683.052/0001-85;2024-03-31;1;N/A;N/A
@@ -3910,11 +4216,21 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 44.683.052/0001-85;2024-09-30;1;N/A;N/A
 44.683.052/0001-85;2024-09-30;1;N/A;N/A
 44.683.052/0001-85;2024-09-30;1;N/A;N/A
+44.705.818/0001-85;2024-09-30;1;IMÓVEL BARRA FUNDA;MATRICULA 108.652
+44.705.818/0001-85;2024-09-30;1;IMÓVEL BOM RETIRO;MATRICULA 13.695, 28.933, 36.382, 96.514
+44.705.818/0001-85;2024-09-30;1;IMÓVEL PORTO ALEGRE;MATRICULA 88.926
+44.705.818/0001-85;2024-09-30;1;IMÓVEL UBERLANDIA;MATRICULA 21.400
 44.728.452/0001-60;2024-03-28;1;GALPÃO LOGÍSTICO;GALPÃO LOGÍSTICO
 44.728.452/0001-60;2024-06-28;1;MOOCA 1;Matricula 39946
 44.728.452/0001-60;2024-06-28;1;MOOCA 2;Matricula 39945
+44.728.452/0001-60;2024-09-30;1;MOOCA 1;Matricula 39946
+44.728.452/0001-60;2024-09-30;1;MOOCA 2;Matricula 39945
 44.728.520/0001-90;2024-03-28;2;FAZENDA BOA VISTA;Matrícula 61.349
 44.728.520/0001-90;2024-06-28;1;FAZENDA BOA VISTA;Matrícula 61.349
+44.728.520/0001-90;2024-09-30;1;FAZENDA BOA VISTA;Avenida 07, nº 2 quadra 48, Indataiatuba, Porto Feliz/SP
+44.728.520/0001-90;2024-09-30;1;APT 31;Rua Professor Artur Ramos, 422
+44.728.520/0001-90;2024-09-30;1;EDIFICIO SAINT PAUL;Rua Frederic Chopin, nº 215
+44.728.520/0001-90;2024-09-30;1;IMÓVEL RUA CUBA;Rua Cuba, 211
 45.063.985/0001-32;2024-03-31;1;Timon/Ma;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
 45.063.985/0001-32;2024-03-31;1;Sousa/PB;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
 45.063.985/0001-32;2024-03-31;1;Jacobina;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
@@ -3955,6 +4271,27 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 45.063.985/0001-32;2024-06-30;1;N SRA SABARA;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
 45.063.985/0001-32;2024-06-30;1;Paroquia;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
 45.063.985/0001-32;2024-06-30;1;Sto Andre;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;ABILIO SOARE;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;ALMANARA;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;ANGELICA;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;ANTARES;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;BUZIOS;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;CAJAZEIRAS;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;CAMP PROENCA;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;COITE;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;GOIANIA FLAM;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;ITABUNA/BA;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;JACOBINA/BA;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;L02 NORTE;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;LAGO NORTE;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;LEOPOLDINA;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;MACEIO;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;N SRA SABARA;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;PAROQUIA;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;SOUSA/PB;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;STOANDRE;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;TIMON/MA;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
+45.063.985/0001-32;2024-09-30;1;VIT CONQUIST;Contratos de locação BTS, com prazo de 25 anos, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA.
 45.105.676/0001-88;2024-03-31;1;N/A;N/A
 45.105.676/0001-88;2024-06-30;1;N/A;N/A
 45.105.676/0001-88;2024-09-30;1;N/A;N/A
@@ -3975,12 +4312,15 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 45.123.401/0001-77;2024-09-30;1;N/A;N/A
 45.123.465/0001-78;2024-03-31;2;Não há;Não hà
 45.123.465/0001-78;2024-06-30;2;Não há;Não hà
+45.123.465/0001-78;2024-09-30;1;Não há;Não hà
 45.123.558/0001-00;2024-03-31;2;N/A;N/A
 45.123.558/0001-00;2024-06-30;2;N/A;N/A
 45.254.732/0001-46;2024-03-31;1;IMOVEL I FAZENDA N. SR SOCORRO;Contrato de compra e venda
 45.254.732/0001-46;2024-03-31;1;IMOVEL II;Imovel adquirido em leilão
 45.254.732/0001-46;2024-06-30;1;IMOVEL I FAZENDA N. SR SOCORRO;Contrato de compra e venda
 45.254.732/0001-46;2024-06-30;1;IMOVEL II;Imovel adquirido em leilão
+45.254.732/0001-46;2024-09-30;1;IMOVEL I FAZENDA N. SR SOCORRO;Contrato de compra e venda
+45.254.732/0001-46;2024-09-30;1;IMOVEL II;Imovel adquirido em leilão
 45.727.531/0001-19;2024-03-31;1;JK Tower B II (20%);n/a
 45.727.531/0001-19;2024-06-30;1;JK Tower B II (20%);n/a
 45.727.531/0001-19;2024-09-30;1;JK Tower B II (20%);n/a
@@ -3990,6 +4330,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 46.027.189/0001-07;2024-09-30;1;nda;nda
 46.078.492/0001-39;2024-03-28;1;SUÍTE 1640 CID MATARAZZO;Matrícula n° 190.798
 46.965.606/0001-62;2024-03-28;1;IMÓVEL TUPYNAMBÁS;Matrícula 36.476
+46.965.606/0001-62;2024-09-30;1;Imóvel Tupynambás;Matricula 36.476
 47.154.849/0001-83;2024-03-28;1;SKY_1409;Não possui características relevantes individualizadas.
 47.154.849/0001-83;2024-06-28;1;SKY_1409;Não possui características relevantes individualizadas.
 47.896.665/0001-99;2024-03-31;1;Catarina Fashion Outlet;Não possui caracteristicas que destoem dos demais
@@ -4005,6 +4346,13 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 47.896.665/0001-99;2024-06-30;1;Shopping Praia das Belas;Não possui caracteristicas que destoem dos demais
 47.896.665/0001-99;2024-06-30;1;I Fashion Outlet Novo Hamburgo;Não possui caracteristicas que destoem dos demais
 47.896.665/0001-99;2024-06-30;1;Shopping Iguatemi Alphaville;Não possui caracteristicas que destoem dos demais
+47.896.665/0001-99;2024-09-30;1;Catarina Fashion Outlet;Não possui caracteristicas que destoem dos demais
+47.896.665/0001-99;2024-09-30;1;Iguatemi Bosque Shopping - Fortaleza;Não possui caracteristicas que destoem dos demais
+47.896.665/0001-99;2024-09-30;1;Shopping Metro Tatuape;Não possui caracteristicas que destoem dos demais
+47.896.665/0001-99;2024-09-30;1;Shopping Metro Boulevard Tatuape;Não possui caracteristicas que destoem dos demais
+47.896.665/0001-99;2024-09-30;1;Shopping Praia das Belas;Não possui caracteristicas que destoem dos demais
+47.896.665/0001-99;2024-09-30;1;I Fashion Outlet Novo Hamburgo;Não possui caracteristicas que destoem dos demais
+47.896.665/0001-99;2024-09-30;1;Shopping Iguatemi Alphaville;Não possui caracteristicas que destoem dos demais
 48.565.175/0001-72;2024-03-31;1;Fazenda Tabuleiro I - C (Matrícula 5.372);Não possui características que destoem dos demais
 48.565.175/0001-72;2024-03-31;1;Fazenda Tabuleiro I- D (Matrícula 5.373);Não possui características que destoem dos demais
 48.565.175/0001-72;2024-03-31;1;Fazenda Tabuleiro I-E (Matrícula 5.374);Não possui características que destoem dos demais
@@ -4067,6 +4415,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 48.978.859/0001-04;2024-03-31;1;CVRD Aguas Claras - Bloco IV;Não possui caracteristicas que destoem dos demais
 48.978.859/0001-04;2024-06-30;2;Edificio Passeio Corporate;Não possui caracteristicas que destoem dos demais
 48.978.859/0001-04;2024-06-30;2;CVRD Aguas Claras - Bloco IV;Não possui caracteristicas que destoem dos demais
+48.978.859/0001-04;2024-09-30;1;Edificio Passeio Corporate;Não possui caracteristicas que destoem dos demais
+48.978.859/0001-04;2024-09-30;1;CVRD Aguas Claras - Bloco IV;Não possui caracteristicas que destoem dos demais
 48.984.698/0001-53;2024-03-31;1;.;.
 48.984.698/0001-53;2024-06-30;1;.;.
 48.984.698/0001-53;2024-09-30;1;.;.
@@ -4153,6 +4503,13 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 50.117.874/0001-00;2024-09-30;1;Barão do Rio Branco;Não possui caracteristicas que destoem dos demais.
 50.117.874/0001-00;2024-09-30;1;Pedro Pereira;Não possui caracteristicas que destoem dos demais.
 50.117.874/0001-00;2024-09-30;1;São Paulo;Não possui caracteristicas que destoem dos demais.
+50.180.894/0001-17;2024-09-30;1;sem informação apresentada;sem informação apresentada
+50.252.286/0001-70;2024-09-30;1;CHANÉS;MATRÍCULA nº 74.339
+50.252.286/0001-70;2024-09-30;1;MARACATINS;MATRÍCULA 38.842
+50.252.286/0001-70;2024-09-30;1;BUTANTA;matricula 256485, 256486, 256487
+50.252.286/0001-70;2024-09-30;1;SANTO AMARO;.
+50.252.286/0001-70;2024-09-30;1;SANTO AMARO;MATRÍCULA 55.259, 162.095, 55260,162.248)
+50.252.286/0001-70;2024-09-30;1;MARACATINS;MATRÍCULAS (74.339, 205.704, 206.497, 206.334, 126.593, 50.179, 38.842)
 50.375.550/0001-63;2024-03-28;1;CHANÉS;MATRÍCULA nº 74.339
 50.375.550/0001-63;2024-03-28;1;MARACATINS;MATRÍCULA 38.842
 50.375.550/0001-63;2024-03-28;1;BUTANTA;matricula 256485, 256486, 256487
@@ -4165,6 +4522,15 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 50.375.550/0001-63;2024-06-28;1;SANTO AMARO;.
 50.375.550/0001-63;2024-06-28;1;SANTO AMARO;MATRÍCULA 55.259, 162.095, 55260,162.248)
 50.375.550/0001-63;2024-06-28;1;MARACATINS;MATRÍCULAS (74.339, 205.704, 206.497, 206.334, 126.593, 50.179, 38.842)
+50.375.550/0001-63;2024-09-30;1;APT 111 DUPLEX;MATRICULA 76.329
+50.375.550/0001-63;2024-09-30;1;APTOCAFE11;APTO 11  BARÃO DO CAFÉ
+50.375.550/0001-63;2024-09-30;1;BARÃO CAFÉ 81;APTO81  EDIFICIO BARÃO DO CAFÉ
+50.375.550/0001-63;2024-09-30;1;BOM JESUS;IMOVEL
+50.375.550/0001-63;2024-09-30;1;DUPLEX ALTO;APTO DUPLEX ALTO DE PIRACICABA
+50.375.550/0001-63;2024-09-30;1;EQUADOR;CONDOMÍNIO
+50.375.550/0001-63;2024-09-30;1;RA210623;MATRICULA 109.636
+50.375.550/0001-63;2024-09-30;1;RA260523;MATRICULA 120.722
+50.375.550/0001-63;2024-09-30;1;TERRAS DE SÃO CARLOS;CASA JUNDIAÍ
 50.479.122/0001-80;2024-03-31;1;LOG RECIFE;Não possui caracteristicas que destoem dos demais
 50.479.122/0001-80;2024-03-31;1;LOG GOIANIA;Não possui caracteristicas que destoem dos demais
 50.479.122/0001-80;2024-03-31;1;LOG FORTALEZA II;Não possui caracteristicas que destoem dos demais
@@ -4205,6 +4571,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 50.876.919/0001-11;2024-06-28;1;SANTO AMARO;.
 50.876.919/0001-11;2024-06-28;1;SANTO AMARO;MATRÍCULA 55.259, 162.095, 55260,162.248)
 50.876.919/0001-11;2024-06-28;1;MARACATINS;MATRÍCULAS (74.339, 205.704, 206.497, 206.334, 126.593, 50.179, 38.842)
+50.918.320/0001-01;2024-09-30;1;Informação não apresentada;Informação não apresentada
 50.939.923/0001-81;2024-03-31;1;.;.
 50.939.923/0001-81;2024-06-30;1;.;.
 50.939.923/0001-81;2024-09-30;1;.;.
@@ -4224,11 +4591,13 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 51.295.092/0001-15;2024-09-30;1;n/a;n/a
 51.326.818/0001-30;2024-03-31;1;Jaunas;Imóvel locado pela TRISUL
 51.326.818/0001-30;2024-06-30;1;Jaunas;Imóvel locado pela TRISUL
+51.326.818/0001-30;2024-09-30;1;Informação não apresentada;Informação não apresentada
 51.381.999/0001-05;2024-03-31;1;.;.
 51.381.999/0001-05;2024-06-30;1;.;.
 51.381.999/0001-05;2024-09-30;1;.;.
 51.385.174/0001-50;2024-03-31;1;-;-
 51.385.174/0001-50;2024-06-30;1;-;-
+51.385.174/0001-50;2024-09-30;1;-;-
 51.392.366/0001-94;2024-03-28;1;GALPÃO LOGÍSTICO;GALPÃO LOGÍSTICO
 51.407.683/0001-37;2024-03-31;1;.;.
 51.407.683/0001-37;2024-06-30;1;.;.
@@ -4236,8 +4605,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 51.416.131/0001-95;2024-03-31;1;.;.
 51.416.131/0001-95;2024-06-30;1;.;.
 51.416.131/0001-95;2024-09-30;1;.;.
+51.472.985/0001-99;2024-09-30;2;N/A;N/A
 51.666.294/0001-26;2024-03-31;1;Condominio E-Tower Sao Paulo;Não possui caracteristicas que destoem dos demais
 51.666.294/0001-26;2024-06-30;1;Condominio E-Tower Sao Paulo;Não possui caracteristicas que destoem dos demais
+51.666.294/0001-26;2024-09-30;1;Condominio E-Tower Sao Paulo;Não possui caracteristicas que destoem dos demais
 51.672.980/0001-00;2024-03-31;1;.;.
 51.672.980/0001-00;2024-06-30;1;.;.
 51.672.980/0001-00;2024-09-30;1;.;.
@@ -4246,6 +4617,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 51.889.479/0001-08;2024-06-30;1;KLOPSCH;N/A
 51.889.479/0001-08;2024-09-30;1;FINKLER;0
 51.889.479/0001-08;2024-09-30;1;KLOPSCH;0
+51.890.054/0001-00;2024-09-30;1;GALPÃO CAJAMAR;Contrato de locação típico, com necessidadede aviso prévio de 12 para rescisão contratual pelo locatário, multa rescisória proporcionais, índice de reajuste pelo IPCA.
 52.219.978/0001-42;2024-03-28;1;.;.
 52.219.978/0001-42;2024-06-28;1;-;-
 52.219.978/0001-42;2024-09-30;1;-;-
@@ -4264,6 +4636,20 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 52.321.885/0001-24;2024-03-28;2;Imovel 13;MATRÍ 1.993
 52.321.885/0001-24;2024-03-28;2;Imovel 14;MATRÍ 17.606
 52.321.885/0001-24;2024-03-28;2;Imovel 15;MATRÍ 63.975
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 1;FAZENDA DA CACHOEIRINHA - ESMERALDAS/MG
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 2;FAZENDA COROA GRANDE - PARÁ DE MINAS/MG
+52.321.885/0001-24;2024-09-30;1;IMOVEL 3;AV. OLYNTHO ALMADA, SN - ASTOLFO DUTRA/MG
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 4;PRAÇA ATÍLIO BONFANTE, N117 - ASTOLFO DUTRA/MG
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 5;FAZENDA DAS TABOCAS - AREA REMANESCENTE
+52.321.885/0001-24;2024-09-30;1;IMOVEL 6;AVENIDA PREFEITO TELÉSFORO CANDIDO DE REZENDE, 142 - AVENIDA TOWER CENTER
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 7;AVENIDA PREFEITO TELÉSFORO CANDIDO DE REZENDE, 142 - AVENIDA TOWER CENTER
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 8;AVENIDA COMENDADOR JACINTO SOARES DE SOUZA LIMA
+52.321.885/0001-24;2024-09-30;1;IMOVEL 9;RUA ANTONIO CIMINI, 84
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 10;SÍTIO BOA VISTA - GUARANI/MG
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 11;BRASILIA 664
+52.321.885/0001-24;2024-09-30;1;IMOVEL 12;Estada Fazenda Tabocas, s/N
+52.321.885/0001-24;2024-09-30;1;IMOVEL 13;VESPA ÁREA 802 - 494
+52.321.885/0001-24;2024-09-30;1;IMOVEL 14;Vespasiano - 640
 52.353.292/0001-40;2024-03-31;1;Shopping Patio Maceio;Não possui caracteristicas que destoem dos demais
 52.353.292/0001-40;2024-06-30;1;Shopping Patio Maceio;Não possui caracteristicas que destoem dos demais
 52.353.292/0001-40;2024-09-30;1;Shopping Patio Maceio;Não possui caracteristicas que destoem dos demais
@@ -4302,8 +4688,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 52.889.976/0001-60;2024-09-30;1;N/A;N/A
 52.889.976/0001-60;2024-09-30;1;N/A;N/A
 52.889.976/0001-60;2024-09-30;1;N/A;N/A
+52.890.292/0001-89;2024-09-30;1;Sem informação apresentada;Sem informação apresentada
 53.072.782/0001-30;2024-03-31;1;-;-
 53.072.782/0001-30;2024-06-30;1;-;-
+53.072.782/0001-30;2024-09-30;1;-;-
 53.076.746/0001-45;2024-03-31;2;N/A;N/A
 53.076.746/0001-45;2024-06-30;1;N/A;N/A
 53.076.746/0001-45;2024-09-30;1;N/A;N/A
@@ -4327,6 +4715,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 53.193.237/0001-00;2024-03-31;1;.;.
 53.193.237/0001-00;2024-06-30;1;.;.
 53.193.237/0001-00;2024-09-30;1;.;.
+53.251.006/0001-06;2024-09-30;1;INSIDEVNC;Contrato de locação típico, com necessidadede aviso prévio de 12 para rescisão contratual pelo locatário, multa rescisória proporcionais, índice de reajuste pelo IPCA
 53.309.565/0001-11;2024-03-31;1;Imovel Rio de Janeiro - Centro Empresarial Barra;Não possui caracteristicas que destoem dos demais
 53.309.565/0001-11;2024-03-31;1;Imovel Santo Andre - Hospital Next;Não possui caracteristicas que destoem dos demais
 53.309.565/0001-11;2024-03-31;1;Imovel Sao Paulo - Hospital Paulistano;Não possui caracteristicas que destoem dos demais
@@ -4338,6 +4727,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 53.372.824/0001-59;2024-06-30;1;n/a;n/a
 53.372.824/0001-59;2024-09-30;1;n/a;n/a
 53.466.467/0001-98;2024-06-30;1;-;-
+53.466.467/0001-98;2024-09-30;1;-;-
 53.656.482/0001-07;2024-03-31;1;Cidade Jardim;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
 53.656.482/0001-07;2024-03-31;1;Paulista;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
 53.656.482/0001-07;2024-03-31;1;Transatlantico;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
@@ -4348,6 +4738,12 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 53.656.482/0001-07;2024-06-30;1;Transatlantico;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
 53.656.482/0001-07;2024-06-30;1;Volkwagem;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
 53.656.482/0001-07;2024-06-30;1;Burity;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
+53.656.482/0001-07;2024-09-30;1;BURITY;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
+53.656.482/0001-07;2024-09-30;1;CID JARDIM;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
+53.656.482/0001-07;2024-09-30;1;PAULISTA;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
+53.656.482/0001-07;2024-09-30;1;TRANSATLANT;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
+53.656.482/0001-07;2024-09-30;1;VOLKSWAGEN;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
+54.045.925/0001-88;2024-09-30;1;IMÓVEL 1 (TIVIO RENDA IMOBILIARIA);AVENIDA RANGEL PESTANA, Nº2.128 E 2.132 - BRÁS - SÃO PAULO/SP
 54.064.962/0001-33;2024-03-31;1;.;.
 54.064.962/0001-33;2024-06-30;1;.;.
 54.064.962/0001-33;2024-09-30;1;.;.
@@ -4356,21 +4752,76 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 54.275.309/0001-13;2024-06-30;1;.;.
 54.275.309/0001-13;2024-09-30;1;.;.
 54.386.365/0001-25;2024-03-28;1;GALPÃO LOGÍSTICO;GALPÃO LOGÍSTICO
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 1;IGUATEMI MAT.83282
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 2;IGUATEMI MAT.83283
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 3;IGUATEMI MAT.83284
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 4;IGUATEMI MAT.83285
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 5;IGUATEMI MAT.83286
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 6;IGUATEMI MAT.83297
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 7;IGUATEMI MAT.83298
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 8;IGUATEMI MAT.83315
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 9;IGUATEMI MAT.83316
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 10;IGUATEMI MAT.83328
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 11;IGUATEMI MAT.83331
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 12;IGUATEMI MAT.83333
 54.417.489/0001-20;2024-03-28;1;GALPÃO LOGÍSTICO;GALPÃO LOGÍSTICO
 54.419.040/0001-00;2024-06-30;1;n/a;
 54.419.040/0001-00;2024-09-30;1;n/a;
 54.485.027/0001-40;2024-03-28;1;GALPÃO LOGÍSTICO;GALPÃO LOGÍSTICO
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 1;IGUATEMI MAT.83327
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 2;UNIDADE 102
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 3;UNIDADE 105
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 4;UNIDADE 111
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 5;UNIDADE 43
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 6;UNIDADE 45
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 7;UNIDADE 53
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 8;UNIDADE 61
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 9;UNIDADE 62
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 10;UNIDADE 72
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 11;UNIDADE 73
 54.557.596/0001-54;2024-06-30;1;BM 336;Não possui caracteristicas que destoem dos demais
+54.557.596/0001-54;2024-09-30;1;BM 336;Não possui caracteristicas que destoem dos demais
 54.675.539/0001-70;2024-06-28;2;MATRICULA 120012;IMOVEL PARA RENDA
 54.675.539/0001-70;2024-06-28;2;MATRICULA 120274;IMOVEL PARA RENDA
 54.675.539/0001-70;2024-06-28;2;MATRICULA 120275;IMOVEL PARA RENDA
 54.675.539/0001-70;2024-06-28;2;MATRICULA 142888;IMOVEL PARA RENDA
+54.675.539/0001-70;2024-09-30;1;MATRICULA 120012;IMOVEL PARA RENDA
+54.675.539/0001-70;2024-09-30;1;MATRICULA 120274;IMOVEL PARA RENDA
+54.675.539/0001-70;2024-09-30;1;MATRICULA 120275;IMOVEL PARA RENDA
+54.675.539/0001-70;2024-09-30;1;MATRICULA 142888;IMOVEL PARA RENDA
+55.034.258/0001-09;2024-09-30;1;PAJOPINHA;Contrato de locação típico, com necessidadede aviso prévio de 12 para rescisão contratual pelo locatário, multa rescisória proporcionais, índice de reajuste pelo IPCA.
+55.296.764/0001-68;2024-09-30;1;Fazenda Tabuleiro I - C (Matrícula 5.372);Não possui características que destoem dos demais
+55.296.764/0001-68;2024-09-30;1;Fazenda Tabuleiro I- D (Matrícula 5.373);Não possui características que destoem dos demais
+55.296.764/0001-68;2024-09-30;1;Fazenda Tabuleiro I-E (Matrícula 5.374);Não possui características que destoem dos demais
+55.296.764/0001-68;2024-09-30;1;Fazenda Tabuleiro I-F (Matrícula 5.375);Não possui características que destoem dos demais
+55.296.764/0001-68;2024-09-30;1;Fazenda Tabuleiro IV (Matrícula 5.378);Não possui características que destoem dos demais
+55.296.764/0001-68;2024-09-30;1;Fazenda Tabuleiro V (Matrícula 5.379);Não possui características que destoem dos demais
+55.296.764/0001-68;2024-09-30;1;Gleba-V-A-1 (Matrícula 14.061);Não possui características que destoem dos demais
+55.296.764/0001-68;2024-09-30;1;QUINHÃO  nº 01 - V-A-3 (Matrícula 14.059);Não possui características que destoem dos demais
+55.296.764/0001-68;2024-09-30;1;GLEBA V-A-2 (Matrícula 14.058);Não possui características que destoem dos demais
+55.296.764/0001-68;2024-09-30;1;GLEBA V-A-4 (Matrícula 14.060);Não possui características que destoem dos demais
+55.296.764/0001-68;2024-09-30;1;FAZENDA NATAL (Matrícula 14.070);Não possui características que destoem dos demais
+55.296.764/0001-68;2024-09-30;1;FAZENDA BEIRA LAGO I (Matrícula 14.068);Não possui características que destoem dos demais
+55.296.764/0001-68;2024-09-30;1;FAZENDA BEIRA LAGO II (Matrícula 14.069);Não possui características que destoem dos demais
 55.314.110/0001-10;2024-06-30;1;SHOPPING PARQUE DOM PEDRO II;Não possui caracteristicas que destoem dos demais
+55.314.110/0001-10;2024-09-30;1;SHOPPING PARQUE DOM PEDRO;Não possui caracteristicas que destoem dos demais
 55.314.271/0001-03;2024-06-30;1;Imovel Santo Andre - Hospital Next;Não possui caracteristicas que destoem dos demais
+55.314.271/0001-03;2024-09-30;1;Imovel Santo Andre - Hospital Next;Não possui caracteristicas que destoem dos demais
 55.315.760/0001-80;2024-06-30;1;SHOPPING PARQUE DOM PEDRO II;Não possui caracteristicas que destoem dos demais
+55.315.760/0001-80;2024-09-30;1;SHOPPING PARQUE DOM PEDRO;Não possui caracteristicas que destoem dos demais
 55.346.193/0001-29;2024-09-30;1;.;.
 55.987.139/0001-62;2024-09-30;1;n/a;n/a
 56.008.757/0001-86;2024-09-30;1;.;.
 56.414.379/0001-30;2024-09-30;1;NA;NA
 56.524.816/0001-79;2024-09-30;1;GALPÃO;ficará sujeita à incidência de correção monetária (calculada com base no índice acumulado do IGP-M), juros de 1% (um por cento) ao mês, calculado "pro rata die", multa de 3,00% (três por cento)
+56.849.012/0001-40;2024-09-30;1;APT 123;EDIFICIO RIO NEGRO
 56.978.773/0001-00;2024-09-30;1;N/A;
+57.054.672/0001-05;2024-09-30;1;IMÓVEL 1;GETULIO VARGAS 291
+57.216.258/0001-47;2024-09-30;1;N/A;N/A
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 1;MATRICULA 24.229
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 2;MATRICULA 24.230
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 3;MATRICULA 24.232
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 4;MATRICULA 24.233
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 5;MATRICULA 24.234
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 6;MATRICULA 24.235
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 7;MATRICULA 24.236

@@ -73,6 +73,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numer
 15.576.907/0001-70;2024-06-30;2;CAPAO REDONDO - ESTR ITAPECIRICA;Estrada de Itapecerica, 3.429;2024-06-05;1448.48;1;n-a;0.0101874057258226;0.00858317264485711
 15.576.907/0001-70;2024-06-30;2;AV IMIRIM - MATRICULA 87525;Av. Imirim, 1.271;2024-06-13;1384.34;1;n-a;0.00588410503129409;0.00495752213108126
 15.576.907/0001-70;2024-06-30;2;PQ DO CARMO - MATRICULA 299785;Av. Maria Luiza Americano, 1688;2024-06-13;912;1;n-a;0.00298596374722387;0.00251575749935467
+15.576.907/0001-70;2024-09-30;1;Coco Bambu - Haddock Lobo - São Paulo/SP (PARC 1/6);Rua Haddock Lobo, 1573, Jardins;2024-08-05;1365;1;n-a;0.005737;0.004747
 16.671.412/0001-93;2024-03-31;1;Multimodal D Caxias;Avenida Ol 03, 200 - Duque de Caxias - RJ;2024-01-26;44131;22;n/a;0.346462082426681;0.223931947642289
 16.671.412/0001-93;2024-03-31;1;Multimodal D Caxias - Pátio;Avenida Ol 03, 200 - Duque de Caxias - RJ;2024-01-26;52040.27;1;n/a;0.0880559051076694;0.0702531600446397
 17.007.443/0001-07;2024-03-31;1;Sede Administrativa Fleury - Jabaquara;Avenida General Valdomiro De Lima, 508, Sem Complemento, Jabaquara, Sao Paulo/SP, Brasil, 04344-070;2024-03-13;9862;1;Direito de Propriedade;0.16932562263116;0.16952847036907
@@ -331,6 +332,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numer
 36.501.159/0001-37;2024-09-30;1;PREDIO COMERCIAL DECATHLON GOIANIA, GOIAS;Avenida I, número 208, Quadra B-37, Lote 02, bairro Jardim Goiás, CEP 74810-075, da cidade de Goiânia, Estado de Goiás;2024-08-20;8241;1;Loja em dois pavimentos, com estacionamento descoberto e coberto com  240 vagas;1;0.1984
 36.501.159/0001-37;2024-09-30;1;PREDIO COMERCIAL DECATHLON JOINVILLE, SANTA CATARINA;Rua XV de novembro, número 2.805, bairro Glória, CEP 89216-201, da cidade de Joinville, Estado de Santa Catarina;2024-08-20;2345.11;1;Loja Terrea, com estacionamento descoberto com 180 vagas;1;0.089
 36.501.159/0001-37;2024-09-30;1;PREDIO COMERCIAL DECATHLON CAMPINAS, SÃO PAULO;Avenida Adhemar Ferreira da Silva, s/n, Trevo da Rodovia Dom Pedro I (SP-065), Km 129, Vila Brandina, na Cidade de Campinas, Estado de São Paulo;2024-08-20;5582.44;1;Loja terrea com estacionamento descoberto  com 450 vagas;1;0.284
+36.517.660/0001-91;2024-09-30;1;Urbic Vila Mariana;Rua Dr. Tomás Alves, 172 e 184, Vila Mariana, São Paulo - SP;2024-09-30;19.8;1;n-a;0.00447;0.002007
+36.517.660/0001-91;2024-09-30;1;Cyrela for you;Rua Apeninos, 973, Paraíso, São Paulo - SP;2024-09-30;274.5;9;n-a;0.030726;0.023851
 38.456.508/0001-71;2024-09-30;1;EDIFICIO BELLA;Avenida Jk, S/n, Quadra 38, Lote S/l, Jardim America, Itumbiara/GO, Brasil, 75523-425;2024-09-29;4785.6;6;Não possui caracteristicas que destoem dos demais;0.05359182208376;5.37727840688782
 40.054.838/0001-82;2024-06-30;2;285172;Alameda Jauaperi 975 - 22;2024-05-22;161;1;;;
 40.054.838/0001-82;2024-06-30;2;196479;Rua Aracaju 137 - 51;2024-05-06;200;1;;;
@@ -526,6 +529,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numer
 47.154.849/0001-83;2024-09-30;1;Nex4_01;Av Chácara das Nascentes, s/n;2024-07-24;183.3;19;Nenhuma característica relevante;0.003385;0.0036
 47.154.849/0001-83;2024-09-30;1;Nex6_03;Av Chácara das Nascentes, s/n;2024-08-05;212.7;20;Nenhuma característica relevante;0.003385;0.0036
 49.553.783/0001-20;2024-06-30;1;Vista Madalena, By You, Inc;Rua Senador Cesar Lacerda Vergueiro, n.º 534, Vila Madalena - São Paulo - SP;2024-05-06;70.36;1;N/a;0.14;0.0073
+50.375.550/0001-63;2024-09-30;1;TAMBORÉ;Alameda Japão, 137, Tamboré 2, Santana de Parnaíba/SP;2024-07-19;906.2;1;MATRICULA 129.447;0;0
 50.399.189/0001-05;2024-09-30;1;RESIDENCIAL HELBOR B LIV - FIII UNIDADES AUTÔNOMAS;N/A;2024-08-05;50.024;1;N/A;0.00304772816292596;0.0025829864618323
 50.399.189/0001-05;2024-09-30;1;RESIDENCIAL HELBOR B LIV - FIII UNIDADES AUTÔNOMAS;N/A;2024-07-10;50.024;1;N/A;0.00326027522871368;0.0030756854170529
 50.399.189/0001-05;2024-09-30;1;RESIDENCIAL HELBOR B LIV - FIII UNIDADES AUTÔNOMAS;N/A;2024-08-05;61.021;1;N/A;0.00396299119279733;0.00393978893246335

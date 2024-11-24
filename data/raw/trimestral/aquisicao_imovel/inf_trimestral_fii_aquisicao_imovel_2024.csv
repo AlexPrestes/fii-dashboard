@@ -70,6 +70,12 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidades;Outr
 30.846.692/0001-54;2024-06-30;1;MAT 13.628;PRACA SAENS PENA 55;201;1;LOJA A;0.16929;Renda
 30.982.974/0001-89;2024-09-30;1;Shopping Iguatemi São Carlos;Rua Passeio dos Flamboyants, nª 200 - Parque Faber Castel II - São Carlos/SP;70000.07;;Edificado sobre o Imóvel o empreendimento shopping, com área construída de 35.101,27m².;0.0564;Renda
 32.000.013/0001-57;2024-09-30;1;Bres Raposo Empreendimentos Imobiliários Ltda.;Rodovia Raposo Tavares, km 28.250, Cotia, São Paulo - SP;9756.76;1;Imóvel Industrial;;Venda
+34.691.520/0001-00;2024-09-30;1;Assai Bauru-SP;Rua General Marcondes Salgado, 8-55, Sem Complemento, Centro, Bauru/SP, Brasil, 17010-040;6912.5;1;Direito de Propriedade;0.07939011234756;Renda
+34.691.520/0001-00;2024-09-30;1;Assai Macae - RJ;Rodovia 168 E Na Estrada Linha Azul, Rodovia Rj 168, Sem Complemento, Rodovia Rj 168, Macaé/RJ, Brasil, 00027-910;14830.54;1;Direito de Propriedade;0.09366381049093;Renda
+34.691.520/0001-00;2024-09-30;1;ASSAI DOURADOS-MS;Rua Coronel Ponciano De Mattos Pereira, 785, Lote Pte Fazenda Coqueiros Do Lot. Chácara N°101, Parque Dos Jequitibás, Dourados/MS, Brasil, 79839-600;13876.35;1;Direito de Propriedade;0.06337159583834;Renda
+34.691.520/0001-00;2024-09-30;1;Assai Aracatuba-SP;Avenida Waldemar Alves, 230, Sem Complemento, São Vicente, Araçatuba/SP, Brasil, 16050-005;13189.14;1;Direito de Propriedade;0.07835927543636;Renda
+34.691.520/0001-00;2024-09-30;1;ASSAI PORTO VELHO-RO;Avenida Governador Jorge Teixeira, 3500, Sem Complemento, Aeroporto, Porto Velho/RO, Brasil, 76803-250;16085.54;1;Direito de Propriedade;0.08902873721335;Renda
+34.691.520/0001-00;2024-09-30;1;PAO DE ACUCAR AGUAS CLARAS-DF;Quadra 206, Lote 02, Praça Tuim, Sul (águas Claras), Brasília/DF, Brasil, 00071-925;5004.94;1;Direito de Propriedade;0.02320528742586;Renda
 35.652.102/0001-76;2024-03-31;2;Condominio Edificio Vera Cruz II;Rua Elvira Ferraz, 68, Sem Complemento, Vila Olímpia, São Paulo/SP, Brasil, 04552-040;21847.16;8;Não possui caracteristicas que destoem dos demais;0.149081;Renda
 35.652.102/0001-76;2024-06-30;1;Edificio Cidade Jardim;Avenida Cidade Jardim, 803, Sem Complemento, Itaim Bibi, Sao Paulo/SP, Brasil, 01453-000;6157;8;Não possui caracteristicas que destoem dos demais;0.09746735945803;Renda
 35.652.102/0001-76;2024-09-30;1;Cidade Jardim;Avenida Cidade Jardim, 803,  Itaim Bibi, Sao Paulo/SP, Brasil, 01453-000;694.91;1;Não possui caracteristicas que destoem dos demais;1;Renda
@@ -115,6 +121,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidades;Outr
 46.027.189/0001-07;2024-09-30;1;Imóvel Pompéia;Av. Pompéia, nº 973 e 985, Pompéia, São Paulo - SP;4771.86;1;Objeto da matrícula 122.779 do 2º Cartório de Registro de Imóveis da Capital do estado de São Paulo. Área de terreno: 1.393,39 m². Área construída conforme indicado no projeto aprovado:  4.771,86m².;1;Renda
 46.078.492/0001-39;2024-03-28;1;SUÍTE 1640 CID MATARAZZO;Torre Mata Atlântica do Subcondomínio Hotel de empreendimento denominado Cidade Matarazzo, Alameda Rio Claro, 190, Jardim Paulistana - SP;;1;Matrícula n° 190.798;0;Renda
 46.965.606/0001-62;2024-03-28;1;IMÓVEL TUPYNAMBÁS;Rua Delorme Louzada, 32 - Santa Tereza - Juiz de Fora / MG;19243;1;Matrícula 36.476;1;Renda
+46.965.606/0001-62;2024-09-30;1;Imóvel Tupynambás;Rua Delome Louzada, nº 32;19243;0;Bairro Santa Tereza - Juiz de Fora/MG - matricula 36.476;0.931446;Renda
 47.154.849/0001-83;2024-03-28;1;Nex2_30;Av Chácara das Nascentes, s/n;220.4;1;Nenhuma característica relevante;0.000859;Venda
 47.154.849/0001-83;2024-03-28;1;Nex8_36;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.000933;Venda
 47.154.849/0001-83;2024-03-28;1;Nex11_39;Av Chácara das Nascentes, s/n;200;1;Nenhuma característica relevante;0.000933;Venda
@@ -229,6 +236,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidades;Outr
 53.178.634/0001-03;2024-06-30;1;3140-51_5;Alameda Casa Branca, 1025, Jardim Paulista. São Paulo - SP.;199.4;1;n/a;0.292893803345109;Venda
 53.178.634/0001-03;2024-06-30;1;3140_62;Alameda Santos, 2359, Jardim Paulista. São Paulo - SP.;192.32;1;n/a;0.373019336622256;Venda
 53.372.824/0001-59;2024-03-30;1;IMÓVEL SALVADOR -;Rodovia BR-324, 13750, GL, Palestina;151000;1;MATRICULA 15040;1;Venda
+53.391.653/0001-05;2024-09-30;1;JHA Corporate Boutique;Rua Iaia, 52, Sem Complemento, Itaim Bibi, São Paulo/SP, Brasil, 04542-060;4322.18;1;Direito de Propriedade;0.16723040631246;Renda
 53.466.467/0001-98;2024-06-30;1;Centro Logístico e Industrial Salto;Rodovia Engenheiro Ermínio de Oliveira Penteado, SP-073, Salto - SP;31400;21;Centro Logístico Industrial Salto com 31.400,00m2 de área construída.;0.949731;Renda
 53.645.729/0001-81;2024-03-31;1;Hesa 156;Rua Otto Boehm - Joinville -SC;1633.7;10;na;0;Venda
 53.645.729/0001-81;2024-03-31;1;Hesa 150;Rua Funchal, nº 65, Vila Olímpia, São Paulo/SP;658.7;10;na;0;Venda
@@ -240,10 +248,23 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidades;Outr
 53.656.482/0001-07;2024-03-31;1;Burity;Avenida Indianópolis, n.º 3.096, Indianópolis, Cidade de São Paulo, Estado de São Paulo, CEP 04062-003;10550;15;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.;0.134685;Renda
 54.088.529/0001-38;2024-06-30;1;TAUBATE IMOV;Av. Charles Schenneider, 2.222. Parque Senhor Bonfim. Taubaté - SP.;704532.17;1;132.334,48 m2 de construção (galpão), Matricula n. 167.962 RGI Taubaté;1;Venda
 54.419.040/0001-00;2024-06-30;1;DAMHA 6J;Rua Irere 251  lote 6 Quadra J - Parque Residencial Damha - Araraquada SP;436.5;1;MATRICULA 101.863;1;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 105R;RUA CHANES/ALAMEDA DOS MARACATINS;131.537;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 102R;RUA CHANES/ALAMEDA DOS MARACATINS;130.828;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 61R;RUA CHANES/ALAMEDA DOS MARACATINS;139.502;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 111R;RUA CHANES/ALAMEDA DOS MARACATINS;139.502;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 72R;RUA CHANES/ALAMEDA DOS MARACATINS;130.828;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 62R;RUA CHANES/ALAMEDA DOS MARACATINS;130.828;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 43R;RUA CHANES/ALAMEDA DOS MARACATINS;134.886;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 45R;RUA CHANES/ALAMEDA DOS MARACATINS;131.537;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 53R;RUA CHANES/ALAMEDA DOS MARACATINS;134.886;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;AUTORAL MOEMA UNID. 73R;RUA CHANES/ALAMEDA DOS MARACATINS;134.886;1;UNIDADE AUTONOMA DO SETOR NÃO RESIDENCIAL;0;Renda
+54.485.027/0001-40;2024-09-30;1;IGUATEMI MAT.83327;IGUATEMI MAT.83327;0;1;MATRICULA 83327;0;Renda
 54.557.596/0001-54;2024-06-30;1;BM 336;Avenida Bartolomeu Mitre, 336, Sem Complemento, Leblon, Rio De Janeiro/RJ, Brasil, 22431-002;6830.66;1;Não possui caracteristicas que destoem dos demais;0.96120286673386;Renda
 55.177.440/0001-00;2024-09-30;1;153.915;Olhos D'agua, Betim - MG;49606.2;1;limites e confrontações: 405,00 metros de frente para a Rodovia 381, 169,30 metros do lado direito a Rua Dirceu Jose Alvarenga, 155,90 metros do lado esquerdo com a Rua Bela Vista e 321,16 metros nos fundos com a Rua Leonarda Ferreira de Oliveira, com área, limites e confrontações de acordo com planta respectiva aprovada, sendo 43.638,20 metros quadrados de área edificável e 5.968,00 metros quadrados de área não edificável;0.633315799212643;Renda
 55.177.440/0001-00;2024-09-30;1;30.499;Fazenda Retiro - Goiania - GO;12800.03;23;localizada na zona de expansão urbana, em Goiania, com a área total de 12.800,03m²;0.339003458102602;Renda
 55.314.271/0001-03;2024-06-30;1;Imovel Santo Andre - Hospital Next;Avenida Dom Pedro Ii, 665, Sem Complemento, Jardim, Santo Andre/SP, Brasil, 09080-110;10000;1;Não possui caracteristicas que destoem dos demais;0.51730675281991;Renda
+56.191.016/0001-83;2024-09-30;1;MAT Nº 11.285: Fazenda Boa Vista, Carangola/MG;Fazenda Boa Vista, Serra das Velas, no Distrito e Município de Carangola/MG, inscrito no NIRF sob o nº 4.046.733-3, INCRA sob o nº 437.034.009.814-1, CCIR sob o nº 61147292249;92706.0032;1;Aquisição do Direito Real de Superfície onde está instalada uma usina solar fotovoltaica que se encontra locada para um consórcio de consumidores.;1;Renda
 56.524.816/0001-79;2024-09-30;1;GALPÃO;GUARULHOS;58000;0;0;1;Renda
 56.978.773/0001-00;2024-09-30;1;EMPREENDIMENTO PORTO DA BARRA;Avenida José Bento Ribeiro Dantas, Manguinhos - Armação de Búzios;11286;48;48 construções: (i) 44 unidades autônomas de lojas numeradas de 1 a 43 (ii) 1 unidade autônoma denominada Bloco 09 (iii) 1 unidade autônoma denominada Bloco 10 (iv) 1 unidade autônoma denominada administração e (v) 1 unidade autônoma denominada WC, que faz parte da área comum do Porto da Barra.;1;Renda
+57.216.258/0001-47;2024-09-30;1;Edifício Adalmiro Dellape Baptista B32;Avenida Brigadeiro Faria Lima, nº 3.732, São Paulo, SP;8223.93;1;Imóvel destinado à uso corporativo.;0.899237;Renda
 57.285.563/0001-90;2024-09-30;1;EDIFÍCIO BARATA RIBEIRO;Rua Barata Ribeiro, 573, Copacabana, RJ;362.6;1;Imóvel: 2 pavimentos e 1 subsolo e o respectivo terreno próprio;1;Venda

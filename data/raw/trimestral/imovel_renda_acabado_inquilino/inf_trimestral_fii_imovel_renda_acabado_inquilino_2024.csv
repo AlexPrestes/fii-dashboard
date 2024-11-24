@@ -3,6 +3,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 00.332.266/0001-31;2024-03-31;1;Via Parque Shopping;Serviço;0.183701;0.18053
 00.332.266/0001-31;2024-06-30;1;Via Parque Shopping;Comércio;0.697249;0.679161
 00.332.266/0001-31;2024-06-30;1;Via Parque Shopping;Serviço;0.302751;0.294897
+00.332.266/0001-31;2024-09-30;1;Via Parque Shopping;Comércio;0.745282;0.714062
+00.332.266/0001-31;2024-09-30;1;Via Parque Shopping;Serviço;0.254718;0.244047
 00.762.723/0001-28;2024-03-31;1;CTI;Serviço;1;0.94864
 00.762.723/0001-28;2024-03-31;1;CTI;Comércio;0;0
 00.762.723/0001-28;2024-06-30;1;CTI;Serviço;1;0.945985
@@ -15,6 +17,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 00.868.235/0001-08;2024-06-30;1;Hotel;Serviço;1;0.035902
 00.868.235/0001-08;2024-06-30;1;Medcenter;Serviço;0.918246;0.893901
 00.868.235/0001-08;2024-06-30;1;Medcenter;Comércio;0.081754;0.079587
+00.868.235/0001-08;2024-09-30;1;Hotel;Serviço;1;0
+00.868.235/0001-08;2024-09-30;1;Medcenter;Serviço;0.925359;0.900674
+00.868.235/0001-08;2024-09-30;1;Medcenter;Comércio;0.074641;0.07265
 01.201.140/0001-90;2024-03-31;1;Grand Plaza Shopping;Comércio;0.751921;0.739504
 01.201.140/0001-90;2024-03-31;1;Grand Plaza Shopping;Serviço;0.248079;0.243982
 01.201.140/0001-90;2024-06-30;2;Grand Plaza Shopping;Comércio;0.775;0.756579
@@ -270,10 +275,18 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 03.251.720/0001-18;2024-06-30;1;Centro Empresarial Agua Branca - Torre Los Angeles;Serviços Diversos;0.46695519824509;0.22249895068829
 03.251.720/0001-18;2024-06-30;1;Centro Empresarial Agua Branca - Torre Los Angeles;Telecomunicações;0.29515503796966;0.14063808794809
 03.251.720/0001-18;2024-06-30;1;Centro Empresarial Agua Branca - Torre Los Angeles;Serviços Médico - Hospitalares;0.18213243286157;0.08678407553937
+03.251.720/0001-18;2024-09-30;1;Centro Empresarial Agua Branca - Torre New York;Serviços Diversos;0.57483517743199;0.2118696615973
+03.251.720/0001-18;2024-09-30;1;Centro Empresarial Agua Branca - Torre New York;Serviços Médico - Hospitalares;0.20516785854303;0.07561966710936
+03.251.720/0001-18;2024-09-30;1;Centro Empresarial Agua Branca - Torre New York;Equipamentos Elétricos;0.11507965714817;0.04241544180653
+03.251.720/0001-18;2024-09-30;1;Centro Empresarial Agua Branca - Torre Los Angeles;Serviços Diversos;0.45395437456409;0.21132352753972
+03.251.720/0001-18;2024-09-30;1;Centro Empresarial Agua Branca - Torre Los Angeles;Telecomunicações;0.2932912085403;0.13653207515544
+03.251.720/0001-18;2024-09-30;1;Centro Empresarial Agua Branca - Torre Los Angeles;Serviços Médico - Hospitalares;0.18098231260361;0.08425036273396
 03.507.519/0001-59;2024-03-31;1;Shopping Center;Comércio;0.951885;0.938257
 03.507.519/0001-59;2024-03-31;1;Shopping Center;Serviço;0.048115;0.047426
 03.507.519/0001-59;2024-06-30;1;Shopping Center;Comércio;0.95088;0.931139
 03.507.519/0001-59;2024-06-30;1;Shopping Center;Serviço;0.04912;0.0481
+03.507.519/0001-59;2024-09-30;1;Shopping Center;Comércio;0.95088;0.937469
+03.507.519/0001-59;2024-09-30;1;Shopping Center;Serviço;0.04912;0.048427
 03.683.056/0001-86;2024-03-31;1;JK FINANCIAL CENTER;Comércio;0.39691;0.131165
 03.683.056/0001-86;2024-03-31;1;JK FINANCIAL CENTER;Serviço;0.254769;0.084192
 03.683.056/0001-86;2024-03-31;1;JATOBÁ;Serviço;1;0.012951
@@ -439,6 +452,14 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 06.175.262/0001-73;2024-06-30;1;Edifício Ourinvest;Administradora de Cartões;0;0
 06.175.262/0001-73;2024-06-30;1;Edifício Ourinvest;Administradora de Cartões;0;0
 06.175.262/0001-73;2024-06-30;1;Edifício Ourinvest;Administradora de Cartões;0;0
+06.175.262/0001-73;2024-09-30;1;Edifício Ourinvest;Holding de instituição não financeira;0;0
+06.175.262/0001-73;2024-09-30;1;Edifício Ourinvest;Banco múltiplo sem carteira comercial;0;0
+06.175.262/0001-73;2024-09-30;1;Edifício Ourinvest;Serviço Social Autônomo;0;0
+06.175.262/0001-73;2024-09-30;1;Edifício Ourinvest;Vago;0;0
+06.175.262/0001-73;2024-09-30;1;Edifício Ourinvest;Banco múltiplo sem carteira comercial;0;0
+06.175.262/0001-73;2024-09-30;1;Edifício Ourinvest;Vago;0;0
+06.175.262/0001-73;2024-09-30;1;Edifício Ourinvest;Administradora de Cartões;0;0
+06.175.262/0001-73;2024-09-30;1;Edifício Ourinvest;Vago;0;0
 07.000.400/0001-46;2024-03-31;1;Sede I - Brasilia;Serviços Financeiros Diversos;0.66666710782974;0.5084686769944
 07.000.400/0001-46;2024-03-31;1;Sede I - Antenas;Telecomunicações;1;0.00279908398906
 07.000.400/0001-46;2024-06-30;1;Sede I - Brasilia;Serviços Financeiros Diversos;0.66666710782974;0.5084686769944
@@ -911,6 +932,66 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 08.431.747/0001-06;2024-06-30;1;Boulevard Shopping Bauru - 65%;Setor2;0;0
 08.431.747/0001-06;2024-06-30;1;Boulevard Shopping Bauru - 65%;Setor3;0;0
 08.431.747/0001-06;2024-06-30;1;Boulevard Shopping Bauru - 65%;SetorN;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping Center Penha - 87,5628%;Setor1;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping Center Penha - 87,5628%;Setor2;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping Center Penha - 87,5628%;Setor3;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping Center Penha - 87,5628%;SetorN;0;0
+08.431.747/0001-06;2024-09-30;1;Tivoli Shopping - 59%;Setor1;0;0
+08.431.747/0001-06;2024-09-30;1;Tivoli Shopping - 59%;Setor2;0;0
+08.431.747/0001-06;2024-09-30;1;Tivoli Shopping - 59%;Setor3;0;0
+08.431.747/0001-06;2024-09-30;1;Tivoli Shopping - 59%;SetorN;0;0
+08.431.747/0001-06;2024-09-30;1;Mooca Plaza Shopping - 20%;Setor1;0;0
+08.431.747/0001-06;2024-09-30;1;Mooca Plaza Shopping - 20%;Setor2;0;0
+08.431.747/0001-06;2024-09-30;1;Mooca Plaza Shopping - 20%;Setor3;0;0
+08.431.747/0001-06;2024-09-30;1;Mooca Plaza Shopping - 20%;SetorN;0;0
+08.431.747/0001-06;2024-09-30;1;São Bernardo Plaza Shopping - 35%;Setor1;0;0
+08.431.747/0001-06;2024-09-30;1;São Bernardo Plaza Shopping - 35%;Setor2;0;0
+08.431.747/0001-06;2024-09-30;1;São Bernardo Plaza Shopping - 35%;Setor3;0;0
+08.431.747/0001-06;2024-09-30;1;São Bernardo Plaza Shopping - 35%;SetorN;0;0
+08.431.747/0001-06;2024-09-30;1;I Fashion Outlet - 49%;Setor1;0;0
+08.431.747/0001-06;2024-09-30;1;I Fashion Outlet - 49%;Setor2;0;0
+08.431.747/0001-06;2024-09-30;1;I Fashion Outlet - 49%;Setor3;0;0
+08.431.747/0001-06;2024-09-30;1;I Fashion Outlet - 49%;SetorN;0;0
+08.431.747/0001-06;2024-09-30;1;Goiabeiras Shopping - 53,99%;Setor1;0;0
+08.431.747/0001-06;2024-09-30;1;Goiabeiras Shopping - 53,99%;Setor2;0;0
+08.431.747/0001-06;2024-09-30;1;Goiabeiras Shopping - 53,99%;Setor3;0;0
+08.431.747/0001-06;2024-09-30;1;Goiabeiras Shopping - 53,99%;SetorN;0;0
+08.431.747/0001-06;2024-09-30;1;Santana Parque Shopping - 15%;Setor1;0;0
+08.431.747/0001-06;2024-09-30;1;Santana Parque Shopping - 15%;Setor2;0;0
+08.431.747/0001-06;2024-09-30;1;Santana Parque Shopping - 15%;Setor3;0;0
+08.431.747/0001-06;2024-09-30;1;Santana Parque Shopping - 15%;SetorN;0;0
+08.431.747/0001-06;2024-09-30;1;Suzano Shopping - 15%;Setor1;0;0
+08.431.747/0001-06;2024-09-30;1;Suzano Shopping - 15%;Setor2;0;0
+08.431.747/0001-06;2024-09-30;1;Suzano Shopping - 15%;Setor3;0;0
+08.431.747/0001-06;2024-09-30;1;Suzano Shopping - 15%;SetorN;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping West Plaza - 70%;Setor1;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping West Plaza - 70%;Setor2;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping West Plaza - 70%;Setor3;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping West Plaza - 70%;SetorN;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping Villa Lobos - 15%;Setor1;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping Villa Lobos - 15%;Setor2;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping Villa Lobos - 15%;Setor3;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping Villa Lobos - 15%;SetorN;0;0
+08.431.747/0001-06;2024-09-30;1;Franca Shopping - 0,3673897836%;Setor1;0;0
+08.431.747/0001-06;2024-09-30;1;Franca Shopping - 0,3673897836%;Setor2;0;0
+08.431.747/0001-06;2024-09-30;1;Franca Shopping - 0,3673897836%;Setor3;0;0
+08.431.747/0001-06;2024-09-30;1;Franca Shopping - 0,3673897836%;SetorN;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping Praça da Moça - 23,06%;Setor1;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping Praça da Moça - 23,06%;Setor2;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping Praça da Moça - 23,06%;Setor3;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping Praça da Moça - 23,06%;SetorN;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping Jardim Sul - 40%;Setor1;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping Jardim Sul - 40%;Setor2;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping Jardim Sul - 40%;Setor3;0;0
+08.431.747/0001-06;2024-09-30;1;Shopping Jardim Sul - 40%;SetorN;0;0
+08.431.747/0001-06;2024-09-30;1;Capim Dourado Shopping - 60%;Setor1;0;0
+08.431.747/0001-06;2024-09-30;1;Capim Dourado Shopping - 60%;Setor2;0;0
+08.431.747/0001-06;2024-09-30;1;Capim Dourado Shopping - 60%;Setor3;0;0
+08.431.747/0001-06;2024-09-30;1;Capim Dourado Shopping - 60%;SetorN;0;0
+08.431.747/0001-06;2024-09-30;1;Boulevard Shopping Bauru - 65%;Setor1;0;0
+08.431.747/0001-06;2024-09-30;1;Boulevard Shopping Bauru - 65%;Setor2;0;0
+08.431.747/0001-06;2024-09-30;1;Boulevard Shopping Bauru - 65%;Setor3;0;0
+08.431.747/0001-06;2024-09-30;1;Boulevard Shopping Bauru - 65%;SetorN;0;0
 08.693.497/0001-82;2024-03-31;2;Loja Comercial - IMO L COMERCIAL;Varejista;0;0
 08.693.497/0001-82;2024-03-31;2;Portal Auto Shopping - IMO PORTAL;Loja de departamentos;0;0
 08.693.497/0001-82;2024-03-31;2;Condomínio de Galpões Sindi - IMO GALPÕES;Transporte rodoviário de cargas;0;0
@@ -1033,6 +1114,18 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 08.924.783/0001-01;2024-06-30;1;Morumbi Corporate - Diamond Tower;Outros;0.15074791842722;0.02882629324968
 08.924.783/0001-01;2024-06-30;1;Morumbi Corporate - Diamond Tower;Agropecuária;0.27904956137172;0.05336036856243
 08.924.783/0001-01;2024-06-30;1;Morumbi Corporate - Diamond Tower;Computadores e Equipamentos;0.44080324404877;0.08429120422312
+08.924.783/0001-01;2024-09-30;1;Edificio Eldorado;Outros;0.34906917485597;0.05901095310147
+08.924.783/0001-01;2024-09-30;1;Edificio Eldorado;Serviços Diversos;0.19182695348513;0.03242879111391
+08.924.783/0001-01;2024-09-30;1;Edificio Eldorado;Comércio;0.20125309544335;0.03402230226039
+08.924.783/0001-01;2024-09-30;1;Edifício Montreal;Serviços Financeiros Diversos;0.17100068913278;0.00274312223247
+08.924.783/0001-01;2024-09-30;1;Edifício Montreal;Outros;0.61512757896414;0.00986762185708
+08.924.783/0001-01;2024-09-30;1;Edifício Montreal;Comércio;0.14633221971885;0.00234740086296
+08.924.783/0001-01;2024-09-30;1;CEO Corporate Executive Offices;Telecomunicações;1;0.01687609799874
+08.924.783/0001-01;2024-09-30;1;Condomínio Parque da Cidade - Torre Sucupira;Medicamentos e Outros Produtos;1;0.03045535577366
+08.924.783/0001-01;2024-09-30;1;Centro Empresarial Senado;Petróleo, Gás e Biocombustíveis;0.99661626851968;0.16196235702777
+08.924.783/0001-01;2024-09-30;1;Morumbi Corporate - Diamond Tower;Outros;0.21779186356899;0.03784385989858
+08.924.783/0001-01;2024-09-30;1;Morumbi Corporate - Diamond Tower;Agropecuária;0.26130036803287;0.04540396669203
+08.924.783/0001-01;2024-09-30;1;Morumbi Corporate - Diamond Tower;Computadores e Equipamentos;0.38513402070932;0.06692149873304
 09.006.914/0001-34;2024-03-28;1;Ambev;Bebidas;1;0.2358
 09.006.914/0001-34;2024-03-28;1;Ampla;Eletrecidade;1;0.7642
 09.006.914/0001-34;2024-06-28;1;Ambev;Bebidas;1;0.2358
@@ -1123,11 +1216,19 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 09.276.964/0001-31;2024-06-28;1;Imóvel 1;Setor2;0;0
 09.276.964/0001-31;2024-06-28;1;Imóvel 1;Setor3;0;0
 09.276.964/0001-31;2024-06-28;1;Imóvel 1;SetorN;0;0
+09.276.964/0001-31;2024-09-30;1;Imóvel 1;Setor1;0;0
+09.276.964/0001-31;2024-09-30;1;Imóvel 1;Setor2;0;0
+09.276.964/0001-31;2024-09-30;1;Imóvel 1;Setor3;0;0
+09.276.964/0001-31;2024-09-30;1;Imóvel 1;SetorN;0;0
 09.326.861/0001-39;2024-03-31;1;Shopping West Plaza - 30%;-;0;0
 09.326.861/0001-39;2024-06-30;1;Shopping West Plaza - 30%;Setor1;0;0
 09.326.861/0001-39;2024-06-30;1;Shopping West Plaza - 30%;Setor2;0;0
 09.326.861/0001-39;2024-06-30;1;Shopping West Plaza - 30%;Setor3;0;0
 09.326.861/0001-39;2024-06-30;1;Shopping West Plaza - 30%;SetorN;0;0
+09.326.861/0001-39;2024-09-30;1;Shopping West Plaza - 30%;Setor1;0;0
+09.326.861/0001-39;2024-09-30;1;Shopping West Plaza - 30%;Setor2;0;0
+09.326.861/0001-39;2024-09-30;1;Shopping West Plaza - 30%;Setor3;0;0
+09.326.861/0001-39;2024-09-30;1;Shopping West Plaza - 30%;SetorN;0;0
 09.517.273/0001-82;2024-06-30;1;LOJA HABITAR;Varejo Alimentar;0;0
 09.517.273/0001-82;2024-06-30;1;MADUREIRA;Setor1;0;0
 09.517.273/0001-82;2024-06-30;1;MADUREIRA;Setor2;0;0
@@ -1144,11 +1245,18 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 10.347.985/0001-80;2024-06-30;1;Cidade Jardim Continental Tower;Tecnologia;0.115642;0.114138
 10.347.985/0001-80;2024-06-30;1;Cidade Jardim Continental Tower;Serviços;0.157514;0.155465
 10.347.985/0001-80;2024-06-30;1;Cidade Jardim Continental Tower;Indústria;0.206426;0.20374
+10.347.985/0001-80;2024-09-30;1;Cidade Jardim Continental Tower;Indústria;0.222133;0.210673
+10.347.985/0001-80;2024-09-30;1;Cidade Jardim Continental Tower;Serviços;0.138571;0.131422
+10.347.985/0001-80;2024-09-30;1;Cidade Jardim Continental Tower;Tecnologia;0.101734;0.096486
 10.375.382/0001-91;2024-03-31;1;Floripa Shopping - 35,37255%;-;0;0.00989
 10.375.382/0001-91;2024-06-30;1;Floripa Shopping - 35,37255%;Setor1;0;0
 10.375.382/0001-91;2024-06-30;1;Floripa Shopping - 35,37255%;Setor2;0;0
 10.375.382/0001-91;2024-06-30;1;Floripa Shopping - 35,37255%;Setor3;0;0
 10.375.382/0001-91;2024-06-30;1;Floripa Shopping - 35,37255%;SetorN;0;0
+10.375.382/0001-91;2024-09-30;1;Floripa Shopping - 35,37255%;Setor1;0;0
+10.375.382/0001-91;2024-09-30;1;Floripa Shopping - 35,37255%;Setor2;0;0
+10.375.382/0001-91;2024-09-30;1;Floripa Shopping - 35,37255%;Setor3;0;0
+10.375.382/0001-91;2024-09-30;1;Floripa Shopping - 35,37255%;SetorN;0;0
 10.427.246/0001-06;2024-03-31;1;Brazilian Financial Center;Serviços Financeiros Diversos;0.73065062162436;0.00377313284775
 10.427.246/0001-06;2024-03-31;1;Brazilian Financial Center;Mídia;0.12915447984695;0.00066696310921
 10.427.246/0001-06;2024-03-31;1;Edificio Torre Almirante;Serviços Diversos;0.15627634457297;0.00108712107604
@@ -1232,6 +1340,11 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 10.456.810/0001-00;2024-06-30;1;ED PEDRA GRANDE;Tecnologia;0.678176;0.19
 10.456.810/0001-00;2024-06-30;1;ED NAÇÕES UNIDAS;Veículos;1;0
 10.456.810/0001-00;2024-06-30;1;ED PLATINUM;Serviços;1;0
+10.456.810/0001-00;2024-09-30;1;ED TORRE SUL;Financeiro;0;0
+10.456.810/0001-00;2024-09-30;1;ED PEDRA GRANDE;Financeiro;0;0
+10.456.810/0001-00;2024-09-30;1;ED PEDRA GRANDE;Tecnologia;0;0
+10.456.810/0001-00;2024-09-30;1;ED NAÇÕES UNIDAS;Veículos;0;0
+10.456.810/0001-00;2024-09-30;1;ED PLATINUM;Serviços;0;0
 10.522.648/0001-81;2024-03-28;1;ANM RETROFIT;Disponivel;0;0
 10.522.648/0001-81;2024-03-28;1;BAY VIEW;Justiça;0;0
 10.522.648/0001-81;2024-06-30;1;ANM RETROFIT;Disponivel;0;0
@@ -2054,6 +2167,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 12.358.507/0001-09;2024-09-30;1;FAZENDAS - MS;Agrícola;1;0.5094
 12.401.858/0001-47;2024-03-31;1;CONDOMINIO WT MORUMBI;Seguros;1;0.999714
 12.401.858/0001-47;2024-06-30;1;CONDOMINIO WT MORUMBI;Seguros;1;0.999714
+12.401.858/0001-47;2024-09-30;1;CONDOMINIO WT MORUMBI;Seguros;1;0.999714
 12.516.185/0001-70;2024-03-28;1;BM336;Financeiro;0.851849;0.188497
 12.516.185/0001-70;2024-03-28;1;BM336;Seguros;0.148151;0.032783
 12.516.185/0001-70;2024-03-28;1;Brooklyn Business Square;Coworking;0.508807;0.004817
@@ -2194,11 +2308,16 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 12.809.972/0001-00;2024-06-30;1;Atrium Shopping Santo André - 100%;Setor2;0;0
 12.809.972/0001-00;2024-06-30;1;Atrium Shopping Santo André - 100%;Setor3;0;0
 12.809.972/0001-00;2024-06-30;1;Atrium Shopping Santo André - 100%;SetorN;0;0
+12.809.972/0001-00;2024-09-30;1;Atrium Shopping Santo André - 100%;Setor1;0;0
+12.809.972/0001-00;2024-09-30;1;Atrium Shopping Santo André - 100%;Setor2;0;0
+12.809.972/0001-00;2024-09-30;1;Atrium Shopping Santo André - 100%;Setor3;0;0
+12.809.972/0001-00;2024-09-30;1;Atrium Shopping Santo André - 100%;SetorN;0;0
 12.887.506/0001-43;2024-03-28;1;Duque de Caxias (Atmosfera);Lavanderia industrial;1;0.9611
 12.887.506/0001-43;2024-06-28;1;Duque de Caxias (Atmosfera);Lavanderia industrial;1;9.73E-05
 12.887.506/0001-43;2024-09-30;1;Duque de Caxias (Atmosfera);Lavanderia Industrial;0.1;0.97
 12.978.943/0001-72;2024-03-31;1;NASP Natura São Paulo;Cosméticos;0;0.0096524
 12.978.943/0001-72;2024-06-30;1;NASP Natura São Paulo;Cosméticos;0;9.64E-05
+12.978.943/0001-72;2024-09-30;1;NASP Natura São Paulo;Cosméticos;0;0.0093825
 12.989.974/0001-29;2024-03-28;2;Pátio da Marítima - Torre I;1 - Energia;0.1852;0.0441
 12.989.974/0001-29;2024-03-28;2;Pátio da Marítima - Torre I;2- Bancário/Financeiro;0.2342;0.0557
 12.989.974/0001-29;2024-03-28;2;Pátio da Marítima - Torre I;3- Seguros;0.3818;0.0908
@@ -2484,10 +2603,14 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 13.500.306/0001-59;2024-03-31;1;Loja - Edifício Manhattan Tower;Serviços;0;0
 13.500.306/0001-59;2024-06-30;1;Edifício Vicente de Araújo;Serviços;0.18;0.964454
 13.500.306/0001-59;2024-06-30;1;Loja - Edifício Manhattan Tower;Serviços;0;0
+13.500.306/0001-59;2024-09-30;1;Edifício Vicente de Araújo;Serviços;1;0.754555
+13.500.306/0001-59;2024-09-30;1;Loja - Edifício Manhattan Tower;Serviços;1;0.073424
 13.551.286/0001-45;2024-03-31;1;Edificio Cenesp;Outros;0.23546552155525;0.21166351962726
 13.551.286/0001-45;2024-03-31;1;Edificio Cenesp;Serviços Financeiros Diversos;0.68414863035609;0.61499155414718
 13.551.286/0001-45;2024-06-30;1;Edificio Cenesp;Outros;0.2373433921126;0.20823654745303
 13.551.286/0001-45;2024-06-30;1;Edificio Cenesp;Serviços Financeiros Diversos;0.67949496804545;0.59616442192908
+13.551.286/0001-45;2024-09-30;1;Edificio Cenesp;Serviços Financeiros Diversos;0.73953827378469;0.63656902346028
+13.551.286/0001-45;2024-09-30;1;Edificio Cenesp;Outros;0.16814344821199;0.14473207732953
 13.555.918/0001-49;2024-03-28;1;LOG TAUBATÉ;LAVANDERIA;0;0
 13.555.918/0001-49;2024-03-28;1;INDUSTRIAL;COSMETICOS;0;0
 13.555.918/0001-49;2024-06-28;1;LOG TAUBATÉ;LAVANDERIA;0;0
@@ -2797,6 +2920,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 13.920.018/0001-53;2024-06-28;2;Imóvel 1;Setor2;0;0
 13.920.018/0001-53;2024-06-28;2;Imóvel 1;Setor3;0;0
 13.920.018/0001-53;2024-06-28;2;Imóvel 1;SetorN;0;0
+13.920.018/0001-53;2024-09-30;1;Imóvel 1;Setor1;0;0
+13.920.018/0001-53;2024-09-30;1;Imóvel 1;Setor2;0;0
+13.920.018/0001-53;2024-09-30;1;Imóvel 1;Setor3;0;0
+13.920.018/0001-53;2024-09-30;1;Imóvel 1;SetorN;0;0
 13.974.819/0001-00;2024-03-31;1;Imóvel Juiz de Fora;Automobilístico;1;0.5803
 13.974.819/0001-00;2024-03-31;1;Imóvel Juiz de Fora;Setor2;0;0
 13.974.819/0001-00;2024-03-31;1;Imóvel Juiz de Fora;Setor3;0;0
@@ -2844,6 +2971,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 14.149.745/0001-21;2024-06-28;2;Estadio;Setor2;0;0
 14.149.745/0001-21;2024-06-28;2;Estadio;Setor3;0;0
 14.149.745/0001-21;2024-06-28;2;Estadio;SetorN;0;0
+14.149.745/0001-21;2024-09-30;1;Estadio;Setor1;0;0
+14.149.745/0001-21;2024-09-30;1;Estadio;Setor2;0;0
+14.149.745/0001-21;2024-09-30;1;Estadio;Setor3;0;0
+14.149.745/0001-21;2024-09-30;1;Estadio;SetorN;0;0
 14.217.108/0001-45;2024-03-31;1;Condominio Perini Business Park;Metalurgia;0.233342;0.23136
 14.217.108/0001-45;2024-03-31;1;Condominio Perini Business Park;Setor2;0;0
 14.217.108/0001-45;2024-03-31;1;Condominio Perini Business Park;Setor3;0;0
@@ -3530,6 +3661,38 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 15.348.117/0001-38;2024-06-28;1;Imóvel 8;Setor2;0;0
 15.348.117/0001-38;2024-06-28;1;Imóvel 8;Setor3;0;0
 15.348.117/0001-38;2024-06-28;1;Imóvel 8;SetorN;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 1;Setor1;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 1;Setor2;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 1;Setor3;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 1;SetorN;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 2;Setor1;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 2;Setor2;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 2;Setor3;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 2;SetorN;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 3;Setor1;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 3;Setor2;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 3;Setor3;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 3;SetorN;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 4;Setor1;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 4;Setor2;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 4;Setor3;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 4;SetorN;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 5;Setor1;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 5;Setor2;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 5;Setor3;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 5;SetorN;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 6;Setor1;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 6;Setor2;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 6;Setor3;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 6;SetorN;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 7;Setor1;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 7;Setor2;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 7;Setor3;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 7;SetorN;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 8;Setor1;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 8;Setor2;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 8;Setor3;0;0
+15.348.117/0001-38;2024-09-30;1;Imóvel 8;SetorN;0;0
 15.447.108/0001-02;2024-03-31;1;Internacional Shopping;Varejo;0.638092;0.47138
 15.447.108/0001-02;2024-03-31;1;Internacional Shopping;Estacionamento;0.168016;0.139668
 15.447.108/0001-02;2024-03-31;1;Shopping Light;Alimentação;0.246829;0.054553
@@ -3551,8 +3714,19 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 15.447.108/0001-02;2024-06-30;1;Shopping Prado Boulervard;Varejo;0.6432;0.019521
 15.447.108/0001-02;2024-06-30;1;Shopping Prado Boulervard;Estacionamento;0.205696;0.008398
 15.447.108/0001-02;2024-06-30;1;Mais Shopping;Não possui;0;0
+15.447.108/0001-02;2024-09-30;1;Internacional Shopping;Outros;0.237746;0.31222
+15.447.108/0001-02;2024-09-30;1;Internacional Shopping;Alimentação;0.101974;0.133917
+15.447.108/0001-02;2024-09-30;1;Internacional Shopping;Varejo;0.160281;0.210489
+15.447.108/0001-02;2024-09-30;1;Shopping Prado Doulevard;Alimentação;0.132858;0.007182
+15.447.108/0001-02;2024-09-30;1;Shopping Prado Doulevard;Varejo;0.142234;0.007688
+15.447.108/0001-02;2024-09-30;1;Shopping Prado Doulevard;Outros;0.224908;0.012157
+15.447.108/0001-02;2024-09-30;1;Shopping Mourumbi Town;Outros;0.381278;0.087515
+15.447.108/0001-02;2024-09-30;1;Shopping Light;Outros;0.419969;0.041265
+15.447.108/0001-02;2024-09-30;1;Shopping Light;Varejo;0.378439;0.037182
+15.447.108/0001-02;2024-09-30;1;Shopping Light;Alimentação;0.226914;0.022296
 15.447.110/0001-73;2024-03-31;1;Shopping Cidade Jardim;Varejo;1;0.98665
 15.447.110/0001-73;2024-06-30;2;Shopping Cidade Jardim;Varejo;1;0.989225
+15.447.110/0001-73;2024-09-30;1;Shopping Cidade Jardim;Varejo;1;0.938056
 15.463.207/0001-70;2024-03-28;1;Imóvel 1;Setor1;1;1
 15.463.207/0001-70;2024-03-28;1;Imóvel 1;PetrobrasSetor2;0;0
 15.463.207/0001-70;2024-03-28;1;Imóvel 1;Setor3;0;0
@@ -4325,6 +4499,79 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 15.576.907/0001-70;2024-06-30;2;Assaí - Guarulhos - Guarulhos/SP;Alimentício;1;0.051424
 15.576.907/0001-70;2024-06-30;2;Assaí - Jardim Apolo - São José dos Campos/SP;Alimentício;1;0.055988
 15.576.907/0001-70;2024-06-30;2;Coco Bambu - Haddock Lobo - São Paulo/SP;Restaurante;1;0.00508
+15.576.907/0001-70;2024-09-30;1;GPA - Brooklin - São Paulo/SP;Alimentício;1;0.014029
+15.576.907/0001-70;2024-09-30;1;GPA - Parnamirim - Recife/PE;Alimentício;1;0.01114
+15.576.907/0001-70;2024-09-30;1;GPA - Vila Rossi e Borchi - Campinas/SP;Alimentício;1;0.009371
+15.576.907/0001-70;2024-09-30;1;GPA - Centro - Guarujá/SP;Alimentício;1;0.008226
+15.576.907/0001-70;2024-09-30;1;GPA - Centro - São Bernardo do Campo/SP;Alimentício;1;0.006998
+15.576.907/0001-70;2024-09-30;1;GPA - Asa Sul  - Brasilia/DF;Alimentício;1;0.00695
+15.576.907/0001-70;2024-09-30;1;GPA - Pinheiros  - São Paulo/SP;Alimentício;1;0.00869
+15.576.907/0001-70;2024-09-30;1;GPA - Tatuapé - São Paulo/SP;Alimentício;1;0.019386
+15.576.907/0001-70;2024-09-30;1;Assaí - Guarulhos - Guarulhos/SP;Alimentício;1;0.052565
+15.576.907/0001-70;2024-09-30;1;Assaí - Jardim Apolo - São José dos Campos/SP;Alimentício;1;0.05723
+15.576.907/0001-70;2024-09-30;1;Caixa - 14 bis - Rio de Janeiro/RJ;Bancário;1;0.027133
+15.576.907/0001-70;2024-09-30;1;Caixa - Centro - Nova Iguaçu/RJ;Bancário;1;0.017824
+15.576.907/0001-70;2024-09-30;1;Caixa - Ipanema - Rio de Janeiro/RJ;Bancário;1;0.01744
+15.576.907/0001-70;2024-09-30;1;Caixa - Leme - Rio de Janeiro/RJ;Bancário;1;0.015113
+15.576.907/0001-70;2024-09-30;1;Caixa - Recreio dos Bandeirantes - Rio de Janeiro/RJ;Bancário;1;0.014096
+15.576.907/0001-70;2024-09-30;1;Caixa - Avenida Chile - Rio de Janeiro/RJ;Bancário;1;0.013381
+15.576.907/0001-70;2024-09-30;1;Caixa - Meier - Rio de Janeiro/RJ;Bancário;1;0.012452
+15.576.907/0001-70;2024-09-30;1;Caixa - Senador Queiroz - São Paulo/SP;Bancário;1;0.007021
+15.576.907/0001-70;2024-09-30;1;Caixa - Pirituba - São Paulo/SP;Bancário;1;0.007584
+15.576.907/0001-70;2024-09-30;1;Caixa - Guaianases - São Paulo/SP;Bancário;1;0.00706
+15.576.907/0001-70;2024-09-30;1;Caixa - Planalto Paulista - São Paulo/SP;Bancário;1;0.007021
+15.576.907/0001-70;2024-09-30;1;Santander - Paulista  - São Paulo/SP;Bancário;1;0.040599
+15.576.907/0001-70;2024-09-30;1;Santander - Centro - Santo André/SP;Bancário;1;0.024972
+15.576.907/0001-70;2024-09-30;1;Santander - Liberdade - São Paulo/SP;Bancário;1;0.025079
+15.576.907/0001-70;2024-09-30;1;Super Nosso - Centro - Belo Horizonte/MG;Alimentício;1;0.001265
+15.576.907/0001-70;2024-09-30;1;Santander - Ouvidor - Rio de Janeiro/RJ;Bancário;1;0.019843
+15.576.907/0001-70;2024-09-30;1;Santander - São Mateus - São Paulo/SP;Bancário;1;0.012976
+15.576.907/0001-70;2024-09-30;1;Santander - Centro - Santos/SP;Bancário;1;0.013396
+15.576.907/0001-70;2024-09-30;1;Santander - Candelária - Rio de Janeiro/RJ;Bancário;1;0.009151
+15.576.907/0001-70;2024-09-30;1;Santander - Santo Antônio - Recife/PE;Bancário;1;0.007834
+15.576.907/0001-70;2024-09-30;1;Santander - Centro - São Gonçalo/RJ;Bancário;1;0.004471
+15.576.907/0001-70;2024-09-30;1;Santander - Alcântara - São Gonçalo/RJ;Bancário;1;0.006134
+15.576.907/0001-70;2024-09-30;1;- - Ed. Olivetti Paulista - São Paulo/SP;Vago;0;0
+15.576.907/0001-70;2024-09-30;1;- - Centro - Fortaleza/CE;Vago;0;0
+15.576.907/0001-70;2024-09-30;1;- - Centro - São Bernardo do Campo/SP;Vago;0;0
+15.576.907/0001-70;2024-09-30;1;- - Praça Pio X - Rio de Janeiro/RJ;Vago;0;0
+15.576.907/0001-70;2024-09-30;1;- - Praça Pio X - Rio de Janeiro/RJ;Vago;0;0
+15.576.907/0001-70;2024-09-30;1;- - Centro - Rio de Janeiro/RJ;Vago;0;0
+15.576.907/0001-70;2024-09-30;1;- - Centro - Rio de Janeiro/RJ;Vago;0;0
+15.576.907/0001-70;2024-09-30;1;- - Berrini - São Paulo/SP;Vago;0;0
+15.576.907/0001-70;2024-09-30;1;Santander - Vila Santa Cecília - Volta Redonda/RJ;Bancário;1;0.006405
+15.576.907/0001-70;2024-09-30;1;M3Storage - Nova Paulista - São Paulo/SP;Outros;1;0.001274
+15.576.907/0001-70;2024-09-30;1;- - Centro Histórico - Porto Alegre/RS;Vago;0;0
+15.576.907/0001-70;2024-09-30;1;- - Monções - São Paulo/SP;Vago;0;0
+15.576.907/0001-70;2024-09-30;1;Santander - Centro - Jundiaí/SP;Bancário;1;0.040769
+15.576.907/0001-70;2024-09-30;1;Santander - Centro - Fortaleza/CE;Bancário;1;0.010824
+15.576.907/0001-70;2024-09-30;1;Santander - Monsenhor Celso - Curitiba/PR;Bancário;1;0.011581
+15.576.907/0001-70;2024-09-30;1;Santander - Duque de Caxias - São Paulo/SP;Bancário;1;0.010008
+15.576.907/0001-70;2024-09-30;1;Caixa - Centro Histórico - São Paulo/SP;Vago;0;0
+15.576.907/0001-70;2024-09-30;1;Renner - Oscar Freire - São Paulo/SP;Vestuário;1;0.051615
+15.576.907/0001-70;2024-09-30;1;Centauro - Paulista  - São Paulo/SP;Esportivo;1;0.065423
+15.576.907/0001-70;2024-09-30;1;Itaú - Leblon - Rio de Janeiro/RJ;Outros;1;0.013585
+15.576.907/0001-70;2024-09-30;1;Coco Bambu - Haddock Lobo - São Paulo/SP;Vendido;1;0.003462
+15.576.907/0001-70;2024-09-30;1;Caixa - Cipo Guaçu - Embu Guaçu/SP;Bancário;1;0.009212
+15.576.907/0001-70;2024-09-30;1;Caixa - Mutinga - Osasco/SP;Bancário;1;0.009811
+15.576.907/0001-70;2024-09-30;1;Caixa - Presidente Wilson - Rio de Janeiro/RJ;Bancário;1;0.016196
+15.576.907/0001-70;2024-09-30;1;Caixa - São Mateus - São Paulo/SP;Bancário;1;0.004643
+15.576.907/0001-70;2024-09-30;1;Caixa - Taipas - São Paulo/SP;Bancário;1;0.008571
+15.576.907/0001-70;2024-09-30;1;Caixa - Barra Funda - São Paulo/SP;Bancário;1;0.005213
+15.576.907/0001-70;2024-09-30;1;Caixa - Parque Maria Helena - Suzano/SP;Bancário;1;0.016584
+15.576.907/0001-70;2024-09-30;1;Caixa - Imperador - São Paulo/SP;Bancário;1;0.005587
+15.576.907/0001-70;2024-09-30;1;Caixa - Pedro Vicente - São Paulo/SP;Bancário;1;0.008778
+15.576.907/0001-70;2024-09-30;1;Caixa - Italianos - São Paulo/SP;Bancário;1;0.006878
+15.576.907/0001-70;2024-09-30;1;Caixa - Páteo do Colégio - São Paulo/SP;Bancário;1;0.009836
+15.576.907/0001-70;2024-09-30;1;Caixa - Pinheiros - São Paulo/SP;Bancário;1;0.014007
+15.576.907/0001-70;2024-09-30;1;Caixa - Via Anchieta - São Paulo/SP;Bancário;1;0.005095
+15.576.907/0001-70;2024-09-30;1;Caixa - Rio do A - Campo Grande/RJ;Bancário;1;0.007886
+15.576.907/0001-70;2024-09-30;1;Caixa - Vila Mascote - São Paulo/SP;Bancário;1;0.009092
+15.576.907/0001-70;2024-09-30;1;Caixa - Santa Cecília - São Paulo/SP;Bancário;1;0.006979
+15.576.907/0001-70;2024-09-30;1;Caixa - Bandeira - Rio de Janeiro/RJ;Bancário;1;0.00811
+15.576.907/0001-70;2024-09-30;1;Caixa - Guarapiranga - São Paulo/SP;Bancário;1;0.007028
+15.576.907/0001-70;2024-09-30;1;Caixa - Nilo Peçanha - São Gonçalo/RJ;Bancário;1;0.006308
+15.576.907/0001-70;2024-09-30;1;Caixa - Jardim da Saúde - São Paulo/SP;Bancário;1;0.009083
 15.798.220/0001-80;2024-03-28;1;Imóvel 1;Setor1;0;0
 15.798.220/0001-80;2024-03-28;1;Imóvel 1;Setor2;0;0
 15.798.220/0001-80;2024-03-28;1;Imóvel 1;Setor3;0;0
@@ -4333,6 +4580,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 15.798.220/0001-80;2024-06-28;2;Imóvel 1;Setor2;0;0
 15.798.220/0001-80;2024-06-28;2;Imóvel 1;Setor3;0;0
 15.798.220/0001-80;2024-06-28;2;Imóvel 1;SetorN;0;0
+15.798.220/0001-80;2024-09-30;1;Imóvel 1;Setor1;0;0
+15.798.220/0001-80;2024-09-30;1;Imóvel 1;Setor2;0;0
+15.798.220/0001-80;2024-09-30;1;Imóvel 1;Setor3;0;0
+15.798.220/0001-80;2024-09-30;1;Imóvel 1;SetorN;0;0
 15.799.397/0001-09;2024-03-31;1;CEO Corporate Executive Offices;Telecomunicações;1;0.97273608327846
 15.799.397/0001-09;2024-06-30;1;CEO Corporate Executive Offices;Telecomunicações;1;0.96398981365485
 15.799.397/0001-09;2024-09-30;1;CEO Corporate Executive Offices;Telecomunicações;1;0.97145635185761
@@ -4536,6 +4787,20 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 17.282.011/0001-04;2024-06-30;1;Condominio Edificio Isabella Plazza;Outros;0.6087551480143;0.03887895063857
 17.282.011/0001-04;2024-06-30;1;Edificio Maria Cecilia Lara Campos;Serviços Diversos;0.60042282946009;0.05688087192553
 17.282.011/0001-04;2024-06-30;1;Edificio Maria Cecilia Lara Campos;Serviços Financeiros Diversos;0.39957717053991;0.03785382025244
+17.282.011/0001-04;2024-09-30;1;Condominio Continental Square Faria Lima - Torre Comercial;Comércio;0.5657;0.1996
+17.282.011/0001-04;2024-09-30;1;Condominio Continental Square Faria Lima - Torre Comercial;Serviços Diversos;0.4343;0.1533
+17.282.011/0001-04;2024-09-30;1;Edificio Corporate Park;Automóveis e Motocicletas;0.5022;0.1566
+17.282.011/0001-04;2024-09-30;1;Edificio Corporate Park;Holdings Diversificadas;0.2801;0.0874
+17.282.011/0001-04;2024-09-30;1;Edificio Corporate Park;Serviços Financeiros Diversos;0.2176;0.0679
+17.282.011/0001-04;2024-09-30;1;Condominio E-Tower;Comércio;0.2477;0.0375
+17.282.011/0001-04;2024-09-30;1;Condominio E-Tower;Serviços Diversos;0.2533;0.0383
+17.282.011/0001-04;2024-09-30;1;Condominio E-Tower;Serviços Financeiros Diversos;0.499;0.0754
+17.282.011/0001-04;2024-09-30;1;Condominio Edificio Isabella Plazza;Comunicação;0.2644;0.0198
+17.282.011/0001-04;2024-09-30;1;Condominio Edificio Isabella Plazza;Imobiliário;0.2622;0.0197
+17.282.011/0001-04;2024-09-30;1;Condominio Edificio Isabella Plazza;Serviços Diversos;0.4734;0.0355
+17.282.011/0001-04;2024-09-30;1;Edificio Maria Cecilia Lara Campos;Outros;0.5012;0.0547
+17.282.011/0001-04;2024-09-30;1;Edificio Maria Cecilia Lara Campos;Serviços Financeiros Diversos;0.4988;0.0544
+17.308.805/0001-08;2024-09-30;1;Edifício Telles;Outros;1;0.941492
 17.311.079/0001-74;2024-03-31;1;Praça Capital - Bloco 02;Setor1;0;0
 17.311.079/0001-74;2024-03-31;1;Praça Capital - Bloco 02;Setor2;0;0
 17.311.079/0001-74;2024-03-31;1;Praça Capital - Bloco 02;Setor3;0;0
@@ -4564,6 +4829,15 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 17.374.696/0001-19;2024-06-28;3;Galpão  Industrial;INDUSTRIASetor2;0;0
 17.374.696/0001-19;2024-06-28;3;Galpão  Industrial;Setor3;0;0
 17.374.696/0001-19;2024-06-28;3;Galpão  Industrial;SetorN;0;0
+17.374.696/0001-19;2024-09-30;1;Edifício Domo Corporate;Setor1: TECNOLOGIA DA INFORMAÇÃO;0.1179;0.1039
+17.374.696/0001-19;2024-09-30;1;Edifício Domo Corporate;Setor2: SEGUROS E PREVIDÊNCIA;0.163;0.1436
+17.374.696/0001-19;2024-09-30;1;Edifício Domo Corporate;Setor3: LOCAÇÃO DE ESCRITÓRIOS;0.1084;0.0956
+17.374.696/0001-19;2024-09-30;1;Edifício Domo Corporate;Setor4: INDUSTRIA AUTOMOBILISTICA;0.1288;0.1135
+17.374.696/0001-19;2024-09-30;1;Edifício Domo Corporate;;0.237;0.2088
+17.374.696/0001-19;2024-09-30;1;Galpão  Industrial;Setor1;1;0.054
+17.374.696/0001-19;2024-09-30;1;Galpão  Industrial;INDUSTRIASetor2;0;0
+17.374.696/0001-19;2024-09-30;1;Galpão  Industrial;Setor3;0;0
+17.374.696/0001-19;2024-09-30;1;Galpão  Industrial;SetorN;0;0
 17.554.274/0001-25;2024-03-28;1;West Shopping;Loja de Departamento;0.266;0.003241
 17.554.274/0001-25;2024-03-28;1;West Shopping;Semi-âncoras;0.139;0.001694
 17.554.274/0001-25;2024-03-28;1;West Shopping;Alimentação;0.118;0.001438
@@ -4854,6 +5128,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 17.568.605/0001-86;2024-03-31;1;Shopping Mais Largo 13;Estacionamento;0.154545;0.122067
 17.568.605/0001-86;2024-06-30;1;Shopping Mais Largo 13;Varejo;0.845455;0.835453
 17.568.605/0001-86;2024-06-30;1;Shopping Mais Largo 13;Estacionamento;0.154545;0.152717
+17.568.605/0001-86;2024-09-30;1;Shopping Mais Largo 13;Outros;0.496074;0.490373
+17.568.605/0001-86;2024-09-30;1;Shopping Mais Largo 13;Alimentação;0.180743;0.178666
+17.568.605/0001-86;2024-09-30;1;Shopping Mais Largo 13;Varejo;0.323183;0.319469
 17.590.518/0001-25;2024-03-31;1;Shopping Bonsucesso - 36,50%;-;0.006103;0.0058002
 17.590.518/0001-25;2024-03-31;1;Parque Shopping Maia - 36,50%;-;0.0038969;0.0037036
 17.590.518/0001-25;2024-06-30;1;Shopping Bonsucesso - 36,50%;Setor1;0;0
@@ -4864,6 +5141,14 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 17.590.518/0001-25;2024-06-30;1;Parque Shopping Maia - 36,50%;Setor2;0;0
 17.590.518/0001-25;2024-06-30;1;Parque Shopping Maia - 36,50%;Setor3;0;0
 17.590.518/0001-25;2024-06-30;1;Parque Shopping Maia - 36,50%;SetorN;0;0
+17.590.518/0001-25;2024-09-30;1;Shopping Bonsucesso - 36,50%;Setor1;0;0
+17.590.518/0001-25;2024-09-30;1;Shopping Bonsucesso - 36,50%;Setor2;0;0
+17.590.518/0001-25;2024-09-30;1;Shopping Bonsucesso - 36,50%;Setor3;0;0
+17.590.518/0001-25;2024-09-30;1;Shopping Bonsucesso - 36,50%;SetorN;0;0
+17.590.518/0001-25;2024-09-30;1;Parque Shopping Maia - 36,50%;Setor1;0;0
+17.590.518/0001-25;2024-09-30;1;Parque Shopping Maia - 36,50%;Setor2;0;0
+17.590.518/0001-25;2024-09-30;1;Parque Shopping Maia - 36,50%;Setor3;0;0
+17.590.518/0001-25;2024-09-30;1;Parque Shopping Maia - 36,50%;SetorN;0;0
 17.655.115/0001-17;2024-03-31;1;Galpão Industrial Jaraguá do Sul;Plasticos / resinas;1;0
 17.655.115/0001-17;2024-03-31;1;WT Morumbi;Automobilísticos;1;0
 17.655.115/0001-17;2024-06-30;1;Galpão Industrial Jaraguá do Sul;Plasticos / resinas;1;0
@@ -5840,6 +6125,70 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 20.118.470/0001-61;2024-06-28;2;Imovel 8;Setor2;0;0
 20.118.470/0001-61;2024-06-28;2;Imovel 8;Setor3;0;0
 20.118.470/0001-61;2024-06-28;2;Imovel 8;SetorN;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 1;Setor1;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 1;Setor2;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 1;Setor3;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 1;SetorN;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 1;Setor1;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 1;Setor2;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 1;Setor3;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 1;SetorN;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 1;Setor1;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 1;Setor2;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 1;Setor3;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 1;SetorN;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor1;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor2;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor3;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;SetorN;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor1;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor2;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor3;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;SetorN;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor1;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor2;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor3;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;SetorN;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor1;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor2;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor3;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;SetorN;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor1;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor2;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor3;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;SetorN;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor1;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor2;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;Setor3;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 2;SetorN;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 3;Setor1;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 3;Setor2;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 3;Setor3;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 3;SetorN;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 3;Setor1;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 3;Setor2;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 3;Setor3;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 3;SetorN;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 4;Setor1;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 4;Setor2;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 4;Setor3;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 4;SetorN;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 5;Setor1;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 5;Setor2;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 5;Setor3;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 5;SetorN;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 6;Setor1;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 6;Setor2;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 6;Setor3;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 6;SetorN;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 7;Setor1;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 7;Setor2;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 7;Setor3;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 7;SetorN;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 8;Setor1;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 8;Setor2;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 8;Setor3;0;0
+20.118.470/0001-61;2024-09-30;1;Imovel 8;SetorN;0;0
 20.118.492/0001-21;2024-03-28;1;Imóvel 1;Vestuário;0.65;0.65
 20.118.492/0001-21;2024-03-28;1;Imóvel 1;Bijoux;0.27;0.27
 20.118.492/0001-21;2024-06-28;1;Imóvel 1;Vestuário;0.65;0.65
@@ -5848,6 +6197,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 20.118.492/0001-21;2024-09-30;1;Imóvel 1;Bijoux;0.27;0.27
 20.118.507/0001-51;2024-03-28;1;Imóvel sede;Laboratório de Análises Clínicas;0;0
 20.118.507/0001-51;2024-06-28;1;Imóvel sede;Laboratório de Análises Clínicas;0;0
+20.118.507/0001-51;2024-09-30;1;Imóvel sede;Laboratório de Análises Clínicas;0;0
 20.132.453/0001-89;2024-03-31;1;BROOKFIELD;Tecnologia;0.0012;0.0012
 20.132.453/0001-89;2024-06-30;1;BROOKFIELD;Tecnologia;0.0012;0.0012
 20.132.453/0001-89;2024-09-30;1;BROOKFIELD;Tecnologia;0;0
@@ -5933,6 +6283,47 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 20.680.775/0001-62;2024-06-30;1;Condominio Seculum II;Outros;1;0.00675097045463
 20.680.775/0001-62;2024-06-30;1;Girassol 555;Serviços Diversos;1;0.00878838350978
 20.680.775/0001-62;2024-06-30;1;WTorre Nacoes Unidas - Torre III;Serviços Financeiros Diversos;0.97001762998945;0.01286522792833
+20.680.775/0001-62;2024-09-30;1;Edificio Praca Faria Lima;Produtos de Uso Pessoal e de Limpeza;0.10624172203084;0.01448135267545
+20.680.775/0001-62;2024-09-30;1;Edificio Praca Faria Lima;Serviços Financeiros Diversos;0.19497518392025;0.02657622963312
+20.680.775/0001-62;2024-09-30;1;Edificio Praca Faria Lima;Outros;0.23731003910868;0.03234671185733
+20.680.775/0001-62;2024-09-30;1;Edificio Praca Faria Lima;Serviços Diversos;0.12116688628535;0.01651573769084
+20.680.775/0001-62;2024-09-30;1;Edificio Praca Faria Lima;Fundos;0.10297619792674;0.01403624311475
+20.680.775/0001-62;2024-09-30;1;Edificio JK1600;Serviços Financeiros Diversos;0.1679796005413;0.00942313607274
+20.680.775/0001-62;2024-09-30;1;Edificio JK1600;Serviços Diversos;0.26188788421347;0.01469110035262
+20.680.775/0001-62;2024-09-30;1;Edificio JK1600;Exploração de Imóveis;0.17518385679403;0.00982727256761
+20.680.775/0001-62;2024-09-30;1;Edificio JK1600;Outros;0.17991481849084;0.01009266488716
+20.680.775/0001-62;2024-09-30;1;Capital Building;Outros;0.66577084077992;0.00254645801396
+20.680.775/0001-62;2024-09-30;1;Capital Building;Serviços Médico - Hospitalares;0.33422915922008;0.00127836857499
+20.680.775/0001-62;2024-09-30;1;Edificio Capital Plaza;Outros;0.26454673870172;0.00128644870295
+20.680.775/0001-62;2024-09-30;1;Edificio Capital Plaza;Intermediários Financeiros;0.46173061459107;0.00224532252096
+20.680.775/0001-62;2024-09-30;1;Subcondominio FL Office;Serviços Diversos;0.12720721874995;0.00222902770775
+20.680.775/0001-62;2024-09-30;1;Subcondominio FL Office;Outros;0.75627304754519;0.01325202762992
+20.680.775/0001-62;2024-09-30;1;Condominio Edificio Vera Cruz II;Outros;0.17497008507109;0.02867169845329
+20.680.775/0001-62;2024-09-30;1;Condominio Edificio Vera Cruz II;Serviços Diversos;0.16567691078319;0.0271488604736
+20.680.775/0001-62;2024-09-30;1;Condominio Edificio Vera Cruz II;Químicos;0.14923144401095;0.02445400286965
+20.680.775/0001-62;2024-09-30;1;Condominio Edificio Vera Cruz II;Tecidos, Vestuário e Calçados;0.26955719100179;0.04417133644977
+20.680.775/0001-62;2024-09-30;1;Condominio Edificio Vera Cruz II;Serviços Financeiros Diversos;0.24056436913298;0.03942039033464
+20.680.775/0001-62;2024-09-30;1;Edificio Riverside;Outros;1;0.00420584450628
+20.680.775/0001-62;2024-09-30;1;Edificio Paddock I;Serviços Financeiros Diversos;0.50154361566405;0.00256508787933
+20.680.775/0001-62;2024-09-30;1;Edificio Paddock I;Serviços Diversos;0.49845638433595;0.00254929858522
+20.680.775/0001-62;2024-09-30;1;Edificio Aspen;Transporte;0.27030328260546;0.00201381187516
+20.680.775/0001-62;2024-09-30;1;Edificio Aspen;Serviços Financeiros Diversos;0.72969671739454;0.00543638205422
+20.680.775/0001-62;2024-09-30;1;Av das Nacoes Unidas nº 19667;Outros;1;0.00699341394004
+20.680.775/0001-62;2024-09-30;1;Condominio Edificio JK 180;Serviços Financeiros Diversos;0.11911600997288;0.00633082820733
+20.680.775/0001-62;2024-09-30;1;Condominio Edificio JK 180;Serviços Diversos;0.11826976981023;0.00628585187633
+20.680.775/0001-62;2024-09-30;1;Condominio Edificio JK 180;Serviços Médico - Hospitalares;0.4869836443597;0.02588241322826
+20.680.775/0001-62;2024-09-30;1;Condominio Edificio JK 180;Construção e Engenharia;0.17673550953946;0.00939321380295
+20.680.775/0001-62;2024-09-30;1;Edificio FL Corporate;Serviços Financeiros Diversos;0.25991534745273;0.01475753857103
+20.680.775/0001-62;2024-09-30;1;Edificio FL Corporate;Serviços Médico - Hospitalares;0.41217674814806;0.02340267444184
+20.680.775/0001-62;2024-09-30;1;Edificio FL Corporate;Telecomunicações;0.15547055680886;0.00882734613885
+20.680.775/0001-62;2024-09-30;1;Condominio Grande Ufficiale Evaristo Comolatti;Serviços Diversos;1;0.01393861250983
+20.680.775/0001-62;2024-09-30;1;Condominio PJM 109;Viagens e Lazer;0.29997475454219;0.00482350260137
+20.680.775/0001-62;2024-09-30;1;Condominio PJM 109;Serviços Financeiros Diversos;0.15027684126039;0.00241640579338
+20.680.775/0001-62;2024-09-30;1;Condominio PJM 109;Outros;0.15386680037829;0.00247413124155
+20.680.775/0001-62;2024-09-30;1;Condominio PJM 109;Automóveis e Motocicletas;0.21866523998199;0.00351607039563
+20.680.775/0001-62;2024-09-30;1;Condominio Seculum II;Outros;1;0.00727705884416
+20.680.775/0001-62;2024-09-30;1;WTorre Nacoes Unidas - Torre III;Serviços Financeiros Diversos;0.97009741482018;0.01390593218734
+20.680.775/0001-62;2024-09-30;1;Condominio P-11 Pinheiros;Serviços Médico - Hospitalares;1;0.00248299083535
 20.717.355/0001-03;2024-03-28;1;Praça Rio Grande Shopping;Setor1;0;0
 20.717.355/0001-03;2024-03-28;1;Praça Rio Grande Shopping;Setor2;0;0
 20.717.355/0001-03;2024-03-28;1;Praça Rio Grande Shopping;Setor3;0;0
@@ -6019,6 +6410,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 21.085.863/0001-89;2024-06-30;1;Eldorado;Comércio;0.18542;0.18542
 21.085.863/0001-89;2024-06-30;1;Eldorado;Serviços;0.547999;0.547999
 21.085.863/0001-89;2024-06-30;1;Eldorado;Industria;0.266581;0.266581
+21.085.863/0001-89;2024-09-30;1;Eldorado;Comércio;0.18542;0.18542
+21.085.863/0001-89;2024-09-30;1;Eldorado;Serviços;0.547999;0.547999
+21.085.863/0001-89;2024-09-30;1;Eldorado;Industria;0.266581;0.266581
 21.126.204/0001-43;2024-03-31;1;1;Varejo;1;0.011833
 21.126.204/0001-43;2024-03-31;1;2;Varejo;1;0.001388
 21.126.204/0001-43;2024-03-31;1;3;Varejo;1;0.006325
@@ -6209,6 +6603,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 21.500.500/0001-62;2024-03-31;1;Internacional Guarulhos;Estacionamento;0.17911;0.174172
 21.500.500/0001-62;2024-06-30;1;Internacional Shopping;Varejo;0.626823;0.588428
 21.500.500/0001-62;2024-06-30;1;Internacional Shopping;Alimentação;0.290509;0.272714
+21.500.500/0001-62;2024-09-30;1;Internacional Shopping;Outros;0.513729;0.48123
+21.500.500/0001-62;2024-09-30;1;Internacional Shopping;Alimentação;0.177637;0.166399
+21.500.500/0001-62;2024-09-30;1;Internacional Shopping;Varejo;0.308634;0.289109
 21.500.514/0001-86;2024-03-28;1;Parque Shopping Maia;Shopping;1;1
 21.500.514/0001-86;2024-06-28;1;Parque Shopping Maia;Shopping;1;1
 21.500.514/0001-86;2024-09-30;2;Parque Shopping Maia;Cinema;0.13;0.13
@@ -6673,6 +7070,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 22.503.991/0001-68;2024-06-28;2;Imóvel Brás;Setor2;0;0
 22.503.991/0001-68;2024-06-28;2;Imóvel Brás;Setor3;0;0
 22.503.991/0001-68;2024-06-28;2;Imóvel Brás;SetorN;0;0
+22.503.991/0001-68;2024-09-30;1;Imóvel Brás;Setor1;0;0
+22.503.991/0001-68;2024-09-30;1;Imóvel Brás;Setor2;0;0
+22.503.991/0001-68;2024-09-30;1;Imóvel Brás;Setor3;0;0
+22.503.991/0001-68;2024-09-30;1;Imóvel Brás;SetorN;0;0
 22.862.226/0001-34;2024-03-31;1;Alexandre Dumas;Serviços;1;0.236038
 22.862.226/0001-34;2024-03-31;1;Santo Antonio;Comércio;0.400648;0.028938
 22.862.226/0001-34;2024-03-31;1;Santo Antonio;Serviços;0.599352;0.04329
@@ -6777,6 +7178,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 23.740.595/0001-17;2024-09-30;1;Shopping Valinhos;Eletrodomésticos;0.0334;0.0332
 23.768.027/0001-24;2024-03-31;1;Top Center;Varejo;0.958929;0.976625
 23.768.027/0001-24;2024-06-30;1;Shopping Top Center;Varejo;0.481843;0.449663
+23.768.027/0001-24;2024-09-30;1;Shopping Top Center;Alimentação;0.272574;0.256308
+23.768.027/0001-24;2024-09-30;1;Shopping Top Center;Outros;0.638069;0.599596
 24.853.044/0001-22;2024-03-31;1;Alianza Park;Outros;0.205;0.016
 24.853.044/0001-22;2024-03-31;1;Alianza Park;Transportes e Logistica;0.188;0.015
 24.853.044/0001-22;2024-03-31;1;Alianza Park;Saude;0.535;0.042
@@ -7790,6 +8193,43 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 26.642.727/0001-66;2024-06-30;2;Ventura Shopping;Vestuário;0.152708;0.152708
 26.642.727/0001-66;2024-06-30;2;Ventura Shopping;Alimentação;0.136934;0.136934
 26.642.727/0001-66;2024-06-30;2;Ventura Shopping;Calçados;0.108511;0.108511
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Setor1;0.241431;0.241431
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Vestuário Setor2;0.171812;0.171812
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;AlimentaçãoSetor3;0.129098;0.129098
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Eletro/Casa/DecoraçãoSetor4;0.118937;0.118937
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Serviços;0;0
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Setor1;0.2347;0.2347
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Vestuário Setor2;0.168231;0.168231
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;AlimentaçãoSetor3;0.105679;0.105679
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Serviços;0;0
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Setor 1;0.246929;0.246929
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;VestuárioSetor 2;0.173183;0.173183
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Alimentação Setor 3;0.133749;0.133749
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Lazer;0;0
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Setor 1;0.273653;0.273653
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;VestuárioSetor 2;0.193201;0.193201
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Alimentação Setor 3;0.103435;0.103435
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Lazer;0;0
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Vestuário;0.244715;0.244715
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Alimentação;0.165319;0.165319
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Calçados;0.113527;0.113527
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Vestuário;0.28539;0.28539
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Alimentação;0.171119;0.171119
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Lazer;0.119522;0.119522
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Vestuário;0.214818;0.214818
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Alimentação;0.17912;0.17912
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Lazer;0.116012;0.116012
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Serviços;0.105838;0.105838
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Setor1;0;0
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Setor2;0;0
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Setor3;0;0
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;SetorN;0;0
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Vestuário;0.182662;0.182662
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Alimentação;0.164059;0.164059
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Estacionamento;0.10715;0.10715
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Vestuário;0.152708;0.152708
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Alimentação;0.136934;0.136934
+26.642.727/0001-66;2024-09-30;1;Ventura Shopping;Calçados;0.108511;0.108511
 26.642.834/0001-94;2024-03-28;1;Itau Agências;Aluguel lajes;0;0
 26.642.834/0001-94;2024-03-28;1;Itau Agências;Aluguel lajes;0;0
 26.642.834/0001-94;2024-06-30;1;Itau Agências;Aluguel lajes;0;0
@@ -7877,6 +8317,12 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 27.445.482/0001-40;2024-06-30;1;Edifício Thera Corporate;Logísitica;0.211143;0.106822
 27.445.482/0001-40;2024-06-30;1;Edifício Thera Corporate;Bens e Consumo;0.130661;0.066104
 27.445.482/0001-40;2024-06-30;1;Edifício Thera Corporate;Serviços;0.109078;0.055185
+27.445.482/0001-40;2024-09-30;1;Edifício WT Morumbi;Bens de Consumo;0.363825;0.170539
+27.445.482/0001-40;2024-09-30;1;Edifício WT Morumbi;Co Working;0.117204;0.054938
+27.445.482/0001-40;2024-09-30;1;Edifício Thera Corporate;Logística;0.403588;0.205345
+27.445.482/0001-40;2024-09-30;1;Edifício Thera Corporate;Farmacêutico;0.231386;0.117729
+27.445.482/0001-40;2024-09-30;1;Edifício Thera Corporate;Bens de Consumo;0.240431;0.122331
+27.445.482/0001-40;2024-09-30;1;Edifício Thera Corporate;Serviços;0.124594;0.063393
 27.486.542/0001-72;2024-03-31;2;Condomínio Citlog Sul de Minas;Farmacêutico;0.369158;0.1267
 27.486.542/0001-72;2024-03-31;2;Condomínio Citlog Sul de Minas;Cosméticos e Perfumaria;0.358005;0.122873
 27.486.542/0001-72;2024-03-31;2;Centro Logístico e Industrial Salto;Serviços;0.106363;0.008635
@@ -7892,6 +8338,12 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 27.486.542/0001-72;2024-06-30;1;Ciltog Viracopos;Operador Logístico;0.265056;0.090248
 27.486.542/0001-72;2024-06-30;1;Ciltog Viracopos;E-Commerce;0.101644;0.034608
 27.486.542/0001-72;2024-06-30;1;Galpão Vila Prudente;Indústria;1;0.911895
+27.486.542/0001-72;2024-09-30;1;Condomínio Citlog Sul de Minas;Farmacêutico;0.423735;0.17676
+27.486.542/0001-72;2024-09-30;1;Condomínio Citlog Sul de Minas;Cosméticos e Perfumaria;0.360964;0.11765
+27.486.542/0001-72;2024-09-30;1;Ciltog Viracopos;Energia Fotovoltaica;0.546088;0.209117
+27.486.542/0001-72;2024-09-30;1;Ciltog Viracopos;E-Commerce;0.115706;0.044308
+27.486.542/0001-72;2024-09-30;1;Ciltog Viracopos;Materiais Básicos;0.105316;0.040329
+27.486.542/0001-72;2024-09-30;1;Galpão Vila Prudente;Indústria Química;0.128197;0.11765
 27.538.422/0001-71;2024-03-28;1;IM. CAMAÇARI;Varejo alimentar;0;0
 27.538.422/0001-71;2024-03-28;1;IM. CASTANHA;Varejo alimentar;0;0
 27.538.422/0001-71;2024-03-28;1;IM. CURITIBA;Varejo alimentar;0;0
@@ -7947,10 +8399,16 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 27.538.477/0001-81;2024-03-31;1;SEVILHA 136;Moradia;0;0
 27.538.477/0001-81;2024-06-30;1;C JOÃO GODOY;Imobiliário;0;0
 27.538.477/0001-81;2024-06-30;1;SEVILHA 136;Moradia;0;0
+27.538.477/0001-81;2024-09-30;1;C JOÃO GODOY;Imobiliário;0;0
+27.538.477/0001-81;2024-09-30;1;SEVILHA 136;Moradia;0;0
 27.539.651/0001-00;2024-06-28;1;IMÓVEL  1;Setor1;0;0
 27.539.651/0001-00;2024-06-28;1;IMÓVEL  1;Setor2;0;0
 27.539.651/0001-00;2024-06-28;1;IMÓVEL  1;Setor3;0;0
 27.539.651/0001-00;2024-06-28;1;IMÓVEL  1;SetorN;0;0
+27.539.651/0001-00;2024-09-30;1;IMÓVEL  1;Setor1;0;0
+27.539.651/0001-00;2024-09-30;1;IMÓVEL  1;Setor2;0;0
+27.539.651/0001-00;2024-09-30;1;IMÓVEL  1;Setor3;0;0
+27.539.651/0001-00;2024-09-30;1;IMÓVEL  1;SetorN;0;0
 27.580.051/0001-96;2024-03-31;1;Empreendimento não residencial na cidade de Bonito - PE;Industria;0;0
 27.580.051/0001-96;2024-06-30;1;Empreendimento não residencial na cidade de Bonito - PE;Industria;0;0
 27.590.950/0001-70;2024-03-31;1;Galpão localizado em Jandira - SP;Setor1;0;0
@@ -7973,6 +8431,18 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 27.773.327/0001-52;2024-06-28;1;IMOVEL BDS;Setor2;0;0
 27.773.327/0001-52;2024-06-28;1;IMOVEL BDS;Setor3;0;0
 27.773.327/0001-52;2024-06-28;1;IMOVEL BDS;SetorN;0;0
+27.773.327/0001-52;2024-09-30;1;IMOVEL BDS;Setor1;0;0
+27.773.327/0001-52;2024-09-30;1;IMOVEL BDS;Setor2;0;0
+27.773.327/0001-52;2024-09-30;1;IMOVEL BDS;Setor3;0;0
+27.773.327/0001-52;2024-09-30;1;IMOVEL BDS;SetorN;0;0
+27.773.327/0001-52;2024-09-30;1;IMOVEL BONSUCESSO;Setor1;0;0
+27.773.327/0001-52;2024-09-30;1;IMOVEL BONSUCESSO;Setor2;0;0
+27.773.327/0001-52;2024-09-30;1;IMOVEL BONSUCESSO;Setor3;0;0
+27.773.327/0001-52;2024-09-30;1;IMOVEL BONSUCESSO;SetorN;0;0
+27.773.327/0001-52;2024-09-30;1;IMOVEL SÃO PAULO;Setor1;0;0
+27.773.327/0001-52;2024-09-30;1;IMOVEL SÃO PAULO;Setor2;0;0
+27.773.327/0001-52;2024-09-30;1;IMOVEL SÃO PAULO;Setor3;0;0
+27.773.327/0001-52;2024-09-30;1;IMOVEL SÃO PAULO;SetorN;0;0
 27.882.134/0001-30;2024-03-31;1;APARTAMENTO DUPLEX 202;Setor1;0;0
 27.882.134/0001-30;2024-03-31;1;APARTAMENTO DUPLEX 202;Setor2;0;0
 27.882.134/0001-30;2024-03-31;1;APARTAMENTO DUPLEX 202;Setor3;0;0
@@ -8097,8 +8567,13 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 28.267.530/0001-10;2024-06-28;2;BROOKLIN;Setor2;0;0
 28.267.530/0001-10;2024-06-28;2;BROOKLIN;Setor3;0;0
 28.267.530/0001-10;2024-06-28;2;BROOKLIN;SetorN;0;0
+28.267.530/0001-10;2024-09-30;1;BROOKLIN;Setor1;0;0
+28.267.530/0001-10;2024-09-30;1;BROOKLIN;Setor2;0;0
+28.267.530/0001-10;2024-09-30;1;BROOKLIN;Setor3;0;0
+28.267.530/0001-10;2024-09-30;1;BROOKLIN;SetorN;0;0
 28.267.555/0001-13;2024-03-31;1;CONDOMINIO LED CORPORATE;Construção Civil;0;0.0022
 28.267.555/0001-13;2024-06-30;1;CONDOMINIO LED CORPORATE;Construção Civil;0;0.00319
+28.267.555/0001-13;2024-09-30;1;CONDOMINIO LED CORPORATE;Construção Civil;0;0.1
 28.267.696/0001-36;2024-03-31;1;Fabrica - Goiania;Embalagens;1;0.02518022180797
 28.267.696/0001-36;2024-03-31;1;Imovel Mirassol - Posto Monte Carlo;Petróleo, Gás e Biocombustíveis;1;0.02882096347343
 28.267.696/0001-36;2024-03-31;1;Galpao Caucaia - Stock Teck;Outros;1;0.02779196689872
@@ -8117,6 +8592,15 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 28.267.696/0001-36;2024-06-30;1;Galpao Industrial - Imperio;Bebidas;1;0.21660934947951
 28.267.696/0001-36;2024-06-30;1;Empreendimento Votorantim - Splice;Computadores e Equipamentos;1;0.07059860343513
 28.267.696/0001-36;2024-06-30;1;Total Ville Planaltina;Comércio e Distribuição;1;0.03226555941701
+28.267.696/0001-36;2024-09-30;1;Fabrica - Goiania;Embalagens;1;0.03576565765728
+28.267.696/0001-36;2024-09-30;1;Imovel Mirassol - Posto Monte Carlo;Petróleo, Gás e Biocombustíveis;1;0.04093691949202
+28.267.696/0001-36;2024-09-30;1;Galpao Caucaia - Stock Teck;Outros;1;0.03947534621826
+28.267.696/0001-36;2024-09-30;1;Imovel Andorinha - Sao Paulo;Transporte;1;0.02839952965343
+28.267.696/0001-36;2024-09-30;1;Imovel Andorinha - Campo Grande;Transporte;1;0.01656639135118
+28.267.696/0001-36;2024-09-30;1;Galpao Voar;Holdings Diversificadas;1;0.14483760123248
+28.267.696/0001-36;2024-09-30;1;Galpao Industrial - Imperio;Bebidas;1;0.31949470860105
+28.267.696/0001-36;2024-09-30;1;Empreendimento Votorantim - Splice;Computadores e Equipamentos;1;0.10413160967588
+28.267.696/0001-36;2024-09-30;1;Total Ville Planaltina;Comércio e Distribuição;1;0.05236800281301
 28.516.325/0001-40;2024-03-31;1;BM-01-03;Farma;0;4E-05
 28.516.325/0001-40;2024-03-31;1;BM-01-04;n.a.;0;0
 28.516.325/0001-40;2024-03-31;1;BM-01-05;n.a.;0;0
@@ -8617,41 +9101,41 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 28.757.546/0001-00;2024-06-30;2;Shopping Metropolitano Barra;VESTUÁRIO;0.1078;0.0002
 28.757.546/0001-00;2024-06-30;2;Uberlândia Shopping A;ESTACIONAMENTO;0.4157;0.0008
 28.757.546/0001-00;2024-06-30;2;Tietê Plaza Shopping;Não possui;0;0
-28.757.546/0001-00;2024-09-30;1;Caxias Shopping;Varejo;0.89495205055948;0.036293001818
-28.757.546/0001-00;2024-09-30;1;Caxias Shopping;Estacionamento;0.10504794944052;0.0042600108214
-28.757.546/0001-00;2024-09-30;1;Downtown Shopping;Varejo;0.9752193117577;0.02229762038504
-28.757.546/0001-00;2024-09-30;1;Natal Shopping;Varejo;0.84938140886109;0.04604972033953
-28.757.546/0001-00;2024-09-30;1;Natal Shopping;Estacionamento;0.15061859113891;0.00816587686936
-28.757.546/0001-00;2024-09-30;1;Plaza Sul Shopping;Varejo;0.9071462481773;0.06701273407462
-28.757.546/0001-00;2024-09-30;1;Catarina Fashion Outlet;Varejo;0.84995182936929;0.08461896500269
-28.757.546/0001-00;2024-09-30;1;Catarina Fashion Outlet;Estacionamento;0.15004817063071;0.01493840057823
-28.757.546/0001-00;2024-09-30;1;Shopping Cidade Jardim;Varejo;0.99893413064423;0.05802068183381
-28.757.546/0001-00;2024-09-30;1;Santana Parque Shopping;Varejo;0.74006667424526;0.00743915244184
-28.757.546/0001-00;2024-09-30;1;Santana Parque Shopping;Estacionamento;0.25993332575474;0.00261285057455
-28.757.546/0001-00;2024-09-30;1;Shopping Ponta Negra;Varejo;0.84174344475722;0.04127032298195
-28.757.546/0001-00;2024-09-30;1;Shopping Ponta Negra;Estacionamento;0.15825655524278;0.00775925157429
-28.757.546/0001-00;2024-09-30;1;Shopping Cidade São Paulo;Varejo;0.91042080539409;0.05228745299189
-28.757.546/0001-00;2024-09-30;1;Shopping da Bahia;Varejo;0.87459030547796;0.04957310591545
-28.757.546/0001-00;2024-09-30;1;Shopping da Bahia;Estacionamento;0.12540969452204;0.00710841182486
-28.757.546/0001-00;2024-09-30;1;Campinas Shopping;Varejo;0.53753498645886;0.0102612620091
-28.757.546/0001-00;2024-09-30;1;Campinas Shopping;Estacionamento;0.46246501354114;0.008828215453
-28.757.546/0001-00;2024-09-30;1;Praia de Belas;Varejo;1;0.00822213198065
-28.757.546/0001-00;2024-09-30;1;Praia de Belas;Estacionamento;0;0
-28.757.546/0001-00;2024-09-30;1;Shopping Estação Curitiba;Varejo;0.9092344866291;0.02907697625104
-28.757.546/0001-00;2024-09-30;1;Shopping Bela Vista;Varejo;0.86767420859844;0.03338633763612
-28.757.546/0001-00;2024-09-30;1;Shopping Bela Vista;Estacionamento;0.13232579140156;0.0050916271406
-28.757.546/0001-00;2024-09-30;1;Grand Plaza Shopping;Varejo;0.81168042686715;-0.02712839880314
-28.757.546/0001-00;2024-09-30;1;Grand Plaza Shopping;Estacionamento;0;0
-28.757.546/0001-00;2024-09-30;1;Shopping Cerrado;Varejo;0.70444724206878;0.00501999107232
-28.757.546/0001-00;2024-09-30;1;Shopping Cerrado;Estacionamento;0.29555275793122;0.00210615091892
-28.757.546/0001-00;2024-09-30;1;Shopping D;Varejo;0.5973924171026;0.00364370279818
-28.757.546/0001-00;2024-09-30;1;Shopping D;Estacionamento;0.4026075828974;0.00245564278081
-28.757.546/0001-00;2024-09-30;1;Shopping Metropolitano Barra;Varejo;0.70706498128839;0.03415641571404
-28.757.546/0001-00;2024-09-30;1;Shopping Metropolitano Barra;Estacionamento;0.29293501871161;0.01415090626901
-28.757.546/0001-00;2024-09-30;1;Uberlândia Shopping A;Varejo;0.76945249674646;0.06366402450884
-28.757.546/0001-00;2024-09-30;1;Uberlândia Shopping A;Estacionamento;0.23054750325354;0.01907535807558
-28.757.546/0001-00;2024-09-30;1;Tietê Plaza Shopping;Varejo;0.70377338908839;0.06412863362303
-28.757.546/0001-00;2024-09-30;1;Tietê Plaza Shopping;Estacionamento;0.29622661091161;0.0269925065299
+28.757.546/0001-00;2024-09-30;2;Caxias Shopping;Varejo;0.89495205055948;0.036293001818
+28.757.546/0001-00;2024-09-30;2;Caxias Shopping;Estacionamento;0.10504794944052;0.0042600108214
+28.757.546/0001-00;2024-09-30;2;Downtown Shopping;Varejo;0.9752193117577;0.02229762038504
+28.757.546/0001-00;2024-09-30;2;Natal Shopping;Varejo;0.84938140886109;0.04604972033953
+28.757.546/0001-00;2024-09-30;2;Natal Shopping;Estacionamento;0.15061859113891;0.00816587686936
+28.757.546/0001-00;2024-09-30;2;Plaza Sul Shopping;Varejo;0.9071462481773;0.06701273407462
+28.757.546/0001-00;2024-09-30;2;Catarina Fashion Outlet;Varejo;0.84995182936929;0.08461896500269
+28.757.546/0001-00;2024-09-30;2;Catarina Fashion Outlet;Estacionamento;0.15004817063071;0.01493840057823
+28.757.546/0001-00;2024-09-30;2;Shopping Cidade Jardim;Varejo;0.99893413064423;0.05802068183381
+28.757.546/0001-00;2024-09-30;2;Santana Parque Shopping;Varejo;0.74006667424526;0.00743915244184
+28.757.546/0001-00;2024-09-30;2;Santana Parque Shopping;Estacionamento;0.25993332575474;0.00261285057455
+28.757.546/0001-00;2024-09-30;2;Shopping Ponta Negra;Varejo;0.84174344475722;0.04127032298195
+28.757.546/0001-00;2024-09-30;2;Shopping Ponta Negra;Estacionamento;0.15825655524278;0.00775925157429
+28.757.546/0001-00;2024-09-30;2;Shopping Cidade São Paulo;Varejo;0.91042080539409;0.05228745299189
+28.757.546/0001-00;2024-09-30;2;Shopping da Bahia;Varejo;0.87459030547796;0.04957310591545
+28.757.546/0001-00;2024-09-30;2;Shopping da Bahia;Estacionamento;0.12540969452204;0.00710841182486
+28.757.546/0001-00;2024-09-30;2;Campinas Shopping;Varejo;0.53753498645886;0.0102612620091
+28.757.546/0001-00;2024-09-30;2;Campinas Shopping;Estacionamento;0.46246501354114;0.008828215453
+28.757.546/0001-00;2024-09-30;2;Praia de Belas;Varejo;1;0.00822213198065
+28.757.546/0001-00;2024-09-30;2;Praia de Belas;Estacionamento;0;0
+28.757.546/0001-00;2024-09-30;2;Shopping Estação Curitiba;Varejo;0.9092344866291;0.02907697625104
+28.757.546/0001-00;2024-09-30;2;Shopping Bela Vista;Varejo;0.86767420859844;0.03338633763612
+28.757.546/0001-00;2024-09-30;2;Shopping Bela Vista;Estacionamento;0.13232579140156;0.0050916271406
+28.757.546/0001-00;2024-09-30;2;Grand Plaza Shopping;Varejo;0.81168042686715;-0.02712839880314
+28.757.546/0001-00;2024-09-30;2;Grand Plaza Shopping;Estacionamento;0;0
+28.757.546/0001-00;2024-09-30;2;Shopping Cerrado;Varejo;0.70444724206878;0.00501999107232
+28.757.546/0001-00;2024-09-30;2;Shopping Cerrado;Estacionamento;0.29555275793122;0.00210615091892
+28.757.546/0001-00;2024-09-30;2;Shopping D;Varejo;0.5973924171026;0.00364370279818
+28.757.546/0001-00;2024-09-30;2;Shopping D;Estacionamento;0.4026075828974;0.00245564278081
+28.757.546/0001-00;2024-09-30;2;Shopping Metropolitano Barra;Varejo;0.70706498128839;0.03415641571404
+28.757.546/0001-00;2024-09-30;2;Shopping Metropolitano Barra;Estacionamento;0.29293501871161;0.01415090626901
+28.757.546/0001-00;2024-09-30;2;Uberlândia Shopping A;Varejo;0.76945249674646;0.06366402450884
+28.757.546/0001-00;2024-09-30;2;Uberlândia Shopping A;Estacionamento;0.23054750325354;0.01907535807558
+28.757.546/0001-00;2024-09-30;2;Tietê Plaza Shopping;Varejo;0.70377338908839;0.06412863362303
+28.757.546/0001-00;2024-09-30;2;Tietê Plaza Shopping;Estacionamento;0.29622661091161;0.0269925065299
 28.851.767/0001-43;2024-03-31;1;Hospital Unimed Sul Capixaba;Saúde;1;0.985125
 28.851.767/0001-43;2024-06-30;1;Hospital Unimed Sul Capixaba;Saúde;1;0.990823
 28.851.767/0001-43;2024-09-30;1;Hospital Unimed Sul Capixaba;Saúde;1;0.991888
@@ -8943,6 +9427,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 30.248.129/0001-84;2024-06-28;3;Sumauma Park Shopping;Setor2;0;0
 30.248.129/0001-84;2024-06-28;3;Sumauma Park Shopping;Setor3;0;0
 30.248.129/0001-84;2024-06-28;3;Sumauma Park Shopping;SetorN;0;0
+30.248.129/0001-84;2024-09-30;1;Sumauma Park Shopping;Setor1;0;0
+30.248.129/0001-84;2024-09-30;1;Sumauma Park Shopping;Setor2;0;0
+30.248.129/0001-84;2024-09-30;1;Sumauma Park Shopping;Setor3;0;0
+30.248.129/0001-84;2024-09-30;1;Sumauma Park Shopping;SetorN;0;0
 30.248.158/0001-46;2024-03-31;1;Boulevard Shopping Campos;Varejo;0.983585;0.219828
 30.248.158/0001-46;2024-03-31;1;Consorcio Parque Shopping Belem;Varejo;0.983585;0.590156
 30.248.158/0001-46;2024-06-30;1;Boulevard Shopping Campos;VAREJO;0.983208;0.23052683632171
@@ -9345,6 +9833,13 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 30.642.032/0001-51;2024-06-28;2;Bom Jardim;Setor2;0;0
 30.642.032/0001-51;2024-06-28;2;Bom Jardim;Setor3;0;0
 30.642.032/0001-51;2024-06-28;2;Bom Jardim;SetorN;0;0
+30.642.032/0001-51;2024-09-30;1;CTR Empresarial - Galpão;Logística;0.07145;0
+30.642.032/0001-51;2024-09-30;1;CTR Empresarial - Galpão;Cosmético;0.764;0
+30.642.032/0001-51;2024-09-30;1;CTR Empresarial - Galpão;Alimentação;0.1645;0
+30.642.032/0001-51;2024-09-30;1;Bom Jardim;Setor1;0;0
+30.642.032/0001-51;2024-09-30;1;Bom Jardim;Setor2;0;0
+30.642.032/0001-51;2024-09-30;1;Bom Jardim;Setor3;0;0
+30.642.032/0001-51;2024-09-30;1;Bom Jardim;SetorN;0;0
 30.654.849/0001-40;2024-03-31;1;Edifício Corporate Evolution;Serviços Financeiros;0.65;0.21
 30.654.849/0001-40;2024-03-31;1;Edifício Corporate Evolution;Saúde;0.11;0.04
 30.654.849/0001-40;2024-03-31;1;Edifício Corporate Evolution;Industrial;0.14;0.05
@@ -9899,6 +10394,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 31.145.875/0001-05;2024-06-30;1;Paulista;Comercio;0;0
 31.145.875/0001-05;2024-06-30;1;Paulista;Serviços;1;1
 31.145.875/0001-05;2024-06-30;1;Paulista;Industria;0;0
+31.145.875/0001-05;2024-09-30;1;Paulista;Comercio;0;0
+31.145.875/0001-05;2024-09-30;1;Paulista;Serviços;1;1
+31.145.875/0001-05;2024-09-30;1;Paulista;Industria;0;0
 31.469.385/0001-64;2024-03-31;1;Europa 105;Financeiro;0;0
 31.469.385/0001-64;2024-06-30;1;Europa 105;Financeiro;0;0
 31.469.385/0001-64;2024-09-30;1;Europa 105;Financeiro;0;0
@@ -9960,6 +10458,20 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 31.894.369/0001-19;2024-06-30;1;Edifício Corporate Alamedas;Setor2;0;0
 31.894.369/0001-19;2024-06-30;1;Edifício Corporate Alamedas;Setor3;0;0
 31.894.369/0001-19;2024-06-30;1;Edifício Corporate Alamedas;SetorN;0;0
+31.894.369/0001-19;2024-09-30;1;Edifício Rachid Saliba;Consultoria;0.528979;0.212426
+31.894.369/0001-19;2024-09-30;1;Edifício Rachid Saliba;Editorial;0.198236;0.079607
+31.894.369/0001-19;2024-09-30;1;Edifício Rachid Saliba;Tecnologia;0.107654;0.043231
+31.894.369/0001-19;2024-09-30;1;Edifício Rachid Saliba;Varejo;0.106198;0.042647
+31.894.369/0001-19;2024-09-30;1;Edifício Morumbi;Indústria;0.641096;0.211375
+31.894.369/0001-19;2024-09-30;1;Edifício Morumbi;Varejo;0.262411;0.086519
+31.894.369/0001-19;2024-09-30;1;Edifício Birmann 20;Telecomunicação;0.42142;0.076522
+31.894.369/0001-19;2024-09-30;1;Edifício Birmann 20;Comércio;0.273589;0.049678
+31.894.369/0001-19;2024-09-30;1;Edifício Birmann 20;Consultoria;0.192276;0.034914
+31.894.369/0001-19;2024-09-30;1;Edifício Birmann 20;Tecnologia;0.112715;0.020467
+31.894.369/0001-19;2024-09-30;1;Edifício Corporate Alamedas;Setor1;0;0
+31.894.369/0001-19;2024-09-30;1;Edifício Corporate Alamedas;Setor2;0;0
+31.894.369/0001-19;2024-09-30;1;Edifício Corporate Alamedas;Setor3;0;0
+31.894.369/0001-19;2024-09-30;1;Edifício Corporate Alamedas;SetorN;0;0
 31.907.591/0001-09;2024-03-28;1;GALPÃO SCANIA;Setor1;0;0
 31.907.591/0001-09;2024-03-28;1;GALPÃO SCANIA;Setor2;0;0
 31.907.591/0001-09;2024-03-28;1;GALPÃO SCANIA;Setor3;0;0
@@ -10644,6 +11156,18 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 32.754.734/0001-52;2024-06-30;1;Silo Jatai;Comércio e Distribuição;1;0.0660463115365
 32.754.734/0001-52;2024-06-30;1;Silo Nova Ponte;Comércio e Distribuição;1;0.13142116779159
 32.754.734/0001-52;2024-06-30;1;Silo Paranagua - PR;Alimentos Processados;1;0.1242776066369
+32.754.734/0001-52;2024-09-30;2;Silo Bela Vista do Paraiso;Outros Títulos;1;0.0960010765624
+32.754.734/0001-52;2024-09-30;2;Silo Assai - Seccao Balsamo;Outros Títulos;1;0.06772353176158
+32.754.734/0001-52;2024-09-30;2;Silo Sabaudia;Outros Títulos;1;0.04316880354658
+32.754.734/0001-52;2024-09-30;2;Silo Cambe;Outros Títulos;1;0.14198179347103
+32.754.734/0001-52;2024-09-30;2;Silo Campo Ere;Comércio e Distribuição;1;0.0214546007895
+32.754.734/0001-52;2024-09-30;2;Filial Pato Branco;Comércio e Distribuição;1;0.03738492458729
+32.754.734/0001-52;2024-09-30;2;Filial Medianeira;Comércio e Distribuição;1;0.03698107693404
+32.754.734/0001-52;2024-09-30;2;Filial Francisco Beltrao;Comércio e Distribuição;1;0.05701986901508
+32.754.734/0001-52;2024-09-30;2;Silo Uberlandia;Comércio e Distribuição;1;0.14353414402416
+32.754.734/0001-52;2024-09-30;2;Silo Jatai;Comércio e Distribuição;1;0.06810492633978
+32.754.734/0001-52;2024-09-30;2;Silo Nova Ponte;Comércio e Distribuição;1;0.1355174680701
+32.754.734/0001-52;2024-09-30;2;Silo Paranagua - PR;Alimentos Processados;1;0.1230391348855
 32.892.018/0001-31;2024-03-31;1;SHOPPING PATIO MACEIO;Alimentação;0.103496;0.019665
 32.892.018/0001-31;2024-03-31;1;SHOPPING PATIO MACEIO;Artigos para o lar;0.130697;0.024833
 32.892.018/0001-31;2024-03-31;1;SHOPPING PATIO MACEIO;Conveniência/Serviços;0.127555;0.024236
@@ -10826,6 +11350,15 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 33.046.142/0001-49;2024-06-30;1;Shopping Contagem;Alimentação;0.19815;0.052851
 33.046.142/0001-49;2024-06-30;1;Ilha Plaza Shopping;Varejo;0.761311;0.133228
 33.046.142/0001-49;2024-06-30;1;Ilha Plaza Shopping;Alimentação;0.168176;0.02943
+33.046.142/0001-49;2024-09-30;1;Londrina Norte Shopping;Varejo;0.626514;0.056401
+33.046.142/0001-49;2024-09-30;1;Londrina Norte Shopping;Alimentação;0.29075;0.026174
+33.046.142/0001-49;2024-09-30;1;Capim Dourado Shopping;Varejo;0.75716;0.0619
+33.046.142/0001-49;2024-09-30;1;Capim Dourado Shopping;Alimentação;0.14561;0.011903
+33.046.142/0001-49;2024-09-30;1;Shopping Contagem;Outros;0.167762;0.03612
+33.046.142/0001-49;2024-09-30;1;Shopping Contagem;Varejo;0.634088;0.136521
+33.046.142/0001-49;2024-09-30;1;Shopping Contagem;Alimentação;0.19815;0.042662
+33.046.142/0001-49;2024-09-30;1;Ilha Plaza Shopping;Varejo;0.761311;0.116975
+33.046.142/0001-49;2024-09-30;1;Ilha Plaza Shopping;Alimentação;0.168176;0.02584
 33.701.455/0001-93;2024-03-31;1;Unidade Fabril localizada no município de Contagem - MG.;Industria;1;1
 33.701.455/0001-93;2024-06-30;1;Unidade Fabril localizada no município de Contagem - MG.;Industria;1;1
 33.701.455/0001-93;2024-09-30;1;Unidade Fabril localizada no município de Contagem - MG.;Industria;1;1
@@ -10847,8 +11380,13 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 34.081.637/0001-71;2024-06-30;1;JANDIRA GLP;Resinas plásticas;0;0
 34.081.637/0001-71;2024-06-30;1;JANDIRA GLP;Tecnologia;0;0
 34.081.637/0001-71;2024-06-30;1;CABREUVA;0;0;0
+34.081.637/0001-71;2024-09-30;1;JANDIRA GLP;Alimentos;1;0.33
+34.081.637/0001-71;2024-09-30;1;JANDIRA GLP;Resinas plásticas;0;0
+34.081.637/0001-71;2024-09-30;1;JANDIRA GLP;Tecnologia;0;0
+34.081.637/0001-71;2024-09-30;1;CABREUVA;Não aplicável;0;0
 34.197.776/0001-65;2024-03-31;1;Hotel Viila Madalena;Hoteis e Restaurantes;1;0.14383773607899
 34.197.776/0001-65;2024-06-30;1;Hotel Viila Madalena;Hoteis e Restaurantes;1;0.0824101395018
+34.197.776/0001-65;2024-09-30;1;Hotel Viila Madalena;Hoteis e Restaurantes;1;0.01948323474028
 34.509.007/0001-55;2024-03-28;1;Bela cintra;Setor1;0;0
 34.509.007/0001-55;2024-03-28;1;Bela cintra;Setor2;0;0
 34.509.007/0001-55;2024-03-28;1;Bela cintra;Setor3;0;0
@@ -10857,6 +11395,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 34.509.007/0001-55;2024-06-28;1;Bela cintra;Setor2;0;0
 34.509.007/0001-55;2024-06-28;1;Bela cintra;Setor3;0;0
 34.509.007/0001-55;2024-06-28;1;Bela cintra;SetorN;0;0
+34.509.007/0001-55;2024-09-30;1;Bela cintra;Setor1;0;0
+34.509.007/0001-55;2024-09-30;1;Bela cintra;Setor2;0;0
+34.509.007/0001-55;2024-09-30;1;Bela cintra;Setor3;0;0
+34.509.007/0001-55;2024-09-30;1;Bela cintra;SetorN;0;0
 34.547.078/0001-42;2024-03-28;1;BUTANTA;Setor1;0;0
 34.547.078/0001-42;2024-03-28;1;BUTANTA;Setor2;0;0
 34.547.078/0001-42;2024-03-28;1;BUTANTA;Setor3;0;0
@@ -10889,6 +11431,30 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 34.547.078/0001-42;2024-06-28;2;SANTO AMARO;Setor2;0;0
 34.547.078/0001-42;2024-06-28;2;SANTO AMARO;Setor3;0;0
 34.547.078/0001-42;2024-06-28;2;SANTO AMARO;SetorN;0;0
+34.547.078/0001-42;2024-09-30;1;CHANÉS;Setor1;0;0
+34.547.078/0001-42;2024-09-30;1;CHANÉS;Setor2;0;0
+34.547.078/0001-42;2024-09-30;1;CHANÉS;Setor3;0;0
+34.547.078/0001-42;2024-09-30;1;CHANÉS;SetorN;0;0
+34.547.078/0001-42;2024-09-30;1;MARACATINS;Setor1;0;0
+34.547.078/0001-42;2024-09-30;1;MARACATINS;Setor2;0;0
+34.547.078/0001-42;2024-09-30;1;MARACATINS;Setor3;0;0
+34.547.078/0001-42;2024-09-30;1;MARACATINS;SetorN;0;0
+34.547.078/0001-42;2024-09-30;1;BUTANTA;Setor1;0;0
+34.547.078/0001-42;2024-09-30;1;BUTANTA;Setor2;0;0
+34.547.078/0001-42;2024-09-30;1;BUTANTA;Setor3;0;0
+34.547.078/0001-42;2024-09-30;1;BUTANTA;SetorN;0;0
+34.547.078/0001-42;2024-09-30;1;SANTO AMARO;Setor1;0;0
+34.547.078/0001-42;2024-09-30;1;SANTO AMARO;Setor2;0;0
+34.547.078/0001-42;2024-09-30;1;SANTO AMARO;Setor3;0;0
+34.547.078/0001-42;2024-09-30;1;SANTO AMARO;SetorN;0;0
+34.547.078/0001-42;2024-09-30;1;SANTO AMARO;Setor1;0;0
+34.547.078/0001-42;2024-09-30;1;SANTO AMARO;Setor2;0;0
+34.547.078/0001-42;2024-09-30;1;SANTO AMARO;Setor3;0;0
+34.547.078/0001-42;2024-09-30;1;SANTO AMARO;SetorN;0;0
+34.547.078/0001-42;2024-09-30;1;MARACATINS;Setor1;0;0
+34.547.078/0001-42;2024-09-30;1;MARACATINS;Setor2;0;0
+34.547.078/0001-42;2024-09-30;1;MARACATINS;Setor3;0;0
+34.547.078/0001-42;2024-09-30;1;MARACATINS;SetorN;0;0
 34.598.181/0001-11;2024-03-28;1;LOG I;Farmacêutico e médico-hospitalar;0.52938;0.131858
 34.598.181/0001-11;2024-03-28;1;LOG I;Alimentos e bebidas;0.287104;0.071512
 34.598.181/0001-11;2024-03-28;1;LOG I;Energia e Telecomunicações;0.14068;0.03504
@@ -10934,6 +11500,20 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 34.691.520/0001-00;2024-06-30;1;Barra Medical Center;Serviços Médico - Hospitalares;0.49371745161679;0.15994728285438
 34.691.520/0001-00;2024-06-30;1;Barra Medical Center;Análises e Diagnósticos;0.35879983748468;0.11623866830378
 34.691.520/0001-00;2024-06-30;1;Barra Medical Center;Químicos;0.11939867421751;0.03868101776627
+34.691.520/0001-00;2024-09-30;1;GPA ATIBAIA;Não possui;0;0
+34.691.520/0001-00;2024-09-30;1;GPA SANTANA;Comércio e Distribuição;0.66610004305396;0.03592287171865
+34.691.520/0001-00;2024-09-30;1;SODIMAC - RIBEIRÃO PRETO;Comércio e Distribuição;1;0.178192
+34.691.520/0001-00;2024-09-30;1;GPA TITO;Comércio e Distribuição;1;0.07451070304548
+34.691.520/0001-00;2024-09-30;1;GPA COTIA;Comércio e Distribuição;0.66666666666667;0.02900219927698
+34.691.520/0001-00;2024-09-30;1;BARRA MEDICAL CENTER;Serviços Médico - Hospitalares;0.48759044391414;0.11719733541681
+34.691.520/0001-00;2024-09-30;1;BARRA MEDICAL CENTER;Análises e Diagnósticos;0.36669874483607;0.08813978274571
+34.691.520/0001-00;2024-09-30;1;BARRA MEDICAL CENTER;Químicos;0.11806416918751;0.02837792702806
+34.691.520/0001-00;2024-09-30;1;ASSAI BAURU - SP;Comércio;1;0.05739522462955
+34.691.520/0001-00;2024-09-30;1;ASSAI MACAÉ - RJ;Comércio;1;0.05703575211918
+34.691.520/0001-00;2024-09-30;1;ASSAI DOURADOS-MS;Comércio;1;0.03896453767797
+34.691.520/0001-00;2024-09-30;1;ASSAI ARAÇATUBA - SP;Comércio;1;0.04771619127949
+34.691.520/0001-00;2024-09-30;1;ASSAI PORTO VELHO-RO;Comércio;1;0.05421326583876
+34.691.520/0001-00;2024-09-30;1;PAO DE ACUCAR AGUAS CLARAS-DF;Comércio e Distribuição;1;0.0136094900546
 34.691.925/0001-48;2024-03-28;1;SPE;Industrial;0.8074;0.022
 34.691.925/0001-48;2024-03-28;1;SPE;Logística e Transporte;0.19263;0.0174
 34.691.925/0001-48;2024-03-28;1;SPE;Setor3;0;0
@@ -11079,6 +11659,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 35.586.415/0001-73;2024-06-30;1;Shopping Parque Dom Pedro  - 10,53%;Setor2;0;0
 35.586.415/0001-73;2024-06-30;1;Shopping Parque Dom Pedro  - 10,53%;Setor3;0;0
 35.586.415/0001-73;2024-06-30;1;Shopping Parque Dom Pedro  - 10,53%;SetorN;0;0
+35.586.415/0001-73;2024-09-30;1;Shopping Parque Dom Pedro  - 10,53%;Setor1;0;0
+35.586.415/0001-73;2024-09-30;1;Shopping Parque Dom Pedro  - 10,53%;Setor2;0;0
+35.586.415/0001-73;2024-09-30;1;Shopping Parque Dom Pedro  - 10,53%;Setor3;0;0
+35.586.415/0001-73;2024-09-30;1;Shopping Parque Dom Pedro  - 10,53%;SetorN;0;0
 35.652.102/0001-76;2024-03-31;2;Edificio Faria Lima 4440  (VBI FL 4440);Serviços Financeiros Diversos;0.76365380911671;0.12275975104758
 35.652.102/0001-76;2024-03-31;2;Edificio Park Tower;Serviços Médico - Hospitalares;1;0.31
 35.652.102/0001-76;2024-03-31;2;Vila Olimpia Corporate;Serviços Diversos;0.1044;0.0086
@@ -11215,6 +11799,34 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 35.765.889/0001-82;2024-06-28;1;Hospital BDW SP Ltda.;Setor2;0;0
 35.765.889/0001-82;2024-06-28;1;Hospital BDW SP Ltda.;Setor3;0;0
 35.765.889/0001-82;2024-06-28;1;Hospital BDW SP Ltda.;SetorN;0;0
+35.765.889/0001-82;2024-09-30;1;Eldorado-Praca Joaquim Roberto;Setor1;0;0
+35.765.889/0001-82;2024-09-30;1;Eldorado-Praca Joaquim Roberto;Setor2;0;0
+35.765.889/0001-82;2024-09-30;1;Eldorado-Praca Joaquim Roberto;Setor3;0;0
+35.765.889/0001-82;2024-09-30;1;Eldorado-Praca Joaquim Roberto;SetorN;0;0
+35.765.889/0001-82;2024-09-30;1;Hospital BDW SP Ltda.;Setor1;0;0
+35.765.889/0001-82;2024-09-30;1;Hospital BDW SP Ltda.;Setor2;0;0
+35.765.889/0001-82;2024-09-30;1;Hospital BDW SP Ltda.;Setor3;0;0
+35.765.889/0001-82;2024-09-30;1;Hospital BDW SP Ltda.;SetorN;0;0
+35.765.889/0001-82;2024-09-30;1;APTO 342;Setor1;0;0
+35.765.889/0001-82;2024-09-30;1;APTO 342;Setor2;0;0
+35.765.889/0001-82;2024-09-30;1;APTO 342;Setor3;0;0
+35.765.889/0001-82;2024-09-30;1;APTO 342;SetorN;0;0
+35.765.889/0001-82;2024-09-30;1;APTO 381;Setor1;0;0
+35.765.889/0001-82;2024-09-30;1;APTO 381;Setor2;0;0
+35.765.889/0001-82;2024-09-30;1;APTO 381;Setor3;0;0
+35.765.889/0001-82;2024-09-30;1;APTO 381;SetorN;0;0
+35.765.889/0001-82;2024-09-30;1;AV DOS BANDEIRANTES;Setor1;0;0
+35.765.889/0001-82;2024-09-30;1;AV DOS BANDEIRANTES;Setor2;0;0
+35.765.889/0001-82;2024-09-30;1;AV DOS BANDEIRANTES;Setor3;0;0
+35.765.889/0001-82;2024-09-30;1;AV DOS BANDEIRANTES;SetorN;0;0
+35.765.889/0001-82;2024-09-30;1;CASA LOURENCO MARQUE;Setor1;0;0
+35.765.889/0001-82;2024-09-30;1;CASA LOURENCO MARQUE;Setor2;0;0
+35.765.889/0001-82;2024-09-30;1;CASA LOURENCO MARQUE;Setor3;0;0
+35.765.889/0001-82;2024-09-30;1;CASA LOURENCO MARQUE;SetorN;0;0
+35.765.889/0001-82;2024-09-30;1;RUA BELGICA 236;Setor1;0;0
+35.765.889/0001-82;2024-09-30;1;RUA BELGICA 236;Setor2;0;0
+35.765.889/0001-82;2024-09-30;1;RUA BELGICA 236;Setor3;0;0
+35.765.889/0001-82;2024-09-30;1;RUA BELGICA 236;SetorN;0;0
 36.098.375/0001-83;2024-03-28;1;Fábrica Pouso Alegre;QSR;1;1
 36.098.375/0001-83;2024-06-30;1;Fábrica Pouso Alegre;QSR;1;1
 36.098.375/0001-83;2024-09-30;1;Fábrica Pouso Alegre;QSR;1;1
@@ -12047,6 +12659,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 36.517.660/0001-91;2024-06-30;1;Urbic Tomas Alves;Pessoa Fisica;0.446635;0.441608
 36.517.660/0001-91;2024-06-30;1;Urbic Sabia;Pessoa Fisica;0.553365;0.497579
 36.517.660/0001-91;2024-06-30;1;Cyrela for you;Pessoa Fisica;0;0
+36.517.660/0001-91;2024-09-30;1;Urbic Tomas Alves;Serviços;1;0.311091
+36.517.660/0001-91;2024-09-30;1;Urbic Sabia;Serviços;1;0.606274
+36.517.660/0001-91;2024-09-30;1;Cyrela for you;Serviços;1;0.008304
 36.642.244/0001-15;2024-03-31;1;Imovel Ibema - IRIEDI;Comércio e Distribuição;1;0.034605
 36.642.244/0001-15;2024-03-31;1;Imovel Toledo - IRIEDI;Comércio e Distribuição;1;0.06802084365531
 36.642.244/0001-15;2024-03-31;1;Terminal Portuário do Espírito Santo - TPES;Outros;1;0.07968805399712
@@ -12171,6 +12786,82 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 36.885.948/0001-19;2024-06-28;1;Reserva Aysú;Setor2;0;0
 36.885.948/0001-19;2024-06-28;1;Reserva Aysú;Setor3;0;0
 36.885.948/0001-19;2024-06-28;1;Reserva Aysú;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;Fazenda Serviplan;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;Fazenda Serviplan;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;Fazenda Serviplan;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;Fazenda Serviplan;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;FAZENDA Gervásio;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;FAZENDA Gervásio;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;FAZENDA Gervásio;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;FAZENDA Gervásio;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;JD FRANÇA;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;JD FRANÇA;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;JD FRANÇA;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;JD FRANÇA;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;Reserva Aysú;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;Reserva Aysú;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;Reserva Aysú;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;Reserva Aysú;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 1;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 1;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 1;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 1;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 2;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 2;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 2;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 2;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 3;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 3;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 3;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 3;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 4;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 4;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 4;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 4;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 5;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 5;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 5;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 5;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 6;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 6;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 6;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 6;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 7;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 7;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 7;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 7;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 8;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 8;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 8;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;Imovel 8;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;Imóvel 9;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;Imóvel 9;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;Imóvel 9;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;Imóvel 9;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;Imóvel 10;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;Imóvel 10;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;Imóvel 10;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;Imóvel 10;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;Imóvel 11;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;Imóvel 11;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;Imóvel 11;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;Imóvel 11;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;Imóvel 12;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;Imóvel 12;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;Imóvel 12;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;Imóvel 12;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;FLAMB ALPHA F5 LT 5;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;FLAMB ALPHA F5 LT 5;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;FLAMB ALPHA F5 LT 5;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;FLAMB ALPHA F5 LT 5;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;FLAMBOYANT LOTE 13B5;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;FLAMBOYANT LOTE 13B5;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;FLAMBOYANT LOTE 13B5;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;FLAMBOYANT LOTE 13B5;SetorN;0;0
+36.885.948/0001-19;2024-09-30;1;IMÓVEL IGUATEMI;Setor1;0;0
+36.885.948/0001-19;2024-09-30;1;IMÓVEL IGUATEMI;Setor2;0;0
+36.885.948/0001-19;2024-09-30;1;IMÓVEL IGUATEMI;Setor3;0;0
+36.885.948/0001-19;2024-09-30;1;IMÓVEL IGUATEMI;SetorN;0;0
 36.885.989/0001-05;2024-03-28;2;Fazenda Serviplan;Setor1;0;0
 36.885.989/0001-05;2024-03-28;2;Fazenda Serviplan;Setor2;0;0
 36.885.989/0001-05;2024-03-28;2;Fazenda Serviplan;Setor3;0;0
@@ -12267,6 +12958,54 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 36.885.989/0001-05;2024-06-28;2;50% POLO EMPR GO ET7;Setor2;0;0
 36.885.989/0001-05;2024-06-28;2;50% POLO EMPR GO ET7;Setor3;0;0
 36.885.989/0001-05;2024-06-28;2;50% POLO EMPR GO ET7;SetorN;0;0
+36.885.989/0001-05;2024-09-30;1;Fazenda Serviplan;Setor1;0;0
+36.885.989/0001-05;2024-09-30;1;Fazenda Serviplan;Setor2;0;0
+36.885.989/0001-05;2024-09-30;1;Fazenda Serviplan;Setor3;0;0
+36.885.989/0001-05;2024-09-30;1;Fazenda Serviplan;SetorN;0;0
+36.885.989/0001-05;2024-09-30;1;VILA SERRA GRANDE 5;Setor1;0;0
+36.885.989/0001-05;2024-09-30;1;VILA SERRA GRANDE 5;Setor2;0;0
+36.885.989/0001-05;2024-09-30;1;VILA SERRA GRANDE 5;Setor3;0;0
+36.885.989/0001-05;2024-09-30;1;VILA SERRA GRANDE 5;SetorN;0;0
+36.885.989/0001-05;2024-09-30;1;RECANTO DOS BURITIS;Setor1;0;0
+36.885.989/0001-05;2024-09-30;1;RECANTO DOS BURITIS;Setor2;0;0
+36.885.989/0001-05;2024-09-30;1;RECANTO DOS BURITIS;Setor3;0;0
+36.885.989/0001-05;2024-09-30;1;RECANTO DOS BURITIS;SetorN;0;0
+36.885.989/0001-05;2024-09-30;1;RECANTO DOS BURITIS;Setor1;0;0
+36.885.989/0001-05;2024-09-30;1;RECANTO DOS BURITIS;Setor2;0;0
+36.885.989/0001-05;2024-09-30;1;RECANTO DOS BURITIS;Setor3;0;0
+36.885.989/0001-05;2024-09-30;1;RECANTO DOS BURITIS;SetorN;0;0
+36.885.989/0001-05;2024-09-30;1;RECANTO DOS BURITIS;Setor1;0;0
+36.885.989/0001-05;2024-09-30;1;RECANTO DOS BURITIS;Setor2;0;0
+36.885.989/0001-05;2024-09-30;1;RECANTO DOS BURITIS;Setor3;0;0
+36.885.989/0001-05;2024-09-30;1;RECANTO DOS BURITIS;SetorN;0;0
+36.885.989/0001-05;2024-09-30;1;AVENIDA DAS ACACIAS;Setor1;0;0
+36.885.989/0001-05;2024-09-30;1;AVENIDA DAS ACACIAS;Setor2;0;0
+36.885.989/0001-05;2024-09-30;1;AVENIDA DAS ACACIAS;Setor3;0;0
+36.885.989/0001-05;2024-09-30;1;AVENIDA DAS ACACIAS;SetorN;0;0
+36.885.989/0001-05;2024-09-30;1;SITIO PIRACANGA I - GLEBA 01;Setor1;0;0
+36.885.989/0001-05;2024-09-30;1;SITIO PIRACANGA I - GLEBA 01;Setor2;0;0
+36.885.989/0001-05;2024-09-30;1;SITIO PIRACANGA I - GLEBA 01;Setor3;0;0
+36.885.989/0001-05;2024-09-30;1;SITIO PIRACANGA I - GLEBA 01;SetorN;0;0
+36.885.989/0001-05;2024-09-30;1;SÍTIO PIRACANGA II;Setor1;0;0
+36.885.989/0001-05;2024-09-30;1;SÍTIO PIRACANGA II;Setor2;0;0
+36.885.989/0001-05;2024-09-30;1;SÍTIO PIRACANGA II;Setor3;0;0
+36.885.989/0001-05;2024-09-30;1;SÍTIO PIRACANGA II;SetorN;0;0
+36.885.989/0001-05;2024-09-30;1;JARDINS GENEBRA;Setor1;0;0
+36.885.989/0001-05;2024-09-30;1;JARDINS GENEBRA;Setor2;0;0
+36.885.989/0001-05;2024-09-30;1;JARDINS GENEBRA;Setor3;0;0
+36.885.989/0001-05;2024-09-30;1;JARDINS GENEBRA;SetorN;0;0
+36.885.989/0001-05;2024-09-30;1;LT 5 QD B4 ALPHA FLA;Setor1;0;0
+36.885.989/0001-05;2024-09-30;1;LT 5 QD B4 ALPHA FLA;Setor2;0;0
+36.885.989/0001-05;2024-09-30;1;LT 5 QD B4 ALPHA FLA;Setor3;0;0
+36.885.989/0001-05;2024-09-30;1;LT 5 QD B4 ALPHA FLA;SetorN;0;0
+36.885.989/0001-05;2024-09-30;1;Nº1 - QUADRA A4;Setor1;0;0
+36.885.989/0001-05;2024-09-30;1;Nº1 - QUADRA A4;Setor2;0;0
+36.885.989/0001-05;2024-09-30;1;Nº1 - QUADRA A4;Setor3;0;0
+36.885.989/0001-05;2024-09-30;1;Nº1 - QUADRA A4;SetorN;0;0
+36.885.989/0001-05;2024-09-30;1;50% POLO EMPR GO ET7;Setor1;0;0
+36.885.989/0001-05;2024-09-30;1;50% POLO EMPR GO ET7;Setor2;0;0
+36.885.989/0001-05;2024-09-30;1;50% POLO EMPR GO ET7;Setor3;0;0
+36.885.989/0001-05;2024-09-30;1;50% POLO EMPR GO ET7;SetorN;0;0
 36.930.464/0001-44;2024-03-28;1;Condomínio Logístico Itapeva 01;E-Commerce;1;0.31111
 36.930.464/0001-44;2024-03-28;1;Condomínio Logístico Cariacica 01;Varejo;0.616147;0.32953
 36.930.464/0001-44;2024-03-28;1;Condomínio Logístico Cariacica 01;Eletrodomésticos;0.275084;0.147121
@@ -12313,6 +13052,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 37.295.919/0001-60;2024-06-30;1;Cachoerinha;Fábrica;0;0
 37.295.919/0001-60;2024-06-30;1;Canoas/ RS;Indústria;0;0
 37.295.919/0001-60;2024-06-30;1;São José dos Campos;Indústria;0;0
+37.295.919/0001-60;2024-09-30;1;Cachoerinha;Fábrica;0;0
+37.295.919/0001-60;2024-09-30;1;Canoas/ RS;Indústria;0;0
+37.295.919/0001-60;2024-09-30;1;São José dos Campos;Indústria;0;0
 37.899.356/0001-19;2024-03-28;1;Escritórios;Comunicação e Gráfica;0.475404;0.339997
 37.899.356/0001-19;2024-03-28;1;Escritórios;Telecomunicação;0.365726;0.261558
 37.899.356/0001-19;2024-03-28;1;Escritórios;Financeiro;0.15887;0.11362
@@ -12376,6 +13118,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 38.293.921/0001-62;2024-06-30;1;Edificio Souza Aranha I;Equipamentos Elétricos;1;0.15949962423239
 38.293.921/0001-62;2024-06-30;1;Edificio Souza Aranha II;Construção e Engenharia;1;0.48968072480477
 38.293.921/0001-62;2024-06-30;1;Imovel Porto Alegre;Telecomunicações;1;0.33023416850023
+38.293.921/0001-62;2024-09-30;1;Edificio Souza Aranha I;Equipamentos Elétricos;1;0.1578114118965
+38.293.921/0001-62;2024-09-30;1;Edificio Souza Aranha II;Construção e Engenharia;1;0.49231264347999
+38.293.921/0001-62;2024-09-30;1;Imovel Porto Alegre;Telecomunicações;1;0.32234258132516
 38.294.086/0001-85;2024-03-31;1;Rochavera - Torre A;Outros;0.14984878314356;0.04461354635092
 38.294.086/0001-85;2024-03-31;1;Rochavera - Torre A;Serviços Financeiros Diversos;0.51720235746438;0.15398344159683
 38.294.086/0001-85;2024-03-31;1;Rochavera - Torre A;Previdência e Seguros;0.10206185109685;0.03038624024199
@@ -12399,6 +13144,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 38.294.086/0001-85;2024-09-30;1;Rochavera - Torre B;Serviços Médico - Hospitalares;0.14617796687101;0.03961254113744
 38.456.598/0001-09;2024-03-28;1;SP-AP-DIANA1;Residencial;1;1
 38.456.598/0001-09;2024-06-28;1;SP-AP-DIANA1;Residencial;1;1
+38.456.598/0001-09;2024-09-30;1;SP-AP-DIANA1;Residencial;1;1
 38.658.984/0001-75;2024-03-28;1;ED BLUMENAU;Escritórios corporativos;0;0
 38.658.984/0001-75;2024-03-28;1;ED CAIXA;Escritórios corporativos;0;0
 38.658.984/0001-75;2024-03-28;1;ED CARLOS GO;Escritórios corporativos;0;0
@@ -12927,8 +13673,25 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 40.067.483/0001-66;2024-06-28;1;IMÓVEL SÃO VICENTE;Setor2;0;0
 40.067.483/0001-66;2024-06-28;1;IMÓVEL SÃO VICENTE;Setor3;0;0
 40.067.483/0001-66;2024-06-28;1;IMÓVEL SÃO VICENTE;SetorN;0;0
+40.067.483/0001-66;2024-09-30;1;Mogi Guaçu SP;Setor1;0;0
+40.067.483/0001-66;2024-09-30;1;Mogi Guaçu SP;Setor2;0;0
+40.067.483/0001-66;2024-09-30;1;Mogi Guaçu SP;Setor3;0;0
+40.067.483/0001-66;2024-09-30;1;Mogi Guaçu SP;SetorN;0;0
+40.067.483/0001-66;2024-09-30;1;Salto SP;Setor1;0;0
+40.067.483/0001-66;2024-09-30;1;Salto SP;Setor2;0;0
+40.067.483/0001-66;2024-09-30;1;Salto SP;Setor3;0;0
+40.067.483/0001-66;2024-09-30;1;Salto SP;SetorN;0;0
+40.067.483/0001-66;2024-09-30;1;IMÓVEL BRASILANDIA;Setor1;0;0
+40.067.483/0001-66;2024-09-30;1;IMÓVEL BRASILANDIA;Setor2;0;0
+40.067.483/0001-66;2024-09-30;1;IMÓVEL BRASILANDIA;Setor3;0;0
+40.067.483/0001-66;2024-09-30;1;IMÓVEL BRASILANDIA;SetorN;0;0
+40.067.483/0001-66;2024-09-30;1;IMÓVEL SÃO VICENTE;Setor1;0;0
+40.067.483/0001-66;2024-09-30;1;IMÓVEL SÃO VICENTE;Setor2;0;0
+40.067.483/0001-66;2024-09-30;1;IMÓVEL SÃO VICENTE;Setor3;0;0
+40.067.483/0001-66;2024-09-30;1;IMÓVEL SÃO VICENTE;SetorN;0;0
 40.102.445/0001-05;2024-03-31;1;SKY Galleria - Oitavo Andar;Financeiro e Agronegócio;1;0.376477
 40.102.445/0001-05;2024-06-30;1;SKY Galleria - Oitavo Andar;Financeiro e Agronegócio;1;0.632217
+40.102.445/0001-05;2024-09-30;1;SKY Galleria - Oitavo Andar;Financeiro e Agronegócio;1;0.993333
 40.189.596/0001-34;2024-03-31;1;AG ARAGUARI;Agência Bancária;1;0.0001854
 40.189.596/0001-34;2024-03-31;1;AG ATIBAIA;Agência Bancária;1;0.0003029
 40.189.596/0001-34;2024-03-31;1;AG BAEPENDI;Agência Bancária;1;0.0001029
@@ -13110,6 +13873,45 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 40.575.940/0001-23;2024-06-28;1;SERRA_TAGIA;Setor2;0;0
 40.575.940/0001-23;2024-06-28;1;SERRA_TAGIA;Setor3;0;0
 40.575.940/0001-23;2024-06-28;1;SERRA_TAGIA;SetorN;0;0
+40.575.940/0001-23;2024-09-30;1;ALVOAR;Alimentício;1;0.238795
+40.575.940/0001-23;2024-09-30;1;ALVOAR;Setor2;0;0
+40.575.940/0001-23;2024-09-30;1;ALVOAR;Setor3;0;0
+40.575.940/0001-23;2024-09-30;1;ALVOAR;SetorN;0;0
+40.575.940/0001-23;2024-09-30;1;BASSANO RS;Construção;1;0.19899
+40.575.940/0001-23;2024-09-30;1;BASSANO RS;Setor2;0;0
+40.575.940/0001-23;2024-09-30;1;BASSANO RS;Setor3;0;0
+40.575.940/0001-23;2024-09-30;1;BASSANO RS;SetorN;0;0
+40.575.940/0001-23;2024-09-30;1;ED TABAPUA;Tecnologia e Comunicação;0.373198;0.032542
+40.575.940/0001-23;2024-09-30;1;ED TABAPUA;Securitizadora;0.244419;0.021313
+40.575.940/0001-23;2024-09-30;1;ED TABAPUA;Publicidade;0.173749;0.015151
+40.575.940/0001-23;2024-09-30;1;ED TABAPUA;Investimentos;0.110396;0.009626
+40.575.940/0001-23;2024-09-30;1;IMO COPOBRAS;Embalagens;1;0.159525
+40.575.940/0001-23;2024-09-30;1;IMO COPOBRAS;Setor2;0;0
+40.575.940/0001-23;2024-09-30;1;IMO COPOBRAS;Setor3;0;0
+40.575.940/0001-23;2024-09-30;1;IMO COPOBRAS;SetorN;0;0
+40.575.940/0001-23;2024-09-30;1;IMOV NISSEI;Famacêutico;1;0.169391
+40.575.940/0001-23;2024-09-30;1;IMOV NISSEI;Setor2;0;0
+40.575.940/0001-23;2024-09-30;1;IMOV NISSEI;Setor3;0;0
+40.575.940/0001-23;2024-09-30;1;IMOV NISSEI;SetorN;0;0
+40.575.940/0001-23;2024-09-30;1;SANTA LUZIA;Contabilidade;1;0.020283
+40.575.940/0001-23;2024-09-30;1;SANTA LUZIA;Setor2;0;0
+40.575.940/0001-23;2024-09-30;1;SANTA LUZIA;Setor3;0;0
+40.575.940/0001-23;2024-09-30;1;SANTA LUZIA;SetorN;0;0
+40.575.940/0001-23;2024-09-30;1;SJC1669;Setor1;0;0
+40.575.940/0001-23;2024-09-30;1;SJC1669;Setor2;0;0
+40.575.940/0001-23;2024-09-30;1;SJC1669;Setor3;0;0
+40.575.940/0001-23;2024-09-30;1;SJC1669;SetorN;0;0
+40.575.940/0001-23;2024-09-30;1;SJC1679;Peças automotivas - Varejo;1;0.00769
+40.575.940/0001-23;2024-09-30;1;SJC1679;Setor2;0;0
+40.575.940/0001-23;2024-09-30;1;SJC1679;Setor3;0;0
+40.575.940/0001-23;2024-09-30;1;SJC1679;SetorN;0;0
+40.575.940/0001-23;2024-09-30;1;SOUZA CRUZ;Tabaco;1;0.039166
+40.575.940/0001-23;2024-09-30;1;SOUZA CRUZ;Setor2;0;0
+40.575.940/0001-23;2024-09-30;1;SOUZA CRUZ;Setor3;0;0
+40.575.940/0001-23;2024-09-30;1;SOUZA CRUZ;SetorN;0;0
+40.575.940/0001-23;2024-09-30;1;SERRA_TAGIA;AutomotivoSetor2;1;0.07896
+40.575.940/0001-23;2024-09-30;1;SERRA_TAGIA;Setor3;0;0
+40.575.940/0001-23;2024-09-30;1;SERRA_TAGIA;SetorN;0;0
 40.886.241/0001-02;2024-03-31;1;Caxangá;Varejo;1;0.111869
 40.886.241/0001-02;2024-03-31;1;Loja de Rua - Bernardo Manuel nº 207;Varejo;1;0.008273
 40.886.241/0001-02;2024-03-31;1;Loja de Rua - Bezerra de Menezes nº 1409;Varejo;1;0.007785
@@ -13142,6 +13944,22 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 40.886.241/0001-02;2024-06-30;1;Sao Joao;Varejo;1;0.07
 40.886.241/0001-02;2024-06-30;1;Maraponga;Varejo;1;0.083
 40.886.241/0001-02;2024-06-30;1;Washington Soares;Alimentação;1;0.013
+40.886.241/0001-02;2024-09-30;1;Caxanga;Varejo;1;0.095078
+40.886.241/0001-02;2024-09-30;1;Loja de Rua - Bernardo Manuel nº 207;Varejo;1;0.007878
+40.886.241/0001-02;2024-09-30;1;Loja de Rua - Bezerra de Menezes nº 1409;Varejo;1;0.007413
+40.886.241/0001-02;2024-09-30;1;Loja de Rua - Santos Dumont nº 3030;Varejo;1;0.030803
+40.886.241/0001-02;2024-09-30;1;Eusebio;Varejo;1;0.131358
+40.886.241/0001-02;2024-09-30;1;Francisco Sa;Varejo;1;0.068557
+40.886.241/0001-02;2024-09-30;1;Lago Jacarey;Varejo;1;0.040542
+40.886.241/0001-02;2024-09-30;1;Maraponga;Varejo;1;0.076767
+40.886.241/0001-02;2024-09-30;1;Maraponga 2;Varejo;1;0.034407
+40.886.241/0001-02;2024-09-30;1;Paulista;Varejo;1;0.124121
+40.886.241/0001-02;2024-09-30;1;Lagoa;Varejo;1;0.071388
+40.886.241/0001-02;2024-09-30;1;Sargento Herminio;Varejo;1;0.115465
+40.886.241/0001-02;2024-09-30;1;Sargento Herminio 2;Varejo;1;0.066988
+40.886.241/0001-02;2024-09-30;1;Loja de Rua - Treze de Maio;Varejo;1;0.019174
+40.886.241/0001-02;2024-09-30;1;Sao Joao;Varejo;1;0.069324
+40.886.241/0001-02;2024-09-30;1;Loja de Rua - Washington Soares;Alimentação;1;0.012236
 40.886.521/0001-02;2024-03-28;1;Condominio Parque Jockey;Setor1;0;0
 40.886.521/0001-02;2024-03-28;1;Condominio Parque Jockey;Setor2;0;0
 40.886.521/0001-02;2024-03-28;1;Condominio Parque Jockey;Setor3;0;0
@@ -13223,6 +14041,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 41.076.823/0001-88;2024-06-30;1;UrbanHub Guarulhos;Material de Transporte;0.22431607297561;0.11564030977993
 41.076.823/0001-88;2024-06-30;1;UrbanHub Maua;Comércio e Distribuição;0.66810748469318;0.15531576707415
 41.076.823/0001-88;2024-06-30;1;UrbanHub Maua;Construção Civil;0.15770611101782;0.03666213321388
+41.076.823/0001-88;2024-09-30;1;UrbanHub Guarulhos;Comércio e Distribuição;0.81746840348831;0.4308986772948
+41.076.823/0001-88;2024-09-30;1;UrbanHub Guarulhos;Material de Transporte;0.18253159651169;0.09621487896752
+41.076.823/0001-88;2024-09-30;1;UrbanHub Maua;Construção Civil;1;0.02973535809209
 41.081.336/0001-03;2024-03-28;1;Galpão Santo Amaro  (GRUPO SINAL);Comercial;0;0
 41.081.336/0001-03;2024-03-28;1;GALPÃO TANCREDO NEVES;Comercial;0;0
 41.081.336/0001-03;2024-03-28;1;GALPÃO TANCREDO NEVES;Comercial;0;0
@@ -13275,6 +14096,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 41.199.975/0001-78;2024-09-30;1;Condominio Fell Nice - Apto 35 - Torre B;Diversos;1;0.04051400136468
 41.219.028/0001-00;2024-03-31;1;Edifício Serasa;Financeiro/Consultoria;0;0.00533
 41.219.028/0001-00;2024-06-30;1;Edifício Serasa;Financeiro/Consultoria;0;0.00533
+41.219.028/0001-00;2024-09-30;1;Edifício Serasa;Financeiro;0.1;0.1
 41.219.454/0001-35;2024-06-28;1;Imóvel 1;Setor1;0;0
 41.219.454/0001-35;2024-06-28;1;Imóvel 1;Setor2;0;0
 41.219.454/0001-35;2024-06-28;1;Imóvel 1;Setor3;0;0
@@ -13379,6 +14201,110 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 41.219.454/0001-35;2024-06-28;1;Imóvel 25;Setor2;0;0
 41.219.454/0001-35;2024-06-28;1;Imóvel 25;Setor3;0;0
 41.219.454/0001-35;2024-06-28;1;Imóvel 25;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 1;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 1;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 1;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 1;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 2;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 2;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 2;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 2;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 3;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 3;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 3;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 3;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 4;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 4;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 4;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 4;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 5;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 5;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 5;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 5;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 6;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 6;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 6;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 6;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 7;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 7;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 7;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 7;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 8;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 8;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 8;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 8;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 9;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 9;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 9;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 9;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 10;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 10;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 10;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 10;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 10;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 10;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 10;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 10;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 11;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 11;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 11;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 11;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 12;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 12;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 12;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 12;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 13;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 13;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 13;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 13;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 14;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 14;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 14;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 14;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 15;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 15;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 15;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 15;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 16;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 16;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 16;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 16;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 17;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 17;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 17;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 17;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 18;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 18;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 18;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 18;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 19;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 19;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 19;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 19;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 20;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 20;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 20;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 20;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 21;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 21;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 21;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 21;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 22;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 22;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 22;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 22;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 23;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 23;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 23;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 23;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 24;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 24;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 24;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 24;SetorN;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 25;Setor1;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 25;Setor2;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 25;Setor3;0;0
+41.219.454/0001-35;2024-09-30;1;Imóvel 25;SetorN;0;0
 41.320.997/0001-44;2024-03-31;1;EDIFICIO METROPOLITAN;Setor1;0;0
 41.320.997/0001-44;2024-03-31;1;EDIFICIO METROPOLITAN;Setor2;0;0
 41.320.997/0001-44;2024-03-31;1;EDIFICIO METROPOLITAN;Setor3;0;0
@@ -13492,6 +14418,74 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 41.650.310/0001-39;2024-06-28;1;IMÓVEL 17;Setor2;0;0
 41.650.310/0001-39;2024-06-28;1;IMÓVEL 17;Setor3;0;0
 41.650.310/0001-39;2024-06-28;1;IMÓVEL 17;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 1;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 1;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 1;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 1;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 2;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 2;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 2;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 2;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 3;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 3;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 3;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 3;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 4;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 4;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 4;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 4;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 5;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 5;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 5;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 5;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 6;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 6;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 6;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 6;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 7;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 7;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 7;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 7;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 8;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 8;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 8;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 8;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 9;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 9;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 9;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 9;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 10;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 10;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 10;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 10;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 11;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 11;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 11;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 11;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 12;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 12;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 12;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 12;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 13;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 13;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 13;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 13;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 14;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 14;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 14;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 14;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 15;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 15;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 15;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 15;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 16;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 16;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 16;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 16;SetorN;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 17;Setor1;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 17;Setor2;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 17;Setor3;0;0
+41.650.310/0001-39;2024-09-30;1;IMÓVEL 17;SetorN;0;0
 41.650.319/0001-40;2024-03-28;1;IMÓVEL 52.563;Setor1;0;0
 41.650.319/0001-40;2024-03-28;1;IMÓVEL 52.563;Setor2;0;0
 41.650.319/0001-40;2024-03-28;1;IMÓVEL 52.563;Setor3;0;0
@@ -13500,6 +14494,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 41.650.319/0001-40;2024-06-28;2;IMÓVEL 52.563;Setor2;0;0
 41.650.319/0001-40;2024-06-28;2;IMÓVEL 52.563;Setor3;0;0
 41.650.319/0001-40;2024-06-28;2;IMÓVEL 52.563;SetorN;0;0
+41.650.319/0001-40;2024-09-30;1;IMÓVEL 52.563;Setor1;0;0
+41.650.319/0001-40;2024-09-30;1;IMÓVEL 52.563;Setor2;0;0
+41.650.319/0001-40;2024-09-30;1;IMÓVEL 52.563;Setor3;0;0
+41.650.319/0001-40;2024-09-30;1;IMÓVEL 52.563;SetorN;0;0
 41.776.296/0001-14;2024-03-28;1;Imóvel 1;Setor1;0;0
 41.776.296/0001-14;2024-03-28;1;Imóvel 1;Setor2;0;0
 41.776.296/0001-14;2024-03-28;1;Imóvel 1;Setor3;0;0
@@ -14255,6 +15253,26 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 42.031.201/0001-04;2024-06-28;2;Imóvel Barra da Tijuca;Setor2;0;0
 42.031.201/0001-04;2024-06-28;2;Imóvel Barra da Tijuca;Setor3;0;0
 42.031.201/0001-04;2024-06-28;2;Imóvel Barra da Tijuca;SetorN;0;0
+42.031.201/0001-04;2024-09-30;1;Terreno Butantã;Setor1;0;0
+42.031.201/0001-04;2024-09-30;1;Terreno Butantã;Setor2;0;0
+42.031.201/0001-04;2024-09-30;1;Terreno Butantã;Setor3;0;0
+42.031.201/0001-04;2024-09-30;1;Terreno Butantã;SetorN;0;0
+42.031.201/0001-04;2024-09-30;1;Imóvel Vila leopoldina;Setor1;0;0
+42.031.201/0001-04;2024-09-30;1;Imóvel Vila leopoldina;Setor2;0;0
+42.031.201/0001-04;2024-09-30;1;Imóvel Vila leopoldina;Setor3;0;0
+42.031.201/0001-04;2024-09-30;1;Imóvel Vila leopoldina;SetorN;0;0
+42.031.201/0001-04;2024-09-30;1;Imóvel Barueri;Setor1;0;0
+42.031.201/0001-04;2024-09-30;1;Imóvel Barueri;Setor2;0;0
+42.031.201/0001-04;2024-09-30;1;Imóvel Barueri;Setor3;0;0
+42.031.201/0001-04;2024-09-30;1;Imóvel Barueri;SetorN;0;0
+42.031.201/0001-04;2024-09-30;1;móvel Barueri  (POWER);Setor1;0;0
+42.031.201/0001-04;2024-09-30;1;móvel Barueri  (POWER);Setor2;0;0
+42.031.201/0001-04;2024-09-30;1;móvel Barueri  (POWER);Setor3;0;0
+42.031.201/0001-04;2024-09-30;1;móvel Barueri  (POWER);SetorN;0;0
+42.031.201/0001-04;2024-09-30;1;Imóvel Barra da Tijuca;Setor1;0;0
+42.031.201/0001-04;2024-09-30;1;Imóvel Barra da Tijuca;Setor2;0;0
+42.031.201/0001-04;2024-09-30;1;Imóvel Barra da Tijuca;Setor3;0;0
+42.031.201/0001-04;2024-09-30;1;Imóvel Barra da Tijuca;SetorN;0;0
 42.432.327/0001-82;2024-03-31;1;Imovel Dialogo;Setor1;0;0
 42.432.327/0001-82;2024-03-31;1;Imovel Dialogo;Setor2;0;0
 42.432.327/0001-82;2024-03-31;1;Imovel Dialogo;Setor3;0;0
@@ -14378,6 +15396,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 42.592.868/0001-78;2024-09-30;1;Edifício Panamerica Green Park;Setor2;0;0
 42.592.868/0001-78;2024-09-30;1;Edifício Panamerica Green Park;Setor3;0;0
 42.592.868/0001-78;2024-09-30;1;Edifício Panamerica Green Park;SetorN;0;0
+42.592.916/0001-28;2024-09-30;1;R J R M 571;Setor1;0;0
+42.592.916/0001-28;2024-09-30;1;R J R M 571;Setor2;0;0
+42.592.916/0001-28;2024-09-30;1;R J R M 571;Setor3;0;0
+42.592.916/0001-28;2024-09-30;1;R J R M 571;SetorN;0;0
 42.754.342/0001-47;2024-03-28;1;Edifício Condomínio São Luiz, Torre I, II e III;Serviços;0.563797;0.020464
 42.754.342/0001-47;2024-03-28;1;Edifício Condomínio São Luiz, Torre I, II e III;Comércio;0.14627;0.005309
 42.754.342/0001-47;2024-06-28;1;Edifício Condomínio São Luiz, Torre I, II e III;Serviços;0.589139;0.040752
@@ -14412,6 +15434,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 42.869.892/0001-01;2024-09-30;1;FONSECA RODRIGUES- 50.218 - 10º RI;SetorN;0;0
 42.922.127/0001-08;2024-03-31;1;GALPÃO ITAPEVI/ SP;Têxtil;0;0.0099156
 42.922.127/0001-08;2024-06-30;1;GALPÃO ITAPEVI/ SP;Têxtil;0;0.00954
+42.922.127/0001-08;2024-09-30;2;GALPÃO ITAPEVI/ SP;têxtil;0.1;0.1
 43.009.610/0001-69;2024-03-31;1;Shopping Plaza Sul;Alimentação;0.11034;0.071803
 43.009.610/0001-69;2024-03-31;1;Shopping Plaza Sul;Varejo;0.84487;0.599794
 43.009.610/0001-69;2024-06-30;1;Shopping Plaza Sul;Alimentação;0.11034;0.052226
@@ -14434,6 +15457,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 43.101.312/0001-02;2024-06-28;1;EDÍFICIO MANSÃO RONCALLI;Setor2;0;0
 43.101.312/0001-02;2024-06-28;1;EDÍFICIO MANSÃO RONCALLI;Setor3;0;0
 43.101.312/0001-02;2024-06-28;1;EDÍFICIO MANSÃO RONCALLI;SetorN;0;0
+43.101.312/0001-02;2024-09-30;1;EDÍFICIO MANSÃO RONCALLI;Setor1;0;0
+43.101.312/0001-02;2024-09-30;1;EDÍFICIO MANSÃO RONCALLI;Setor2;0;0
+43.101.312/0001-02;2024-09-30;1;EDÍFICIO MANSÃO RONCALLI;Setor3;0;0
+43.101.312/0001-02;2024-09-30;1;EDÍFICIO MANSÃO RONCALLI;SetorN;0;0
 43.164.799/0001-64;2024-03-28;1;GREENHOUSE_;Importação e Exportação;1;1
 43.164.799/0001-64;2024-06-30;1;GREENHOUSE_;Importação e Exportação;1;1
 43.164.799/0001-64;2024-09-30;1;GREENHOUSE_;Importação e Exportação;1;1
@@ -14845,6 +15872,18 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 43.740.825/0001-55;2024-06-28;1;IMÓVEL VALINHOS SP;VarejoSetor2;0;0
 43.740.825/0001-55;2024-06-28;1;IMÓVEL VALINHOS SP;Setor3;0;0
 43.740.825/0001-55;2024-06-28;1;IMÓVEL VALINHOS SP;SetorN;0;0
+43.740.825/0001-55;2024-09-30;1;IMÓVEL FRANCO ROCHA;Setor1;0;0
+43.740.825/0001-55;2024-09-30;1;IMÓVEL FRANCO ROCHA;VarejoSetor2;0;0
+43.740.825/0001-55;2024-09-30;1;IMÓVEL FRANCO ROCHA;Setor3;0;0
+43.740.825/0001-55;2024-09-30;1;IMÓVEL FRANCO ROCHA;SetorN;0;0
+43.740.825/0001-55;2024-09-30;1;IMÓVEL MAUÁ SP;Setor1;0;0
+43.740.825/0001-55;2024-09-30;1;IMÓVEL MAUÁ SP;VarejoSetor2;0;0
+43.740.825/0001-55;2024-09-30;1;IMÓVEL MAUÁ SP;Setor3;0;0
+43.740.825/0001-55;2024-09-30;1;IMÓVEL MAUÁ SP;SetorN;0;0
+43.740.825/0001-55;2024-09-30;1;IMÓVEL VALINHOS SP;Setor1;0;0
+43.740.825/0001-55;2024-09-30;1;IMÓVEL VALINHOS SP;VarejoSetor2;0;0
+43.740.825/0001-55;2024-09-30;1;IMÓVEL VALINHOS SP;Setor3;0;0
+43.740.825/0001-55;2024-09-30;1;IMÓVEL VALINHOS SP;SetorN;0;0
 43.790.197/0001-12;2024-03-31;1;EDIFICIO VIA CITTA;Serviços;0;0
 43.790.197/0001-12;2024-06-30;1;EDIFICIO VIA CITTA;Serviços;0;0
 43.790.197/0001-12;2024-09-30;1;EDIFICIO VIA CITTA;Serviços;0;0
@@ -15001,50 +16040,50 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 44.002.561/0001-03;2024-06-30;1;MT14277;Setor2;0;0
 44.002.561/0001-03;2024-06-30;1;MT14277;Setor3;0;0
 44.002.561/0001-03;2024-06-30;1;MT14277;SetorN;0;0
-44.002.561/0001-03;2024-09-30;1;MT76424;Setor1;0;0
-44.002.561/0001-03;2024-09-30;1;MT76424;Setor2;0;0
-44.002.561/0001-03;2024-09-30;1;MT76424;Setor3;0;0
-44.002.561/0001-03;2024-09-30;1;MT76424;SetorN;0;0
-44.002.561/0001-03;2024-09-30;1;MT154324;Setor1;0;0
-44.002.561/0001-03;2024-09-30;1;MT154324;Setor2;0;0
-44.002.561/0001-03;2024-09-30;1;MT154324;Setor3;0;0
-44.002.561/0001-03;2024-09-30;1;MT154324;SetorN;0;0
-44.002.561/0001-03;2024-09-30;1;MT45592;Setor1;0;0
-44.002.561/0001-03;2024-09-30;1;MT45592;Setor2;0;0
-44.002.561/0001-03;2024-09-30;1;MT45592;Setor3;0;0
-44.002.561/0001-03;2024-09-30;1;MT45592;SetorN;0;0
-44.002.561/0001-03;2024-09-30;1;MT55763;Setor1;0;0
-44.002.561/0001-03;2024-09-30;1;MT55763;Setor2;0;0
-44.002.561/0001-03;2024-09-30;1;MT55763;Setor3;0;0
-44.002.561/0001-03;2024-09-30;1;MT55763;SetorN;0;0
-44.002.561/0001-03;2024-09-30;1;MT58817;Setor1;0;0
-44.002.561/0001-03;2024-09-30;1;MT58817;Setor2;0;0
-44.002.561/0001-03;2024-09-30;1;MT58817;Setor3;0;0
-44.002.561/0001-03;2024-09-30;1;MT58817;SetorN;0;0
-44.002.561/0001-03;2024-09-30;1;MT71279;Setor1;0;0
-44.002.561/0001-03;2024-09-30;1;MT71279;Setor2;0;0
-44.002.561/0001-03;2024-09-30;1;MT71279;Setor3;0;0
-44.002.561/0001-03;2024-09-30;1;MT71279;SetorN;0;0
-44.002.561/0001-03;2024-09-30;1;MT11995;Setor1;0;0
-44.002.561/0001-03;2024-09-30;1;MT11995;Setor2;0;0
-44.002.561/0001-03;2024-09-30;1;MT11995;Setor3;0;0
-44.002.561/0001-03;2024-09-30;1;MT11995;SetorN;0;0
-44.002.561/0001-03;2024-09-30;1;MT16508;Setor1;0;0
-44.002.561/0001-03;2024-09-30;1;MT16508;Setor2;0;0
-44.002.561/0001-03;2024-09-30;1;MT16508;Setor3;0;0
-44.002.561/0001-03;2024-09-30;1;MT16508;SetorN;0;0
-44.002.561/0001-03;2024-09-30;1;MT286460;Setor1;0;0
-44.002.561/0001-03;2024-09-30;1;MT286460;Setor2;0;0
-44.002.561/0001-03;2024-09-30;1;MT286460;Setor3;0;0
-44.002.561/0001-03;2024-09-30;1;MT286460;SetorN;0;0
-44.002.561/0001-03;2024-09-30;1;MT30499;Setor1;0;0
-44.002.561/0001-03;2024-09-30;1;MT30499;Setor2;0;0
-44.002.561/0001-03;2024-09-30;1;MT30499;Setor3;0;0
-44.002.561/0001-03;2024-09-30;1;MT30499;SetorN;0;0
-44.002.561/0001-03;2024-09-30;1;MT14277;Setor1;0;0
-44.002.561/0001-03;2024-09-30;1;MT14277;Setor2;0;0
-44.002.561/0001-03;2024-09-30;1;MT14277;Setor3;0;0
-44.002.561/0001-03;2024-09-30;1;MT14277;SetorN;0;0
+44.002.561/0001-03;2024-09-30;2;MT76424;Setor1;0;0
+44.002.561/0001-03;2024-09-30;2;MT76424;Setor2;0;0
+44.002.561/0001-03;2024-09-30;2;MT76424;Setor3;0;0
+44.002.561/0001-03;2024-09-30;2;MT76424;SetorN;0;0
+44.002.561/0001-03;2024-09-30;2;MT154324;Setor1;0;0
+44.002.561/0001-03;2024-09-30;2;MT154324;Setor2;0;0
+44.002.561/0001-03;2024-09-30;2;MT154324;Setor3;0;0
+44.002.561/0001-03;2024-09-30;2;MT154324;SetorN;0;0
+44.002.561/0001-03;2024-09-30;2;MT45592;Setor1;0;0
+44.002.561/0001-03;2024-09-30;2;MT45592;Setor2;0;0
+44.002.561/0001-03;2024-09-30;2;MT45592;Setor3;0;0
+44.002.561/0001-03;2024-09-30;2;MT45592;SetorN;0;0
+44.002.561/0001-03;2024-09-30;2;MT55763;Setor1;0;0
+44.002.561/0001-03;2024-09-30;2;MT55763;Setor2;0;0
+44.002.561/0001-03;2024-09-30;2;MT55763;Setor3;0;0
+44.002.561/0001-03;2024-09-30;2;MT55763;SetorN;0;0
+44.002.561/0001-03;2024-09-30;2;MT58817;Setor1;0;0
+44.002.561/0001-03;2024-09-30;2;MT58817;Setor2;0;0
+44.002.561/0001-03;2024-09-30;2;MT58817;Setor3;0;0
+44.002.561/0001-03;2024-09-30;2;MT58817;SetorN;0;0
+44.002.561/0001-03;2024-09-30;2;MT71279;Setor1;0;0
+44.002.561/0001-03;2024-09-30;2;MT71279;Setor2;0;0
+44.002.561/0001-03;2024-09-30;2;MT71279;Setor3;0;0
+44.002.561/0001-03;2024-09-30;2;MT71279;SetorN;0;0
+44.002.561/0001-03;2024-09-30;2;MT11995;Setor1;0;0
+44.002.561/0001-03;2024-09-30;2;MT11995;Setor2;0;0
+44.002.561/0001-03;2024-09-30;2;MT11995;Setor3;0;0
+44.002.561/0001-03;2024-09-30;2;MT11995;SetorN;0;0
+44.002.561/0001-03;2024-09-30;2;MT16508;Setor1;0;0
+44.002.561/0001-03;2024-09-30;2;MT16508;Setor2;0;0
+44.002.561/0001-03;2024-09-30;2;MT16508;Setor3;0;0
+44.002.561/0001-03;2024-09-30;2;MT16508;SetorN;0;0
+44.002.561/0001-03;2024-09-30;2;MT286460;Setor1;0;0
+44.002.561/0001-03;2024-09-30;2;MT286460;Setor2;0;0
+44.002.561/0001-03;2024-09-30;2;MT286460;Setor3;0;0
+44.002.561/0001-03;2024-09-30;2;MT286460;SetorN;0;0
+44.002.561/0001-03;2024-09-30;2;MT30499;Setor1;0;0
+44.002.561/0001-03;2024-09-30;2;MT30499;Setor2;0;0
+44.002.561/0001-03;2024-09-30;2;MT30499;Setor3;0;0
+44.002.561/0001-03;2024-09-30;2;MT30499;SetorN;0;0
+44.002.561/0001-03;2024-09-30;2;MT14277;Setor1;0;0
+44.002.561/0001-03;2024-09-30;2;MT14277;Setor2;0;0
+44.002.561/0001-03;2024-09-30;2;MT14277;Setor3;0;0
+44.002.561/0001-03;2024-09-30;2;MT14277;SetorN;0;0
 44.625.694/0001-28;2024-03-31;1;Fazenda Xingu (Matrícula 22.874);Agronegócio;1;0.664959
 44.625.694/0001-28;2024-03-31;1;Fazenda Xingu I (Matrícula 22.875);Agronegócio;1;0.180091
 44.625.694/0001-28;2024-03-31;1;Fazenda Xingu II (Matrícula 14.782);Agronegócio;1;0.090531
@@ -15164,6 +16203,11 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 44.674.528/0001-11;2024-06-30;1;ARACATI;0;0;0
 44.674.528/0001-11;2024-06-30;1;QUIXERAMOBIM;0;0;0
 44.674.528/0001-11;2024-06-30;1;MARANGUAPE;0;0;0
+44.674.528/0001-11;2024-09-30;1;CANINDÉ;0;0;0
+44.674.528/0001-11;2024-09-30;1;MARACANAU;0;0;0
+44.674.528/0001-11;2024-09-30;1;ARACATI;0;0;0
+44.674.528/0001-11;2024-09-30;1;QUIXERAMOBIM;0;0;0
+44.674.528/0001-11;2024-09-30;1;MARANGUAPE;0;0;0
 44.683.052/0001-85;2024-03-31;1;N/A;Setor1;0;0
 44.683.052/0001-85;2024-03-31;1;N/A;Setor2;0;0
 44.683.052/0001-85;2024-03-31;1;N/A;Setor3;0;0
@@ -15176,6 +16220,22 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 44.683.052/0001-85;2024-09-30;1;N/A;Setor2;0;0
 44.683.052/0001-85;2024-09-30;1;N/A;Setor3;0;0
 44.683.052/0001-85;2024-09-30;1;N/A;SetorN;0;0
+44.705.818/0001-85;2024-09-30;1;IMÓVEL BARRA FUNDA;Setor1;0;0
+44.705.818/0001-85;2024-09-30;1;IMÓVEL BARRA FUNDA;Setor2;0;0
+44.705.818/0001-85;2024-09-30;1;IMÓVEL BARRA FUNDA;Setor3;0;0
+44.705.818/0001-85;2024-09-30;1;IMÓVEL BARRA FUNDA;SetorN;0;0
+44.705.818/0001-85;2024-09-30;1;IMÓVEL BOM RETIRO;Setor1;0;0
+44.705.818/0001-85;2024-09-30;1;IMÓVEL BOM RETIRO;Setor2;0;0
+44.705.818/0001-85;2024-09-30;1;IMÓVEL BOM RETIRO;Setor3;0;0
+44.705.818/0001-85;2024-09-30;1;IMÓVEL BOM RETIRO;SetorN;0;0
+44.705.818/0001-85;2024-09-30;1;IMÓVEL PORTO ALEGRE;Setor1;0;0
+44.705.818/0001-85;2024-09-30;1;IMÓVEL PORTO ALEGRE;Setor2;0;0
+44.705.818/0001-85;2024-09-30;1;IMÓVEL PORTO ALEGRE;Setor3;0;0
+44.705.818/0001-85;2024-09-30;1;IMÓVEL PORTO ALEGRE;SetorN;0;0
+44.705.818/0001-85;2024-09-30;1;IMÓVEL UBERLANDIA;Setor1;0;0
+44.705.818/0001-85;2024-09-30;1;IMÓVEL UBERLANDIA;Setor2;0;0
+44.705.818/0001-85;2024-09-30;1;IMÓVEL UBERLANDIA;Setor3;0;0
+44.705.818/0001-85;2024-09-30;1;IMÓVEL UBERLANDIA;SetorN;0;0
 44.728.452/0001-60;2024-06-28;1;MOOCA 1;Setor1;0;0
 44.728.452/0001-60;2024-06-28;1;MOOCA 1;Setor2;0;0
 44.728.452/0001-60;2024-06-28;1;MOOCA 1;Setor3;0;0
@@ -15184,6 +16244,14 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 44.728.452/0001-60;2024-06-28;1;MOOCA 2;Setor2;0;0
 44.728.452/0001-60;2024-06-28;1;MOOCA 2;Setor3;0;0
 44.728.452/0001-60;2024-06-28;1;MOOCA 2;SetorN;0;0
+44.728.452/0001-60;2024-09-30;1;MOOCA 1;Setor1;0;0
+44.728.452/0001-60;2024-09-30;1;MOOCA 1;Setor2;0;0
+44.728.452/0001-60;2024-09-30;1;MOOCA 1;Setor3;0;0
+44.728.452/0001-60;2024-09-30;1;MOOCA 1;SetorN;0;0
+44.728.452/0001-60;2024-09-30;1;MOOCA 2;Setor1;0;0
+44.728.452/0001-60;2024-09-30;1;MOOCA 2;Setor2;0;0
+44.728.452/0001-60;2024-09-30;1;MOOCA 2;Setor3;0;0
+44.728.452/0001-60;2024-09-30;1;MOOCA 2;SetorN;0;0
 44.728.520/0001-90;2024-03-28;2;FAZENDA BOA VISTA;Setor1;0;0
 44.728.520/0001-90;2024-03-28;2;FAZENDA BOA VISTA;Setor2;0;0
 44.728.520/0001-90;2024-03-28;2;FAZENDA BOA VISTA;Setor3;0;0
@@ -15204,6 +16272,22 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 44.728.520/0001-90;2024-06-28;1;FAZENDA BOA VISTA;Setor2;0;0
 44.728.520/0001-90;2024-06-28;1;FAZENDA BOA VISTA;Setor3;0;0
 44.728.520/0001-90;2024-06-28;1;FAZENDA BOA VISTA;SetorN;0;0
+44.728.520/0001-90;2024-09-30;1;FAZENDA BOA VISTA;Setor1;0;0
+44.728.520/0001-90;2024-09-30;1;FAZENDA BOA VISTA;Setor2;0;0
+44.728.520/0001-90;2024-09-30;1;FAZENDA BOA VISTA;Setor3;0;0
+44.728.520/0001-90;2024-09-30;1;FAZENDA BOA VISTA;SetorN;0;0
+44.728.520/0001-90;2024-09-30;1;APT 31;Setor1;0;0
+44.728.520/0001-90;2024-09-30;1;APT 31;Setor2;0;0
+44.728.520/0001-90;2024-09-30;1;APT 31;Setor3;0;0
+44.728.520/0001-90;2024-09-30;1;APT 31;SetorN;0;0
+44.728.520/0001-90;2024-09-30;1;EDIFICIO SAINT PAUL;Setor1;0;0
+44.728.520/0001-90;2024-09-30;1;EDIFICIO SAINT PAUL;Setor2;0;0
+44.728.520/0001-90;2024-09-30;1;EDIFICIO SAINT PAUL;Setor3;0;0
+44.728.520/0001-90;2024-09-30;1;EDIFICIO SAINT PAUL;SetorN;0;0
+44.728.520/0001-90;2024-09-30;1;IMÓVEL RUA CUBA;Setor1;0;0
+44.728.520/0001-90;2024-09-30;1;IMÓVEL RUA CUBA;Setor2;0;0
+44.728.520/0001-90;2024-09-30;1;IMÓVEL RUA CUBA;Setor3;0;0
+44.728.520/0001-90;2024-09-30;1;IMÓVEL RUA CUBA;SetorN;0;0
 45.063.985/0001-32;2024-03-31;1;Timon/Ma;Alimentação;0;0
 45.063.985/0001-32;2024-03-31;1;Sousa/PB;Alimentação;0;0
 45.063.985/0001-32;2024-03-31;1;Jacobina;Alimentação;0;0
@@ -15246,6 +16330,27 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 45.063.985/0001-32;2024-06-30;1;Paroquia;Serviços;0;0
 45.063.985/0001-32;2024-06-30;1;Sto Andre;Serviços;0;0
 45.063.985/0001-32;2024-06-30;1;Antares;Serviços;0;0
+45.063.985/0001-32;2024-09-30;1;ABILIO SOARE;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;ALMANARA;Alimentação;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;ANGELICA;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;ANTARES;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;BUZIOS;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;CAJAZEIRAS;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;CAMP PROENCA;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;COITE;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;GOIANIA FLAM;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;ITABUNA/BA;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;JACOBINA/BA;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;L02 NORTE;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;LAGO NORTE;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;LEOPOLDINA;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;MACEIO;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;N SRA SABARA;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;PAROQUIA;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;SOUSA/PB;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;STOANDRE;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;TIMON/MA;Serviços;0.1;0.1
+45.063.985/0001-32;2024-09-30;1;VIT CONQUIST;Serviços;0.1;0.1
 45.105.676/0001-88;2024-03-31;1;Edifício Palácio da Agricultura;Serviços;0.963125;0.963125
 45.105.676/0001-88;2024-03-31;1;Edifício Palácio da Agricultura;Comércio;0.0368755;0.0368755
 45.105.676/0001-88;2024-06-30;1;Edifício Palácio da Agricultura;Serviços;0.963125;0.963125
@@ -15389,6 +16494,58 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 45.123.465/0001-78;2024-06-30;2;Itiquira- MT (Mat. 6.195);Setor2;0;0
 45.123.465/0001-78;2024-06-30;2;Itiquira- MT (Mat. 6.195);Setor3;0;0
 45.123.465/0001-78;2024-06-30;2;Itiquira- MT (Mat. 6.195);SetorN;0;0
+45.123.465/0001-78;2024-09-30;1;Nova Andradina - MS (Mat. 89);Comercio;0.1762;0.1762
+45.123.465/0001-78;2024-09-30;1;Nova Andradina - MS (Mat. 89);Setor2;0;0
+45.123.465/0001-78;2024-09-30;1;Nova Andradina - MS (Mat. 89);Setor3;0;0
+45.123.465/0001-78;2024-09-30;1;Nova Andradina - MS (Mat. 89);SetorN;0;0
+45.123.465/0001-78;2024-09-30;1;Sapezal - MT (Mat. 411);Comercio;0.1132;0.1132
+45.123.465/0001-78;2024-09-30;1;Sapezal - MT (Mat. 411);Setor2;0;0
+45.123.465/0001-78;2024-09-30;1;Sapezal - MT (Mat. 411);Setor3;0;0
+45.123.465/0001-78;2024-09-30;1;Sapezal - MT (Mat. 411);SetorN;0;0
+45.123.465/0001-78;2024-09-30;1;Rio Branco - AC (Mat. 14.797);Comercio;0.2328;0.2328
+45.123.465/0001-78;2024-09-30;1;Rio Branco - AC (Mat. 14.797);Setor2;0;0
+45.123.465/0001-78;2024-09-30;1;Rio Branco - AC (Mat. 14.797);Setor3;0;0
+45.123.465/0001-78;2024-09-30;1;Rio Branco - AC (Mat. 14.797);SetorN;0;0
+45.123.465/0001-78;2024-09-30;1;Sete Quedas - MS (Mat. 6.370);Comercio;0.0471;0.0471
+45.123.465/0001-78;2024-09-30;1;Sete Quedas - MS (Mat. 6.370);Setor2;0;0
+45.123.465/0001-78;2024-09-30;1;Sete Quedas - MS (Mat. 6.370);Setor3;0;0
+45.123.465/0001-78;2024-09-30;1;Sete Quedas - MS (Mat. 6.370);SetorN;0;0
+45.123.465/0001-78;2024-09-30;1;Amambai - MS (Mat. 15.388);Comercio;0.1206;0.1206
+45.123.465/0001-78;2024-09-30;1;Amambai - MS (Mat. 15.388);Setor2;0;0
+45.123.465/0001-78;2024-09-30;1;Amambai - MS (Mat. 15.388);Setor3;0;0
+45.123.465/0001-78;2024-09-30;1;Amambai - MS (Mat. 15.388);SetorN;0;0
+45.123.465/0001-78;2024-09-30;1;Juara - MT (Mat. 2.014);Comercio;0.0529;0.0529
+45.123.465/0001-78;2024-09-30;1;Juara - MT (Mat. 2.014);Setor2;0;0
+45.123.465/0001-78;2024-09-30;1;Juara - MT (Mat. 2.014);Setor3;0;0
+45.123.465/0001-78;2024-09-30;1;Juara - MT (Mat. 2.014);SetorN;0;0
+45.123.465/0001-78;2024-09-30;1;Bonito - MS (Mat. 7.438);Comercio;0.0672;0.0672
+45.123.465/0001-78;2024-09-30;1;Bonito - MS (Mat. 7.438);Setor2;0;0
+45.123.465/0001-78;2024-09-30;1;Bonito - MS (Mat. 7.438);Setor3;0;0
+45.123.465/0001-78;2024-09-30;1;Bonito - MS (Mat. 7.438);SetorN;0;0
+45.123.465/0001-78;2024-09-30;1;Presidente Médici - RO (Mat. 3.335);Comercio;0.0809;0.0809
+45.123.465/0001-78;2024-09-30;1;Presidente Médici - RO (Mat. 3.335);Setor2;0;0
+45.123.465/0001-78;2024-09-30;1;Presidente Médici - RO (Mat. 3.335);Setor3;0;0
+45.123.465/0001-78;2024-09-30;1;Presidente Médici - RO (Mat. 3.335);SetorN;0;0
+45.123.465/0001-78;2024-09-30;1;Acrelândia - AC (Mat. 1.884);Comercio;0.0333;0.0333
+45.123.465/0001-78;2024-09-30;1;Acrelândia - AC (Mat. 1.884);Setor2;0;0
+45.123.465/0001-78;2024-09-30;1;Acrelândia - AC (Mat. 1.884);Setor3;0;0
+45.123.465/0001-78;2024-09-30;1;Acrelândia - AC (Mat. 1.884);SetorN;0;0
+45.123.465/0001-78;2024-09-30;1;Cassilândia - MS (Mat. 6.829);Comercio;0.0756;0.0756
+45.123.465/0001-78;2024-09-30;1;Cassilândia - MS (Mat. 6.829);Setor2;0;0
+45.123.465/0001-78;2024-09-30;1;Cassilândia - MS (Mat. 6.829);Setor3;0;0
+45.123.465/0001-78;2024-09-30;1;Cassilândia - MS (Mat. 6.829);SetorN;0;0
+45.123.465/0001-78;2024-09-30;1;Ji-Paraná - RO (Mat. 13.977);Comercio;0;0
+45.123.465/0001-78;2024-09-30;1;Ji-Paraná - RO (Mat. 13.977);Setor2;0;0
+45.123.465/0001-78;2024-09-30;1;Ji-Paraná - RO (Mat. 13.977);Setor3;0;0
+45.123.465/0001-78;2024-09-30;1;Ji-Paraná - RO (Mat. 13.977);SetorN;0;0
+45.123.465/0001-78;2024-09-30;1;Barra do Garças - MT (Mat. 8.651);Comercio;0;0
+45.123.465/0001-78;2024-09-30;1;Barra do Garças - MT (Mat. 8.651);Setor2;0;0
+45.123.465/0001-78;2024-09-30;1;Barra do Garças - MT (Mat. 8.651);Setor3;0;0
+45.123.465/0001-78;2024-09-30;1;Barra do Garças - MT (Mat. 8.651);SetorN;0;0
+45.123.465/0001-78;2024-09-30;1;Itiquira- MT (Mat. 6.195);Comercio;0;0
+45.123.465/0001-78;2024-09-30;1;Itiquira- MT (Mat. 6.195);Setor2;0;0
+45.123.465/0001-78;2024-09-30;1;Itiquira- MT (Mat. 6.195);Setor3;0;0
+45.123.465/0001-78;2024-09-30;1;Itiquira- MT (Mat. 6.195);SetorN;0;0
 45.123.558/0001-00;2024-03-31;2;FAZENDA PIRAPITINGA;Setor1;0;0
 45.123.558/0001-00;2024-03-31;2;FAZENDA PIRAPITINGA;Setor2;0;0
 45.123.558/0001-00;2024-03-31;2;FAZENDA PIRAPITINGA;Setor3;0;0
@@ -15445,6 +16602,14 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 45.254.732/0001-46;2024-06-30;1;IMOVEL II  DELUX;Setor2;0;0
 45.254.732/0001-46;2024-06-30;1;IMOVEL II  DELUX;Setor3;0;0
 45.254.732/0001-46;2024-06-30;1;IMOVEL II  DELUX;SetorN;0;0
+45.254.732/0001-46;2024-09-30;1;IMOVEL I FAZENDA N. SR SOCORRO;Setor1;0;0
+45.254.732/0001-46;2024-09-30;1;IMOVEL I FAZENDA N. SR SOCORRO;Setor2;0;0
+45.254.732/0001-46;2024-09-30;1;IMOVEL I FAZENDA N. SR SOCORRO;Setor3;0;0
+45.254.732/0001-46;2024-09-30;1;IMOVEL I FAZENDA N. SR SOCORRO;SetorN;0;0
+45.254.732/0001-46;2024-09-30;1;IMOVEL II  DELUX;Setor1;0;0
+45.254.732/0001-46;2024-09-30;1;IMOVEL II  DELUX;Setor2;0;0
+45.254.732/0001-46;2024-09-30;1;IMOVEL II  DELUX;Setor3;0;0
+45.254.732/0001-46;2024-09-30;1;IMOVEL II  DELUX;SetorN;0;0
 45.727.531/0001-19;2024-03-31;1;JK Tower B II (20%);Comércio;0.019774;0.019774
 45.727.531/0001-19;2024-03-31;1;JK Tower B II (20%);Serviços;0.097918;0.097918
 45.727.531/0001-19;2024-03-31;1;JK Tower B II (20%);Indústria;0.882308;0.882308
@@ -15466,6 +16631,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 46.965.606/0001-62;2024-03-28;1;IMÓVEL TUPYNAMBÁS;Setor2;0;0
 46.965.606/0001-62;2024-03-28;1;IMÓVEL TUPYNAMBÁS;Setor3;0;0
 46.965.606/0001-62;2024-03-28;1;IMÓVEL TUPYNAMBÁS;SetorN;0;0
+46.965.606/0001-62;2024-09-30;1;Imóvel Tupynambás;Setor1;0;0
+46.965.606/0001-62;2024-09-30;1;Imóvel Tupynambás;Setor2;0;0
+46.965.606/0001-62;2024-09-30;1;Imóvel Tupynambás;Setor3;0;0
+46.965.606/0001-62;2024-09-30;1;Imóvel Tupynambás;SetorN;0;0
 47.154.849/0001-83;2024-03-28;1;SKY_1409;Corporativo;0;0.0002226
 47.154.849/0001-83;2024-06-28;1;SKY_1409;Corporativo;0;0.0015
 47.154.849/0001-83;2024-06-28;1;SKY_2210;CorporativoSetor2;1;0.1415
@@ -15506,6 +16675,15 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 47.896.665/0001-99;2024-06-30;1;Shopping Praia das Belas;Alimentação;0.2435;0.02269196693576
 47.896.665/0001-99;2024-06-30;1;I Fashion Outlet Novo Hamburgo;Vestuário;0.7315;0.04977610570697
 47.896.665/0001-99;2024-06-30;1;I Fashion Outlet Novo Hamburgo;Alimentação;0.1246;0.00847860939315
+47.896.665/0001-99;2024-09-30;1;Catarina Fashion Outlet;Satélite;0.72446;0.113327
+47.896.665/0001-99;2024-09-30;1;Iguatemi Bosque Shopping - Fortaleza;Satélite;0.469203;0.274451
+47.896.665/0001-99;2024-09-30;1;Iguatemi Bosque Shopping - Fortaleza;Alimentação;0.346178;0.20249
+47.896.665/0001-99;2024-09-30;1;Shopping Metro Tatuape;Coveniencia;0.106744;0.004875
+47.896.665/0001-99;2024-09-30;1;Shopping Metro Tatuape;Alimentação;0.187774;0.0008576
+47.896.665/0001-99;2024-09-30;1;Shopping Metro Tatuape;Vestuario;0.182837;0.008351
+47.896.665/0001-99;2024-09-30;1;Shopping Metro Boulevard Tatuape;Vestuario;1;1
+47.896.665/0001-99;2024-09-30;1;Shopping Praia das Belas;Vestuario;1;1
+47.896.665/0001-99;2024-09-30;1;I Fashion Outlet Novo Hamburgo;Vestuario;1;1
 48.565.175/0001-72;2024-03-31;1;Fazenda Tabuleiro I - C (Matrícula 5.372);Agronegócio;1;0.040822
 48.565.175/0001-72;2024-03-31;1;Fazenda Tabuleiro I- D (Matrícula 5.373);Agronegócio;1;0.064851
 48.565.175/0001-72;2024-03-31;1;Fazenda Tabuleiro I-E (Matrícula 5.374);Agronegócio;1;0.065719
@@ -15899,6 +17077,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 48.978.859/0001-04;2024-03-31;1;CVRD Aguas Claras - Bloco IV;Mineração;1;0.09806416760328
 48.978.859/0001-04;2024-06-30;2;Edificio Passeio Corporate;Serviços Financeiros Diversos;0.59816354448501;0.46301343936169
 48.978.859/0001-04;2024-06-30;2;CVRD Aguas Claras - Bloco IV;Mineração;1;0.09696160546521
+48.978.859/0001-04;2024-09-30;1;Edificio Passeio Corporate;Serviços Financeiros Diversos;0.54996143107015;0.39153219551781
+48.978.859/0001-04;2024-09-30;1;CVRD Aguas Claras - Bloco IV;Mineração;0.6743362607308;0.07208155359584
 49.152.919/0001-90;2024-03-31;1;O PARQUE;Comércio;1;1
 49.152.919/0001-90;2024-03-31;1;O PARQUE;Setor2;0;0
 49.152.919/0001-90;2024-03-31;1;O PARQUE;Setor3;0;0
@@ -15985,6 +17165,14 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 50.117.874/0001-00;2024-09-30;1;Barão do Rio Branco;Varejo;0;0.00025
 50.117.874/0001-00;2024-09-30;1;Pedro Pereira;Varejo;0;0.00113
 50.117.874/0001-00;2024-09-30;1;São Paulo;Varejo;0;0.0005
+50.180.894/0001-17;2024-09-30;1;NEW PATTEO;Setor1;0;0
+50.180.894/0001-17;2024-09-30;1;NEW PATTEO;Setor2;0;0
+50.180.894/0001-17;2024-09-30;1;NEW PATTEO;Setor3;0;0
+50.180.894/0001-17;2024-09-30;1;NEW PATTEO;SetorN;0;0
+50.180.894/0001-17;2024-09-30;1;PATTEO SÃO BERNARDO;Setor1;0;0
+50.180.894/0001-17;2024-09-30;1;PATTEO SÃO BERNARDO;Setor2;0;0
+50.180.894/0001-17;2024-09-30;1;PATTEO SÃO BERNARDO;Setor3;0;0
+50.180.894/0001-17;2024-09-30;1;PATTEO SÃO BERNARDO;SetorN;0;0
 50.375.550/0001-63;2024-03-28;1;Apt 41 - Edifício Palm Springs;Setor1;0;0
 50.375.550/0001-63;2024-03-28;1;Apt 41 - Edifício Palm Springs;Setor2;0;0
 50.375.550/0001-63;2024-03-28;1;Apt 41 - Edifício Palm Springs;Setor3;0;0
@@ -16017,6 +17205,42 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 50.375.550/0001-63;2024-03-28;1;Casa Morumbi;Setor2;0;0
 50.375.550/0001-63;2024-03-28;1;Casa Morumbi;Setor3;0;0
 50.375.550/0001-63;2024-03-28;1;Casa Morumbi;SetorN;0;0
+50.375.550/0001-63;2024-09-30;1;APT 111 DUPLEX;Setor1;0;0
+50.375.550/0001-63;2024-09-30;1;APT 111 DUPLEX;Setor2;0;0
+50.375.550/0001-63;2024-09-30;1;APT 111 DUPLEX;Setor3;0;0
+50.375.550/0001-63;2024-09-30;1;APT 111 DUPLEX;SetorN;0;0
+50.375.550/0001-63;2024-09-30;1;APTOCAFE11;Setor1;0;0
+50.375.550/0001-63;2024-09-30;1;APTOCAFE11;Setor2;0;0
+50.375.550/0001-63;2024-09-30;1;APTOCAFE11;Setor3;0;0
+50.375.550/0001-63;2024-09-30;1;APTOCAFE11;SetorN;0;0
+50.375.550/0001-63;2024-09-30;1;BARÃO CAFÉ 81;Setor1;0;0
+50.375.550/0001-63;2024-09-30;1;BARÃO CAFÉ 81;Setor2;0;0
+50.375.550/0001-63;2024-09-30;1;BARÃO CAFÉ 81;Setor3;0;0
+50.375.550/0001-63;2024-09-30;1;BARÃO CAFÉ 81;SetorN;0;0
+50.375.550/0001-63;2024-09-30;1;BOM JESUS;Setor1;0;0
+50.375.550/0001-63;2024-09-30;1;BOM JESUS;Setor2;0;0
+50.375.550/0001-63;2024-09-30;1;BOM JESUS;Setor3;0;0
+50.375.550/0001-63;2024-09-30;1;BOM JESUS;SetorN;0;0
+50.375.550/0001-63;2024-09-30;1;DUPLEX ALTO;Setor1;0;0
+50.375.550/0001-63;2024-09-30;1;DUPLEX ALTO;Setor2;0;0
+50.375.550/0001-63;2024-09-30;1;DUPLEX ALTO;Setor3;0;0
+50.375.550/0001-63;2024-09-30;1;DUPLEX ALTO;SetorN;0;0
+50.375.550/0001-63;2024-09-30;1;EQUADOR;Setor1;0;0
+50.375.550/0001-63;2024-09-30;1;EQUADOR;Setor2;0;0
+50.375.550/0001-63;2024-09-30;1;EQUADOR;Setor3;0;0
+50.375.550/0001-63;2024-09-30;1;EQUADOR;SetorN;0;0
+50.375.550/0001-63;2024-09-30;1;RA210623;Setor1;0;0
+50.375.550/0001-63;2024-09-30;1;RA210623;Setor2;0;0
+50.375.550/0001-63;2024-09-30;1;RA210623;Setor3;0;0
+50.375.550/0001-63;2024-09-30;1;RA210623;SetorN;0;0
+50.375.550/0001-63;2024-09-30;1;RA260523;Setor1;0;0
+50.375.550/0001-63;2024-09-30;1;RA260523;Setor2;0;0
+50.375.550/0001-63;2024-09-30;1;RA260523;Setor3;0;0
+50.375.550/0001-63;2024-09-30;1;RA260523;SetorN;0;0
+50.375.550/0001-63;2024-09-30;1;TERRAS DE SÃO CARLOS;Setor1;0;0
+50.375.550/0001-63;2024-09-30;1;TERRAS DE SÃO CARLOS;Setor2;0;0
+50.375.550/0001-63;2024-09-30;1;TERRAS DE SÃO CARLOS;Setor3;0;0
+50.375.550/0001-63;2024-09-30;1;TERRAS DE SÃO CARLOS;SetorN;0;0
 50.479.122/0001-80;2024-03-31;1;LOG RECIFE;E-commerce;1;0.35855162625751
 50.479.122/0001-80;2024-03-31;1;LOG GOIANIA;Transporte;0.35533027606693;0.0189453341487
 50.479.122/0001-80;2024-03-31;1;LOG GOIANIA;E-commerce;0.1622975468284;0.00865330500461
@@ -16089,6 +17313,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 50.876.919/0001-11;2024-03-28;1;GE04 EMPREENDIMENTO 2;Setor2;0;0
 50.876.919/0001-11;2024-03-28;1;GE04 EMPREENDIMENTO 2;Setor3;0;0
 50.876.919/0001-11;2024-03-28;1;GE04 EMPREENDIMENTO 2;SetorN;0;0
+50.918.320/0001-01;2024-09-30;1;PIEMONTESE;Setor1;0;0
+50.918.320/0001-01;2024-09-30;1;PIEMONTESE;Setor2;0;0
+50.918.320/0001-01;2024-09-30;1;PIEMONTESE;Setor3;0;0
+50.918.320/0001-01;2024-09-30;1;PIEMONTESE;SetorN;0;0
 50.939.923/0001-81;2024-03-31;1;Prédio;Setor1;0;0
 50.939.923/0001-81;2024-03-31;1;Prédio;Setor2;0;0
 50.939.923/0001-81;2024-03-31;1;Prédio;Setor3;0;0
@@ -16371,6 +17599,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 51.295.092/0001-15;2024-09-30;1;Casa Morada;SetorN;0;0
 51.326.818/0001-30;2024-03-31;1;JAUNAS;Imóvel Comercial;1;0.0099515
 51.326.818/0001-30;2024-06-30;1;JAUNAS;Imóvel Comercial;1;0.0099515
+51.326.818/0001-30;2024-09-30;1;JAUNAS;Comercial;0.1;0.1
 51.381.999/0001-05;2024-03-31;1;Prédio;Setor1;0;0
 51.381.999/0001-05;2024-03-31;1;Prédio;Setor2;0;0
 51.381.999/0001-05;2024-03-31;1;Prédio;Setor3;0;0
@@ -16431,12 +17660,39 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 51.416.131/0001-95;2024-09-30;1;Predio comercial e respectivo terreno;Setor2;0;0
 51.416.131/0001-95;2024-09-30;1;Predio comercial e respectivo terreno;Setor3;0;0
 51.416.131/0001-95;2024-09-30;1;Predio comercial e respectivo terreno;SetorN;0;0
+51.472.985/0001-99;2024-09-30;2;Neumarkt Shopping;Setor1;0.5304;0.0671
+51.472.985/0001-99;2024-09-30;2;Neumarkt Shopping;Restaurante Setor2;0.1901;0.0244
+51.472.985/0001-99;2024-09-30;2;Neumarkt Shopping;Alimentação Setor3;0.1547;0.0193
+51.472.985/0001-99;2024-09-30;2;Neumarkt Shopping;Serv/Conveniências;0;0
+51.472.985/0001-99;2024-09-30;2;Garten Shopping;Setor1;0.0167;0.012
+51.472.985/0001-99;2024-09-30;2;Garten Shopping;Alimentação Setor2;0.1504;0.0106
+51.472.985/0001-99;2024-09-30;2;Garten Shopping;CinemaSetor3;0.1488;0.0106
+51.472.985/0001-99;2024-09-30;2;Garten Shopping;Restaurante;0;0
+51.472.985/0001-99;2024-09-30;2;Norte Shopping;Setor1;0.1877;0.033
+51.472.985/0001-99;2024-09-30;2;Norte Shopping;Serv ConvenienciasSetor2;0.1557;0.0272
+51.472.985/0001-99;2024-09-30;2;Norte Shopping;AlimentaçãoSetor3;0.1503;0.0261
+51.472.985/0001-99;2024-09-30;2;Norte Shopping;Cinema;0;0
+51.472.985/0001-99;2024-09-30;2;Continente Shopping;Setor1;0.4712;0.1901
+51.472.985/0001-99;2024-09-30;2;Continente Shopping;LazerSetor2;0.2331;0.0942
+51.472.985/0001-99;2024-09-30;2;Continente Shopping;Serv/ConvenienciaSetor3;0.1901;0.0772
+51.472.985/0001-99;2024-09-30;2;Continente Shopping;Alimentação;0;0
+51.472.985/0001-99;2024-09-30;2;Nações Shopping;Setor1;0.1657;0.0307
+51.472.985/0001-99;2024-09-30;2;Nações Shopping;AlimentaçãoSetor2;0.1624;0.0301
+51.472.985/0001-99;2024-09-30;2;Nações Shopping;Serv/ConvenienciaSetor3;0.1501;0.0276
+51.472.985/0001-99;2024-09-30;2;Nações Shopping;Academia;0;0
+51.472.985/0001-99;2024-09-30;2;Balneário Shopping;Setor1;0.169;0.72
+51.472.985/0001-99;2024-09-30;2;Balneário Shopping;Serv/ConvenienciasSetor2;0.1497;0.0065
+51.472.985/0001-99;2024-09-30;2;Balneário Shopping;LazerSetor3;0.1458;0.0065
+51.472.985/0001-99;2024-09-30;2;Balneário Shopping;Restaurante;0;0
 51.666.294/0001-26;2024-03-31;1;Condominio E-Tower Sao Paulo;Medicamentos e Outros Produtos;0.15043495355901;0.14910492941244
 51.666.294/0001-26;2024-03-31;1;Condominio E-Tower Sao Paulo;Energia Elétrica;0.56802471341;0.56300269846726
 51.666.294/0001-26;2024-03-31;1;Condominio E-Tower Sao Paulo;Comércio e Distribuição;0.11391381030751;0.11290667656132
 51.666.294/0001-26;2024-06-30;1;Condominio E-Tower Sao Paulo;Medicamentos e Outros Produtos;0.16156766488889;0.15143265765521
 51.666.294/0001-26;2024-06-30;1;Condominio E-Tower Sao Paulo;Energia Elétrica;0.55915466662984;0.52407935255054
 51.666.294/0001-26;2024-06-30;1;Condominio E-Tower Sao Paulo;Comércio e Distribuição;0.11225664695044;0.10521487946774
+51.666.294/0001-26;2024-09-30;1;Condominio E-Tower Sao Paulo;Medicamentos e Outros Produtos;0.16259850737475;0.15414031366293
+51.666.294/0001-26;2024-09-30;1;Condominio E-Tower Sao Paulo;Energia Elétrica;0.55605053476491;0.52712540370105
+51.666.294/0001-26;2024-09-30;1;Condominio E-Tower Sao Paulo;Comércio e Distribuição;0.11151246353058;0.10571170906455
 51.672.980/0001-00;2024-03-31;1;CONDOMÍNIO EDIFÍCIO K1;Setor1;0;0
 51.672.980/0001-00;2024-03-31;1;CONDOMÍNIO EDIFÍCIO K1;Setor2;0;0
 51.672.980/0001-00;2024-03-31;1;CONDOMÍNIO EDIFÍCIO K1;Setor3;0;0
@@ -16493,6 +17749,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 51.889.479/0001-08;2024-09-30;1;KLOPSCH;Setor2;0;0
 51.889.479/0001-08;2024-09-30;1;KLOPSCH;Setor3;0;0
 51.889.479/0001-08;2024-09-30;1;KLOPSCH;SetorN;0;0
+51.890.054/0001-00;2024-09-30;1;GALPÃO CAJAMAR;Indústria;0.1;0.22
 52.219.978/0001-42;2024-03-28;1;Alameda Santos;Serviços;1;0.028663
 52.219.978/0001-42;2024-03-28;1;Corporate Plaza;Serviços;0.300588;0.012492
 52.219.978/0001-42;2024-03-28;1;Corporate Plaza;Indústria;0.066175;0.00275
@@ -16565,6 +17822,62 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 52.321.885/0001-24;2024-03-28;2;Imóvel 12;Setor2;0;0
 52.321.885/0001-24;2024-03-28;2;Imóvel 12;Setor3;0;0
 52.321.885/0001-24;2024-03-28;2;Imóvel 12;SetorN;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 1;Setor1;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 1;Setor2;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 1;Setor3;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 1;SetorN;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 2;Setor1;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 2;Setor2;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 2;Setor3;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 2;SetorN;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 3;Setor1;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 3;Setor2;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 3;Setor3;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 3;SetorN;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 4;Setor1;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 4;Setor2;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 4;Setor3;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 4;SetorN;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 5;Setor1;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 5;Setor2;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 5;Setor3;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 5;SetorN;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 6;Setor1;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 6;Setor2;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 6;Setor3;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 6;SetorN;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 7;Setor1;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 7;Setor2;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 7;Setor3;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 7;SetorN;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 8;Setor1;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 8;Setor2;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 8;Setor3;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 8;SetorN;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 9;Setor1;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 9;Setor2;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 9;Setor3;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 9;SetorN;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 10;Setor1;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 10;Setor2;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 10;Setor3;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 10;SetorN;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 11;Setor1;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 11;Setor2;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 11;Setor3;0;0
+52.321.885/0001-24;2024-09-30;1;IMÓVEL 11;SetorN;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 12;Setor1;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 12;Setor2;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 12;Setor3;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 12;SetorN;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 13;Setor1;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 13;Setor2;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 13;Setor3;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 13;SetorN;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 14;Setor1;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 14;Setor2;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 14;Setor3;0;0
+52.321.885/0001-24;2024-09-30;1;IMOVEL 14;SetorN;0;0
 52.353.292/0001-40;2024-03-31;1;Shopping Patio Maceio;Varejo;0.607009;0.373123
 52.353.292/0001-40;2024-03-31;1;Shopping Patio Maceio;Alimentação;0.156437;0.09616
 52.353.292/0001-40;2024-03-31;1;Shopping Patio Maceio;Outros;0.199372;0.122552
@@ -16756,6 +18069,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 52.889.976/0001-60;2024-09-30;1;N/A;Setor2;0;0
 52.889.976/0001-60;2024-09-30;1;N/A;Setor3;0;0
 52.889.976/0001-60;2024-09-30;1;N/A;SetorN;0;0
+52.890.292/0001-89;2024-09-30;1;STAR LOC;Setor1;0;0
+52.890.292/0001-89;2024-09-30;1;STAR LOC;Setor2;0;0
+52.890.292/0001-89;2024-09-30;1;STAR LOC;Setor3;0;0
+52.890.292/0001-89;2024-09-30;1;STAR LOC;SetorN;0;0
 53.076.746/0001-45;2024-03-31;2;IMÓVEL URBANO - BR101 - ZONA INDUSTRIAL - RN (SACOPLAST);Setor1;0;0
 53.076.746/0001-45;2024-03-31;2;IMÓVEL URBANO - BR101 - ZONA INDUSTRIAL - RN (SACOPLAST);Setor2;0;0
 53.076.746/0001-45;2024-03-31;2;IMÓVEL URBANO - BR101 - ZONA INDUSTRIAL - RN (SACOPLAST);Setor3;0;0
@@ -16892,6 +18209,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 53.191.611/0001-20;2024-09-30;1;SIGNA RESIDENCE CPR1 AMERICANA;Setor2;0;0
 53.191.611/0001-20;2024-09-30;1;SIGNA RESIDENCE CPR1 AMERICANA;Setor3;0;0
 53.191.611/0001-20;2024-09-30;1;SIGNA RESIDENCE CPR1 AMERICANA;SetorN;0;0
+53.251.006/0001-06;2024-09-30;1;INSIDEVNC;Residencial;0;0
 53.309.565/0001-11;2024-03-31;1;Imovel Sao Paulo - Hospital Paulistano;Serviços Médico - Hospitalares;1;0.98896803677465
 53.309.565/0001-11;2024-06-30;1;Imovel Sao Paulo - Hospital Paulistano;Serviços Médico - Hospitalares;1;0.17650324800903
 53.309.565/0001-11;2024-09-30;1;Imovel Sao Paulo - Hospital Paulistano;Serviços Médico - Hospitalares;1;0.939217861449
@@ -16910,6 +18228,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 53.466.467/0001-98;2024-06-30;1;Centro Logístico e Industrial Salto;Operador Logístico;0.287916;0.207016
 53.466.467/0001-98;2024-06-30;1;Centro Logístico e Industrial Salto;Operador Logístico;0.254284;0.182834
 53.466.467/0001-98;2024-06-30;1;Centro Logístico e Industrial Salto;Serviços;0.114323;0.0822
+53.466.467/0001-98;2024-09-30;1;Centro Logístico e Industrial Salto;Operador Logístico;0.502171;0.102747
+53.466.467/0001-98;2024-09-30;1;Centro Logístico e Industrial Salto;Distribuidora;0.155702;0.031858
+53.466.467/0001-98;2024-09-30;1;Centro Logístico e Industrial Salto;Serviços;0.105742;0.021635
 53.656.482/0001-07;2024-03-31;1;Cidade Jardim;Financeiro;0.107347;0.031629
 53.656.482/0001-07;2024-03-31;1;Cidade Jardim;Advocacia;0.213684;0.062961
 53.656.482/0001-07;2024-03-31;1;Cidade Jardim;Financeiro;0.195677;0.057656
@@ -16935,6 +18256,22 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 53.656.482/0001-07;2024-06-30;1;Volkswagem;Automobilistico;1;0.18252
 53.656.482/0001-07;2024-06-30;1;Burity;Financeiro;0.588753;0.09062
 53.656.482/0001-07;2024-06-30;1;Burity;Financeiro;0.411247;0.063298
+53.656.482/0001-07;2024-09-30;1;BURITY;Financeiro;0;0
+53.656.482/0001-07;2024-09-30;1;BURITY;Advocacia;0;0
+53.656.482/0001-07;2024-09-30;1;BURITY;Financeiro;0;0
+53.656.482/0001-07;2024-09-30;1;BURITY;Financeiro;0;0
+53.656.482/0001-07;2024-09-30;1;CID JARDIM;Mídia;0;0
+53.656.482/0001-07;2024-09-30;1;CID JARDIM;Financeiro;0;0
+53.656.482/0001-07;2024-09-30;1;CID JARDIM;Financeiro;0;0
+53.656.482/0001-07;2024-09-30;1;PAULISTA;Automação industrial;0;0
+53.656.482/0001-07;2024-09-30;1;PAULISTA;Industria;0;0
+53.656.482/0001-07;2024-09-30;1;TRANSATLANT;Automobilistico;0;0
+53.656.482/0001-07;2024-09-30;1;VOLKSWAGEN;Financeiro;0;0
+53.656.482/0001-07;2024-09-30;1;VOLKSWAGEN;Financeiro;0;0
+54.045.925/0001-88;2024-09-30;1;IMÓVEL 1 (TIVIO RENDA IMOBILIARIA);Setor1;0;0
+54.045.925/0001-88;2024-09-30;1;IMÓVEL 1 (TIVIO RENDA IMOBILIARIA);Setor2;0;0
+54.045.925/0001-88;2024-09-30;1;IMÓVEL 1 (TIVIO RENDA IMOBILIARIA);Setor3;0;0
+54.045.925/0001-88;2024-09-30;1;IMÓVEL 1 (TIVIO RENDA IMOBILIARIA);SetorN;0;0
 54.088.529/0001-38;2024-09-30;1;TAUBATE IMOV;Industra de aluminio;0;0
 54.275.309/0001-13;2024-06-30;1;Imóvel Iguape-SP;Setor1;0;0
 54.275.309/0001-13;2024-06-30;1;Imóvel Iguape-SP;Setor2;0;0
@@ -16952,6 +18289,54 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 54.275.309/0001-13;2024-09-30;1;Imóvel Marginal Tiete-SP;Setor2;0;0
 54.275.309/0001-13;2024-09-30;1;Imóvel Marginal Tiete-SP;Setor3;0;0
 54.275.309/0001-13;2024-09-30;1;Imóvel Marginal Tiete-SP;SetorN;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 1;Setor1;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 1;Setor2;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 1;Setor3;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 1;SetorN;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 2;Setor1;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 2;Setor2;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 2;Setor3;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 2;SetorN;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 3;Setor1;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 3;Setor2;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 3;Setor3;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 3;SetorN;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 4;Setor1;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 4;Setor2;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 4;Setor3;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 4;SetorN;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 5;Setor1;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 5;Setor2;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 5;Setor3;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 5;SetorN;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 6;Setor1;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 6;Setor2;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 6;Setor3;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 6;SetorN;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 7;Setor1;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 7;Setor2;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 7;Setor3;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 7;SetorN;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 8;Setor1;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 8;Setor2;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 8;Setor3;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 8;SetorN;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 9;Setor1;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 9;Setor2;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 9;Setor3;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 9;SetorN;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 10;Setor1;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 10;Setor2;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 10;Setor3;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 10;SetorN;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 11;Setor1;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 11;Setor2;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 11;Setor3;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 11;SetorN;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 12;Setor1;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 12;Setor2;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 12;Setor3;0;0
+54.386.365/0001-25;2024-09-30;1;IMÓVEL 12;SetorN;0;0
 54.419.040/0001-00;2024-06-30;1;DAMHA 6J;Setor1;0;0
 54.419.040/0001-00;2024-06-30;1;DAMHA 6J;Setor2;0;0
 54.419.040/0001-00;2024-06-30;1;DAMHA 6J;Setor3;0;0
@@ -16960,7 +18345,52 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 54.419.040/0001-00;2024-09-30;1;DAMHA 6J;Setor2;0;0
 54.419.040/0001-00;2024-09-30;1;DAMHA 6J;Setor3;0;0
 54.419.040/0001-00;2024-09-30;1;DAMHA 6J;SetorN;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 1;Setor1;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 1;Setor2;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 1;Setor3;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 1;SetorN;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 2;Setor1;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 2;Setor2;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 2;Setor3;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 2;SetorN;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 3;Setor1;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 3;Setor2;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 3;Setor3;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 3;SetorN;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 4;Setor1;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 4;Setor2;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 4;Setor3;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 4;SetorN;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 5;Setor1;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 5;Setor2;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 5;Setor3;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 5;SetorN;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 6;Setor1;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 6;Setor2;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 6;Setor3;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 6;SetorN;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 7;Setor1;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 7;Setor2;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 7;Setor3;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 7;SetorN;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 8;Setor1;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 8;Setor2;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 8;Setor3;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 8;SetorN;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 9;Setor1;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 9;Setor2;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 9;Setor3;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 9;SetorN;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 10;Setor1;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 10;Setor2;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 10;Setor3;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 10;SetorN;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 11;Setor1;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 11;Setor2;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 11;Setor3;0;0
+54.485.027/0001-40;2024-09-30;1;IMÓVEL 11;SetorN;0;0
 54.557.596/0001-54;2024-06-30;1;BM 336;Serviços Financeiros Diversos;1;0.9948
+54.557.596/0001-54;2024-09-30;1;BM 336;Serviços Financeiros Diversos;1;0.88490037413002
 54.675.539/0001-70;2024-06-28;2;MATRICULA 120012;Setor1;0;0
 54.675.539/0001-70;2024-06-28;2;MATRICULA 120012;Setor2;0;0
 54.675.539/0001-70;2024-06-28;2;MATRICULA 120012;Setor3;0;0
@@ -16977,15 +18407,79 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Imovel;Setor_Atuacao;Percentual_Receita_I
 54.675.539/0001-70;2024-06-28;2;MATRICULA 142888;Setor2;0;0
 54.675.539/0001-70;2024-06-28;2;MATRICULA 142888;Setor3;0;0
 54.675.539/0001-70;2024-06-28;2;MATRICULA 142888;SetorN;0;0
+54.675.539/0001-70;2024-09-30;1;MATRICULA 120012;Setor1;0;0
+54.675.539/0001-70;2024-09-30;1;MATRICULA 120012;Setor2;0;0
+54.675.539/0001-70;2024-09-30;1;MATRICULA 120012;Setor3;0;0
+54.675.539/0001-70;2024-09-30;1;MATRICULA 120012;SetorN;0;0
+54.675.539/0001-70;2024-09-30;1;MATRICULA 120274;Setor1;0;0
+54.675.539/0001-70;2024-09-30;1;MATRICULA 120274;Setor2;0;0
+54.675.539/0001-70;2024-09-30;1;MATRICULA 120274;Setor3;0;0
+54.675.539/0001-70;2024-09-30;1;MATRICULA 120274;SetorN;0;0
+54.675.539/0001-70;2024-09-30;1;MATRICULA 120275;Setor1;0;0
+54.675.539/0001-70;2024-09-30;1;MATRICULA 120275;Setor2;0;0
+54.675.539/0001-70;2024-09-30;1;MATRICULA 120275;Setor3;0;0
+54.675.539/0001-70;2024-09-30;1;MATRICULA 120275;SetorN;0;0
+54.675.539/0001-70;2024-09-30;1;MATRICULA 142888;Setor1;0;0
+54.675.539/0001-70;2024-09-30;1;MATRICULA 142888;Setor2;0;0
+54.675.539/0001-70;2024-09-30;1;MATRICULA 142888;Setor3;0;0
+54.675.539/0001-70;2024-09-30;1;MATRICULA 142888;SetorN;0;0
+55.034.258/0001-09;2024-09-30;1;PAJOPINHA;Laje Corporativa;0.1;0.1
 55.314.110/0001-10;2024-06-30;1;SHOPPING PARQUE DOM PEDRO II;Varejo;0.832992;0.13619703508819
 55.314.110/0001-10;2024-06-30;1;SHOPPING PARQUE DOM PEDRO II;Estacionamento;0.1275;0.02744174978994
+55.314.110/0001-10;2024-09-30;1;Shopping Parque Dom Pedro - 2,39%;Varejo;0.6373544821823;0.57883571797106
+55.314.110/0001-10;2024-09-30;1;Shopping Parque Dom Pedro - 2,39%;Estacionamento;0.19050976571074;0.17301809291134
 55.315.760/0001-80;2024-06-30;1;SHOPPING PARQUE DOM PEDRO II;Varejo;0.832992;0.13619703508819
 55.315.760/0001-80;2024-06-30;1;SHOPPING PARQUE DOM PEDRO II;Estacionamento;0.1275;0.02744174978994
+55.315.760/0001-80;2024-09-30;1;Shopping Parque Dom Pedro - 15,66%;Varejo;0.46873830362418;0.42570105036342
+55.315.760/0001-80;2024-09-30;1;Shopping Parque Dom Pedro - 15,66%;Estacionamento;0.14010919652959;0.12724505692635
 56.524.816/0001-79;2024-09-30;1;GALPÃO;Setor1;0;0
 56.524.816/0001-79;2024-09-30;1;GALPÃO;0Setor2;0;0
 56.524.816/0001-79;2024-09-30;1;GALPÃO;0Setor3;0;0
 56.524.816/0001-79;2024-09-30;1;GALPÃO;0SetorN;0;0
+56.849.012/0001-40;2024-09-30;1;APT 123;Setor1;0;0
+56.849.012/0001-40;2024-09-30;1;APT 123;Setor2;0;0
+56.849.012/0001-40;2024-09-30;1;APT 123;Setor3;0;0
+56.849.012/0001-40;2024-09-30;1;APT 123;SetorN;0;0
 56.978.773/0001-00;2024-09-30;1;EMPREENDIMENTO PORTO DA BARRA;Setor1;0;0
 56.978.773/0001-00;2024-09-30;1;EMPREENDIMENTO PORTO DA BARRA;Setor2;0;0
 56.978.773/0001-00;2024-09-30;1;EMPREENDIMENTO PORTO DA BARRA;Setor3;0;0
 56.978.773/0001-00;2024-09-30;1;EMPREENDIMENTO PORTO DA BARRA;SetorN;0;0
+57.054.672/0001-05;2024-09-30;1;IMOVEL 1;Setor1;0;0
+57.054.672/0001-05;2024-09-30;1;IMOVEL 1;Setor2;0;0
+57.054.672/0001-05;2024-09-30;1;IMOVEL 1;Setor3;0;0
+57.054.672/0001-05;2024-09-30;1;IMOVEL 1;SetorN;0;0
+57.216.258/0001-47;2024-09-30;1;Edifício Adalmiro Dellape Baptista B32;Banco;0.25762;0.25762
+57.216.258/0001-47;2024-09-30;1;Edifício Adalmiro Dellape Baptista B32;Comércio;0.12966;0.12966
+57.216.258/0001-47;2024-09-30;1;Edifício Adalmiro Dellape Baptista B32;Consultor;0.137414;0.137414
+57.216.258/0001-47;2024-09-30;1;Edifício Adalmiro Dellape Baptista B32;Energia;0.034571;0.034571
+57.216.258/0001-47;2024-09-30;1;Edifício Adalmiro Dellape Baptista B32;Gestão;0.038675;0.038675
+57.216.258/0001-47;2024-09-30;1;Edifício Adalmiro Dellape Baptista B32;Infraestrutura;0.032287;0.032287
+57.216.258/0001-47;2024-09-30;1;Edifício Adalmiro Dellape Baptista B32;Tecnologia;0.369673;0.369673
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 1;Setor1;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 1;Setor2;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 1;Setor3;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 1;SetorN;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 2;Setor1;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 2;Setor2;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 2;Setor3;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 2;SetorN;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 3;Setor1;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 3;Setor2;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 3;Setor3;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 3;SetorN;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 4;Setor1;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 4;Setor2;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 4;Setor3;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 4;SetorN;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 5;Setor1;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 5;Setor2;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 5;Setor3;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 5;SetorN;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 6;Setor1;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 6;Setor2;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 6;Setor3;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 6;SetorN;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 7;Setor1;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 7;Setor2;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 7;Setor3;0;0
+57.244.407/0001-81;2024-09-30;1;IMÓVEL 7;SetorN;0;0
