@@ -422,7 +422,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 08.924.783/0001-01;2024-09-30;1;Morumbi Corporate - Diamond Tower;Não possui caracteristicas que destoem dos demais
 09.006.914/0001-34;2024-03-28;1;Não se aplica.;Não se aplica.
 09.006.914/0001-34;2024-06-28;1;Não se aplica.;Não se aplica.
-09.006.914/0001-34;2024-09-30;1;Não se aplica;Não se aplica
+09.006.914/0001-34;2024-09-30;2;Não se aplica;Não se aplica
 09.072.017/0001-29;2024-03-28;1;-;
 09.072.017/0001-29;2024-06-30;1;-;
 09.072.017/0001-29;2024-09-30;1;-;
@@ -682,7 +682,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 12.358.507/0001-09;2024-09-30;1;N/A;N/A
 12.401.858/0001-47;2024-03-31;1;CONDOMINIO WT MORUMBI;Não possui caracteristicas que destoem dos demais
 12.401.858/0001-47;2024-06-30;1;CONDOMINIO WT MORUMBI;Contrato de Locação formato "built to suit".
-12.401.858/0001-47;2024-09-30;1;CONDOMINIO WT MORUMBI;Contrato de Locação formato "built to suit".
+12.401.858/0001-47;2024-09-30;2;CONDOMINIO WT MORUMBI;Contrato de Locação formato "built to suit".
 12.516.185/0001-70;2024-03-28;1;BM336;Conforme item 1.1.2.1.4 deste informe.
 12.516.185/0001-70;2024-03-28;1;Brooklyn Business Square;Conforme item 1.1.2.1.4 deste informe.
 12.516.185/0001-70;2024-03-28;1;Oscar Freire 585;Conforme item 1.1.2.1.4 deste informe.
@@ -2232,7 +2232,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 26.681.370/0001-25;2024-09-30;2;Edifício GPA;Conforme item anterior
 26.813.118/0001-22;2024-03-31;2;Não se aplica;
 26.813.118/0001-22;2024-06-30;1;Não se aplica;
-26.813.118/0001-22;2024-09-30;1;Não se aplica;
+26.813.118/0001-22;2024-09-30;2;Não se aplica;
 27.368.600/0001-63;2024-03-28;1;Galpão Logístico Quatro Barras;Único imóvel
 27.368.600/0001-63;2024-06-28;1;Galpão Logístico Quatro Barras;Único imóvel
 27.368.600/0001-63;2024-09-30;1;Galpão Logístico Quatro Barras;Único imóvel
@@ -3603,8 +3603,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 39.449.207/0001-83;2024-03-31;1;.;.
 39.449.207/0001-83;2024-06-30;1;.;.
 39.449.207/0001-83;2024-09-30;1;.;.
-39.583.723/0001-04;2024-03-31;1;não há;não há
-39.583.723/0001-04;2024-06-30;1;não há;não há
+39.583.723/0001-04;2024-03-31;2;não há;não há
+39.583.723/0001-04;2024-06-30;2;não há;não há
 39.583.723/0001-04;2024-09-30;1;não há;não há
 39.714.024/0001-48;2024-03-31;1;nda;nda
 39.714.024/0001-48;2024-06-30;1;nda;nda
@@ -4738,11 +4738,11 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 53.656.482/0001-07;2024-06-30;1;Transatlantico;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
 53.656.482/0001-07;2024-06-30;1;Volkwagem;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
 53.656.482/0001-07;2024-06-30;1;Burity;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
-53.656.482/0001-07;2024-09-30;1;BURITY;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
-53.656.482/0001-07;2024-09-30;1;CID JARDIM;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
-53.656.482/0001-07;2024-09-30;1;PAULISTA;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
-53.656.482/0001-07;2024-09-30;1;TRANSATLANT;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
-53.656.482/0001-07;2024-09-30;1;VOLKSWAGEN;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
+53.656.482/0001-07;2024-09-30;2;BURITY;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
+53.656.482/0001-07;2024-09-30;2;CID JARDIM;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
+53.656.482/0001-07;2024-09-30;2;PAULISTA;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
+53.656.482/0001-07;2024-09-30;2;TRANSATLANT;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
+53.656.482/0001-07;2024-09-30;2;VOLKSWAGEN;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
 54.045.925/0001-88;2024-09-30;1;IMÓVEL 1 (TIVIO RENDA IMOBILIARIA);AVENIDA RANGEL PESTANA, Nº2.128 E 2.132 - BRÁS - SÃO PAULO/SP
 54.064.962/0001-33;2024-03-31;1;.;.
 54.064.962/0001-33;2024-06-30;1;.;.
@@ -4818,6 +4818,7 @@ CNPJ_Fundo;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Contratua
 56.978.773/0001-00;2024-09-30;1;N/A;
 57.054.672/0001-05;2024-09-30;1;IMÓVEL 1;GETULIO VARGAS 291
 57.216.258/0001-47;2024-09-30;1;N/A;N/A
+57.231.494/0001-32;2024-09-30;1;N/A;N/A
 57.244.407/0001-81;2024-09-30;1;IMÓVEL 1;MATRICULA 24.229
 57.244.407/0001-81;2024-09-30;1;IMÓVEL 2;MATRICULA 24.230
 57.244.407/0001-81;2024-09-30;1;IMÓVEL 3;MATRICULA 24.232

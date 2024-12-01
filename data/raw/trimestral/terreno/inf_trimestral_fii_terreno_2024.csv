@@ -398,9 +398,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevantes;Are
 28.152.777/0001-90;2024-03-31;1;Rodovia MT-130/ Primavera do Leste - MT;TER PRIMAVERA 2 - MATRICULA 3855;40004;0.1365;0.0099
 28.152.777/0001-90;2024-06-30;1;Rodovia MT-130/ Primavera do Leste - MT;TER PRIMAVERA 1 - MATRICULA 38310;253046;0.8635;0.0624
 28.152.777/0001-90;2024-06-30;1;Rodovia MT-130/ Primavera do Leste - MT;TER PRIMAVERA 2 - MATRICULA 3855;40004;0.1365;0.0099
-28.152.777/0001-90;2024-09-30;1;Rodovia MT-130/ Primavera do Leste - MT;TER PRIMAVERA 1 - MATRICULA 38310;253046;0.1932;0.0624
-28.152.777/0001-90;2024-09-30;1;Rodovia MT-130/ Primavera do Leste - MT;TER PRIMAVERA 2 - MATRICULA 3855;40004;0.0305;0.0099
-28.152.777/0001-90;2024-09-30;1;Rodovia BR-163/ Sorriso - MT;Centro de Distribuição (CD);90000;0.7762;0.0508
+28.152.777/0001-90;2024-09-30;2;Rodovia MT-130/ Primavera do Leste - MT;TER PRIMAVERA 1 - MATRICULA 38310;253046;0.1932;0.0624
+28.152.777/0001-90;2024-09-30;2;Rodovia MT-130/ Primavera do Leste - MT;TER PRIMAVERA 2 - MATRICULA 3855;40004;0.0305;0.0099
+28.152.777/0001-90;2024-09-30;2;Rodovia BR-163/ Sorriso - MT;Centro de Distribuição (CD);90000;0.7762;0.0508
 28.267.530/0001-10;2024-03-28;1;Rua Cel. Mursa, 160  - Brás;.;991.75;0;0
 28.267.530/0001-10;2024-06-28;2;Rua Cel. Mursa, 160  - Brás;TERR 01;991.75;0;0
 28.267.530/0001-10;2024-09-30;1;Rua Cel. Mursa, 160  - Brás;TERR 01;991.75;0;0
@@ -638,8 +638,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevantes;Are
 39.347.413/0001-82;2024-03-31;1;Rua Denise Alves de Medeiros Campina Grande - Paraíba;Terreno adquirido de acordo com a escritura pública de compra e venda cuja aquisição está averbado junto a matrícula do imóvel.;12000;1;0
 39.347.413/0001-82;2024-06-30;1;Rua Denise Alves de Medeiros Campina Grande - Paraíba;Terreno adquirido de acordo com a escritura pública de compra e venda cuja aquisição está averbado junto a matrícula do imóvel.;12000;1;0
 39.347.413/0001-82;2024-09-30;1;Rua Denise Alves de Medeiros Campina Grande - Paraíba;Terreno adquirido de acordo com a escritura pública de compra e venda cuja aquisição está averbado junto a matrícula do imóvel.;12000;1;0
-39.583.723/0001-04;2024-03-31;1;AV UM, S/N PARQUE INDUSTRIAL, CIDADE DE CONTAGEM - MGGLEBA nª 01;lugar denominado FAZENDA DA TAPERA em Contagem/MG, com área de 52.242,19m², com limites e confrontações de acordo com a matrícula 168.070 do SRI de Contagem/MG;52242.19;1;1
-39.583.723/0001-04;2024-06-30;1;TERRENO SITUADO NA AV UM, S/N PARQUE INDUSTRIAL, CIDADE DE CONTAGEM - MGGLEBA nª 01;lugar denominado FAZENDA DA TAPERA em Contagem/MG, com área de 52.242,19m², com limites e confrontações de acordo com a matrícula 168.070 do SRI de Contagem/MG;52242.19;1;1
+39.583.723/0001-04;2024-03-31;2;AV UM, S/N PARQUE INDUSTRIAL, CIDADE DE CONTAGEM - MGGLEBA nª 01;lugar denominado FAZENDA DA TAPERA em Contagem/MG, com área de 52.242,19m², com limites e confrontações de acordo com a matrícula 168.070 do SRI de Contagem/MG;52242.19;1;1
+39.583.723/0001-04;2024-06-30;2;TERRENO SITUADO NA AV UM, S/N PARQUE INDUSTRIAL, CIDADE DE CONTAGEM - MGGLEBA nª 01;lugar denominado FAZENDA DA TAPERA em Contagem/MG, com área de 52.242,19m², com limites e confrontações de acordo com a matrícula 168.070 do SRI de Contagem/MG;52242.19;1;1
 39.583.723/0001-04;2024-09-30;1;TERRENO SITUADO NA AV UM, S/N PARQUE INDUSTRIAL, CIDADE DE CONTAGEM - MGGLEBA nª 01;lugar denominado FAZENDA DA TAPERA em Contagem/MG, com área de 52.242,19m², com limites e confrontações de acordo com a matrícula 168.070 do SRI de Contagem/MG;52242.19;1;1
 39.591.218/0001-01;2024-03-31;1;Rua Nicolau dos Santos, nº 40, São Paulo-SP;Imóvel registrado sob o nº 34.192 no Cartório de RGI de Imóveis da Capital de SP;883;1;0
 39.591.218/0001-01;2024-06-30;1;Rua Nicolau dos Santos, nº 40, São Paulo-SP;Imóvel registrado sob o nº 34.192 no Cartório de RGI de Imóveis da Capital de SP;883;1;0
