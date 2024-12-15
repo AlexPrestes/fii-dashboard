@@ -11,25 +11,25 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 01.235.622/0001-61;2022-06-30;2;Imóveis para venda em construção;Aretê - Peninsula Norte;N.A.;N.A.
 01.235.622/0001-61;2022-06-30;2;Imóveis para venda em construção;The Gallery;N.A.;N.A.
 01.235.622/0001-61;2022-06-30;2;Imóveis para venda em construção;Costa Mare;N.A.;N.A.
-01.235.622/0001-61;2022-06-30;2;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
 01.235.622/0001-61;2022-06-30;2;Imóveis para venda em construção;Aretê - Alto Ybirá;N.A.;N.A.
 01.235.622/0001-61;2022-06-30;2;Imóveis para venda em construção;Blanc 260;Replanejamento de cronograma;Antecipação de compra de mateiral.
+01.235.622/0001-61;2022-06-30;2;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
 01.235.622/0001-61;2022-06-30;2;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Atraso na contratação de serviços.;N.A.
 01.235.622/0001-61;2022-06-30;2;Imóveis para venda em construção;Iluminato;Prazo de obra replanejado, após atraso no desmonte de rocha.;N.A.
 01.235.622/0001-61;2022-06-30;2;Imóveis para venda em construção;Maison Laranjeiras;Tarefas replanejadas;N.A.
 01.235.622/0001-61;2022-09-30;2;Imóveis para venda em construção;Costa Mare;N.A.;N.A.
 01.235.622/0001-61;2022-09-30;2;Imóveis para venda em construção;Aretê - Alto Ybirá;N.A.;N.A.
+01.235.622/0001-61;2022-09-30;2;Imóveis para venda em construção;The Gallery;N.A.;N.A.
 01.235.622/0001-61;2022-09-30;2;Imóveis para venda em construção;Maison Laranjeiras;Tarefas replanejadas;N.A.
 01.235.622/0001-61;2022-09-30;2;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Atraso na contratação de serviços.;N.A.
 01.235.622/0001-61;2022-09-30;2;Imóveis para venda em construção;Blanc 260;Replanejamento de cronograma;Antecipação de compra de mateiral.
 01.235.622/0001-61;2022-09-30;2;Imóveis para venda em construção;S Design;Replanejamento de cronograma devido a queda do muro na edificação vizinha.;N.A.
 01.235.622/0001-61;2022-09-30;2;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
 01.235.622/0001-61;2022-09-30;2;Imóveis para venda em construção;Aretê - Peninsula Norte;N.A.;N.A.
-01.235.622/0001-61;2022-09-30;2;Imóveis para venda em construção;The Gallery;N.A.;N.A.
 01.235.622/0001-61;2022-09-30;2;Imóveis para venda em construção;Lineu 708;Atraso na mobilização do maquinário para a execução das estacas.;N.A.
 01.235.622/0001-61;2022-09-30;2;Imóveis para venda em construção;Iluminato;Prazo de obra replanejado, após atraso no desmonte de rocha.;N.A.
-01.235.622/0001-61;2022-12-31;2;Imóveis para venda em construção;Costa Mare;N.A.;N.A.
 01.235.622/0001-61;2022-12-31;2;Imóveis para venda em construção;The Gallery;N.A.;N.A.
+01.235.622/0001-61;2022-12-31;2;Imóveis para venda em construção;Costa Mare;N.A.;N.A.
 01.235.622/0001-61;2022-12-31;2;Imóveis para venda em construção;Iluminato;Prazo de obra replanejado, após atraso no desmonte de rocha.;N.A.
 01.235.622/0001-61;2022-12-31;2;Imóveis para venda em construção;Aretê - Peninsula Norte;N.A.;N.A.
 01.235.622/0001-61;2022-12-31;2;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Atraso na contratação de serviços.;N.A.
@@ -65,10 +65,10 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 13.320.290/0001-00;2022-03-31;1;Imóveis para renda em construção;R. Leopoldo C AP 311, Sao Paulo-SP;;
 13.320.290/0001-00;2022-06-30;1;Imóveis para renda em construção;R. Leopoldo C AP 311, Sao Paulo-SP;;
 13.320.290/0001-00;2022-06-30;1;Imóveis para renda em construção;R. Leopoldo C AP 321, Sao Paulo-SP;;
-13.320.290/0001-00;2022-09-30;1;Imóveis para renda em construção;R. Leopoldo C AP 321, Sao Paulo-SP;;
 13.320.290/0001-00;2022-09-30;1;Imóveis para renda em construção;R. Leopoldo C AP 311, Sao Paulo-SP;;
-13.320.290/0001-00;2022-12-31;1;Imóveis para renda em construção;R. Leopoldo C AP 311, Sao Paulo-SP;;
+13.320.290/0001-00;2022-09-30;1;Imóveis para renda em construção;R. Leopoldo C AP 321, Sao Paulo-SP;;
 13.320.290/0001-00;2022-12-31;1;Imóveis para renda em construção;R. Leopoldo C AP 321, Sao Paulo-SP;;
+13.320.290/0001-00;2022-12-31;1;Imóveis para renda em construção;R. Leopoldo C AP 311, Sao Paulo-SP;;
 13.584.584/0001-31;2022-03-31;1;Imóveis para renda em construção;Não se aplica;Não se aplica;Não se aplica
 13.584.584/0001-31;2022-06-30;2;Imóveis para renda em construção;Não se aplica;Não se aplica;Não se aplica
 13.584.584/0001-31;2022-09-30;2;Imóveis para renda em construção;Não se aplica;Não se aplica;Não se aplica
@@ -92,31 +92,31 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 14.721.889/0001-00;2022-06-30;2;Imóveis para venda em construção;Maison Laranjeiras;Tarefas replanejadas;N.A.
 14.721.889/0001-00;2022-06-30;2;Imóveis para venda em construção;Aretê - Peninsula Norte;N.A.;N.A.
 14.721.889/0001-00;2022-06-30;2;Imóveis para venda em construção;Aretê - Alto Ybirá;N.A.;N.A.
-14.721.889/0001-00;2022-06-30;2;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
 14.721.889/0001-00;2022-06-30;2;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Atraso na contratação de serviços.;N.A.
+14.721.889/0001-00;2022-06-30;2;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
 14.721.889/0001-00;2022-09-30;1;Imóveis para venda em construção;Blanc 260;Replanejamento de cronograma;Antecipação de compra de mateiral.
-14.721.889/0001-00;2022-09-30;1;Imóveis para venda em construção;The Gallery;N.A.;N.A.
 14.721.889/0001-00;2022-09-30;1;Imóveis para venda em construção;Costa Mare;N.A.;N.A.
-14.721.889/0001-00;2022-09-30;1;Imóveis para venda em construção;Aretê - Alto Ybirá;N.A.;N.A.
+14.721.889/0001-00;2022-09-30;1;Imóveis para venda em construção;The Gallery;N.A.;N.A.
 14.721.889/0001-00;2022-09-30;1;Imóveis para venda em construção;Iluminato;Prazo de obra replanejado, após atraso no desmonte de rocha.;N.A.
+14.721.889/0001-00;2022-09-30;1;Imóveis para venda em construção;Aretê - Alto Ybirá;N.A.;N.A.
 14.721.889/0001-00;2022-09-30;1;Imóveis para venda em construção;Aretê - Peninsula Norte;N.A.;N.A.
 14.721.889/0001-00;2022-09-30;1;Imóveis para venda em construção;Maison Laranjeiras;Tarefas replanejadas;N.A.
 14.721.889/0001-00;2022-09-30;1;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
 14.721.889/0001-00;2022-09-30;1;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Atraso na contratação de serviços.;N.A.
 14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Atraso na contratação de serviços.;N.A.
 14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Costa Mare;N.A.;N.A.
-14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Blanc 260;Replanejamento de cronograma;Antecipação de compra de mateiral.
+14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
 14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;The Gallery;N.A.;N.A.
 14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Maison Laranjeiras;Tarefas replanejadas;N.A.
-14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
+14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Blanc 260;Replanejamento de cronograma;Antecipação de compra de mateiral.
+14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Aretê - Peninsula Norte;N.A.;N.A.
 14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Aretê - Alto Ybirá;N.A.;N.A.
 14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Iluminato;Prazo de obra replanejado, após atraso no desmonte de rocha.;N.A.
-14.721.889/0001-00;2022-12-31;1;Imóveis para venda em construção;Aretê - Peninsula Norte;N.A.;N.A.
 15.461.076/0001-91;2022-03-31;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
 15.461.076/0001-91;2022-03-31;1;Imóveis para renda em construção;51 Unidades  Master no Hotel;;
-15.461.076/0001-91;2022-03-31;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
 15.461.076/0001-91;2022-03-31;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
 15.461.076/0001-91;2022-03-31;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
+15.461.076/0001-91;2022-03-31;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
 15.461.076/0001-91;2022-03-31;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2022-06-30;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2022-06-30;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
@@ -127,8 +127,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 15.461.076/0001-91;2022-09-30;1;Imóveis para renda em construção;51 Unidades  Master no Hotel;;
 15.461.076/0001-91;2022-09-30;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
 15.461.076/0001-91;2022-09-30;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
-15.461.076/0001-91;2022-09-30;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
 15.461.076/0001-91;2022-09-30;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
+15.461.076/0001-91;2022-09-30;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
 15.461.076/0001-91;2022-09-30;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
 15.461.076/0001-91;2022-12-31;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
 15.461.076/0001-91;2022-12-31;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
@@ -175,8 +175,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 28.516.325/0001-40;2022-09-30;1;Imóveis para renda em construção;Não há informacao apresentada;Não há informacao apresentada;Não há informacao apresentada
 28.516.325/0001-40;2022-12-31;2;Imóveis para renda em construção;Não há informacao apresentada;Não há informacao apresentada;Não há informacao apresentada
 28.516.650/0001-03;2022-03-31;1;Imóveis para venda em construção;Condomínio Massimo Parque da Mooca;O atraso foi causado pela situação de mercado atual, com prazos acima do padrão para entrega de materiais.;N/A
-28.516.650/0001-03;2022-06-30;1;Imóveis para venda em construção;Alpha Houses I;A obra está no estágio final, em fase de arremates de acabamentos. O atraso foi causado pela situação de mercado atual, com prazos acima do padrão para entrega de materiais.;N/A
 28.516.650/0001-03;2022-06-30;1;Imóveis para venda em construção;Edifício Gibran;O desempenho da obra está dentro do satisfatório. O atraso da obra é considerando dentro do previsto.;N/A
+28.516.650/0001-03;2022-06-30;1;Imóveis para venda em construção;Alpha Houses I;A obra está no estágio final, em fase de arremates de acabamentos. O atraso foi causado pela situação de mercado atual, com prazos acima do padrão para entrega de materiais.;N/A
 28.516.650/0001-03;2022-06-30;1;Imóveis para venda em construção;Condomínio Massimo Parque da Mooca;Houve um atraso quando da execução da fundação da torre. O cronograma foi revisto para suprir o atraso e hoje a obra não apresenta uma defasagem relevante.;N/A
 28.516.650/0001-03;2022-09-30;1;Imóveis para venda em construção;Condomínio Massimo Parque da Mooca;Atraso reportado ainda é reflexo da execução da fundação da torre acima do prazo estimado em função das condições de solo encontradas.;N/A
 28.516.650/0001-03;2022-09-30;1;Imóveis para venda em construção;Edifício Gibran;O atraso ainda é reflexo da demora para início de execução de alvenarias das unidades. A construtora não atingiu o objetivo de concretar duas lajes no período, prejudicando o desempenho e, consequentemente, recuperação do prazo.;N/A
@@ -212,8 +212,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 31.907.591/0001-09;2022-03-31;1;Imóveis para renda em construção;Imóvel A, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
 31.907.591/0001-09;2022-06-30;1;Imóveis para renda em construção;Imóvel A, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
 31.907.591/0001-09;2022-06-30;1;Imóveis para renda em construção;Imóvel B, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
-31.907.591/0001-09;2022-09-30;1;Imóveis para renda em construção;Imóvel A, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
 31.907.591/0001-09;2022-09-30;1;Imóveis para renda em construção;Imóvel B, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
+31.907.591/0001-09;2022-09-30;1;Imóveis para renda em construção;Imóvel A, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
 31.907.591/0001-09;2022-12-31;1;Imóveis para renda em construção;Imóvel B, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
 31.907.591/0001-09;2022-12-31;1;Imóveis para renda em construção;Imóvel A, TERRENO FELTRINS;Não Aplicavel;Não Aplicavel
 34.471.719/0001-22;2022-03-31;1;Imóveis para venda em construção;25% Imóvel - FABRICA DA FORD MOTORS DO BRASIL;NA;NA
@@ -224,8 +224,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 34.508.923/0001-70;2022-06-30;1;Imóveis para venda em construção;Não há;Não há;Não há
 34.508.923/0001-70;2022-09-30;1;Imóveis para venda em construção;Não há;Não há;Não há
 34.508.923/0001-70;2022-12-31;1;Imóveis para venda em construção;Não há;Não há;Não há
-34.895.711/0001-93;2022-03-31;2;Imóveis para venda em construção;ALPHAVILLE JUNDIAÍ;n/a;n/a
 34.895.711/0001-93;2022-03-31;2;Imóveis para venda em construção;ALPHAVILLE DOM PEDRO;n/a;n/a
+34.895.711/0001-93;2022-03-31;2;Imóveis para venda em construção;ALPHAVILLE JUNDIAÍ;n/a;n/a
 34.895.711/0001-93;2022-03-31;2;Imóveis para venda em construção;ALPHACASTELLO;n/a;n/a
 34.895.711/0001-93;2022-03-31;2;Imóveis para venda em construção;ALPHAVILLE NOVAESPLANADA;n/a;n/a
 34.895.711/0001-93;2022-06-30;2;Imóveis para venda em construção;ALPHAVILLE NOVAESPLANADA;n/a;n/a
@@ -238,25 +238,25 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 34.895.711/0001-93;2022-12-31;2;Imóveis para renda em construção;ALPHACASTELLO;n/a;n/a
 34.895.711/0001-93;2022-12-31;2;Imóveis para renda em construção;ALPHAVILLE NOVAESPLANADA;n/a;n/a
 34.895.711/0001-93;2022-12-31;2;Imóveis para renda em construção;ALPHAVILLE JUNDIAÍ;n/a;n/a
+34.895.752/0001-80;2022-09-30;1;Imóveis para venda em construção;PROJETO PADRE CHICO;N/A;N/A
+34.895.752/0001-80;2022-09-30;1;Imóveis para venda em construção;SEBASTIAO PAES (BRIO III) 50%;N/A;N/A
 34.895.752/0001-80;2022-09-30;1;Imóveis para venda em construção;PROJETO DOM MANUEL;N/A;N/A
 34.895.752/0001-80;2022-09-30;1;Imóveis para venda em construção;PROJETO JAMARIS 98% - BRIO III;N/A;N/A
-34.895.752/0001-80;2022-09-30;1;Imóveis para venda em construção;SEBASTIAO PAES (BRIO III) 50%;N/A;N/A
-34.895.752/0001-80;2022-09-30;1;Imóveis para venda em construção;PROJETO PADRE CHICO;N/A;N/A
 34.895.752/0001-80;2022-09-30;1;Imóveis para venda em construção;PROJETO MAGNOLIAS;N/A;N/A
 34.895.752/0001-80;2022-09-30;1;Imóveis para venda em construção;PROJETO MIN FERREIRA ALVES;N/A;N/A
 34.895.752/0001-80;2022-09-30;1;Imóveis para venda em construção;GUARARA (BRIO III) - 50%;N/A;N/A
 34.895.752/0001-80;2022-12-31;1;Imóveis para venda em construção;SEBASTIAO PAES (BRIO III) 50%;N/A;N/A
 34.895.752/0001-80;2022-12-31;1;Imóveis para venda em construção;PROJETO MAGNOLIAS;N/A;N/A
 34.895.752/0001-80;2022-12-31;1;Imóveis para venda em construção;GUARARA (BRIO III) - 50%;N/A;N/A
-34.895.752/0001-80;2022-12-31;1;Imóveis para venda em construção;PROJETO DOM MANUEL;N/A;N/A
 34.895.752/0001-80;2022-12-31;1;Imóveis para venda em construção;PROJETO PADRE CHICO;N/A;N/A
+34.895.752/0001-80;2022-12-31;1;Imóveis para venda em construção;PROJETO DOM MANUEL;N/A;N/A
 34.895.752/0001-80;2022-12-31;1;Imóveis para venda em construção;PROJETO JAMARIS 98% - BRIO III;N/A;N/A
 34.895.752/0001-80;2022-12-31;1;Imóveis para venda em construção;PROJETO MIN FERREIRA ALVES;N/A;N/A
 35.360.651/0001-77;2022-09-30;2;Imóveis para venda em construção;n/a;n/a;n/a
 35.360.651/0001-77;2022-12-31;2;Imóveis para venda em construção;EDIFÍCIO PB 50;Replanejamento da Obra;n/a
 35.360.651/0001-77;2022-12-31;2;Imóveis para venda em construção;PURO;Replanejamento da Obra;n/a
-35.360.651/0001-77;2022-12-31;2;Imóveis para venda em construção;RARO;n/a;n/a
 35.360.651/0001-77;2022-12-31;2;Imóveis para venda em construção;LEVER;n/a;n/a
+35.360.651/0001-77;2022-12-31;2;Imóveis para venda em construção;RARO;n/a;n/a
 35.360.651/0001-77;2022-12-31;2;Imóveis para venda em construção;EDIFÍCIO B.LAR;Replanejamento da Obra;n/a
 35.652.081/0001-99;2022-09-30;1;Imóveis para renda em construção;.;.;.
 35.652.102/0001-76;2022-03-31;1;Imóveis para renda em construção;Union Faria Lima;Não aplicável;Não aplicável
@@ -268,8 +268,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 35.652.278/0001-28;2022-06-30;1;Imóveis para renda em construção;Imovel ItajaiSC;NÃO SE APLICA;NÃO SE APLICA
 35.652.278/0001-28;2022-06-30;1;Imóveis para renda em construção;Imovel Conde - Paraiba;NÃO SE APLICA;NÃO SE APLICA
 35.652.278/0001-28;2022-09-30;1;Imóveis para renda em construção;Imovel ItajaiSC;Não aplicável;Não aplicável
-35.652.278/0001-28;2022-09-30;1;Imóveis para renda em construção;Imovel Conde - Paraiba;Não aplicável;Não aplicável
 35.652.278/0001-28;2022-09-30;1;Imóveis para renda em construção;Imovel Viana;Não aplicável;Não aplicável
+35.652.278/0001-28;2022-09-30;1;Imóveis para renda em construção;Imovel Conde - Paraiba;Não aplicável;Não aplicável
 35.652.278/0001-28;2022-12-31;2;Imóveis para renda em construção;Imovel Viana;Não Aplicavel;Não Aplicavel
 35.652.278/0001-28;2022-12-31;2;Imóveis para renda em construção;Imovel Conde - Paraiba;Não Aplicavel;Não Aplicavel
 35.705.463/0001-33;2022-03-31;1;Imóveis para renda em construção;GALPÃO WTLOG RBR;n/a;n/a
@@ -285,8 +285,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 35.725.659/0001-90;2022-12-31;2;Imóveis para renda em construção;COND RES TEENA;Os desvios aconteceram foram ocasionados devido aos decretos/paralizações ocorridas no ano de 2020 e 2021 em decorrência da pandemia, acrescido da baixa de oferta de alguns materiais da construção civil.;Não se aplica.
 35.725.659/0001-90;2022-12-31;2;Imóveis para renda em construção;COND COM QUINTINO BOCAIUVA;A obra não iniciou, está em fase de aprovação de projeto na prefeitura protocolado em fev/2021.;Não se aplica.
 35.725.666/0001-91;2022-03-31;1;Imóveis para venda em construção;RUA ATLANTICA 280;NÃO HOUVE EVOLUÇÃO INFERIOR.;NÃO HOUVE.
-35.725.666/0001-91;2022-03-31;1;Imóveis para venda em construção;RUA ATLANTICA 262;NÃO HOUVE EVOLUÇÃO INFERIOR.;NÃO HOUVE.
 35.725.666/0001-91;2022-03-31;1;Imóveis para venda em construção;LOTEAMENTO CANARIAS;NÃO HOUVE EVOLUÇÃO INFERIOR.;NÃO HOUVE.
+35.725.666/0001-91;2022-03-31;1;Imóveis para venda em construção;RUA ATLANTICA 262;NÃO HOUVE EVOLUÇÃO INFERIOR.;NÃO HOUVE.
 35.725.666/0001-91;2022-06-30;1;Imóveis para venda em construção;LOTEAMENTO CANARIAS;NÃO HOUVE EVOLUÇÃO INFERIOR.;NÃO HOUVE.
 35.725.666/0001-91;2022-06-30;1;Imóveis para venda em construção;RUA ATLANTICA 262;NÃO HOUVE EVOLUÇÃO INFERIOR.;NÃO HOUVE.
 35.725.666/0001-91;2022-06-30;1;Imóveis para venda em construção;RUA ATLANTICA 280;NÃO HOUVE EVOLUÇÃO INFERIOR.;NÃO HOUVE.
@@ -342,8 +342,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 40.041.723/0001-53;2022-09-30;1;Imóveis para renda em construção;Iconyc;Não se aplica;Não se aplica
 40.041.723/0001-53;2022-09-30;1;Imóveis para renda em construção;Cyrela On The Parc By Yoo;Não se aplica;Não se aplica
 40.041.723/0001-53;2022-12-31;1;Imóveis para renda em construção;Iconyc;Não se aplica;Não se aplica
-40.041.723/0001-53;2022-12-31;1;Imóveis para renda em construção;Atmosfera Vila Mariana;Não se aplica;Não se aplica
 40.041.723/0001-53;2022-12-31;1;Imóveis para renda em construção;Cyrela For You;Não se aplica;Não se aplica
+40.041.723/0001-53;2022-12-31;1;Imóveis para renda em construção;Atmosfera Vila Mariana;Não se aplica;Não se aplica
 40.041.723/0001-53;2022-12-31;1;Imóveis para renda em construção;Cyrela On The Parc By Yoo;Não se aplica;Não se aplica
 40.575.940/0001-23;2022-06-30;1;Imóveis para renda em construção;Não possui informação apresentada;Não possui informação apresentada;Não possui informação apresentada
 40.575.940/0001-23;2022-09-30;2;Imóveis para renda em construção;Não possui informação apresentada;Não possui informação apresentada;Não possui informação apresentada

@@ -44,9 +44,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 13.726.079/0001-84;2024-03-31;2;Imóveis para renda em construção;BELMIRA MARIM;Em análise;Não se aplica
 13.726.079/0001-84;2024-06-30;1;Imóveis para renda em construção;BELMIRA MARIM;Em análise;Não se aplica
 13.726.079/0001-84;2024-09-30;1;Imóveis para renda em construção;BELMIRA MARIM;Em análise;Não se aplica
+14.721.889/0001-00;2024-03-31;1;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Atraso na contratação de serviços.;N.A.
 14.721.889/0001-00;2024-03-31;1;Imóveis para venda em construção;Blanc 260;Replanejamento de cronograma;Antecipação de compra de mateiral.
 14.721.889/0001-00;2024-03-31;1;Imóveis para venda em construção;Maison Laranjeiras;Tarefas replanejadas;N.A.
-14.721.889/0001-00;2024-03-31;1;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Atraso na contratação de serviços.;N.A.
 14.721.889/0001-00;2024-03-31;1;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
 14.721.889/0001-00;2024-03-31;1;Imóveis para venda em construção;Aretê - Alto Ybirá;N.A.;N.A.
 14.721.889/0001-00;2024-03-31;1;Imóveis para venda em construção;Aretê - Peninsula Norte;N.A.;N.A.
@@ -112,35 +112,35 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 22.646.161/0001-90;2024-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 5 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2024-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 4 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2024-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 4 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 301 - Bl 4 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2024-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 4 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2024-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 1 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 1 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 1 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2024-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 5 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2024-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 4 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 1 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2024-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 5 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2024-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 4 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 5 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2024-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 4 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 301 - Bl 4 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2024-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 4 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 5 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2024-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 4 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 301 - Bl 4 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2024-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 4 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 4 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 1 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 3 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2024-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 3 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2024-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 1 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2024-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 3 - Village Acqua;n/a;n/a
 23.964.843/0001-03;2024-06-30;1;Imóveis para venda em construção;TER_TUMIARU;N/A;N/A
@@ -164,8 +164,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 28.516.650/0001-03;2024-03-31;1;Imóveis para venda em construção;Stillo Barra - AGER;O atraso é em função de problemas (dificuldade) par execução das fundações das torres - rochas;N/A
 28.516.650/0001-03;2024-03-31;1;Imóveis para venda em construção;YOU Unlimited;N/A;O Cronograma incial foi reajustado pela YouInc em 19/07/23, tornando a curva mais conservadora e aderente ao planejamento daconstrutora, sem dilatação do prazo final de obra. Sendo assim, a obra está adiantada 2,92% em relação ao previsto no cronograma.
 28.516.650/0001-03;2024-03-31;1;Imóveis para venda em construção;Haia Boa Vista - GRM;A obra encontra-se atrasada devido o atraso no início dos serviços, consequentemente atrasando a execução da fundação.;N/A
-28.516.650/0001-03;2024-03-31;1;Imóveis para venda em construção;Edifício Gibran;A construtora vem tentando recuperar o atraso apresentado, porém, não tem conseguido realizar a concretagem das últimas lajes conforme o previsto;N/A
 28.516.650/0001-03;2024-03-31;1;Imóveis para venda em construção;MGB;O atraso é reflexo das dificuldades da equipe em desmobilizar e mobilizar andaimes e formas entre os blocos em execução, impactando no avanço de outras atividades previstas.;N/A
+28.516.650/0001-03;2024-03-31;1;Imóveis para venda em construção;Edifício Gibran;A construtora vem tentando recuperar o atraso apresentado, porém, não tem conseguido realizar a concretagem das últimas lajes conforme o previsto;N/A
 28.516.650/0001-03;2024-06-30;1;Imóveis para venda em construção;Edifício Gibran;A construtora vem tentando recuperar o atraso apresentado, porém, não tem conseguido realizar a concretagem das últimas lajes conforme o previsto;N/A
 28.516.650/0001-03;2024-06-30;1;Imóveis para venda em construção;Condomínio Wish 675 - EBM;A obra está em ritmo lento, porém o "atraso" é de menos de 1%, normal para o estágio da obra, e passível de recuperação;N/A
 28.516.650/0001-03;2024-06-30;1;Imóveis para venda em construção;MGB;O atraso é reflexo das dificuldades da equipe em desmobilizar e mobilizar andaimes e formas entre os blocos em execução, impactando no avanço de outras atividades previstas.;N/A
@@ -311,8 +311,8 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 46.157.348/0001-98;2024-03-31;1;Imóveis para renda em construção;YOUR OSCAR FREIRE;n/a;n/a
 46.157.348/0001-98;2024-03-31;1;Imóveis para renda em construção;PATTEO KLABIN;n/a;n/a
 46.157.348/0001-98;2024-06-30;1;Imóveis para renda em construção;YOUR OSCAR FREIRE;n/a;n/a
-46.157.348/0001-98;2024-06-30;1;Imóveis para renda em construção;HELBOR VILA OLIMPIA HOME & STY;n/a;n/a
 46.157.348/0001-98;2024-06-30;1;Imóveis para renda em construção;PATTEO KLABIN;n/a;n/a
+46.157.348/0001-98;2024-06-30;1;Imóveis para renda em construção;HELBOR VILA OLIMPIA HOME & STY;n/a;n/a
 46.157.348/0001-98;2024-09-30;1;Imóveis para renda em construção;PATTEO KLABIN;n/a;n/a
 46.157.348/0001-98;2024-09-30;1;Imóveis para renda em construção;HELBOR VILA OLIMPIA HOME & STY;n/a;n/a
 46.157.348/0001-98;2024-09-30;1;Imóveis para renda em construção;YOUR OSCAR FREIRE;n/a;n/a
@@ -371,9 +371,9 @@ CNPJ_Fundo;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificativa_Evol
 51.870.412/0001-13;2024-06-30;1;Imóveis para venda em construção;Vista Madalena By You, Inc;N/A;A obra está atrasada em 0,61% em relação ao previsto cronograma.
 51.870.412/0001-13;2024-09-30;1;Imóveis para venda em construção;Residencial Vida Habitat;N/A;Obra adiantada.
 51.870.412/0001-13;2024-09-30;1;Imóveis para venda em construção;Edifício Gibran;Obra em recuperação do atraso para entrega no prazo contratual.;
+51.870.412/0001-13;2024-09-30;1;Imóveis para venda em construção;Stillo Barra - AGER;Atraso ainda é reflexo das dificuldades iniciais para remoção de desmonte de rochas no terreno.;N/A
 51.870.412/0001-13;2024-09-30;1;Imóveis para venda em construção;Residencial Aquarela Habitat;N/A;Obra adiantada.
 51.870.412/0001-13;2024-09-30;1;Imóveis para venda em construção;Vista Madalena By You, Inc;Pequeno atraso em relação ao cronograma, normal para a fase em que a obra se encontra (concretagem do embasamento) e recuperável a partir da estrutura do pavimento tipo.;
-51.870.412/0001-13;2024-09-30;1;Imóveis para venda em construção;Stillo Barra - AGER;Atraso ainda é reflexo das dificuldades iniciais para remoção de desmonte de rochas no terreno.;N/A
 51.870.412/0001-13;2024-09-30;1;Imóveis para venda em construção;Residencial Aldana Jardim - Maximo Aldana;N/A;N/A
 51.870.412/0001-13;2024-09-30;1;Imóveis para venda em construção;Varandas Joy - Realiza;N/A;Obra iniciada com pouco avanço acima do previsto.
 51.870.412/0001-13;2024-09-30;1;Imóveis para venda em construção;José Antonio Bortolotto - MGB;Atraso acumulado devido ao excesso de chuvas na região, dificultando diversas etapas da construção.;N/A
